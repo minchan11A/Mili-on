@@ -80,3 +80,12 @@ export const REVIEW_WINDOW_DAYS = 30;     // 이수 후 평가 가능 기간
 export const AUTO_HIDE_REPORTS = 3;       // 신고 누적 자동 숨김
 export const OVERDUE_DAYS = 7;            // 7일 이상 미처리 = 빨강
 export const AI_RATE_LIMIT_PER_MIN = 5;   // 사용자당 분당 AI 호출
+
+/**
+ * 카테고리 고정 색 (색은 순위가 아니라 카테고리를 따라감). dataviz 기본 범주 팔레트 순서,
+ * validate_palette.js 통과 (밝은 배경). 대비가 3:1 미만인 색이 있어 차트에는 항상 숫자 라벨·범례를 함께 표시.
+ */
+export const CATEGORY_COLOR: Record<Category, string> = {
+  MEAL: '#2a78d6', TRANSPORT: '#eb6834', FACILITY: '#1baf7a', OPERATION: '#eda100',
+  EQUIPMENT: '#e87ba4', COMMUNICATION: '#008300', COMPENSATION: '#6250d6', ETC: '#9ca3af',
+};

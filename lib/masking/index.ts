@@ -52,17 +52,51 @@ export interface CheckResult {
 
 /* ───────────────────────── 정규화 ───────────────────────── */
 
-export function normalize(text: string): string {
-  let out = '';
-  for (const ch of text) {
-    const c = ch.codePointAt(0)!;
-    if (c >= 0xff01 && c <= 0xff5e) out += String.fromCodePoint(c - 0xfee0);   // 전각 → 반각
-    else if (c === 0x3000 || c === 0x00a0 || c === 0x2002 || c === 0x2003 || c === 0x2009) out += ' ';
-    else if (c === 0x2010 || c === 0x2011 || c === 0x2012 || c === 0x2013 || c === 0x2014 || c === 0x2212) out += '-';
-    else out += ch;
+/**
+ * 정규화 + 원문 위치 대응표. map[i] = 정규화 결과 i번째 글자의 원문 인덱스.
+ * (작성 화면에서 원문 위에 밑줄을 정확히 긋기 위해 필요)
+ */
+export function normalizeWithMap(text: string): { out: string; map: number[] } {
+  const out: string[] = [];
+  const map: number[] = [];
+  const isSpace = (ch: string) => ch === ' ' || ch === '\t' || ch === '\f' || ch === '\v';
+  let i = 0;
+  for (const raw of text ?? '') {
+    const idx = i;
+    i += raw.length;
+    const c = raw.codePointAt(0)!;
+    let ch = raw;
+    if (c >= 0xff01 && c <= 0xff5e) ch = String.fromCodePoint(c - 0xfee0);           // 전각 → 반각
+    else if (c === 0x3000 || c === 0x00a0 || c === 0x2002 || c === 0x2003 || c === 0x2009) ch = ' ';
+    else if (c === 0x2010 || c === 0x2011 || c === 0x2012 || c === 0x2013 || c === 0x2014 || c === 0x2212) ch = '-';
+    else if (ch === '\r') continue;
+    const last = out[out.length - 1];
+    if (isSpace(ch)) {
+      if (out.length === 0 || last === ' ' || last === '\n') continue;       // 연속 공백·줄 앞 공백 제거
+      out.push(' '); map.push(idx);
+    } else if (ch === '\n') {
+      while (out[out.length - 1] === ' ') { out.pop(); map.pop(); }         // 줄 끝 공백 제거
+      if (out.length === 0) continue;
+      if (out[out.length - 1] === '\n' && out[out.length - 2] === '\n') continue;   // 빈 줄은 최대 1개
+      out.push('\n'); map.push(idx);
+    } else {
+      out.push(ch); map.push(idx);
+    }
   }
-  // 줄바꿈은 유지하고 연속 공백은 하나로
-  return out.replace(/[ \t\f\v]+/g, ' ').replace(/ *\n */g, '\n').replace(/\n{3,}/g, '\n\n').trim();
+  while (out.length && (out[out.length - 1] === ' ' || out[out.length - 1] === '\n')) { out.pop(); map.pop(); }
+  return { out: out.join(''), map };
+}
+
+export function normalize(text: string): string {
+  return normalizeWithMap(text).out;
+}
+
+/** 정규화 텍스트 구간 → 원문 구간 */
+export function toRawRange(map: number[], start: number, end: number, rawText: string): [number, number] {
+  const s = map[start] ?? rawText.length;
+  const lastIdx = map[end - 1];
+  const e = lastIdx === undefined ? s : lastIdx + (rawText.codePointAt(lastIdx)! > 0xffff ? 2 : 1);
+  return [s, e];
 }
 
 /* ───────────────────────── 차단 검사 ───────────────────────── */

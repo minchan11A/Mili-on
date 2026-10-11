@@ -233,6 +233,7 @@ export function listProposals(c: Ctx, q: ProposalQuery = {}): Page<ProposalView>
     (!q.category || p.category === q.category) &&
     (!q.issueId || p.issueId === q.issueId) &&
     (!q.mine || p.authorId === c.viewer?.id) &&
+    (!q.empathized || (!!c.viewer && ix.empathized.has(`${c.viewer.id}|${p.id}`))) &&
     (!q.managedOnly || !managedRange || p.rangeId === managedRange) &&
     (!q.openOnly || (p.status !== 'DONE' && p.status !== 'LONG_TERM')) &&
     (p.state === 'VISIBLE' || isManager(c.viewer) || p.authorId === c.viewer?.id));
@@ -260,7 +261,7 @@ export function getProposal(c: Ctx, id: string): ProposalDetail {
 export function similarProposals(c: Ctx, rangeId: string, text: string, category?: Category): ProposalView[] {
   const pool = c.ds.proposals
     .filter((p) => p.state === 'VISIBLE' && p.status !== 'DONE')
-    .map((p) => ({ id: p.id, text: `${p.title} ${p.body}`, rangeId: p.rangeId, category: p.category }));
+    .map((p) => ({ id: p.id, text: `${p.title} ${p.body}`, altTexts: [p.title, p.body], rangeId: p.rangeId, category: p.category }));
   return findSimilar(pool, { rangeId, category, text }).map((m) => proposalView(c, c.ds.proposals.find((p) => p.id === m.id)!));
 }
 

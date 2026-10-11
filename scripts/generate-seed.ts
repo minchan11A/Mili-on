@@ -258,10 +258,10 @@ for (const [cat, count] of CATEGORY_PLAN) {
     // 상태 이력
     const path: ProposalStatus[] = status === 'LONG_TERM' ? ['RECEIVED', 'REVIEWING', 'LONG_TERM'] : STATUS_ORDER.slice(0, STATUS_ORDER.indexOf(status) + 1);
     let t = new Date(createdAt).getTime();
-    const span = Math.max(1, age - 1) * DAY;
     let prev: ProposalStatus | null = null;
     for (let s = 0; s < path.length; s++) {
-      if (s > 0) t += Math.floor(span / path.length * (0.6 + rand() * 0.6));
+      // 단계 사이 2~14일 (오래된 제안이라도 처리는 몇 주 안에 이뤄진 것으로)
+      if (s > 0) t += randInt(2, 14) * DAY + randInt(1, 8) * 3_600_000;
       t = Math.min(t, BASE - 3_600_000);
       history.push({
         id: `h-${String(++hSeq).padStart(5, '0')}`, proposalId: id, from: prev, to: path[s],

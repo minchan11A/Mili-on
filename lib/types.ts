@@ -164,7 +164,7 @@ export interface ReviewInput {
 export interface ProposalQuery {
   rangeId?: string; status?: ProposalStatus | ''; category?: Category | '';
   sort?: 'empathy' | 'recent' | 'oldest'; page?: number; pageSize?: number;
-  issueId?: string; mine?: boolean; managedOnly?: boolean; openOnly?: boolean;
+  issueId?: string; mine?: boolean; empathized?: boolean; managedOnly?: boolean; openOnly?: boolean;
 }
 
 export interface ProposalView {

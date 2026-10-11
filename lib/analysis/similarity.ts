@@ -42,7 +42,8 @@ export function similarity(a: string, b: string): number {
   return jaccard(tokenize(a), tokenize(b));
 }
 
-export interface SimilarCandidate { id: string; text: string; rangeId: string; category: string }
+/** text 외에 제목 등 짧은 텍스트를 altTexts로 주면 그중 가장 높은 Jaccard를 씀 (긴 본문은 집합이 커져 점수가 낮아지므로) */
+export interface SimilarCandidate { id: string; text: string; altTexts?: string[]; rangeId: string; category: string }
 
 /** 같은 훈련장·같은 카테고리 안에서 유사도 0.3 이상 상위 3건 */
 export function findSimilar<T extends SimilarCandidate>(
@@ -52,7 +53,7 @@ export function findSimilar<T extends SimilarCandidate>(
   if (q.size === 0) return [];
   return pool
     .filter((p) => p.rangeId === query.rangeId && (!query.category || p.category === query.category))
-    .map((p) => ({ ...p, score: jaccard(q, tokenize(p.text)) }))
+    .map((p) => ({ ...p, score: Math.max(jaccard(q, tokenize(p.text)), ...(p.altTexts ?? []).map((t) => jaccard(q, tokenize(t)))) }))
     .filter((p) => p.score >= threshold)
     .sort((a, b) => b.score - a.score)
     .slice(0, limit);

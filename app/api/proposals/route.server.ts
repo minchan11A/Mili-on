@@ -11,7 +11,7 @@ export const GET = handle(async (req: Request) => {
     rangeId: sp.get('rangeId') ?? undefined, issueId: sp.get('issueId') ?? undefined,
     status: (sp.get('status') ?? '') as ProposalQuery['status'], category: (sp.get('category') ?? '') as ProposalQuery['category'],
     sort: (sp.get('sort') ?? 'empathy') as ProposalQuery['sort'], page: Number(sp.get('page') ?? 1),
-    pageSize: Math.min(100, Number(sp.get('pageSize') ?? 20)), mine: sp.get('mine') === 'true',
+    pageSize: Math.min(100, Number(sp.get('pageSize') ?? 20)), mine: sp.get('mine') === 'true', empathized: sp.get('empathized') === 'true',
     managedOnly: sp.get('managedOnly') === 'true', openOnly: sp.get('openOnly') === 'true',
   };
   if (q.status && !STATUSES.includes(q.status)) q.status = '';

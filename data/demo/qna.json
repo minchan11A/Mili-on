@@ -3,870 +3,772 @@
   {
    "id": "q-0001",
    "rangeId": "range-a",
-   "authorId": "u-0150",
-   "body": "주차할 곳 있나요?",
-   "createdAt": "2026-09-17T12:36:00.000Z"
+   "authorId": "u-0103",
+   "body": "셔틀버스는 어디서 타나요?",
+   "createdAt": "2026-08-29T19:33:00.000Z"
   },
   {
    "id": "q-0002",
    "rangeId": "range-a",
-   "authorId": "u-0032",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-05-20T21:31:00.000Z"
+   "authorId": "u-0082",
+   "body": "주차할 곳 있나요?",
+   "createdAt": "2026-09-23T17:31:00.000Z"
   },
   {
    "id": "q-0003",
    "rangeId": "range-a",
-   "authorId": "u-0131",
-   "body": "점심 알레르기 대체식 되나요?",
-   "createdAt": "2026-05-07T22:51:00.000Z"
+   "authorId": "u-0090",
+   "body": "매점에서 카드 되나요?",
+   "createdAt": "2026-08-28T16:19:00.000Z"
   },
   {
    "id": "q-0004",
    "rangeId": "range-a",
-   "authorId": "u-0001",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-06-09T13:33:00.000Z"
+   "authorId": "u-0165",
+   "body": "입소 몇 분 전까지 가야 하나요?",
+   "createdAt": "2026-07-13T20:13:00.000Z"
   },
   {
    "id": "q-0005",
    "rangeId": "range-a",
-   "authorId": "u-0049",
-   "body": "셔틀버스는 어디서 타나요?",
-   "createdAt": "2026-05-15T21:27:00.000Z"
+   "authorId": "u-0096",
+   "body": "전투화 대여 되나요?",
+   "createdAt": "2026-05-11T22:59:00.000Z"
   },
   {
    "id": "q-0006",
    "rangeId": "range-b",
-   "authorId": "u-0093",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-11-11T19:06:00.000Z"
+   "authorId": "u-0059",
+   "body": "훈련 중에 비 오면 어떻게 되나요?",
+   "createdAt": "2026-08-04T21:16:00.000Z"
   },
   {
    "id": "q-0007",
    "rangeId": "range-b",
-   "authorId": "u-0100",
-   "body": "주차할 곳 있나요?",
-   "createdAt": "2026-10-15T18:11:00.000Z"
+   "authorId": "u-0150",
+   "body": "준비물 뭐 챙겨야 하나요?",
+   "createdAt": "2026-09-21T12:31:00.000Z"
   },
   {
    "id": "q-0008",
    "rangeId": "range-b",
-   "authorId": "u-0102",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-06-14T15:48:00.000Z"
+   "authorId": "u-0174",
+   "body": "주차할 곳 있나요?",
+   "createdAt": "2026-05-12T10:53:00.000Z"
   },
   {
    "id": "q-0009",
    "rangeId": "range-b",
-   "authorId": "u-0106",
-   "body": "입소 몇 분 전까지 가야 하나요?",
-   "createdAt": "2026-09-10T19:14:00.000Z"
+   "authorId": "u-0117",
+   "body": "점심 알레르기 대체식 되나요?",
+   "createdAt": "2026-07-04T10:52:00.000Z"
   },
   {
    "id": "q-0010",
    "rangeId": "range-b",
-   "authorId": "u-0089",
-   "body": "점심 알레르기 대체식 되나요?",
-   "createdAt": "2026-06-13T21:29:00.000Z"
+   "authorId": "u-0145",
+   "body": "입소 몇 분 전까지 가야 하나요?",
+   "createdAt": "2026-07-19T12:45:00.000Z"
   },
   {
    "id": "q-0011",
-   "rangeId": "range-b",
-   "authorId": "u-0157",
-   "body": "셔틀버스는 어디서 타나요?",
-   "createdAt": "2026-06-03T12:34:00.000Z"
+   "rangeId": "range-c",
+   "authorId": "u-0134",
+   "body": "주차할 곳 있나요?",
+   "createdAt": "2026-08-20T13:08:00.000Z"
   },
   {
    "id": "q-0012",
    "rangeId": "range-c",
-   "authorId": "u-0182",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-07-10T15:36:00.000Z"
+   "authorId": "u-0057",
+   "body": "훈련 중에 비 오면 어떻게 되나요?",
+   "createdAt": "2026-09-17T13:45:00.000Z"
   },
   {
    "id": "q-0013",
    "rangeId": "range-c",
-   "authorId": "u-0045",
-   "body": "전투화 대여 되나요?",
-   "createdAt": "2026-10-23T13:27:00.000Z"
+   "authorId": "u-0108",
+   "body": "점심 알레르기 대체식 되나요?",
+   "createdAt": "2026-06-05T09:42:00.000Z"
   },
   {
    "id": "q-0014",
    "rangeId": "range-c",
-   "authorId": "u-0157",
+   "authorId": "u-0158",
    "body": "입소 몇 분 전까지 가야 하나요?",
-   "createdAt": "2026-05-20T11:33:00.000Z"
+   "createdAt": "2026-09-28T19:54:00.000Z"
   },
   {
    "id": "q-0015",
-   "rangeId": "range-d",
-   "authorId": "u-0051",
-   "body": "입소 몇 분 전까지 가야 하나요?",
-   "createdAt": "2026-09-07T17:26:00.000Z"
+   "rangeId": "range-c",
+   "authorId": "u-0156",
+   "body": "전투화 대여 되나요?",
+   "createdAt": "2026-07-16T16:10:00.000Z"
   },
   {
    "id": "q-0016",
-   "rangeId": "range-d",
-   "authorId": "u-0156",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-07-04T22:38:00.000Z"
+   "rangeId": "range-c",
+   "authorId": "u-0087",
+   "body": "준비물 뭐 챙겨야 하나요?",
+   "createdAt": "2026-07-30T09:21:00.000Z"
   },
   {
    "id": "q-0017",
    "rangeId": "range-d",
-   "authorId": "u-0039",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-10-24T21:19:00.000Z"
+   "authorId": "u-0198",
+   "body": "셔틀버스는 어디서 타나요?",
+   "createdAt": "2026-11-11T16:31:00.000Z"
   },
   {
    "id": "q-0018",
    "rangeId": "range-d",
-   "authorId": "u-0084",
+   "authorId": "u-0076",
    "body": "전투화 대여 되나요?",
-   "createdAt": "2026-08-14T11:58:00.000Z"
+   "createdAt": "2026-05-21T12:53:00.000Z"
   },
   {
    "id": "q-0019",
    "rangeId": "range-d",
-   "authorId": "u-0135",
-   "body": "셔틀버스는 어디서 타나요?",
-   "createdAt": "2026-08-26T14:05:00.000Z"
+   "authorId": "u-0088",
+   "body": "주차할 곳 있나요?",
+   "createdAt": "2026-09-15T20:55:00.000Z"
   },
   {
    "id": "q-0020",
    "rangeId": "range-e",
-   "authorId": "u-0019",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-08-16T18:15:00.000Z"
+   "authorId": "u-0144",
+   "body": "셔틀버스는 어디서 타나요?",
+   "createdAt": "2026-09-04T21:27:00.000Z"
   },
   {
    "id": "q-0021",
    "rangeId": "range-e",
-   "authorId": "u-0121",
-   "body": "점심 알레르기 대체식 되나요?",
-   "createdAt": "2026-06-14T09:59:00.000Z"
+   "authorId": "u-0191",
+   "body": "준비물 뭐 챙겨야 하나요?",
+   "createdAt": "2026-11-03T22:26:00.000Z"
   },
   {
    "id": "q-0022",
    "rangeId": "range-e",
-   "authorId": "u-0027",
-   "body": "주차할 곳 있나요?",
-   "createdAt": "2026-09-01T19:20:00.000Z"
+   "authorId": "u-0037",
+   "body": "입소 몇 분 전까지 가야 하나요?",
+   "createdAt": "2026-10-23T22:39:00.000Z"
   },
   {
    "id": "q-0023",
    "rangeId": "range-e",
-   "authorId": "u-0075",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-10-08T10:14:00.000Z"
+   "authorId": "u-0149",
+   "body": "점심 알레르기 대체식 되나요?",
+   "createdAt": "2026-05-13T20:06:00.000Z"
   },
   {
    "id": "q-0024",
    "rangeId": "range-e",
-   "authorId": "u-0026",
-   "body": "훈련 중에 비 오면 어떻게 되나요?",
-   "createdAt": "2026-10-01T14:34:00.000Z"
+   "authorId": "u-0051",
+   "body": "전투화 대여 되나요?",
+   "createdAt": "2026-10-14T22:01:00.000Z"
   },
   {
    "id": "q-0025",
-   "rangeId": "range-f",
-   "authorId": "u-0100",
-   "body": "점심 알레르기 대체식 되나요?",
-   "createdAt": "2026-08-12T13:27:00.000Z"
+   "rangeId": "range-e",
+   "authorId": "u-0088",
+   "body": "주차할 곳 있나요?",
+   "createdAt": "2026-08-16T19:36:00.000Z"
   },
   {
    "id": "q-0026",
    "rangeId": "range-f",
-   "authorId": "u-0178",
-   "body": "입소 몇 분 전까지 가야 하나요?",
-   "createdAt": "2026-06-21T14:13:00.000Z"
+   "authorId": "u-0027",
+   "body": "준비물 뭐 챙겨야 하나요?",
+   "createdAt": "2026-05-12T20:58:00.000Z"
   },
   {
    "id": "q-0027",
    "rangeId": "range-f",
-   "authorId": "u-0099",
-   "body": "주차할 곳 있나요?",
-   "createdAt": "2026-05-15T09:23:00.000Z"
+   "authorId": "u-0042",
+   "body": "훈련 중에 비 오면 어떻게 되나요?",
+   "createdAt": "2026-10-30T19:45:00.000Z"
   },
   {
    "id": "q-0028",
    "rangeId": "range-f",
-   "authorId": "u-0106",
+   "authorId": "u-0001",
    "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-06-29T19:15:00.000Z"
+   "createdAt": "2026-05-14T21:27:00.000Z"
   },
   {
    "id": "q-0029",
-   "rangeId": "range-f",
-   "authorId": "u-0062",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-10-26T11:15:00.000Z"
+   "rangeId": "range-g",
+   "authorId": "u-0076",
+   "body": "주차할 곳 있나요?",
+   "createdAt": "2026-08-19T19:54:00.000Z"
   },
   {
    "id": "q-0030",
    "rangeId": "range-g",
-   "authorId": "u-0034",
-   "body": "전투화 대여 되나요?",
-   "createdAt": "2026-05-28T10:40:00.000Z"
+   "authorId": "u-0059",
+   "body": "매점에서 카드 되나요?",
+   "createdAt": "2026-11-03T21:45:00.000Z"
   },
   {
    "id": "q-0031",
    "rangeId": "range-g",
-   "authorId": "u-0048",
-   "body": "셔틀버스는 어디서 타나요?",
-   "createdAt": "2026-07-21T21:52:00.000Z"
+   "authorId": "u-0097",
+   "body": "준비물 뭐 챙겨야 하나요?",
+   "createdAt": "2026-06-06T14:57:00.000Z"
   },
   {
    "id": "q-0032",
    "rangeId": "range-g",
-   "authorId": "u-0111",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-06-29T14:07:00.000Z"
+   "authorId": "u-0151",
+   "body": "셔틀버스는 어디서 타나요?",
+   "createdAt": "2026-09-24T09:48:00.000Z"
   },
   {
    "id": "q-0033",
    "rangeId": "range-g",
-   "authorId": "u-0185",
-   "body": "훈련 중에 비 오면 어떻게 되나요?",
-   "createdAt": "2026-08-08T14:14:00.000Z"
+   "authorId": "u-0117",
+   "body": "입소 몇 분 전까지 가야 하나요?",
+   "createdAt": "2026-06-27T18:30:00.000Z"
   },
   {
    "id": "q-0034",
    "rangeId": "range-g",
-   "authorId": "u-0022",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-10-28T15:40:00.000Z"
+   "authorId": "u-0095",
+   "body": "훈련 중에 비 오면 어떻게 되나요?",
+   "createdAt": "2026-11-02T12:34:00.000Z"
   },
   {
    "id": "q-0035",
    "rangeId": "range-h",
-   "authorId": "u-0101",
-   "body": "전투화 대여 되나요?",
-   "createdAt": "2026-05-27T12:18:00.000Z"
+   "authorId": "u-0106",
+   "body": "준비물 뭐 챙겨야 하나요?",
+   "createdAt": "2026-09-12T15:56:00.000Z"
   },
   {
    "id": "q-0036",
    "rangeId": "range-h",
-   "authorId": "u-0178",
-   "body": "셔틀버스는 어디서 타나요?",
-   "createdAt": "2026-05-27T18:59:00.000Z"
+   "authorId": "u-0038",
+   "body": "전투화 대여 되나요?",
+   "createdAt": "2026-08-01T14:40:00.000Z"
   },
   {
    "id": "q-0037",
    "rangeId": "range-h",
-   "authorId": "u-0118",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-08-16T19:04:00.000Z"
+   "authorId": "u-0031",
+   "body": "점심 알레르기 대체식 되나요?",
+   "createdAt": "2026-09-01T14:47:00.000Z"
   },
   {
    "id": "q-0038",
    "rangeId": "range-h",
-   "authorId": "u-0187",
+   "authorId": "u-0061",
    "body": "훈련 중에 비 오면 어떻게 되나요?",
-   "createdAt": "2026-10-11T16:16:00.000Z"
+   "createdAt": "2026-05-13T20:46:00.000Z"
   },
   {
    "id": "q-0039",
    "rangeId": "range-h",
-   "authorId": "u-0060",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-10-16T16:15:00.000Z"
+   "authorId": "u-0161",
+   "body": "주차할 곳 있나요?",
+   "createdAt": "2026-05-18T10:20:00.000Z"
   },
   {
    "id": "q-0040",
    "rangeId": "range-h",
-   "authorId": "u-0020",
-   "body": "주차할 곳 있나요?",
-   "createdAt": "2026-11-15T19:44:00.000Z"
+   "authorId": "u-0190",
+   "body": "입소 몇 분 전까지 가야 하나요?",
+   "createdAt": "2026-05-18T20:53:00.000Z"
   },
   {
    "id": "q-0041",
    "rangeId": "range-i",
-   "authorId": "u-0143",
-   "body": "주차할 곳 있나요?",
-   "createdAt": "2026-06-04T19:21:00.000Z"
+   "authorId": "u-0161",
+   "body": "준비물 뭐 챙겨야 하나요?",
+   "createdAt": "2026-10-27T10:01:00.000Z"
   },
   {
    "id": "q-0042",
    "rangeId": "range-i",
-   "authorId": "u-0048",
-   "body": "입소 몇 분 전까지 가야 하나요?",
-   "createdAt": "2026-08-09T10:47:00.000Z"
+   "authorId": "u-0123",
+   "body": "셔틀버스는 어디서 타나요?",
+   "createdAt": "2026-10-05T09:16:00.000Z"
   },
   {
    "id": "q-0043",
    "rangeId": "range-i",
-   "authorId": "u-0064",
-   "body": "셔틀버스는 어디서 타나요?",
-   "createdAt": "2026-10-16T13:08:00.000Z"
+   "authorId": "u-0140",
+   "body": "점심 알레르기 대체식 되나요?",
+   "createdAt": "2026-05-15T10:32:00.000Z"
   },
   {
    "id": "q-0044",
    "rangeId": "range-i",
-   "authorId": "u-0198",
-   "body": "전투화 대여 되나요?",
-   "createdAt": "2026-06-21T09:45:00.000Z"
+   "authorId": "u-0160",
+   "body": "매점에서 카드 되나요?",
+   "createdAt": "2026-06-15T15:48:00.000Z"
   },
   {
    "id": "q-0045",
-   "rangeId": "range-i",
-   "authorId": "u-0082",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-05-31T15:41:00.000Z"
+   "rangeId": "range-j",
+   "authorId": "u-0115",
+   "body": "전투화 대여 되나요?",
+   "createdAt": "2026-09-24T19:57:00.000Z"
   },
   {
    "id": "q-0046",
-   "rangeId": "range-i",
-   "authorId": "u-0111",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-10-09T15:09:00.000Z"
+   "rangeId": "range-j",
+   "authorId": "u-0103",
+   "body": "준비물 뭐 챙겨야 하나요?",
+   "createdAt": "2026-07-18T13:52:00.000Z"
   },
   {
    "id": "q-0047",
    "rangeId": "range-j",
-   "authorId": "u-0146",
-   "body": "주차할 곳 있나요?",
-   "createdAt": "2026-06-19T12:58:00.000Z"
+   "authorId": "u-0186",
+   "body": "점심 알레르기 대체식 되나요?",
+   "createdAt": "2026-07-26T14:56:00.000Z"
   },
   {
    "id": "q-0048",
    "rangeId": "range-j",
-   "authorId": "u-0182",
-   "body": "입소 몇 분 전까지 가야 하나요?",
-   "createdAt": "2026-09-15T13:38:00.000Z"
+   "authorId": "u-0032",
+   "body": "셔틀버스는 어디서 타나요?",
+   "createdAt": "2026-05-19T09:28:00.000Z"
   },
   {
    "id": "q-0049",
-   "rangeId": "range-j",
-   "authorId": "u-0133",
-   "body": "전투화 대여 되나요?",
-   "createdAt": "2026-10-11T15:02:00.000Z"
+   "rangeId": "range-k",
+   "authorId": "u-0097",
+   "body": "준비물 뭐 챙겨야 하나요?",
+   "createdAt": "2026-06-30T19:21:00.000Z"
   },
   {
    "id": "q-0050",
-   "rangeId": "range-j",
-   "authorId": "u-0094",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-09-26T15:03:00.000Z"
+   "rangeId": "range-k",
+   "authorId": "u-0178",
+   "body": "셔틀버스는 어디서 타나요?",
+   "createdAt": "2026-06-25T12:23:00.000Z"
   },
   {
    "id": "q-0051",
-   "rangeId": "range-j",
-   "authorId": "u-0005",
-   "body": "점심 알레르기 대체식 되나요?",
-   "createdAt": "2026-07-29T18:02:00.000Z"
+   "rangeId": "range-k",
+   "authorId": "u-0101",
+   "body": "주차할 곳 있나요?",
+   "createdAt": "2026-07-31T18:40:00.000Z"
   },
   {
    "id": "q-0052",
-   "rangeId": "range-j",
-   "authorId": "u-0193",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-06-16T21:36:00.000Z"
+   "rangeId": "range-k",
+   "authorId": "u-0013",
+   "body": "매점에서 카드 되나요?",
+   "createdAt": "2026-07-13T15:42:00.000Z"
   },
   {
    "id": "q-0053",
-   "rangeId": "range-k",
-   "authorId": "u-0031",
+   "rangeId": "range-l",
+   "authorId": "u-0143",
    "body": "전투화 대여 되나요?",
-   "createdAt": "2026-09-05T20:34:00.000Z"
+   "createdAt": "2026-07-13T21:12:00.000Z"
   },
   {
    "id": "q-0054",
-   "rangeId": "range-k",
-   "authorId": "u-0163",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-08-17T22:07:00.000Z"
+   "rangeId": "range-l",
+   "authorId": "u-0035",
+   "body": "점심 알레르기 대체식 되나요?",
+   "createdAt": "2026-08-30T15:06:00.000Z"
   },
   {
    "id": "q-0055",
-   "rangeId": "range-k",
-   "authorId": "u-0027",
-   "body": "셔틀버스는 어디서 타나요?",
-   "createdAt": "2026-08-13T10:56:00.000Z"
+   "rangeId": "range-l",
+   "authorId": "u-0034",
+   "body": "입소 몇 분 전까지 가야 하나요?",
+   "createdAt": "2026-07-20T15:43:00.000Z"
   },
   {
    "id": "q-0056",
-   "rangeId": "range-k",
-   "authorId": "u-0057",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-11-08T18:35:00.000Z"
+   "rangeId": "range-m",
+   "authorId": "u-0063",
+   "body": "입소 몇 분 전까지 가야 하나요?",
+   "createdAt": "2026-09-15T20:37:00.000Z"
   },
   {
    "id": "q-0057",
-   "rangeId": "range-k",
-   "authorId": "u-0022",
+   "rangeId": "range-m",
+   "authorId": "u-0126",
    "body": "주차할 곳 있나요?",
-   "createdAt": "2026-06-17T20:17:00.000Z"
+   "createdAt": "2026-07-31T14:48:00.000Z"
   },
   {
    "id": "q-0058",
-   "rangeId": "range-k",
-   "authorId": "u-0121",
-   "body": "점심 알레르기 대체식 되나요?",
-   "createdAt": "2026-07-10T10:11:00.000Z"
+   "rangeId": "range-m",
+   "authorId": "u-0045",
+   "body": "매점에서 카드 되나요?",
+   "createdAt": "2026-08-27T17:07:00.000Z"
   },
   {
    "id": "q-0059",
-   "rangeId": "range-l",
-   "authorId": "u-0167",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-10-19T20:38:00.000Z"
+   "rangeId": "range-m",
+   "authorId": "u-0076",
+   "body": "전투화 대여 되나요?",
+   "createdAt": "2026-09-18T15:41:00.000Z"
   },
   {
    "id": "q-0060",
-   "rangeId": "range-l",
-   "authorId": "u-0136",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-08-08T18:29:00.000Z"
+   "rangeId": "range-n",
+   "authorId": "u-0056",
+   "body": "전투화 대여 되나요?",
+   "createdAt": "2026-07-21T17:31:00.000Z"
   },
   {
    "id": "q-0061",
-   "rangeId": "range-l",
-   "authorId": "u-0044",
-   "body": "전투화 대여 되나요?",
-   "createdAt": "2026-11-14T11:50:00.000Z"
+   "rangeId": "range-n",
+   "authorId": "u-0030",
+   "body": "훈련 중에 비 오면 어떻게 되나요?",
+   "createdAt": "2026-10-10T15:26:00.000Z"
   },
   {
    "id": "q-0062",
-   "rangeId": "range-l",
-   "authorId": "u-0103",
-   "body": "셔틀버스는 어디서 타나요?",
-   "createdAt": "2026-08-16T22:55:00.000Z"
+   "rangeId": "range-n",
+   "authorId": "u-0022",
+   "body": "주차할 곳 있나요?",
+   "createdAt": "2026-07-12T16:30:00.000Z"
   },
   {
    "id": "q-0063",
-   "rangeId": "range-l",
-   "authorId": "u-0072",
-   "body": "점심 알레르기 대체식 되나요?",
-   "createdAt": "2026-11-04T21:30:00.000Z"
+   "rangeId": "range-n",
+   "authorId": "u-0065",
+   "body": "매점에서 카드 되나요?",
+   "createdAt": "2026-08-16T14:02:00.000Z"
   },
   {
    "id": "q-0064",
-   "rangeId": "range-m",
-   "authorId": "u-0042",
-   "body": "셔틀버스는 어디서 타나요?",
-   "createdAt": "2026-08-20T20:16:00.000Z"
+   "rangeId": "range-n",
+   "authorId": "u-0029",
+   "body": "점심 알레르기 대체식 되나요?",
+   "createdAt": "2026-06-11T13:24:00.000Z"
   },
   {
    "id": "q-0065",
-   "rangeId": "range-m",
-   "authorId": "u-0016",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-05-21T10:10:00.000Z"
+   "rangeId": "range-o",
+   "authorId": "u-0183",
+   "body": "셔틀버스는 어디서 타나요?",
+   "createdAt": "2026-06-28T10:51:00.000Z"
   },
   {
    "id": "q-0066",
-   "rangeId": "range-m",
-   "authorId": "u-0131",
-   "body": "전투화 대여 되나요?",
-   "createdAt": "2026-05-30T09:09:00.000Z"
+   "rangeId": "range-o",
+   "authorId": "u-0175",
+   "body": "훈련 중에 비 오면 어떻게 되나요?",
+   "createdAt": "2026-06-28T17:17:00.000Z"
   },
   {
    "id": "q-0067",
-   "rangeId": "range-m",
-   "authorId": "u-0081",
+   "rangeId": "range-o",
+   "authorId": "u-0098",
    "body": "주차할 곳 있나요?",
-   "createdAt": "2026-06-30T21:40:00.000Z"
+   "createdAt": "2026-05-17T16:56:00.000Z"
   },
   {
    "id": "q-0068",
-   "rangeId": "range-m",
-   "authorId": "u-0150",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-05-28T20:07:00.000Z"
+   "rangeId": "range-o",
+   "authorId": "u-0023",
+   "body": "준비물 뭐 챙겨야 하나요?",
+   "createdAt": "2026-07-08T19:30:00.000Z"
   },
   {
    "id": "q-0069",
-   "rangeId": "range-m",
-   "authorId": "u-0076",
-   "body": "입소 몇 분 전까지 가야 하나요?",
-   "createdAt": "2026-08-19T19:54:00.000Z"
+   "rangeId": "range-o",
+   "authorId": "u-0171",
+   "body": "전투화 대여 되나요?",
+   "createdAt": "2026-06-05T12:25:00.000Z"
   },
   {
    "id": "q-0070",
-   "rangeId": "range-n",
-   "authorId": "u-0030",
-   "body": "주차할 곳 있나요?",
-   "createdAt": "2026-06-11T16:24:00.000Z"
+   "rangeId": "range-o",
+   "authorId": "u-0125",
+   "body": "점심 알레르기 대체식 되나요?",
+   "createdAt": "2026-06-12T16:39:00.000Z"
   },
   {
    "id": "q-0071",
-   "rangeId": "range-n",
-   "authorId": "u-0017",
-   "body": "훈련 중에 비 오면 어떻게 되나요?",
-   "createdAt": "2026-10-13T20:59:00.000Z"
+   "rangeId": "range-p",
+   "authorId": "u-0041",
+   "body": "전투화 대여 되나요?",
+   "createdAt": "2026-07-06T11:56:00.000Z"
   },
   {
    "id": "q-0072",
-   "rangeId": "range-n",
-   "authorId": "u-0015",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-06-21T15:53:00.000Z"
+   "rangeId": "range-p",
+   "authorId": "u-0107",
+   "body": "입소 몇 분 전까지 가야 하나요?",
+   "createdAt": "2026-10-28T14:18:00.000Z"
   },
   {
    "id": "q-0073",
-   "rangeId": "range-n",
-   "authorId": "u-0195",
-   "body": "입소 몇 분 전까지 가야 하나요?",
-   "createdAt": "2026-10-06T21:23:00.000Z"
+   "rangeId": "range-p",
+   "authorId": "u-0178",
+   "body": "주차할 곳 있나요?",
+   "createdAt": "2026-08-03T14:10:00.000Z"
   },
   {
    "id": "q-0074",
-   "rangeId": "range-o",
-   "authorId": "u-0129",
-   "body": "셔틀버스는 어디서 타나요?",
-   "createdAt": "2026-05-21T20:52:00.000Z"
+   "rangeId": "range-q",
+   "authorId": "u-0168",
+   "body": "전투화 대여 되나요?",
+   "createdAt": "2026-11-12T22:06:00.000Z"
   },
   {
    "id": "q-0075",
-   "rangeId": "range-o",
-   "authorId": "u-0175",
-   "body": "주차할 곳 있나요?",
-   "createdAt": "2026-06-29T11:58:00.000Z"
+   "rangeId": "range-q",
+   "authorId": "u-0121",
+   "body": "셔틀버스는 어디서 타나요?",
+   "createdAt": "2026-08-20T19:29:00.000Z"
   },
   {
    "id": "q-0076",
-   "rangeId": "range-o",
-   "authorId": "u-0060",
-   "body": "전투화 대여 되나요?",
-   "createdAt": "2026-05-09T19:28:00.000Z"
+   "rangeId": "range-q",
+   "authorId": "u-0014",
+   "body": "준비물 뭐 챙겨야 하나요?",
+   "createdAt": "2026-05-31T14:17:00.000Z"
   },
   {
    "id": "q-0077",
-   "rangeId": "range-o",
-   "authorId": "u-0042",
-   "body": "입소 몇 분 전까지 가야 하나요?",
-   "createdAt": "2026-10-26T09:48:00.000Z"
+   "rangeId": "range-q",
+   "authorId": "u-0002",
+   "body": "점심 알레르기 대체식 되나요?",
+   "createdAt": "2026-08-18T15:24:00.000Z"
   },
   {
    "id": "q-0078",
-   "rangeId": "range-p",
-   "authorId": "u-0068",
-   "body": "주차할 곳 있나요?",
-   "createdAt": "2026-09-09T19:57:00.000Z"
-  },
-  {
-   "id": "q-0079",
-   "rangeId": "range-p",
-   "authorId": "u-0106",
-   "body": "입소 몇 분 전까지 가야 하나요?",
-   "createdAt": "2026-06-01T14:25:00.000Z"
-  },
-  {
-   "id": "q-0080",
-   "rangeId": "range-p",
-   "authorId": "u-0109",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-05-07T19:06:00.000Z"
-  },
-  {
-   "id": "q-0081",
-   "rangeId": "range-p",
-   "authorId": "u-0197",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-10-30T12:29:00.000Z"
-  },
-  {
-   "id": "q-0082",
-   "rangeId": "range-p",
-   "authorId": "u-0113",
-   "body": "점심 알레르기 대체식 되나요?",
-   "createdAt": "2026-08-19T16:33:00.000Z"
-  },
-  {
-   "id": "q-0083",
-   "rangeId": "range-p",
-   "authorId": "u-0084",
-   "body": "셔틀버스는 어디서 타나요?",
-   "createdAt": "2026-10-07T18:01:00.000Z"
-  },
-  {
-   "id": "q-0084",
-   "rangeId": "range-q",
-   "authorId": "u-0159",
-   "body": "주차할 곳 있나요?",
-   "createdAt": "2026-08-20T16:44:00.000Z"
-  },
-  {
-   "id": "q-0085",
-   "rangeId": "range-q",
-   "authorId": "u-0184",
-   "body": "훈련 중에 비 오면 어떻게 되나요?",
-   "createdAt": "2026-07-05T18:46:00.000Z"
-  },
-  {
-   "id": "q-0086",
-   "rangeId": "range-q",
-   "authorId": "u-0137",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-06-12T12:03:00.000Z"
-  },
-  {
-   "id": "q-0087",
-   "rangeId": "range-q",
-   "authorId": "u-0141",
-   "body": "셔틀버스는 어디서 타나요?",
-   "createdAt": "2026-10-21T10:16:00.000Z"
-  },
-  {
-   "id": "q-0088",
-   "rangeId": "range-q",
-   "authorId": "u-0055",
-   "body": "입소 몇 분 전까지 가야 하나요?",
-   "createdAt": "2026-09-07T15:43:00.000Z"
-  },
-  {
-   "id": "q-0089",
-   "rangeId": "range-q",
-   "authorId": "u-0110",
-   "body": "점심 알레르기 대체식 되나요?",
-   "createdAt": "2026-08-30T21:33:00.000Z"
-  },
-  {
-   "id": "q-0090",
    "rangeId": "range-r",
-   "authorId": "u-0021",
-   "body": "훈련 중에 비 오면 어떻게 되나요?",
-   "createdAt": "2026-09-24T14:27:00.000Z"
-  },
-  {
-   "id": "q-0091",
-   "rangeId": "range-r",
-   "authorId": "u-0145",
-   "body": "점심 알레르기 대체식 되나요?",
-   "createdAt": "2026-10-13T17:28:00.000Z"
-  },
-  {
-   "id": "q-0092",
-   "rangeId": "range-r",
-   "authorId": "u-0079",
-   "body": "주차할 곳 있나요?",
-   "createdAt": "2026-10-14T20:07:00.000Z"
-  },
-  {
-   "id": "q-0093",
-   "rangeId": "range-r",
-   "authorId": "u-0112",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-08-10T21:19:00.000Z"
-  },
-  {
-   "id": "q-0094",
-   "rangeId": "range-r",
-   "authorId": "u-0076",
-   "body": "입소 몇 분 전까지 가야 하나요?",
-   "createdAt": "2026-08-20T20:56:00.000Z"
-  },
-  {
-   "id": "q-0095",
-   "rangeId": "range-s",
-   "authorId": "u-0086",
-   "body": "전투화 대여 되나요?",
-   "createdAt": "2026-09-02T22:32:00.000Z"
-  },
-  {
-   "id": "q-0096",
-   "rangeId": "range-s",
-   "authorId": "u-0074",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-10-03T15:27:00.000Z"
-  },
-  {
-   "id": "q-0097",
-   "rangeId": "range-s",
-   "authorId": "u-0084",
-   "body": "주차할 곳 있나요?",
-   "createdAt": "2026-09-20T11:43:00.000Z"
-  },
-  {
-   "id": "q-0098",
-   "rangeId": "range-s",
-   "authorId": "u-0167",
-   "body": "훈련 중에 비 오면 어떻게 되나요?",
-   "createdAt": "2026-08-02T21:40:00.000Z"
-  },
-  {
-   "id": "q-0099",
-   "rangeId": "range-s",
-   "authorId": "u-0187",
-   "body": "입소 몇 분 전까지 가야 하나요?",
-   "createdAt": "2026-08-06T09:26:00.000Z"
-  },
-  {
-   "id": "q-0100",
-   "rangeId": "range-t",
-   "authorId": "u-0144",
-   "body": "점심 알레르기 대체식 되나요?",
-   "createdAt": "2026-07-13T17:54:00.000Z"
-  },
-  {
-   "id": "q-0101",
-   "rangeId": "range-t",
-   "authorId": "u-0028",
-   "body": "주차할 곳 있나요?",
-   "createdAt": "2026-09-09T22:18:00.000Z"
-  },
-  {
-   "id": "q-0102",
-   "rangeId": "range-t",
-   "authorId": "u-0071",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-10-17T19:53:00.000Z"
-  },
-  {
-   "id": "q-0103",
-   "rangeId": "range-t",
-   "authorId": "u-0106",
-   "body": "입소 몇 분 전까지 가야 하나요?",
-   "createdAt": "2026-10-31T15:42:00.000Z"
-  },
-  {
-   "id": "q-0104",
-   "rangeId": "range-t",
-   "authorId": "u-0031",
-   "body": "훈련 중에 비 오면 어떻게 되나요?",
-   "createdAt": "2026-05-18T14:25:00.000Z"
-  },
-  {
-   "id": "q-0105",
-   "rangeId": "range-u",
-   "authorId": "u-0160",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-08-23T20:43:00.000Z"
-  },
-  {
-   "id": "q-0106",
-   "rangeId": "range-u",
-   "authorId": "u-0195",
-   "body": "주차할 곳 있나요?",
-   "createdAt": "2026-08-04T18:37:00.000Z"
-  },
-  {
-   "id": "q-0107",
-   "rangeId": "range-u",
-   "authorId": "u-0046",
-   "body": "셔틀버스는 어디서 타나요?",
-   "createdAt": "2026-09-18T21:24:00.000Z"
-  },
-  {
-   "id": "q-0108",
-   "rangeId": "range-u",
-   "authorId": "u-0092",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-10-15T09:04:00.000Z"
-  },
-  {
-   "id": "q-0109",
-   "rangeId": "range-v",
-   "authorId": "u-0041",
-   "body": "훈련 중에 비 오면 어떻게 되나요?",
-   "createdAt": "2026-10-26T09:28:00.000Z"
-  },
-  {
-   "id": "q-0110",
-   "rangeId": "range-v",
-   "authorId": "u-0032",
-   "body": "셔틀버스는 어디서 타나요?",
-   "createdAt": "2026-10-24T10:40:00.000Z"
-  },
-  {
-   "id": "q-0111",
-   "rangeId": "range-v",
-   "authorId": "u-0074",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-10-07T22:05:00.000Z"
-  },
-  {
-   "id": "q-0112",
-   "rangeId": "range-v",
-   "authorId": "u-0083",
-   "body": "매점에서 카드 되나요?",
-   "createdAt": "2026-09-15T16:32:00.000Z"
-  },
-  {
-   "id": "q-0113",
-   "rangeId": "range-v",
-   "authorId": "u-0124",
-   "body": "점심 알레르기 대체식 되나요?",
-   "createdAt": "2026-10-13T21:37:00.000Z"
-  },
-  {
-   "id": "q-0114",
-   "rangeId": "range-v",
-   "authorId": "u-0013",
-   "body": "전투화 대여 되나요?",
-   "createdAt": "2026-06-08T19:12:00.000Z"
-  },
-  {
-   "id": "q-0115",
-   "rangeId": "range-w",
-   "authorId": "u-0089",
-   "body": "점심 알레르기 대체식 되나요?",
-   "createdAt": "2026-08-04T12:27:00.000Z"
-  },
-  {
-   "id": "q-0116",
-   "rangeId": "range-w",
-   "authorId": "u-0110",
-   "body": "입소 몇 분 전까지 가야 하나요?",
-   "createdAt": "2026-07-31T16:57:00.000Z"
-  },
-  {
-   "id": "q-0117",
-   "rangeId": "range-w",
-   "authorId": "u-0076",
-   "body": "준비물 뭐 챙겨야 하나요?",
-   "createdAt": "2026-10-13T21:26:00.000Z"
-  },
-  {
-   "id": "q-0118",
-   "rangeId": "range-w",
-   "authorId": "u-0157",
-   "body": "훈련 중에 비 오면 어떻게 되나요?",
-   "createdAt": "2026-05-05T14:35:00.000Z"
-  },
-  {
-   "id": "q-0119",
-   "rangeId": "range-x",
    "authorId": "u-0184",
    "body": "전투화 대여 되나요?",
    "createdAt": "2026-11-11T21:41:00.000Z"
   },
   {
-   "id": "q-0120",
-   "rangeId": "range-x",
+   "id": "q-0079",
+   "rangeId": "range-r",
    "authorId": "u-0135",
    "body": "점심 알레르기 대체식 되나요?",
    "createdAt": "2026-11-02T13:22:00.000Z"
   },
   {
-   "id": "q-0121",
-   "rangeId": "range-x",
+   "id": "q-0080",
+   "rangeId": "range-r",
    "authorId": "u-0197",
    "body": "셔틀버스는 어디서 타나요?",
    "createdAt": "2026-05-24T13:11:00.000Z"
   },
   {
-   "id": "q-0122",
-   "rangeId": "range-x",
+   "id": "q-0081",
+   "rangeId": "range-r",
    "authorId": "u-0022",
    "body": "훈련 중에 비 오면 어떻게 되나요?",
    "createdAt": "2026-06-17T17:26:00.000Z"
   },
   {
-   "id": "q-0123",
-   "rangeId": "range-x",
+   "id": "q-0082",
+   "rangeId": "range-r",
    "authorId": "u-0163",
    "body": "준비물 뭐 챙겨야 하나요?",
    "createdAt": "2026-07-21T12:09:00.000Z"
   },
   {
-   "id": "q-0124",
-   "rangeId": "range-x",
+   "id": "q-0083",
+   "rangeId": "range-r",
    "authorId": "u-0089",
    "body": "입소 몇 분 전까지 가야 하나요?",
    "createdAt": "2026-06-10T20:46:00.000Z"
+  },
+  {
+   "id": "q-0084",
+   "rangeId": "range-s",
+   "authorId": "u-0053",
+   "body": "입소 몇 분 전까지 가야 하나요?",
+   "createdAt": "2026-05-15T21:04:00.000Z"
+  },
+  {
+   "id": "q-0085",
+   "rangeId": "range-s",
+   "authorId": "u-0126",
+   "body": "전투화 대여 되나요?",
+   "createdAt": "2026-05-18T13:34:00.000Z"
+  },
+  {
+   "id": "q-0086",
+   "rangeId": "range-s",
+   "authorId": "u-0009",
+   "body": "셔틀버스는 어디서 타나요?",
+   "createdAt": "2026-06-28T17:19:00.000Z"
+  },
+  {
+   "id": "q-0087",
+   "rangeId": "range-s",
+   "authorId": "u-0060",
+   "body": "준비물 뭐 챙겨야 하나요?",
+   "createdAt": "2026-10-14T11:06:00.000Z"
+  },
+  {
+   "id": "q-0088",
+   "rangeId": "range-s",
+   "authorId": "u-0046",
+   "body": "주차할 곳 있나요?",
+   "createdAt": "2026-08-25T19:45:00.000Z"
+  },
+  {
+   "id": "q-0089",
+   "rangeId": "range-t",
+   "authorId": "u-0118",
+   "body": "점심 알레르기 대체식 되나요?",
+   "createdAt": "2026-07-09T19:45:00.000Z"
+  },
+  {
+   "id": "q-0090",
+   "rangeId": "range-t",
+   "authorId": "u-0122",
+   "body": "전투화 대여 되나요?",
+   "createdAt": "2026-05-21T15:34:00.000Z"
+  },
+  {
+   "id": "q-0091",
+   "rangeId": "range-t",
+   "authorId": "u-0129",
+   "body": "셔틀버스는 어디서 타나요?",
+   "createdAt": "2026-08-20T13:53:00.000Z"
+  },
+  {
+   "id": "q-0092",
+   "rangeId": "range-t",
+   "authorId": "u-0137",
+   "body": "준비물 뭐 챙겨야 하나요?",
+   "createdAt": "2026-09-24T10:27:00.000Z"
+  },
+  {
+   "id": "q-0093",
+   "rangeId": "range-u",
+   "authorId": "u-0015",
+   "body": "주차할 곳 있나요?",
+   "createdAt": "2026-05-16T15:11:00.000Z"
+  },
+  {
+   "id": "q-0094",
+   "rangeId": "range-u",
+   "authorId": "u-0056",
+   "body": "매점에서 카드 되나요?",
+   "createdAt": "2026-05-11T10:22:00.000Z"
+  },
+  {
+   "id": "q-0095",
+   "rangeId": "range-u",
+   "authorId": "u-0041",
+   "body": "점심 알레르기 대체식 되나요?",
+   "createdAt": "2026-10-09T12:16:00.000Z"
+  },
+  {
+   "id": "q-0096",
+   "rangeId": "range-u",
+   "authorId": "u-0072",
+   "body": "전투화 대여 되나요?",
+   "createdAt": "2026-07-25T20:46:00.000Z"
+  },
+  {
+   "id": "q-0097",
+   "rangeId": "range-u",
+   "authorId": "u-0146",
+   "body": "훈련 중에 비 오면 어떻게 되나요?",
+   "createdAt": "2026-07-07T10:24:00.000Z"
+  },
+  {
+   "id": "q-0098",
+   "rangeId": "range-v",
+   "authorId": "u-0161",
+   "body": "입소 몇 분 전까지 가야 하나요?",
+   "createdAt": "2026-06-27T19:13:00.000Z"
+  },
+  {
+   "id": "q-0099",
+   "rangeId": "range-v",
+   "authorId": "u-0192",
+   "body": "주차할 곳 있나요?",
+   "createdAt": "2026-07-24T10:26:00.000Z"
+  },
+  {
+   "id": "q-0100",
+   "rangeId": "range-v",
+   "authorId": "u-0157",
+   "body": "전투화 대여 되나요?",
+   "createdAt": "2026-05-08T21:59:00.000Z"
+  },
+  {
+   "id": "q-0101",
+   "rangeId": "range-w",
+   "authorId": "u-0069",
+   "body": "훈련 중에 비 오면 어떻게 되나요?",
+   "createdAt": "2026-09-05T22:50:00.000Z"
+  },
+  {
+   "id": "q-0102",
+   "rangeId": "range-w",
+   "authorId": "u-0152",
+   "body": "점심 알레르기 대체식 되나요?",
+   "createdAt": "2026-08-14T11:30:00.000Z"
+  },
+  {
+   "id": "q-0103",
+   "rangeId": "range-w",
+   "authorId": "u-0059",
+   "body": "입소 몇 분 전까지 가야 하나요?",
+   "createdAt": "2026-09-25T10:15:00.000Z"
+  },
+  {
+   "id": "q-0104",
+   "rangeId": "range-w",
+   "authorId": "u-0138",
+   "body": "주차할 곳 있나요?",
+   "createdAt": "2026-08-05T11:44:00.000Z"
+  },
+  {
+   "id": "q-0105",
+   "rangeId": "range-w",
+   "authorId": "u-0039",
+   "body": "매점에서 카드 되나요?",
+   "createdAt": "2026-08-28T14:56:00.000Z"
+  },
+  {
+   "id": "q-0106",
+   "rangeId": "range-w",
+   "authorId": "u-0012",
+   "body": "준비물 뭐 챙겨야 하나요?",
+   "createdAt": "2026-10-19T13:53:00.000Z"
+  },
+  {
+   "id": "q-0107",
+   "rangeId": "range-x",
+   "authorId": "u-0026",
+   "body": "셔틀버스는 어디서 타나요?",
+   "createdAt": "2026-09-16T15:32:00.000Z"
+  },
+  {
+   "id": "q-0108",
+   "rangeId": "range-x",
+   "authorId": "u-0048",
+   "body": "전투화 대여 되나요?",
+   "createdAt": "2026-08-21T20:11:00.000Z"
+  },
+  {
+   "id": "q-0109",
+   "rangeId": "range-x",
+   "authorId": "u-0192",
+   "body": "준비물 뭐 챙겨야 하나요?",
+   "createdAt": "2026-10-16T16:15:00.000Z"
+  },
+  {
+   "id": "q-0110",
+   "rangeId": "range-x",
+   "authorId": "u-0013",
+   "body": "매점에서 카드 되나요?",
+   "createdAt": "2026-05-28T16:56:00.000Z"
   }
  ],
  "answers": [
@@ -875,93 +777,112 @@
    "questionId": "q-0001",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0004",
-    "g-0003"
+    "g-0003",
+    "g-0004"
    ],
-   "createdAt": "2026-09-17T12:36:00.000Z"
+   "createdAt": "2026-08-29T19:33:00.000Z"
   },
   {
    "id": "a-0002",
    "questionId": "q-0001",
-   "authorId": "u-0004",
+   "authorId": "u-0083",
    "isAi": false,
-   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
+   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
    "sourceGuideIds": [],
-   "createdAt": "2026-09-17T17:36:00.000Z"
+   "createdAt": "2026-08-30T00:33:00.000Z"
   },
   {
    "id": "a-0003",
    "questionId": "q-0002",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0005",
-    "g-0007"
+    "g-0004",
+    "g-0003"
    ],
-   "createdAt": "2026-05-20T21:31:00.000Z"
+   "createdAt": "2026-09-23T17:31:00.000Z"
   },
   {
    "id": "a-0004",
-   "questionId": "q-0003",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0005",
-    "g-0007"
-   ],
-   "createdAt": "2026-05-07T22:51:00.000Z"
+   "questionId": "q-0002",
+   "authorId": "u-0027",
+   "isAi": false,
+   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-09-23T22:31:00.000Z"
   },
   {
    "id": "a-0005",
-   "questionId": "q-0004",
+   "questionId": "q-0003",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0002",
-    "g-0001"
+    "g-0008"
    ],
-   "createdAt": "2026-06-09T13:33:00.000Z"
+   "createdAt": "2026-08-28T16:19:00.000Z"
   },
   {
    "id": "a-0006",
-   "questionId": "q-0005",
+   "questionId": "q-0004",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 출석 확인 줄이 두 개인데 왼쪽이 보통 빨라요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0003",
-    "g-0004"
+    "g-0006",
+    "g-0008"
    ],
-   "createdAt": "2026-05-15T21:27:00.000Z"
+   "createdAt": "2026-07-13T20:13:00.000Z"
   },
   {
    "id": "a-0007",
    "questionId": "q-0005",
-   "authorId": "u-0057",
-   "isAi": false,
-   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-05-16T02:27:00.000Z"
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0001"
+   ],
+   "createdAt": "2026-05-11T22:59:00.000Z"
   },
   {
    "id": "a-0008",
-   "questionId": "q-0006",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0015"
-   ],
-   "createdAt": "2026-11-11T19:06:00.000Z"
+   "questionId": "q-0005",
+   "authorId": "u-0059",
+   "isAi": false,
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-05-12T03:59:00.000Z"
   },
   {
    "id": "a-0009",
+   "questionId": "q-0006",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0017"
+   ],
+   "createdAt": "2026-08-04T21:16:00.000Z"
+  },
+  {
+   "id": "a-0010",
    "questionId": "q-0007",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0012",
+    "g-0011"
+   ],
+   "createdAt": "2026-09-21T12:31:00.000Z"
+  },
+  {
+   "id": "a-0011",
+   "questionId": "q-0008",
    "authorId": null,
    "isAi": true,
    "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
@@ -969,471 +890,304 @@
     "g-0014",
     "g-0013"
    ],
-   "createdAt": "2026-10-15T18:11:00.000Z"
-  },
-  {
-   "id": "a-0010",
-   "questionId": "q-0007",
-   "authorId": "u-0127",
-   "isAi": false,
-   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-10-15T23:11:00.000Z"
-  },
-  {
-   "id": "a-0011",
-   "questionId": "q-0008",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0017",
-    "g-0012"
-   ],
-   "createdAt": "2026-06-14T15:48:00.000Z"
+   "createdAt": "2026-05-12T10:53:00.000Z"
   },
   {
    "id": "a-0012",
-   "questionId": "q-0009",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0016",
-    "g-0015"
-   ],
-   "createdAt": "2026-09-10T19:14:00.000Z"
+   "questionId": "q-0008",
+   "authorId": "u-0163",
+   "isAi": false,
+   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-05-12T15:53:00.000Z"
   },
   {
    "id": "a-0013",
-   "questionId": "q-0010",
+   "questionId": "q-0009",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0015"
+    "g-0015",
+    "g-0019"
    ],
-   "createdAt": "2026-06-13T21:29:00.000Z"
+   "createdAt": "2026-07-04T10:52:00.000Z"
   },
   {
    "id": "a-0014",
-   "questionId": "q-0011",
+   "questionId": "q-0010",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 셔틀 첫 차는 금방 차니까 10분 일찍 가세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0013",
-    "g-0018"
+    "g-0016",
+    "g-0017"
    ],
-   "createdAt": "2026-06-03T12:34:00.000Z"
+   "createdAt": "2026-07-19T12:45:00.000Z"
   },
   {
    "id": "a-0015",
    "questionId": "q-0011",
-   "authorId": "u-0030",
-   "isAi": false,
-   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-06-03T17:34:00.000Z"
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0025",
+    "g-0024"
+   ],
+   "createdAt": "2026-08-20T13:08:00.000Z"
   },
   {
    "id": "a-0016",
-   "questionId": "q-0012",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0023",
-    "g-0022"
-   ],
-   "createdAt": "2026-07-10T15:36:00.000Z"
+   "questionId": "q-0011",
+   "authorId": "u-0193",
+   "isAi": false,
+   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-08-20T18:08:00.000Z"
   },
   {
    "id": "a-0017",
    "questionId": "q-0013",
    "authorId": null,
    "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0026",
+    "g-0033"
+   ],
+   "createdAt": "2026-06-05T09:42:00.000Z"
+  },
+  {
+   "id": "a-0018",
+   "questionId": "q-0014",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 출석 확인 줄이 두 개인데 왼쪽이 보통 빨라요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0027",
+    "g-0031"
+   ],
+   "createdAt": "2026-09-28T19:54:00.000Z"
+  },
+  {
+   "id": "a-0019",
+   "questionId": "q-0015",
+   "authorId": null,
+   "isAi": true,
    "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
     "g-0022"
    ],
-   "createdAt": "2026-10-23T13:27:00.000Z"
-  },
-  {
-   "id": "a-0018",
-   "questionId": "q-0013",
-   "authorId": "u-0088",
-   "isAi": false,
-   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-10-23T18:27:00.000Z"
-  },
-  {
-   "id": "a-0019",
-   "questionId": "q-0014",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 출석 확인 줄이 두 개인데 왼쪽이 보통 빨라요.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0027",
-    "g-0026"
-   ],
-   "createdAt": "2026-05-20T11:33:00.000Z"
+   "createdAt": "2026-07-16T16:10:00.000Z"
   },
   {
    "id": "a-0020",
    "questionId": "q-0015",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0036",
-    "g-0037"
-   ],
-   "createdAt": "2026-09-07T17:26:00.000Z"
+   "authorId": "u-0019",
+   "isAi": false,
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-07-16T21:10:00.000Z"
   },
   {
    "id": "a-0021",
    "questionId": "q-0016",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0035"
+    "g-0030",
+    "g-0023"
    ],
-   "createdAt": "2026-07-04T22:38:00.000Z"
+   "createdAt": "2026-07-30T09:21:00.000Z"
   },
   {
    "id": "a-0022",
    "questionId": "q-0017",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0032",
-    "g-0031"
+    "g-0038",
+    "g-0039"
    ],
-   "createdAt": "2026-10-24T21:19:00.000Z"
+   "createdAt": "2026-11-11T16:31:00.000Z"
   },
   {
    "id": "a-0023",
-   "questionId": "q-0018",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0031"
-   ],
-   "createdAt": "2026-08-14T11:58:00.000Z"
+   "questionId": "q-0017",
+   "authorId": "u-0082",
+   "isAi": false,
+   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-11-11T21:31:00.000Z"
   },
   {
    "id": "a-0024",
    "questionId": "q-0018",
-   "authorId": "u-0116",
-   "isAi": false,
-   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-08-14T16:58:00.000Z"
-  },
-  {
-   "id": "a-0025",
-   "questionId": "q-0019",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0033",
-    "g-0034"
-   ],
-   "createdAt": "2026-08-26T14:05:00.000Z"
-  },
-  {
-   "id": "a-0026",
-   "questionId": "q-0019",
-   "authorId": "u-0153",
-   "isAi": false,
-   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-08-26T19:05:00.000Z"
-  },
-  {
-   "id": "a-0027",
-   "questionId": "q-0020",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0048",
-    "g-0043"
-   ],
-   "createdAt": "2026-08-16T18:15:00.000Z"
-  },
-  {
-   "id": "a-0028",
-   "questionId": "q-0021",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0043",
-    "g-0046"
-   ],
-   "createdAt": "2026-06-14T09:59:00.000Z"
-  },
-  {
-   "id": "a-0029",
-   "questionId": "q-0022",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0042",
-    "g-0041"
-   ],
-   "createdAt": "2026-09-01T19:20:00.000Z"
-  },
-  {
-   "id": "a-0030",
-   "questionId": "q-0022",
-   "authorId": "u-0042",
-   "isAi": false,
-   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-09-02T00:20:00.000Z"
-  },
-  {
-   "id": "a-0031",
-   "questionId": "q-0023",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0050",
-    "g-0040"
-   ],
-   "createdAt": "2026-10-08T10:14:00.000Z"
-  },
-  {
-   "id": "a-0032",
-   "questionId": "q-0025",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0056"
-   ],
-   "createdAt": "2026-08-12T13:27:00.000Z"
-  },
-  {
-   "id": "a-0033",
-   "questionId": "q-0026",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0057",
-    "g-0058"
-   ],
-   "createdAt": "2026-06-21T14:13:00.000Z"
-  },
-  {
-   "id": "a-0034",
-   "questionId": "q-0027",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0055",
-    "g-0054"
-   ],
-   "createdAt": "2026-05-15T09:23:00.000Z"
-  },
-  {
-   "id": "a-0035",
-   "questionId": "q-0027",
-   "authorId": "u-0098",
-   "isAi": false,
-   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-05-15T14:23:00.000Z"
-  },
-  {
-   "id": "a-0036",
-   "questionId": "q-0028",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0056"
-   ],
-   "createdAt": "2026-06-29T19:15:00.000Z"
-  },
-  {
-   "id": "a-0037",
-   "questionId": "q-0029",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0053",
-    "g-0052"
-   ],
-   "createdAt": "2026-10-26T11:15:00.000Z"
-  },
-  {
-   "id": "a-0038",
-   "questionId": "q-0030",
    "authorId": null,
    "isAi": true,
    "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0060"
+    "g-0036"
    ],
-   "createdAt": "2026-05-28T10:40:00.000Z"
+   "createdAt": "2026-05-21T12:53:00.000Z"
   },
   {
-   "id": "a-0039",
-   "questionId": "q-0030",
-   "authorId": "u-0087",
+   "id": "a-0025",
+   "questionId": "q-0018",
+   "authorId": "u-0123",
    "isAi": false,
    "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
    "sourceGuideIds": [],
-   "createdAt": "2026-05-28T15:40:00.000Z"
+   "createdAt": "2026-05-21T17:53:00.000Z"
   },
   {
-   "id": "a-0040",
-   "questionId": "q-0031",
+   "id": "a-0026",
+   "questionId": "q-0019",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0062",
-    "g-0063"
+    "g-0039",
+    "g-0038"
    ],
-   "createdAt": "2026-07-21T21:52:00.000Z"
+   "createdAt": "2026-09-15T20:55:00.000Z"
   },
   {
-   "id": "a-0041",
-   "questionId": "q-0031",
-   "authorId": "u-0123",
+   "id": "a-0027",
+   "questionId": "q-0019",
+   "authorId": "u-0030",
+   "isAi": false,
+   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-09-16T01:55:00.000Z"
+  },
+  {
+   "id": "a-0028",
+   "questionId": "q-0020",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 셔틀 첫 차는 금방 차니까 10분 일찍 가세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0048",
+    "g-0051"
+   ],
+   "createdAt": "2026-09-04T21:27:00.000Z"
+  },
+  {
+   "id": "a-0029",
+   "questionId": "q-0020",
+   "authorId": "u-0044",
    "isAi": false,
    "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
    "sourceGuideIds": [],
-   "createdAt": "2026-07-22T02:52:00.000Z"
+   "createdAt": "2026-09-05T02:27:00.000Z"
   },
   {
-   "id": "a-0042",
-   "questionId": "q-0032",
+   "id": "a-0030",
+   "questionId": "q-0021",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0061",
-    "g-0060"
+    "g-0058",
+    "g-0047"
    ],
-   "createdAt": "2026-06-29T14:07:00.000Z"
+   "createdAt": "2026-11-03T22:26:00.000Z"
   },
   {
-   "id": "a-0043",
-   "questionId": "q-0033",
+   "id": "a-0031",
+   "questionId": "q-0022",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 출석 확인 줄이 두 개인데 왼쪽이 보통 빨라요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0066"
+    "g-0055",
+    "g-0057"
    ],
-   "createdAt": "2026-08-08T14:14:00.000Z"
+   "createdAt": "2026-10-23T22:39:00.000Z"
   },
   {
-   "id": "a-0044",
-   "questionId": "q-0034",
+   "id": "a-0032",
+   "questionId": "q-0023",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0050",
+    "g-0059"
+   ],
+   "createdAt": "2026-05-13T20:06:00.000Z"
+  },
+  {
+   "id": "a-0033",
+   "questionId": "q-0024",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0046"
+   ],
+   "createdAt": "2026-10-14T22:01:00.000Z"
+  },
+  {
+   "id": "a-0034",
+   "questionId": "q-0024",
+   "authorId": "u-0113",
+   "isAi": false,
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-10-15T03:01:00.000Z"
+  },
+  {
+   "id": "a-0035",
+   "questionId": "q-0025",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0049",
+    "g-0048"
+   ],
+   "createdAt": "2026-08-16T19:36:00.000Z"
+  },
+  {
+   "id": "a-0036",
+   "questionId": "q-0025",
+   "authorId": "u-0162",
+   "isAi": false,
+   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-08-17T00:36:00.000Z"
+  },
+  {
+   "id": "a-0037",
+   "questionId": "q-0026",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0065",
+    "g-0061"
+   ],
+   "createdAt": "2026-05-12T20:58:00.000Z"
+  },
+  {
+   "id": "a-0038",
+   "questionId": "q-0028",
    "authorId": null,
    "isAi": true,
    "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
     "g-0064"
    ],
-   "createdAt": "2026-10-28T15:40:00.000Z"
+   "createdAt": "2026-05-14T21:27:00.000Z"
   },
   {
-   "id": "a-0045",
-   "questionId": "q-0035",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0068"
-   ],
-   "createdAt": "2026-05-27T12:18:00.000Z"
-  },
-  {
-   "id": "a-0046",
-   "questionId": "q-0035",
-   "authorId": "u-0135",
-   "isAi": false,
-   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-05-27T17:18:00.000Z"
-  },
-  {
-   "id": "a-0047",
-   "questionId": "q-0036",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 셔틀 첫 차는 금방 차니까 10분 일찍 가세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0070",
-    "g-0080"
-   ],
-   "createdAt": "2026-05-27T18:59:00.000Z"
-  },
-  {
-   "id": "a-0048",
-   "questionId": "q-0036",
-   "authorId": "u-0128",
-   "isAi": false,
-   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-05-27T23:59:00.000Z"
-  },
-  {
-   "id": "a-0049",
-   "questionId": "q-0037",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0069",
-    "g-0068"
-   ],
-   "createdAt": "2026-08-16T19:04:00.000Z"
-  },
-  {
-   "id": "a-0050",
-   "questionId": "q-0038",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0074"
-   ],
-   "createdAt": "2026-10-11T16:16:00.000Z"
-  },
-  {
-   "id": "a-0051",
-   "questionId": "q-0039",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0076",
-    "g-0072"
-   ],
-   "createdAt": "2026-10-16T16:15:00.000Z"
-  },
-  {
-   "id": "a-0052",
-   "questionId": "q-0040",
+   "id": "a-0039",
+   "questionId": "q-0029",
    "authorId": null,
    "isAi": true,
    "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
@@ -1441,479 +1195,394 @@
     "g-0071",
     "g-0070"
    ],
-   "createdAt": "2026-11-15T19:44:00.000Z"
+   "createdAt": "2026-08-19T19:54:00.000Z"
   },
   {
-   "id": "a-0053",
-   "questionId": "q-0040",
-   "authorId": "u-0142",
+   "id": "a-0040",
+   "questionId": "q-0029",
+   "authorId": "u-0133",
    "isAi": false,
    "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
    "sourceGuideIds": [],
-   "createdAt": "2026-11-16T00:44:00.000Z"
+   "createdAt": "2026-08-20T00:54:00.000Z"
   },
   {
-   "id": "a-0054",
-   "questionId": "q-0041",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0084",
-    "g-0083"
-   ],
-   "createdAt": "2026-06-04T19:21:00.000Z"
-  },
-  {
-   "id": "a-0055",
-   "questionId": "q-0041",
-   "authorId": "u-0158",
-   "isAi": false,
-   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-06-05T00:21:00.000Z"
-  },
-  {
-   "id": "a-0056",
-   "questionId": "q-0042",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0086",
-    "g-0087"
-   ],
-   "createdAt": "2026-08-09T10:47:00.000Z"
-  },
-  {
-   "id": "a-0057",
-   "questionId": "q-0043",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 셔틀 첫 차는 금방 차니까 10분 일찍 가세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0083",
-    "g-0090"
-   ],
-   "createdAt": "2026-10-16T13:08:00.000Z"
-  },
-  {
-   "id": "a-0058",
-   "questionId": "q-0043",
-   "authorId": "u-0057",
-   "isAi": false,
-   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-10-16T18:08:00.000Z"
-  },
-  {
-   "id": "a-0059",
-   "questionId": "q-0044",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0081"
-   ],
-   "createdAt": "2026-06-21T09:45:00.000Z"
-  },
-  {
-   "id": "a-0060",
-   "questionId": "q-0044",
-   "authorId": "u-0025",
-   "isAi": false,
-   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-06-21T14:45:00.000Z"
-  },
-  {
-   "id": "a-0061",
-   "questionId": "q-0045",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0091",
-    "g-0082"
-   ],
-   "createdAt": "2026-05-31T15:41:00.000Z"
-  },
-  {
-   "id": "a-0062",
-   "questionId": "q-0046",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0085",
-    "g-0092"
-   ],
-   "createdAt": "2026-10-09T15:09:00.000Z"
-  },
-  {
-   "id": "a-0063",
-   "questionId": "q-0047",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0096",
-    "g-0095"
-   ],
-   "createdAt": "2026-06-19T12:58:00.000Z"
-  },
-  {
-   "id": "a-0064",
-   "questionId": "q-0047",
-   "authorId": "u-0182",
-   "isAi": false,
-   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-06-19T17:58:00.000Z"
-  },
-  {
-   "id": "a-0065",
-   "questionId": "q-0048",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 출석 확인 줄이 두 개인데 왼쪽이 보통 빨라요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0099",
-    "g-0098"
-   ],
-   "createdAt": "2026-09-15T13:38:00.000Z"
-  },
-  {
-   "id": "a-0066",
-   "questionId": "q-0049",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0093"
-   ],
-   "createdAt": "2026-10-11T15:02:00.000Z"
-  },
-  {
-   "id": "a-0067",
-   "questionId": "q-0049",
-   "authorId": "u-0190",
-   "isAi": false,
-   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-10-11T20:02:00.000Z"
-  },
-  {
-   "id": "a-0068",
-   "questionId": "q-0050",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0098",
-    "g-0097"
-   ],
-   "createdAt": "2026-09-26T15:03:00.000Z"
-  },
-  {
-   "id": "a-0069",
-   "questionId": "q-0051",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0097",
-    "g-0098"
-   ],
-   "createdAt": "2026-07-29T18:02:00.000Z"
-  },
-  {
-   "id": "a-0070",
-   "questionId": "q-0052",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0094",
-    "g-0093"
-   ],
-   "createdAt": "2026-06-16T21:36:00.000Z"
-  },
-  {
-   "id": "a-0071",
-   "questionId": "q-0053",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0101"
-   ],
-   "createdAt": "2026-09-05T20:34:00.000Z"
-  },
-  {
-   "id": "a-0072",
-   "questionId": "q-0053",
-   "authorId": "u-0130",
-   "isAi": false,
-   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-09-06T01:34:00.000Z"
-  },
-  {
-   "id": "a-0073",
-   "questionId": "q-0054",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0114",
-    "g-0102"
-   ],
-   "createdAt": "2026-08-17T22:07:00.000Z"
-  },
-  {
-   "id": "a-0074",
-   "questionId": "q-0055",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 셔틀 첫 차는 금방 차니까 10분 일찍 가세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0103",
-    "g-0108"
-   ],
-   "createdAt": "2026-08-13T10:56:00.000Z"
-  },
-  {
-   "id": "a-0075",
-   "questionId": "q-0055",
-   "authorId": "u-0049",
-   "isAi": false,
-   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-08-13T15:56:00.000Z"
-  },
-  {
-   "id": "a-0076",
-   "questionId": "q-0056",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0109",
-    "g-0105"
-   ],
-   "createdAt": "2026-11-08T18:35:00.000Z"
-  },
-  {
-   "id": "a-0077",
-   "questionId": "q-0057",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0104",
-    "g-0103"
-   ],
-   "createdAt": "2026-06-17T20:17:00.000Z"
-  },
-  {
-   "id": "a-0078",
-   "questionId": "q-0057",
-   "authorId": "u-0178",
-   "isAi": false,
-   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-06-18T01:17:00.000Z"
-  },
-  {
-   "id": "a-0079",
-   "questionId": "q-0058",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0105",
-    "g-0112"
-   ],
-   "createdAt": "2026-07-10T10:11:00.000Z"
-  },
-  {
-   "id": "a-0080",
-   "questionId": "q-0059",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0124",
-    "g-0119"
-   ],
-   "createdAt": "2026-10-19T20:38:00.000Z"
-  },
-  {
-   "id": "a-0081",
-   "questionId": "q-0060",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0116",
-    "g-0115"
-   ],
-   "createdAt": "2026-08-08T18:29:00.000Z"
-  },
-  {
-   "id": "a-0082",
-   "questionId": "q-0061",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0115"
-   ],
-   "createdAt": "2026-11-14T11:50:00.000Z"
-  },
-  {
-   "id": "a-0083",
-   "questionId": "q-0061",
-   "authorId": "u-0114",
-   "isAi": false,
-   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-11-14T16:50:00.000Z"
-  },
-  {
-   "id": "a-0084",
-   "questionId": "q-0062",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0117",
-    "g-0118"
-   ],
-   "createdAt": "2026-08-16T22:55:00.000Z"
-  },
-  {
-   "id": "a-0085",
-   "questionId": "q-0062",
-   "authorId": "u-0146",
-   "isAi": false,
-   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-08-17T03:55:00.000Z"
-  },
-  {
-   "id": "a-0086",
-   "questionId": "q-0063",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0119",
-    "g-0124"
-   ],
-   "createdAt": "2026-11-04T21:30:00.000Z"
-  },
-  {
-   "id": "a-0087",
-   "questionId": "q-0064",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0127",
-    "g-0128"
-   ],
-   "createdAt": "2026-08-20T20:16:00.000Z"
-  },
-  {
-   "id": "a-0088",
-   "questionId": "q-0064",
-   "authorId": "u-0181",
-   "isAi": false,
-   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-08-21T01:16:00.000Z"
-  },
-  {
-   "id": "a-0089",
-   "questionId": "q-0065",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0132",
-    "g-0126"
-   ],
-   "createdAt": "2026-05-21T10:10:00.000Z"
-  },
-  {
-   "id": "a-0090",
-   "questionId": "q-0066",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0125"
-   ],
-   "createdAt": "2026-05-30T09:09:00.000Z"
-  },
-  {
-   "id": "a-0091",
-   "questionId": "q-0066",
-   "authorId": "u-0118",
-   "isAi": false,
-   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-05-30T14:09:00.000Z"
-  },
-  {
-   "id": "a-0092",
-   "questionId": "q-0067",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0128",
-    "g-0127"
-   ],
-   "createdAt": "2026-06-30T21:40:00.000Z"
-  },
-  {
-   "id": "a-0093",
-   "questionId": "q-0067",
-   "authorId": "u-0152",
-   "isAi": false,
-   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-07-01T02:40:00.000Z"
-  },
-  {
-   "id": "a-0094",
-   "questionId": "q-0068",
+   "id": "a-0041",
+   "questionId": "q-0030",
    "authorId": null,
    "isAi": true,
    "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0129"
+    "g-0072"
    ],
-   "createdAt": "2026-05-28T20:07:00.000Z"
+   "createdAt": "2026-11-03T21:45:00.000Z"
   },
   {
-   "id": "a-0095",
-   "questionId": "q-0069",
+   "id": "a-0042",
+   "questionId": "q-0031",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0073",
+    "g-0069"
+   ],
+   "createdAt": "2026-06-06T14:57:00.000Z"
+  },
+  {
+   "id": "a-0043",
+   "questionId": "q-0032",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0070",
+    "g-0071"
+   ],
+   "createdAt": "2026-09-24T09:48:00.000Z"
+  },
+  {
+   "id": "a-0044",
+   "questionId": "q-0032",
+   "authorId": "u-0029",
+   "isAi": false,
+   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-09-24T14:48:00.000Z"
+  },
+  {
+   "id": "a-0045",
+   "questionId": "q-0033",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0072"
+   ],
+   "createdAt": "2026-06-27T18:30:00.000Z"
+  },
+  {
+   "id": "a-0046",
+   "questionId": "q-0035",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0088",
+    "g-0078"
+   ],
+   "createdAt": "2026-09-12T15:56:00.000Z"
+  },
+  {
+   "id": "a-0047",
+   "questionId": "q-0036",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0077"
+   ],
+   "createdAt": "2026-08-01T14:40:00.000Z"
+  },
+  {
+   "id": "a-0048",
+   "questionId": "q-0036",
+   "authorId": "u-0070",
+   "isAi": false,
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-08-01T19:40:00.000Z"
+  },
+  {
+   "id": "a-0049",
+   "questionId": "q-0037",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0081",
+    "g-0087"
+   ],
+   "createdAt": "2026-09-01T14:47:00.000Z"
+  },
+  {
+   "id": "a-0050",
+   "questionId": "q-0039",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0080",
+    "g-0079"
+   ],
+   "createdAt": "2026-05-18T10:20:00.000Z"
+  },
+  {
+   "id": "a-0051",
+   "questionId": "q-0039",
+   "authorId": "u-0110",
+   "isAi": false,
+   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-05-18T15:20:00.000Z"
+  },
+  {
+   "id": "a-0052",
+   "questionId": "q-0040",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0082",
+    "g-0081"
+   ],
+   "createdAt": "2026-05-18T20:53:00.000Z"
+  },
+  {
+   "id": "a-0053",
+   "questionId": "q-0041",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0091",
+    "g-0090"
+   ],
+   "createdAt": "2026-10-27T10:01:00.000Z"
+  },
+  {
+   "id": "a-0054",
+   "questionId": "q-0042",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0092",
+    "g-0093"
+   ],
+   "createdAt": "2026-10-05T09:16:00.000Z"
+  },
+  {
+   "id": "a-0055",
+   "questionId": "q-0042",
+   "authorId": "u-0199",
+   "isAi": false,
+   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-10-05T14:16:00.000Z"
+  },
+  {
+   "id": "a-0056",
+   "questionId": "q-0043",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0094"
+   ],
+   "createdAt": "2026-05-15T10:32:00.000Z"
+  },
+  {
+   "id": "a-0057",
+   "questionId": "q-0044",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0094"
+   ],
+   "createdAt": "2026-06-15T15:48:00.000Z"
+  },
+  {
+   "id": "a-0058",
+   "questionId": "q-0045",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0098"
+   ],
+   "createdAt": "2026-09-24T19:57:00.000Z"
+  },
+  {
+   "id": "a-0059",
+   "questionId": "q-0045",
+   "authorId": "u-0112",
+   "isAi": false,
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-09-25T00:57:00.000Z"
+  },
+  {
+   "id": "a-0060",
+   "questionId": "q-0046",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0104",
+    "g-0099"
+   ],
+   "createdAt": "2026-07-18T13:52:00.000Z"
+  },
+  {
+   "id": "a-0061",
+   "questionId": "q-0047",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0102",
+    "g-0105"
+   ],
+   "createdAt": "2026-07-26T14:56:00.000Z"
+  },
+  {
+   "id": "a-0062",
+   "questionId": "q-0048",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 셔틀 첫 차는 금방 차니까 10분 일찍 가세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0100",
+    "g-0109"
+   ],
+   "createdAt": "2026-05-19T09:28:00.000Z"
+  },
+  {
+   "id": "a-0063",
+   "questionId": "q-0048",
+   "authorId": "u-0078",
+   "isAi": false,
+   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-05-19T14:28:00.000Z"
+  },
+  {
+   "id": "a-0064",
+   "questionId": "q-0049",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0118",
+    "g-0112"
+   ],
+   "createdAt": "2026-06-30T19:21:00.000Z"
+  },
+  {
+   "id": "a-0065",
+   "questionId": "q-0050",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 셔틀 첫 차는 금방 차니까 10분 일찍 가세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0113",
+    "g-0120"
+   ],
+   "createdAt": "2026-06-25T12:23:00.000Z"
+  },
+  {
+   "id": "a-0066",
+   "questionId": "q-0050",
+   "authorId": "u-0111",
+   "isAi": false,
+   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-06-25T17:23:00.000Z"
+  },
+  {
+   "id": "a-0067",
+   "questionId": "q-0051",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0114",
+    "g-0113"
+   ],
+   "createdAt": "2026-07-31T18:40:00.000Z"
+  },
+  {
+   "id": "a-0068",
+   "questionId": "q-0051",
+   "authorId": "u-0017",
+   "isAi": false,
+   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-07-31T23:40:00.000Z"
+  },
+  {
+   "id": "a-0069",
+   "questionId": "q-0052",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0122",
+    "g-0123"
+   ],
+   "createdAt": "2026-07-13T15:42:00.000Z"
+  },
+  {
+   "id": "a-0070",
+   "questionId": "q-0053",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0124"
+   ],
+   "createdAt": "2026-07-13T21:12:00.000Z"
+  },
+  {
+   "id": "a-0071",
+   "questionId": "q-0053",
+   "authorId": "u-0054",
+   "isAi": false,
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-07-14T02:12:00.000Z"
+  },
+  {
+   "id": "a-0072",
+   "questionId": "q-0054",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0128",
+    "g-0133"
+   ],
+   "createdAt": "2026-08-30T15:06:00.000Z"
+  },
+  {
+   "id": "a-0073",
+   "questionId": "q-0055",
    "authorId": null,
    "isAi": true,
    "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0130",
-    "g-0131"
+    "g-0129",
+    "g-0130"
    ],
-   "createdAt": "2026-08-19T19:54:00.000Z"
+   "createdAt": "2026-07-20T15:43:00.000Z"
   },
   {
-   "id": "a-0096",
-   "questionId": "q-0070",
+   "id": "a-0074",
+   "questionId": "q-0056",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 출석 확인 줄이 두 개인데 왼쪽이 보통 빨라요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0145",
+    "g-0140"
+   ],
+   "createdAt": "2026-09-15T20:37:00.000Z"
+  },
+  {
+   "id": "a-0075",
+   "questionId": "q-0057",
    "authorId": null,
    "isAi": true,
    "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
@@ -1921,65 +1590,72 @@
     "g-0137",
     "g-0136"
    ],
-   "createdAt": "2026-06-11T16:24:00.000Z"
+   "createdAt": "2026-07-31T14:48:00.000Z"
   },
   {
-   "id": "a-0097",
-   "questionId": "q-0070",
-   "authorId": "u-0103",
+   "id": "a-0076",
+   "questionId": "q-0057",
+   "authorId": "u-0113",
    "isAi": false,
    "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
    "sourceGuideIds": [],
-   "createdAt": "2026-06-11T21:24:00.000Z"
+   "createdAt": "2026-07-31T19:48:00.000Z"
   },
   {
-   "id": "a-0098",
-   "questionId": "q-0072",
+   "id": "a-0077",
+   "questionId": "q-0058",
    "authorId": null,
    "isAi": true,
    "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0139",
+    "g-0140",
     "g-0144"
    ],
-   "createdAt": "2026-06-21T15:53:00.000Z"
+   "createdAt": "2026-08-27T17:07:00.000Z"
   },
   {
-   "id": "a-0099",
-   "questionId": "q-0073",
+   "id": "a-0078",
+   "questionId": "q-0059",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 출석 확인 줄이 두 개인데 왼쪽이 보통 빨라요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0146",
-    "g-0139"
+    "g-0134"
    ],
-   "createdAt": "2026-10-06T21:23:00.000Z"
+   "createdAt": "2026-09-18T15:41:00.000Z"
   },
   {
-   "id": "a-0100",
-   "questionId": "q-0074",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 셔틀 첫 차는 금방 차니까 10분 일찍 가세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0149",
-    "g-0152"
-   ],
-   "createdAt": "2026-05-21T20:52:00.000Z"
-  },
-  {
-   "id": "a-0101",
-   "questionId": "q-0074",
-   "authorId": "u-0162",
+   "id": "a-0079",
+   "questionId": "q-0059",
+   "authorId": "u-0193",
    "isAi": false,
-   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
    "sourceGuideIds": [],
-   "createdAt": "2026-05-22T01:52:00.000Z"
+   "createdAt": "2026-09-18T20:41:00.000Z"
   },
   {
-   "id": "a-0102",
-   "questionId": "q-0075",
+   "id": "a-0080",
+   "questionId": "q-0060",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0147"
+   ],
+   "createdAt": "2026-07-21T17:31:00.000Z"
+  },
+  {
+   "id": "a-0081",
+   "questionId": "q-0060",
+   "authorId": "u-0036",
+   "isAi": false,
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-07-21T22:31:00.000Z"
+  },
+  {
+   "id": "a-0082",
+   "questionId": "q-0062",
    "authorId": null,
    "isAi": true,
    "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
@@ -1987,640 +1663,259 @@
     "g-0150",
     "g-0149"
    ],
-   "createdAt": "2026-06-29T11:58:00.000Z"
+   "createdAt": "2026-07-12T16:30:00.000Z"
   },
   {
-   "id": "a-0103",
-   "questionId": "q-0075",
-   "authorId": "u-0166",
+   "id": "a-0083",
+   "questionId": "q-0062",
+   "authorId": "u-0012",
    "isAi": false,
    "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
    "sourceGuideIds": [],
-   "createdAt": "2026-06-29T16:58:00.000Z"
+   "createdAt": "2026-07-12T21:30:00.000Z"
   },
   {
-   "id": "a-0104",
-   "questionId": "q-0076",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0147"
-   ],
-   "createdAt": "2026-05-09T19:28:00.000Z"
-  },
-  {
-   "id": "a-0105",
-   "questionId": "q-0076",
-   "authorId": "u-0020",
-   "isAi": false,
-   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-05-10T00:28:00.000Z"
-  },
-  {
-   "id": "a-0106",
-   "questionId": "q-0077",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 출석 확인 줄이 두 개인데 왼쪽이 보통 빨라요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0153"
-   ],
-   "createdAt": "2026-10-26T09:48:00.000Z"
-  },
-  {
-   "id": "a-0107",
-   "questionId": "q-0078",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0160",
-    "g-0159"
-   ],
-   "createdAt": "2026-09-09T19:57:00.000Z"
-  },
-  {
-   "id": "a-0108",
-   "questionId": "q-0078",
-   "authorId": "u-0006",
-   "isAi": false,
-   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-09-10T00:57:00.000Z"
-  },
-  {
-   "id": "a-0109",
-   "questionId": "q-0079",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 출석 확인 줄이 두 개인데 왼쪽이 보통 빨라요.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0162",
-    "g-0161"
-   ],
-   "createdAt": "2026-06-01T14:25:00.000Z"
-  },
-  {
-   "id": "a-0110",
-   "questionId": "q-0080",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0161"
-   ],
-   "createdAt": "2026-05-07T19:06:00.000Z"
-  },
-  {
-   "id": "a-0111",
-   "questionId": "q-0081",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0158",
-    "g-0157"
-   ],
-   "createdAt": "2026-10-30T12:29:00.000Z"
-  },
-  {
-   "id": "a-0112",
-   "questionId": "q-0082",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0161"
-   ],
-   "createdAt": "2026-08-19T16:33:00.000Z"
-  },
-  {
-   "id": "a-0113",
-   "questionId": "q-0083",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0159",
-    "g-0160"
-   ],
-   "createdAt": "2026-10-07T18:01:00.000Z"
-  },
-  {
-   "id": "a-0114",
-   "questionId": "q-0083",
-   "authorId": "u-0008",
-   "isAi": false,
-   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-10-07T23:01:00.000Z"
-  },
-  {
-   "id": "a-0115",
-   "questionId": "q-0084",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0168",
-    "g-0167"
-   ],
-   "createdAt": "2026-08-20T16:44:00.000Z"
-  },
-  {
-   "id": "a-0116",
-   "questionId": "q-0084",
-   "authorId": "u-0031",
-   "isAi": false,
-   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-08-20T21:44:00.000Z"
-  },
-  {
-   "id": "a-0117",
-   "questionId": "q-0085",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0171"
-   ],
-   "createdAt": "2026-07-05T18:46:00.000Z"
-  },
-  {
-   "id": "a-0118",
-   "questionId": "q-0086",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0174",
-    "g-0166"
-   ],
-   "createdAt": "2026-06-12T12:03:00.000Z"
-  },
-  {
-   "id": "a-0119",
-   "questionId": "q-0087",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 셔틀 첫 차는 금방 차니까 10분 일찍 가세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0167",
-    "g-0173"
-   ],
-   "createdAt": "2026-10-21T10:16:00.000Z"
-  },
-  {
-   "id": "a-0120",
-   "questionId": "q-0087",
-   "authorId": "u-0147",
-   "isAi": false,
-   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-10-21T15:16:00.000Z"
-  },
-  {
-   "id": "a-0121",
-   "questionId": "q-0088",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0170",
-    "g-0171"
-   ],
-   "createdAt": "2026-09-07T15:43:00.000Z"
-  },
-  {
-   "id": "a-0122",
-   "questionId": "q-0089",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0169"
-   ],
-   "createdAt": "2026-08-30T21:33:00.000Z"
-  },
-  {
-   "id": "a-0123",
-   "questionId": "q-0090",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0186"
-   ],
-   "createdAt": "2026-09-24T14:27:00.000Z"
-  },
-  {
-   "id": "a-0124",
-   "questionId": "q-0091",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0184",
-    "g-0190"
-   ],
-   "createdAt": "2026-10-13T17:28:00.000Z"
-  },
-  {
-   "id": "a-0125",
-   "questionId": "q-0092",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0183",
-    "g-0182"
-   ],
-   "createdAt": "2026-10-14T20:07:00.000Z"
-  },
-  {
-   "id": "a-0126",
-   "questionId": "q-0092",
-   "authorId": "u-0025",
-   "isAi": false,
-   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-10-15T01:07:00.000Z"
-  },
-  {
-   "id": "a-0127",
-   "questionId": "q-0093",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0184",
-    "g-0190"
-   ],
-   "createdAt": "2026-08-10T21:19:00.000Z"
-  },
-  {
-   "id": "a-0128",
-   "questionId": "q-0094",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0185",
-    "g-0186"
-   ],
-   "createdAt": "2026-08-20T20:56:00.000Z"
-  },
-  {
-   "id": "a-0129",
-   "questionId": "q-0095",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0193"
-   ],
-   "createdAt": "2026-09-02T22:32:00.000Z"
-  },
-  {
-   "id": "a-0130",
-   "questionId": "q-0095",
-   "authorId": "u-0191",
-   "isAi": false,
-   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-09-03T03:32:00.000Z"
-  },
-  {
-   "id": "a-0131",
-   "questionId": "q-0096",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0206",
-    "g-0194"
-   ],
-   "createdAt": "2026-10-03T15:27:00.000Z"
-  },
-  {
-   "id": "a-0132",
-   "questionId": "q-0097",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0196",
-    "g-0195"
-   ],
-   "createdAt": "2026-09-20T11:43:00.000Z"
-  },
-  {
-   "id": "a-0133",
-   "questionId": "q-0097",
-   "authorId": "u-0120",
-   "isAi": false,
-   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-09-20T16:43:00.000Z"
-  },
-  {
-   "id": "a-0134",
-   "questionId": "q-0098",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0199"
-   ],
-   "createdAt": "2026-08-02T21:40:00.000Z"
-  },
-  {
-   "id": "a-0135",
-   "questionId": "q-0099",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0198",
-    "g-0199"
-   ],
-   "createdAt": "2026-08-06T09:26:00.000Z"
-  },
-  {
-   "id": "a-0136",
-   "questionId": "q-0100",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0218",
-    "g-0213"
-   ],
-   "createdAt": "2026-07-13T17:54:00.000Z"
-  },
-  {
-   "id": "a-0137",
-   "questionId": "q-0101",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0210",
-    "g-0209"
-   ],
-   "createdAt": "2026-09-09T22:18:00.000Z"
-  },
-  {
-   "id": "a-0138",
-   "questionId": "q-0101",
-   "authorId": "u-0010",
-   "isAi": false,
-   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-09-10T03:18:00.000Z"
-  },
-  {
-   "id": "a-0139",
-   "questionId": "q-0102",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0213",
-    "g-0218"
-   ],
-   "createdAt": "2026-10-17T19:53:00.000Z"
-  },
-  {
-   "id": "a-0140",
-   "questionId": "q-0103",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 출석 확인 줄이 두 개인데 왼쪽이 보통 빨라요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0216",
-    "g-0213"
-   ],
-   "createdAt": "2026-10-31T15:42:00.000Z"
-  },
-  {
-   "id": "a-0141",
-   "questionId": "q-0105",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0230",
-    "g-0221"
-   ],
-   "createdAt": "2026-08-23T20:43:00.000Z"
-  },
-  {
-   "id": "a-0142",
-   "questionId": "q-0106",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0223",
-    "g-0222"
-   ],
-   "createdAt": "2026-08-04T18:37:00.000Z"
-  },
-  {
-   "id": "a-0143",
-   "questionId": "q-0106",
-   "authorId": "u-0106",
-   "isAi": false,
-   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-08-04T23:37:00.000Z"
-  },
-  {
-   "id": "a-0144",
-   "questionId": "q-0107",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 셔틀 첫 차는 금방 차니까 10분 일찍 가세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0222",
-    "g-0229"
-   ],
-   "createdAt": "2026-09-18T21:24:00.000Z"
-  },
-  {
-   "id": "a-0145",
-   "questionId": "q-0107",
-   "authorId": "u-0148",
-   "isAi": false,
-   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-09-19T02:24:00.000Z"
-  },
-  {
-   "id": "a-0146",
-   "questionId": "q-0108",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0227",
-    "g-0224"
-   ],
-   "createdAt": "2026-10-15T09:04:00.000Z"
-  },
-  {
-   "id": "a-0147",
-   "questionId": "q-0109",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0238"
-   ],
-   "createdAt": "2026-10-26T09:28:00.000Z"
-  },
-  {
-   "id": "a-0148",
-   "questionId": "q-0110",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0234",
-    "g-0235"
-   ],
-   "createdAt": "2026-10-24T10:40:00.000Z"
-  },
-  {
-   "id": "a-0149",
-   "questionId": "q-0110",
-   "authorId": "u-0189",
-   "isAi": false,
-   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
-   "sourceGuideIds": [],
-   "createdAt": "2026-10-24T15:40:00.000Z"
-  },
-  {
-   "id": "a-0150",
-   "questionId": "q-0111",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0233",
-    "g-0232"
-   ],
-   "createdAt": "2026-10-07T22:05:00.000Z"
-  },
-  {
-   "id": "a-0151",
-   "questionId": "q-0112",
+   "id": "a-0084",
+   "questionId": "q-0063",
    "authorId": null,
    "isAi": true,
    "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0240",
-    "g-0236"
+    "g-0156",
+    "g-0151"
    ],
-   "createdAt": "2026-09-15T16:32:00.000Z"
+   "createdAt": "2026-08-16T14:02:00.000Z"
   },
   {
-   "id": "a-0152",
-   "questionId": "q-0113",
+   "id": "a-0085",
+   "questionId": "q-0064",
    "authorId": null,
    "isAi": true,
    "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0236",
-    "g-0240"
+    "g-0151",
+    "g-0156"
    ],
-   "createdAt": "2026-10-13T21:37:00.000Z"
+   "createdAt": "2026-06-11T13:24:00.000Z"
   },
   {
-   "id": "a-0153",
-   "questionId": "q-0114",
+   "id": "a-0086",
+   "questionId": "q-0065",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 셔틀 첫 차는 금방 차니까 10분 일찍 가세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0232"
+    "g-0161",
+    "g-0169"
    ],
-   "createdAt": "2026-06-08T19:12:00.000Z"
+   "createdAt": "2026-06-28T10:51:00.000Z"
   },
   {
-   "id": "a-0154",
-   "questionId": "q-0114",
-   "authorId": "u-0163",
+   "id": "a-0087",
+   "questionId": "q-0065",
+   "authorId": "u-0028",
    "isAi": false,
-   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
    "sourceGuideIds": [],
-   "createdAt": "2026-06-09T00:12:00.000Z"
+   "createdAt": "2026-06-28T15:51:00.000Z"
   },
   {
-   "id": "a-0155",
-   "questionId": "q-0115",
+   "id": "a-0088",
+   "questionId": "q-0067",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0248",
-    "g-0252"
+    "g-0162",
+    "g-0161"
    ],
-   "createdAt": "2026-08-04T12:27:00.000Z"
+   "createdAt": "2026-05-17T16:56:00.000Z"
   },
   {
-   "id": "a-0156",
-   "questionId": "q-0116",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0249",
-    "g-0250"
-   ],
-   "createdAt": "2026-07-31T16:57:00.000Z"
+   "id": "a-0089",
+   "questionId": "q-0067",
+   "authorId": "u-0140",
+   "isAi": false,
+   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-05-17T21:56:00.000Z"
   },
   {
-   "id": "a-0157",
-   "questionId": "q-0117",
+   "id": "a-0090",
+   "questionId": "q-0068",
    "authorId": null,
    "isAi": true,
    "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0255",
-    "g-0245"
+    "g-0166",
+    "g-0160"
    ],
-   "createdAt": "2026-10-13T21:26:00.000Z"
+   "createdAt": "2026-07-08T19:30:00.000Z"
   },
   {
-   "id": "a-0158",
-   "questionId": "q-0118",
-   "authorId": null,
-   "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
-   "sourceGuideIds": [
-    "g-0250"
-   ],
-   "createdAt": "2026-05-05T14:35:00.000Z"
-  },
-  {
-   "id": "a-0159",
-   "questionId": "q-0119",
+   "id": "a-0091",
+   "questionId": "q-0069",
    "authorId": null,
    "isAi": true,
    "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0259"
+    "g-0159"
+   ],
+   "createdAt": "2026-06-05T12:25:00.000Z"
+  },
+  {
+   "id": "a-0092",
+   "questionId": "q-0069",
+   "authorId": "u-0146",
+   "isAi": false,
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-06-05T17:25:00.000Z"
+  },
+  {
+   "id": "a-0093",
+   "questionId": "q-0070",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0163",
+    "g-0170"
+   ],
+   "createdAt": "2026-06-12T16:39:00.000Z"
+  },
+  {
+   "id": "a-0094",
+   "questionId": "q-0071",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0172"
+   ],
+   "createdAt": "2026-07-06T11:56:00.000Z"
+  },
+  {
+   "id": "a-0095",
+   "questionId": "q-0071",
+   "authorId": "u-0193",
+   "isAi": false,
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-07-06T16:56:00.000Z"
+  },
+  {
+   "id": "a-0096",
+   "questionId": "q-0072",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [입소 절차] 출석 확인 줄이 두 개인데 왼쪽이 보통 빨라요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0177",
+    "g-0182"
+   ],
+   "createdAt": "2026-10-28T14:18:00.000Z"
+  },
+  {
+   "id": "a-0097",
+   "questionId": "q-0073",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0175",
+    "g-0174"
+   ],
+   "createdAt": "2026-08-03T14:10:00.000Z"
+  },
+  {
+   "id": "a-0098",
+   "questionId": "q-0073",
+   "authorId": "u-0126",
+   "isAi": false,
+   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-08-03T19:10:00.000Z"
+  },
+  {
+   "id": "a-0099",
+   "questionId": "q-0074",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0187"
+   ],
+   "createdAt": "2026-11-12T22:06:00.000Z"
+  },
+  {
+   "id": "a-0100",
+   "questionId": "q-0074",
+   "authorId": "u-0036",
+   "isAi": false,
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-11-13T03:06:00.000Z"
+  },
+  {
+   "id": "a-0101",
+   "questionId": "q-0075",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0189",
+    "g-0190"
+   ],
+   "createdAt": "2026-08-20T19:29:00.000Z"
+  },
+  {
+   "id": "a-0102",
+   "questionId": "q-0075",
+   "authorId": "u-0174",
+   "isAi": false,
+   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-08-21T00:29:00.000Z"
+  },
+  {
+   "id": "a-0103",
+   "questionId": "q-0076",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0197",
+    "g-0188"
+   ],
+   "createdAt": "2026-05-31T14:17:00.000Z"
+  },
+  {
+   "id": "a-0104",
+   "questionId": "q-0077",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0191",
+    "g-0198"
+   ],
+   "createdAt": "2026-08-18T15:24:00.000Z"
+  },
+  {
+   "id": "a-0105",
+   "questionId": "q-0078",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0199"
    ],
    "createdAt": "2026-11-11T21:41:00.000Z"
   },
   {
-   "id": "a-0160",
-   "questionId": "q-0119",
+   "id": "a-0106",
+   "questionId": "q-0078",
    "authorId": "u-0098",
    "isAi": false,
    "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
@@ -2628,32 +1923,31 @@
    "createdAt": "2026-11-12T02:41:00.000Z"
   },
   {
-   "id": "a-0161",
-   "questionId": "q-0120",
+   "id": "a-0107",
+   "questionId": "q-0079",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0263",
-    "g-0265"
+    "g-0203"
    ],
    "createdAt": "2026-11-02T13:22:00.000Z"
   },
   {
-   "id": "a-0162",
-   "questionId": "q-0121",
+   "id": "a-0108",
+   "questionId": "q-0080",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 셔틀 첫 차는 금방 차니까 10분 일찍 가세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0261",
-    "g-0262"
+    "g-0201",
+    "g-0210"
    ],
    "createdAt": "2026-05-24T13:11:00.000Z"
   },
   {
-   "id": "a-0163",
-   "questionId": "q-0121",
+   "id": "a-0109",
+   "questionId": "q-0080",
    "authorId": "u-0057",
    "isAi": false,
    "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
@@ -2661,28 +1955,461 @@
    "createdAt": "2026-05-24T18:11:00.000Z"
   },
   {
-   "id": "a-0164",
-   "questionId": "q-0123",
+   "id": "a-0110",
+   "questionId": "q-0081",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0205"
+   ],
+   "createdAt": "2026-06-17T17:26:00.000Z"
+  },
+  {
+   "id": "a-0111",
+   "questionId": "q-0082",
    "authorId": null,
    "isAi": true,
    "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0260",
-    "g-0259"
+    "g-0200",
+    "g-0199"
    ],
    "createdAt": "2026-07-21T12:09:00.000Z"
   },
   {
-   "id": "a-0165",
-   "questionId": "q-0124",
+   "id": "a-0112",
+   "questionId": "q-0083",
    "authorId": null,
    "isAi": true,
-   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 출석 확인 줄이 두 개인데 왼쪽이 보통 빨라요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
    "sourceGuideIds": [
-    "g-0264",
-    "g-0265"
+    "g-0204",
+    "g-0205"
    ],
    "createdAt": "2026-06-10T20:46:00.000Z"
+  },
+  {
+   "id": "a-0113",
+   "questionId": "q-0084",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0217",
+    "g-0218"
+   ],
+   "createdAt": "2026-05-15T21:04:00.000Z"
+  },
+  {
+   "id": "a-0114",
+   "questionId": "q-0085",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0212"
+   ],
+   "createdAt": "2026-05-18T13:34:00.000Z"
+  },
+  {
+   "id": "a-0115",
+   "questionId": "q-0085",
+   "authorId": "u-0097",
+   "isAi": false,
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-05-18T18:34:00.000Z"
+  },
+  {
+   "id": "a-0116",
+   "questionId": "q-0086",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0214",
+    "g-0215"
+   ],
+   "createdAt": "2026-06-28T17:19:00.000Z"
+  },
+  {
+   "id": "a-0117",
+   "questionId": "q-0086",
+   "authorId": "u-0080",
+   "isAi": false,
+   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-06-28T22:19:00.000Z"
+  },
+  {
+   "id": "a-0118",
+   "questionId": "q-0087",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0213",
+    "g-0212"
+   ],
+   "createdAt": "2026-10-14T11:06:00.000Z"
+  },
+  {
+   "id": "a-0119",
+   "questionId": "q-0088",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0215",
+    "g-0214"
+   ],
+   "createdAt": "2026-08-25T19:45:00.000Z"
+  },
+  {
+   "id": "a-0120",
+   "questionId": "q-0088",
+   "authorId": "u-0150",
+   "isAi": false,
+   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-08-26T00:45:00.000Z"
+  },
+  {
+   "id": "a-0121",
+   "questionId": "q-0089",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0224"
+   ],
+   "createdAt": "2026-07-09T19:45:00.000Z"
+  },
+  {
+   "id": "a-0122",
+   "questionId": "q-0090",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0220"
+   ],
+   "createdAt": "2026-05-21T15:34:00.000Z"
+  },
+  {
+   "id": "a-0123",
+   "questionId": "q-0090",
+   "authorId": "u-0096",
+   "isAi": false,
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-05-21T20:34:00.000Z"
+  },
+  {
+   "id": "a-0124",
+   "questionId": "q-0091",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0222",
+    "g-0223"
+   ],
+   "createdAt": "2026-08-20T13:53:00.000Z"
+  },
+  {
+   "id": "a-0125",
+   "questionId": "q-0091",
+   "authorId": "u-0131",
+   "isAi": false,
+   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-08-20T18:53:00.000Z"
+  },
+  {
+   "id": "a-0126",
+   "questionId": "q-0092",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0227",
+    "g-0221"
+   ],
+   "createdAt": "2026-09-24T10:27:00.000Z"
+  },
+  {
+   "id": "a-0127",
+   "questionId": "q-0093",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0232",
+    "g-0231"
+   ],
+   "createdAt": "2026-05-16T15:11:00.000Z"
+  },
+  {
+   "id": "a-0128",
+   "questionId": "q-0093",
+   "authorId": "u-0148",
+   "isAi": false,
+   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-05-16T20:11:00.000Z"
+  },
+  {
+   "id": "a-0129",
+   "questionId": "q-0094",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0233"
+   ],
+   "createdAt": "2026-05-11T10:22:00.000Z"
+  },
+  {
+   "id": "a-0130",
+   "questionId": "q-0095",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0233"
+   ],
+   "createdAt": "2026-10-09T12:16:00.000Z"
+  },
+  {
+   "id": "a-0131",
+   "questionId": "q-0096",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0229"
+   ],
+   "createdAt": "2026-07-25T20:46:00.000Z"
+  },
+  {
+   "id": "a-0132",
+   "questionId": "q-0096",
+   "authorId": "u-0113",
+   "isAi": false,
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-07-26T01:46:00.000Z"
+  },
+  {
+   "id": "a-0133",
+   "questionId": "q-0097",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0235"
+   ],
+   "createdAt": "2026-07-07T10:24:00.000Z"
+  },
+  {
+   "id": "a-0134",
+   "questionId": "q-0098",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [식사·매점] 매점은 카드 결제 돼요. 쉬는 시간 시작하자마자 가야 줄이 짧아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0244",
+    "g-0248"
+   ],
+   "createdAt": "2026-06-27T19:13:00.000Z"
+  },
+  {
+   "id": "a-0135",
+   "questionId": "q-0099",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0242",
+    "g-0241"
+   ],
+   "createdAt": "2026-07-24T10:26:00.000Z"
+  },
+  {
+   "id": "a-0136",
+   "questionId": "q-0099",
+   "authorId": "u-0155",
+   "isAi": false,
+   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-07-24T15:26:00.000Z"
+  },
+  {
+   "id": "a-0137",
+   "questionId": "q-0100",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0239"
+   ],
+   "createdAt": "2026-05-08T21:59:00.000Z"
+  },
+  {
+   "id": "a-0138",
+   "questionId": "q-0100",
+   "authorId": "u-0113",
+   "isAi": false,
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-05-09T02:59:00.000Z"
+  },
+  {
+   "id": "a-0139",
+   "questionId": "q-0101",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0255"
+   ],
+   "createdAt": "2026-09-05T22:50:00.000Z"
+  },
+  {
+   "id": "a-0140",
+   "questionId": "q-0102",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0253",
+    "g-0258"
+   ],
+   "createdAt": "2026-08-14T11:30:00.000Z"
+  },
+  {
+   "id": "a-0141",
+   "questionId": "q-0103",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [입소 절차] 정문에서 신분증 확인 후 교육장 앞에서 출석 확인을 합니다. 입소 시간 20분 전까지 도착해 주세요.\n• [입소 절차] 휴대폰은 입소 후 개인 보관합니다. 사격 등 일부 교육 중에는 보관함에 넣습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0254",
+    "g-0255"
+   ],
+   "createdAt": "2026-09-25T10:15:00.000Z"
+  },
+  {
+   "id": "a-0142",
+   "questionId": "q-0104",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 자차 이용 시 정문 옆 임시 주차장을 이용하세요. 만차 시 안내 요원 지시에 따라 주세요.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0252",
+    "g-0251"
+   ],
+   "createdAt": "2026-08-05T11:44:00.000Z"
+  },
+  {
+   "id": "a-0143",
+   "questionId": "q-0104",
+   "authorId": "u-0152",
+   "isAi": false,
+   "body": "정문 옆 임시 주차장 있는데 일찍 차요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-08-05T16:44:00.000Z"
+  },
+  {
+   "id": "a-0144",
+   "questionId": "q-0105",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0253",
+    "g-0258"
+   ],
+   "createdAt": "2026-08-28T14:56:00.000Z"
+  },
+  {
+   "id": "a-0145",
+   "questionId": "q-0106",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 볼펜 하나 챙기면 서류 쓸 때 줄 안 서도 됩니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0259",
+    "g-0250"
+   ],
+   "createdAt": "2026-10-19T13:53:00.000Z"
+  },
+  {
+   "id": "a-0146",
+   "questionId": "q-0107",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [교통편] 인근 시외버스터미널에서 입소 40분 전과 20분 전에 셔틀버스가 출발합니다. 퇴소 후에도 같은 곳으로 운행합니다.\n• [교통편] 셔틀 첫 차는 금방 차니까 10분 일찍 가세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0263",
+    "g-0271"
+   ],
+   "createdAt": "2026-09-16T15:32:00.000Z"
+  },
+  {
+   "id": "a-0147",
+   "questionId": "q-0107",
+   "authorId": "u-0151",
+   "isAi": false,
+   "body": "터미널 앞 정류장 맞은편에서 탑니다. 표지판 있어요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-09-16T20:32:00.000Z"
+  },
+  {
+   "id": "a-0148",
+   "questionId": "q-0108",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0261"
+   ],
+   "createdAt": "2026-08-21T20:11:00.000Z"
+  },
+  {
+   "id": "a-0149",
+   "questionId": "q-0108",
+   "authorId": "u-0107",
+   "isAi": false,
+   "body": "사이즈 대여 일부 있는데 본인 거 가져오는 게 좋아요.",
+   "sourceGuideIds": [],
+   "createdAt": "2026-08-22T01:11:00.000Z"
+  },
+  {
+   "id": "a-0150",
+   "questionId": "q-0109",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [준비물] 개인 상비약이 필요한 분은 직접 챙겨 오세요. 의무실에는 기본 약품만 있습니다.\n• [준비물] 신분증(모바일 신분증 가능), 전투복 상·하의, 전투모, 전투화를 꼭 챙기세요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0262",
+    "g-0261"
+   ],
+   "createdAt": "2026-10-16T16:15:00.000Z"
+  },
+  {
+   "id": "a-0151",
+   "questionId": "q-0110",
+   "authorId": null,
+   "isAi": true,
+   "body": "가이드에 따르면 다음과 같습니다.\n• [식사·매점] 점심은 훈련장 식당에서 제공합니다. 알레르기가 있으면 입소 때 미리 말씀해 주세요.\n• [식사·매점] 점심 줄이 길어서 오전 교육 끝나면 바로 가는 게 좋아요.\n\n정확하지 않을 수 있으니 담당자 답변도 확인해 주세요.",
+   "sourceGuideIds": [
+    "g-0265",
+    "g-0269"
+   ],
+   "createdAt": "2026-05-28T16:56:00.000Z"
   }
  ]
 }
