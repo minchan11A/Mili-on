@@ -1,4 +1,4 @@
-# 밀라인드 (Milaind)
+# milind
 
 > 2026 예비전력분야 혁신 아이디어 공모전 · 혁신 서비스 개발 분야
 > 예비군 훈련장 **만족도 지도 → 개선 제안 → 담당자 처리 → 보안 마스킹을 거친 AI 대책 초안 → 결과 공개**를 한 흐름으로 잇는 서비스
@@ -12,7 +12,8 @@
 | 홈 | `/` | 이번 달 제안·개선 완료·평균 처리 기간, 개선 사례 Before/After |
 | [1] 만족도 지도 | `/map` | 로컬 TopoJSON + d3 지도, 지표별 핀 점수·추세, 겹치면 묶음, 목록 보기 |
 | 훈련장 상세 | `/ranges/[id]` | 만족도(방사형·막대·월별 추이·평가 목록) / 개선 제안 / 가이드 / Q&A 탭 |
-| 평가 작성 | `/ranges/[id]/review` | 5개 지표 1~5점, 이수 후 30일·1회 제한 |
+| 훈련 설문 | `/survey`, `/ranges/[id]/review` | 훈련 일정 고지·교통·숙식·기타 15문항을 **불만족 ←→ 만족 5단계**(16유형 검사 방식)로, 다른 예비군에게 전하고 싶은 말. 이수 후 30일·1회 |
+| 로그인 | `/login` | Supabase 이메일 로그인·가입 (미설정 시 시드 계정, 오프라인 시연은 시연 계정) |
 | [2] 제안 작성 | `/ranges/[id]/propose` | 카테고리→세부 주제→내용, **실시간 보안 경고**, 유사 제안 "공감하고 끝내기" |
 | 제안 상세 | `/proposal?id=` | 상태 단계 표시, 처리 이력, 공식 답변, 공감·신고, 담당자 처리 |
 | [3] 개선 동향 | `/trends`, `/issue?id=` | 분야별 순위·월별 추이·급증 알림, 이슈 우선순위, **AI 대책 초안 + 외부로 나간 텍스트 보기** |
@@ -28,7 +29,7 @@
 | 데이터 | `data/demo/*.json` → 브라우저 메모리, 변경분만 localStorage | Prisma (같은 JSON으로 시드) |
 | 마스킹 | 브라우저에서 같은 TS 코드 | API 라우트에서 같은 TS 코드 (클라이언트 결과를 믿지 않고 다시 적용) |
 | AI | 사전 생성 캐시 | 상용 AI 실호출 (키가 없으면 캐시로 대체하고 화면에 표시) |
-| 로그인 | 상단 "역할 전환" | 시드 계정 간이 로그인 (httpOnly 서명 쿠키) |
+| 로그인 | 상단 "역할 전환", `/login`의 시연 계정 | Supabase Auth → 서버가 토큰 확인 후 httpOnly 서명 쿠키 (미설정 시 시드 계정) |
 
 화면과 규칙은 공유하고 **데이터를 읽고 쓰는 어댑터만** 바뀝니다 (`lib/data/demo.ts` ↔ `lib/data/api.ts`).
 집계(점수·추세·우선순위·급증)와 쓰기 규칙(권한·자격·차단·마스킹)도 `lib/core/`의 같은 순수 함수를 두 모드가 함께 씁니다.
@@ -64,9 +65,19 @@ npm run build && npm start
 
 | 계정 | 역할 |
 | --- | --- |
-| `reservist` | 예비군 (A훈련장 7일 전 이수 · D훈련장 평가 완료 · X훈련장 기간 만료) |
-| `manager-a` ~ `manager-x` | 각 훈련장 담당자 |
+| `demo` | 예비군 (A훈련장 7일 전 이수, 아직 설문 전) |
+| `manager_ra01` ~ `manager_rx24` | 각 훈련장 담당자 |
 | `policy` | 정책 담당자 (전체 범위, 감사 로그) |
+| `reservist001` ~ `reservist200` | 시드 예비군 |
+
+### Supabase 로그인 설정
+
+1. Supabase 프로젝트 → Authentication → Providers에서 Email 사용, Site URL과 Redirect URL에 배포 주소(`https://…/login`) 등록
+2. 환경변수 `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY` (빌드 시점에 들어가므로 바꾼 뒤 다시 빌드)
+3. DB도 Supabase를 쓰려면 `DATABASE_URL`=풀러(6543, `?pgbouncer=true`), `DIRECT_URL`=직접 연결(5432)
+
+동작: 브라우저가 Supabase로 로그인 → 액세스 토큰을 `/api/auth/supabase`로 보냄 → 서버가 Supabase에 토큰을 확인 → 처음이면 **예비군** 계정을 만들고 앱 세션 쿠키 발급. 담당자·정책 담당자 역할은 가입으로 얻을 수 없고 DB에서만 부여합니다.
+마이그레이션이 모든 테이블에 RLS를 켭니다(정책 없음). Supabase의 anon 키로 Data API에 접근해도 테이블을 읽거나 쓸 수 없고, 테이블 소유자로 접속하는 Prisma만 동작합니다.
 
 ## 보안 마스킹 (`lib/masking/`)
 
@@ -79,13 +90,13 @@ npm run build && npm start
 
 탐지율 측정: `npm run masking:eval` → `docs/masking-eval.md`
 
-> 현재 평가 문장 103개는 규칙을 만들며 함께 쓴 문장이라 수치(100%)가 실제보다 높게 나옵니다. 발표 전에 규칙을 보지 않은 사람이 쓴 문장을 `lib/masking/__tests__/fixtures.json`에 추가해 다시 측정하고, 그 값을 발표자료에 쓰세요.
+> 평가 문장 103개는 규칙을 만들며 함께 쓴 문장이라 수치가 실제보다 높게 나옵니다. 그래서 **규칙과 따로 작성된 시드 제안**(마스킹 대상 45건, `maskExpected`)으로도 측정합니다: 기대 유형 재현율 45/45, 오차단 0/300, 마스킹 대상이 없는 255건·평가·가이드에서 과잉 마스킹 0건. 발표 전에 규칙을 보지 않은 사람이 쓴 문장을 `lib/masking/__tests__/fixtures.json`에 추가해 다시 측정하고, 그 값을 발표자료에 쓰세요.
 
 ## AI 대책 캐시
 
 `data/demo/ai-cache/{issueId}.json` — 시연 모드와 "키 없는 서버 모드"가 씁니다.
 
-현재 들어 있는 파일은 **시드 생성기가 만든 사람 작성 초안**(`provider: "cache:seed-draft"`, `reviewed: false`)입니다. 발표 전에 실제 상용 AI 응답으로 교체하세요.
+현재 들어 있는 파일은 우선순위 상위 10개 이슈에 대한 **사람 작성 초안**(`scripts/seed-ai-drafts.ts` → `scripts/build-cache-drafts.ts`, `provider: "cache:seed-draft"`, `reviewed: false`)입니다. 발표 전에 실제 상용 AI 응답으로 교체하세요.
 
 ```bash
 npm run ai-cache -- --dry                                # 외부로 나갈 (마스킹된) 텍스트만 확인
@@ -95,19 +106,26 @@ LLM_PROVIDER=claude LLM_API_KEY=... npm run ai-cache     # 상위 10개 + 주인
 생성 후 **사람이 모두 읽고** 지어낸 수치·규정이 없는지 고친 다음 `"reviewed": true`로 바꿉니다.
 Claude는 공식 SDK의 구조화 출력(zod 스키마)으로 호출하고, 정책 거절 시 서버 측 대체 모델(`fallbacks: "default"`)을 씁니다. Gemini·OpenAI는 REST + JSON 모드입니다. 모델은 `LLM_MODEL`로 바꿀 수 있습니다.
 
-## 시드 데이터
+## 시드 데이터 (`seed/`)
 
-`npm run seed:generate` — 고정 난수(`milaind-2026`)로 항상 같은 결과. 훈련장 24 · 예비군 200 · 이수 약 530 · 평가 약 430 · 제안 약 300 · 공감 약 1,450 · 이슈 26 · 개선 사례 10 · 가이드 훈련장마다 8~15 · Q&A 3~6.
+`seed/`에 생성 파이프라인 전체가 있습니다(설정·템플릿·근거 자료·Python 스크립트, 외부 패키지 없음). 자세한 내용은 [`seed/README.md`](seed/README.md).
 
-이야기가 보이게 설계했습니다: 식사·급식 1위·교통 2위, 최근 4주 식사·급식 급증, 주인공 A훈련장(식사 점수 낮음), 주인공 이슈 "점심 배식 대기시간"(우선순위 1위, D훈련장 배식구 증설 사례가 근거), 교통 문제는 산간 훈련장에 집중, 개선 후 점수가 오른 훈련장 2곳(D·M).
-날짜는 기준일(`2026-11-20`) 기준으로 만들어지고, 불러올 때 **오늘 기준으로 평행 이동**하므로 언제 시연해도 "최근 4주 급증", "7일 전 이수"가 그대로 보입니다.
+```bash
+npm run seed:generate   # seed/scripts/generate_seed.py → data/demo/*.json, 13개 조건 검증, AI 캐시 초안 갱신
+```
+
+- 훈련장 24곳(가명 A~X, 실제 시군구 중심점), 예비군 200 + 시연·담당자·정책 계정, 이수 525 · 평가 417 · 제안 300 · 공감 1,550 · 이슈 28 · 개선 사례 10(권익위 권고 6 + 가상 4) · 가이드 346 · Q&A 113
+- 카테고리 비중과 4~5월 집중은 권익위 민원 분석을 반영했고, 출처는 `seed/reference/sources.json`에 있습니다.
+- 국방부 훈련장 CSV로 실제 목록을 쓰는 방법도 `seed/README.md`에 있습니다.
+- 시드 제안 원문에는 마스킹 시연용 가상 단대호·인물·전화번호가 45건 들어 있습니다. 앱은 불러올 때 작성 시점과 같은 보안 필터를 거쳐 `[부대]` 등으로 가린 뒤 씁니다. 훈련장의 시나리오 메모(`description`)는 화면에 내보내지 않습니다.
+- 날짜는 기준일(2026-10-11, KST) 기준이고, 불러올 때 **오늘 기준으로 평행 이동**합니다.
 
 ## 테스트
 
 ```bash
-npm test                    # Vitest 69개: 마스킹(규칙·토큰·복원·차단·탐지율), 유사도, 우선순위, 급증 경계값, 스키마, AI 흐름, 시연 DataSource(자격·권한·신고)
-npm run build:demo && npm run test:e2e   # Playwright: 시연 시나리오 7단계 + 마스킹 체험 + 차단 + 평가 자격
-BASE_URL=http://localhost:3000 npx tsx scripts/smoke-server.ts   # 서버 모드 API 27개 항목
+npm test                    # Vitest 75개: 마스킹(규칙·토큰·복원·차단·탐지율), 유사도, 우선순위, 급증 경계값, 스키마, AI 흐름, 시연 DataSource(자격·권한·신고)
+npm run build:demo && npm run test:e2e   # Playwright 5개: 시연 시나리오 7단계 + 마스킹 체험 + 차단 + 설문 + 시연 로그인
+BASE_URL=http://localhost:3000 npx tsx scripts/smoke-server.ts   # 서버 모드 API 35개 항목 (SUPABASE_TEST_TOKEN이 있으면 Supabase 로그인까지)
 ```
 
 E2E는 **인터넷을 끊은 브라우저**로 돕니다. Chromium의 `context.setOffline(true)`는 localhost까지 막기 때문에, 대신 DNS를 끊어(`--host-resolver-rules`) localhost 외에는 어떤 호스트도 찾을 수 없게 하고, localhost 밖으로 나가는 요청이 하나라도 있으면 실패 처리합니다.
@@ -125,6 +143,8 @@ E2E는 **인터넷을 끊은 브라우저**로 돕니다. Chromium의 `context.s
    | `LLM_API_KEY` | (Sealed) |
    | `SESSION_SECRET` | 임의의 긴 문자열 (Sealed) |
    | `SEED_PASSWORD` | 시드 계정 비밀번호 (Sealed) |
+   | `DIRECT_URL` | `${{Postgres.DATABASE_URL}}` (Railway Postgres면 DATABASE_URL과 같게) |
+   | `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Supabase 로그인을 쓸 때 |
 
 3. Settings: Build/Start Command 비워 둠(`npm run build` / `npm run start`), Pre-Deploy Command `npx prisma migrate deploy && npx prisma db seed`, Healthcheck Path `/api/health`, Restart Policy On Failure, Region Singapore
 4. Networking → Generate Domain. 11월부터는 배포 브랜치를 `release`로 바꿔 시연 직전 실수 배포를 막습니다.
@@ -132,7 +152,7 @@ E2E는 **인터넷을 끊은 브라우저**로 돕니다. Chromium의 `context.s
 ## 저장소 구조
 
 ```
-app/                 화면 (모두 DataSource만 호출) + app/api/**/route.server.ts (서버 모드 전용)
+app/                 화면 (/survey, /login 포함) (모두 DataSource만 호출) + app/api/**/route.server.ts (서버 모드 전용)
 components/          map, range, proposal, trends, ai, guide, security, layout, ui
 lib/
   config.ts          모드 판별 (한 곳)
@@ -145,16 +165,18 @@ lib/
   analysis/          similarity(2-gram Jaccard), priority(공식), stats(추세·급증), classify(키워드)
   server/            Prisma, 서명 쿠키 세션, 변경 목록 → DB 반영, 감사 로그, 레이트 리밋
 data/geo/            시도·시군구 TopoJSON (통계청 2013 경계, southkorea/southkorea-maps)
+seed/                시드 생성 파이프라인 (설정·템플릿·근거·Python 스크립트)
 data/demo/           시드 산출물 + ai-cache/
 prisma/              schema.prisma, migrations, seed.ts
-scripts/             generate-seed, build-ai-cache, masking-eval, check-external-urls, smoke-server
+scripts/             build-ai-cache, build-cache-drafts, masking-eval, check-external-urls, smoke-server
 tests/               unit/, e2e/demo-scenario.spec.ts
 ```
 
 ## 명세와 다르게 한 것
 
-- 개선 제안 탭은 `/proposals`(전체 제안 둘러보기), 예비군용 `/my`(내 제안·공감한 제안·이수 기록), 서버 모드용 `/login`을 추가했습니다.
-- 스키마 추가: `Proposal.subtopic`(이슈 묶음 기준), `Answer.state`(신고 숨김), `AiSolution.generatedAt/reviewed`, `Issue @@unique([category, subtopic])`. EntityType에 `FACILITY`(`[시설_n]`)를 추가했습니다.
+- 개선 제안 탭은 `/proposals`(전체 제안 둘러보기), 예비군용 `/my`(내 제안·공감한 제안·이수 기록), `/survey`(설문), `/login`(Supabase)을 추가했습니다. 하단 탭은 설문을 넣어 5개입니다.
+- 평가 5개 지표는 설문 섹션에 맞춰 일정 고지·교통·식사·숙소·시설·운영·기타로 바꿨습니다(DB 컬럼은 그대로).
+- 스키마 추가: `Proposal.subtopic`·`maskExpected`, `Answer.state`, `AiSolution.generatedAt/reviewed`, `Issue @@unique([category, subtopic])`, 훈련장 출처 필드(`isFictional` 등), `BestPractice` 권고 필드(훈련장·완료일 선택), `Review.answers`(설문 응답), `TrainingRecord.selfReported`, `User.authId/email`(Supabase). EntityType에 `FACILITY`(`[시설_n]`)를 추가했습니다.
 - 유사 제안: Jaccard 0.3 기준은 그대로이고, 긴 본문은 집합이 커져 점수가 낮아지므로 제목·본문·전체 중 가장 높은 값을 씁니다.
 - 지도 핀 묶음은 시도 단위 고정이 아니라 **화면에서 라벨이 겹칠 때** 묶고(같은 시도면 "경기 2곳 · 평균 3.4"), 누르면 확대합니다.
 - 차트 색은 카테고리에 고정되며(순위가 바뀌어도 색 유지), 대비가 낮은 색이 있어 숫자 라벨·범례를 항상 함께 표시합니다. 제안 수와 공감 수는 척도가 달라 한 축에 겹치지 않고 두 열로 나눴습니다.

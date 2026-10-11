@@ -26,11 +26,11 @@ test('시연 시나리오: 지도 → 제안(보안 경고) → 공감 → 정�
 
   // 1. 예비군: 지도 → A훈련장 핀 → 방사형 그래프, 식사 점수가 낮음
   await expect(page.getByTestId('korea-map')).toBeVisible({ timeout: 1_000 + 5_000 });
-  for (let i = 0; i < 4 && !(await page.getByTestId('pin-range-a').isVisible()); i++) {
-    await page.locator('[data-testid="pin-cluster"][data-ids~="range-a"]').click();
+  for (let i = 0; i < 4 && !(await page.getByTestId('pin-rng_R_A01').isVisible()); i++) {
+    await page.locator('[data-testid="pin-cluster"][data-ids~="rng_R_A01"]').click();
     await page.waitForTimeout(450);
   }
-  await page.getByTestId('pin-range-a').click();
+  await page.getByTestId('pin-rng_R_A01').click();
   const panel = page.getByTestId('range-panel');
   await expect(panel).toContainText('A훈련장');
   await expect(panel.getByTestId('radar-score')).toBeVisible();
@@ -40,7 +40,7 @@ test('시연 시나리오: 지도 → 제안(보안 경고) → 공감 → 정�
   await expect(meal.locator('span').first()).toHaveClass(/text-score-low/);
 
   // 2. 개선 제안 작성 → 부대명 입력 시 노란 경고
-  await page.goto('/ranges/range-a/propose/');
+  await page.goto('/ranges/rng_R_A01/propose/');
   await page.getByTestId('cat-MEAL').click();
   await page.getByRole('button', { name: '배식 대기시간' }).click();
   await page.getByTestId('proposal-title').fill('배식 줄이 너무 길어요');
@@ -59,11 +59,11 @@ test('시연 시나리오: 지도 → 제안(보안 경고) → 공감 → 정�
   await switchRole(page, 'POLICY_ADMIN');
   await page.goto('/admin/');
   const firstIssue = page.getByTestId('issue-list').locator('a').first();
-  await expect(firstIssue).toContainText('점심 배식 대기시간');
+  await expect(firstIssue).toContainText('배식 대기시간');
 
   // 5. 이슈 상세 → AI 대책 초안 (2초 이내) → 외부로 나간 텍스트 보기
   await firstIssue.click();
-  await expect(page.getByTestId('issue-title')).toHaveText('점심 배식 대기시간');
+  await expect(page.getByTestId('issue-title')).toHaveText('배식 대기시간');
   const t0 = Date.now();
   await page.getByTestId('ai-generate').click();
   await expect(page.getByTestId('solution-card')).toBeVisible({ timeout: 3_000 });
@@ -89,7 +89,7 @@ test('시연 시나리오: 지도 → 제안(보안 경고) → 공감 → 정�
   await page.goto('/my/');
   await expect(page.getByTestId('my-empathized')).toBeVisible();
   await page.goto('/');
-  await expect(page.getByTestId('best-practices')).toContainText('After');
+  await expect(page.getByTestId('best-practices')).toContainText('AFTER');
 
   expect(external, `외부 요청: ${external.join(', ')}`).toEqual([]);
 });
@@ -109,7 +109,7 @@ test('보안 마스킹 체험: 심사위원 문장 실시간 입력, 좌표는 �
 });
 
 test('작성 화면: 좌표가 들어가면 제출 버튼 비활성화', async ({ page }) => {
-  await page.goto('/ranges/range-a/propose/');
+  await page.goto('/ranges/rng_R_A01/propose/');
   await page.getByTestId('cat-FACILITY').click();
   await page.getByTestId('proposal-title').fill('화장실 위치 문의');
   await page.getByTestId('proposal-body').fill('52SCG 12345 67890 근처 화장실이 더러워요');
@@ -117,12 +117,33 @@ test('작성 화면: 좌표가 들어가면 제출 버튼 비활성화', async (
   await expect(page.getByTestId('proposal-submit')).toBeDisabled();
 });
 
-test('평가 자격: 예비군은 A훈련장 평가 가능, X훈련장은 기간 만료', async ({ page }) => {
-  await page.goto('/ranges/range-x/');
+test('설문: 16유형 검사처럼 5단계로 답하고 다른 예비군에게 말 남기기', async ({ page }) => {
+  const external = watchExternal(page);
+  await page.goto('/ranges/rng_R_X24/');
+  await expect(page.getByRole('link', { name: '설문으로 평가하기' })).toBeVisible();   // 기록 없음 → 직접 입력으로 참여 가능
+  await page.goto('/survey/');
+  await expect(page.getByRole('radio', { name: /A훈련장/ })).toHaveAttribute('aria-checked', 'true');
+  await expect(page.getByTestId('survey-submit')).toBeDisabled();
+  const radios = page.locator('[data-testid^="q-"][data-testid$="-4"]');
+  const n = await radios.count();
+  expect(n).toBe(15);
+  for (let i = 0; i < n; i++) await radios.nth(i).click();
+  await page.getByTestId('q-meal_wait-1').click();
+  await expect(page.getByTestId('survey-progress')).toHaveText('15 / 15');
+  await page.getByTestId('survey-message').fill('3사단 쪽 식당은 점심 줄이 길어요. 오전 교육 끝나면 바로 가세요');
+  await expect(page.getByTestId('security-warn')).toBeVisible();
+  await page.getByTestId('survey-submit').click();
+  await expect(page.getByTestId('survey-done')).toContainText('고맙습니다');
+  await page.goto('/ranges/rng_R_A01/');
+  await expect(page.getByText('[부대] 쪽 식당은 점심 줄이 길어요')).toBeVisible();
   await expect(page.getByTestId('review-disabled')).toBeVisible();
-  await expect(page.getByText('평가 기간(30일)이 지났습니다')).toBeVisible();
-  await page.goto('/ranges/range-a/review/');
-  for (const k of ['scoreTransport', 'scoreMeal', 'scoreFacility', 'scoreOperation', 'scoreComm']) await page.getByTestId(`score-${k}-${k === 'scoreMeal' ? 2 : 4}`).click();
-  await page.getByTestId('review-submit').click();
-  await expect(page.getByText('평가가 등록되었습니다')).toBeVisible();
+  await expect(page.getByText('이미 평가했습니다')).toBeVisible();
+  expect(external).toEqual([]);
+});
+
+test('로그인(오프라인 시연): 시연 계정으로 바로 시작', async ({ page }) => {
+  await page.goto('/login/?next=/admin/');
+  await page.getByTestId('demo-login-POLICY_ADMIN').click();
+  await page.waitForURL(/\/admin\/?$/);
+  await expect(page.getByTestId('kpi')).toBeVisible();
 });
