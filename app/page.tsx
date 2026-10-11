@@ -1,6 +1,7 @@
 'use client';
 import Link from 'next/link';
 import { BestPracticeCards } from '@/components/proposal/BestPracticeCards';
+import { HeroSwitch } from '@/components/home/HeroSwitch';
 import { ErrorBox, Eyebrow, Icon, LinkButton, Loading, SectionTitle, Skeleton, Stat, StatRow, TextLink } from '@/components/ui';
 import { getDataSource } from '@/lib/data';
 import { useQuery } from '@/lib/hooks';
@@ -14,13 +15,8 @@ export default function HomePage() {
     <div className="space-y-16">
       <section className="pt-4 sm:pt-10">
         <Eyebrow>예비군 훈련장 개선 플랫폼</Eyebrow>
-        <h1 className="mt-4 text-[40px] font-semibold leading-[1.1] tracking-[-0.04em] sm:text-[60px]">
-          말하면,<br />바뀝니다.
-        </h1>
-        <p className="mt-5 max-w-lg text-[16px] leading-relaxed text-ink-2">
-          훈련이 끝나면 설문으로 평가하고, 불편은 제안으로 남기세요. 담당자가 처리 과정을 공개하고, 개선 결과를 다음 예비군에게 전합니다.
-        </p>
-        <div className="mt-8 flex flex-wrap gap-2">
+        <div className="mt-5"><HeroSwitch /></div>
+        <div className="mt-9 flex flex-wrap gap-2">
           <LinkButton href="/survey">훈련 설문 참여하기</LinkButton>
           <LinkButton href="/map" variant="secondary">만족도 지도 보기</LinkButton>
         </div>
