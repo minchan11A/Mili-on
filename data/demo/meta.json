@@ -1,0 +1,22 @@
+{
+ "generatedAt": "2026-10-11T13:55:54+09:00",
+ "dataAsOf": "2026-10-11",
+ "seed": "milind-2026",
+ "realRanges": false,
+ "notice": "훈련장 목록(실제 데이터 사용 시)을 제외한 모든 점수·후기·제안·사용자는 가상 데이터입니다.",
+ "counts": {
+  "ranges": 24,
+  "users": 226,
+  "training-records": 525,
+  "reviews": 417,
+  "proposals": 300,
+  "proposal-empathies": 1550,
+  "status-history": 522,
+  "official-replies": 89,
+  "issues": 28,
+  "best-practices": 10,
+  "guides": 346,
+  "questions": 113,
+  "answers": 76
+ }
+}

@@ -1,0 +1,1810 @@
+[
+ {
+  "id": "usr_0001",
+  "role": "RESERVIST",
+  "nickname": "예비군_5875",
+  "ageBand": "30대 초반",
+  "loginId": "reservist001",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0002",
+  "role": "RESERVIST",
+  "nickname": "예비군_3291",
+  "ageBand": "20대 초반",
+  "loginId": "reservist002",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0003",
+  "role": "RESERVIST",
+  "nickname": "예비군_6623",
+  "ageBand": "20대 후반",
+  "loginId": "reservist003",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0004",
+  "role": "RESERVIST",
+  "nickname": "예비군_2937",
+  "ageBand": "20대 초반",
+  "loginId": "reservist004",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0005",
+  "role": "RESERVIST",
+  "nickname": "예비군_6980",
+  "ageBand": "30대 초반",
+  "loginId": "reservist005",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0006",
+  "role": "RESERVIST",
+  "nickname": "예비군_5379",
+  "ageBand": "30대 초반",
+  "loginId": "reservist006",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0007",
+  "role": "RESERVIST",
+  "nickname": "예비군_9725",
+  "ageBand": "30대 초반",
+  "loginId": "reservist007",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0008",
+  "role": "RESERVIST",
+  "nickname": "예비군_5490",
+  "ageBand": "30대 초반",
+  "loginId": "reservist008",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0009",
+  "role": "RESERVIST",
+  "nickname": "예비군_7980",
+  "ageBand": "20대 초반",
+  "loginId": "reservist009",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0010",
+  "role": "RESERVIST",
+  "nickname": "예비군_6536",
+  "ageBand": "30대 후반",
+  "loginId": "reservist010",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0011",
+  "role": "RESERVIST",
+  "nickname": "예비군_1993",
+  "ageBand": "30대 후반",
+  "loginId": "reservist011",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0012",
+  "role": "RESERVIST",
+  "nickname": "예비군_7685",
+  "ageBand": "20대 후반",
+  "loginId": "reservist012",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0013",
+  "role": "RESERVIST",
+  "nickname": "예비군_1984",
+  "ageBand": "20대 후반",
+  "loginId": "reservist013",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0014",
+  "role": "RESERVIST",
+  "nickname": "예비군_4661",
+  "ageBand": "30대 초반",
+  "loginId": "reservist014",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0015",
+  "role": "RESERVIST",
+  "nickname": "예비군_5217",
+  "ageBand": "20대 초반",
+  "loginId": "reservist015",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0016",
+  "role": "RESERVIST",
+  "nickname": "예비군_6022",
+  "ageBand": "30대 후반",
+  "loginId": "reservist016",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0017",
+  "role": "RESERVIST",
+  "nickname": "예비군_2483",
+  "ageBand": "30대 초반",
+  "loginId": "reservist017",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0018",
+  "role": "RESERVIST",
+  "nickname": "예비군_5166",
+  "ageBand": "30대 후반",
+  "loginId": "reservist018",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0019",
+  "role": "RESERVIST",
+  "nickname": "예비군_9299",
+  "ageBand": "20대 초반",
+  "loginId": "reservist019",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0020",
+  "role": "RESERVIST",
+  "nickname": "예비군_2934",
+  "ageBand": "20대 후반",
+  "loginId": "reservist020",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0021",
+  "role": "RESERVIST",
+  "nickname": "예비군_9447",
+  "ageBand": "30대 초반",
+  "loginId": "reservist021",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0022",
+  "role": "RESERVIST",
+  "nickname": "예비군_2949",
+  "ageBand": "20대 후반",
+  "loginId": "reservist022",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0023",
+  "role": "RESERVIST",
+  "nickname": "예비군_2353",
+  "ageBand": "20대 후반",
+  "loginId": "reservist023",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0024",
+  "role": "RESERVIST",
+  "nickname": "예비군_8069",
+  "ageBand": "20대 초반",
+  "loginId": "reservist024",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0025",
+  "role": "RESERVIST",
+  "nickname": "예비군_6372",
+  "ageBand": "30대 후반",
+  "loginId": "reservist025",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0026",
+  "role": "RESERVIST",
+  "nickname": "예비군_4643",
+  "ageBand": "30대 후반",
+  "loginId": "reservist026",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0027",
+  "role": "RESERVIST",
+  "nickname": "예비군_7024",
+  "ageBand": "30대 초반",
+  "loginId": "reservist027",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0028",
+  "role": "RESERVIST",
+  "nickname": "예비군_1678",
+  "ageBand": "20대 후반",
+  "loginId": "reservist028",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0029",
+  "role": "RESERVIST",
+  "nickname": "예비군_7023",
+  "ageBand": "30대 후반",
+  "loginId": "reservist029",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0030",
+  "role": "RESERVIST",
+  "nickname": "예비군_4825",
+  "ageBand": "30대 후반",
+  "loginId": "reservist030",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0031",
+  "role": "RESERVIST",
+  "nickname": "예비군_8636",
+  "ageBand": "20대 초반",
+  "loginId": "reservist031",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0032",
+  "role": "RESERVIST",
+  "nickname": "예비군_3164",
+  "ageBand": "30대 초반",
+  "loginId": "reservist032",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0033",
+  "role": "RESERVIST",
+  "nickname": "예비군_4717",
+  "ageBand": "20대 후반",
+  "loginId": "reservist033",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0034",
+  "role": "RESERVIST",
+  "nickname": "예비군_2703",
+  "ageBand": "20대 후반",
+  "loginId": "reservist034",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0035",
+  "role": "RESERVIST",
+  "nickname": "예비군_5448",
+  "ageBand": "20대 후반",
+  "loginId": "reservist035",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0036",
+  "role": "RESERVIST",
+  "nickname": "예비군_2931",
+  "ageBand": "30대 초반",
+  "loginId": "reservist036",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0037",
+  "role": "RESERVIST",
+  "nickname": "예비군_4590",
+  "ageBand": "20대 후반",
+  "loginId": "reservist037",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0038",
+  "role": "RESERVIST",
+  "nickname": "예비군_6903",
+  "ageBand": "20대 초반",
+  "loginId": "reservist038",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0039",
+  "role": "RESERVIST",
+  "nickname": "예비군_9098",
+  "ageBand": "20대 후반",
+  "loginId": "reservist039",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0040",
+  "role": "RESERVIST",
+  "nickname": "예비군_7512",
+  "ageBand": "20대 후반",
+  "loginId": "reservist040",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0041",
+  "role": "RESERVIST",
+  "nickname": "예비군_3851",
+  "ageBand": "30대 초반",
+  "loginId": "reservist041",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0042",
+  "role": "RESERVIST",
+  "nickname": "예비군_3804",
+  "ageBand": "20대 초반",
+  "loginId": "reservist042",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0043",
+  "role": "RESERVIST",
+  "nickname": "예비군_3040",
+  "ageBand": "30대 후반",
+  "loginId": "reservist043",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0044",
+  "role": "RESERVIST",
+  "nickname": "예비군_6912",
+  "ageBand": "30대 후반",
+  "loginId": "reservist044",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0045",
+  "role": "RESERVIST",
+  "nickname": "예비군_7305",
+  "ageBand": "20대 후반",
+  "loginId": "reservist045",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0046",
+  "role": "RESERVIST",
+  "nickname": "예비군_7650",
+  "ageBand": "30대 초반",
+  "loginId": "reservist046",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0047",
+  "role": "RESERVIST",
+  "nickname": "예비군_1082",
+  "ageBand": "30대 초반",
+  "loginId": "reservist047",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0048",
+  "role": "RESERVIST",
+  "nickname": "예비군_2857",
+  "ageBand": "30대 초반",
+  "loginId": "reservist048",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0049",
+  "role": "RESERVIST",
+  "nickname": "예비군_2018",
+  "ageBand": "20대 초반",
+  "loginId": "reservist049",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0050",
+  "role": "RESERVIST",
+  "nickname": "예비군_5603",
+  "ageBand": "30대 초반",
+  "loginId": "reservist050",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0051",
+  "role": "RESERVIST",
+  "nickname": "예비군_4866",
+  "ageBand": "20대 초반",
+  "loginId": "reservist051",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0052",
+  "role": "RESERVIST",
+  "nickname": "예비군_5280",
+  "ageBand": "30대 후반",
+  "loginId": "reservist052",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0053",
+  "role": "RESERVIST",
+  "nickname": "예비군_5249",
+  "ageBand": "20대 초반",
+  "loginId": "reservist053",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0054",
+  "role": "RESERVIST",
+  "nickname": "예비군_4571",
+  "ageBand": "30대 후반",
+  "loginId": "reservist054",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0055",
+  "role": "RESERVIST",
+  "nickname": "예비군_6649",
+  "ageBand": "20대 후반",
+  "loginId": "reservist055",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0056",
+  "role": "RESERVIST",
+  "nickname": "예비군_6816",
+  "ageBand": "20대 후반",
+  "loginId": "reservist056",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0057",
+  "role": "RESERVIST",
+  "nickname": "예비군_8524",
+  "ageBand": "20대 후반",
+  "loginId": "reservist057",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0058",
+  "role": "RESERVIST",
+  "nickname": "예비군_2513",
+  "ageBand": "20대 후반",
+  "loginId": "reservist058",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0059",
+  "role": "RESERVIST",
+  "nickname": "예비군_2811",
+  "ageBand": "30대 초반",
+  "loginId": "reservist059",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0060",
+  "role": "RESERVIST",
+  "nickname": "예비군_9936",
+  "ageBand": "30대 후반",
+  "loginId": "reservist060",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0061",
+  "role": "RESERVIST",
+  "nickname": "예비군_2513",
+  "ageBand": "20대 초반",
+  "loginId": "reservist061",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0062",
+  "role": "RESERVIST",
+  "nickname": "예비군_6249",
+  "ageBand": "30대 후반",
+  "loginId": "reservist062",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0063",
+  "role": "RESERVIST",
+  "nickname": "예비군_3686",
+  "ageBand": "30대 초반",
+  "loginId": "reservist063",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0064",
+  "role": "RESERVIST",
+  "nickname": "예비군_5304",
+  "ageBand": "20대 초반",
+  "loginId": "reservist064",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0065",
+  "role": "RESERVIST",
+  "nickname": "예비군_3246",
+  "ageBand": "30대 초반",
+  "loginId": "reservist065",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0066",
+  "role": "RESERVIST",
+  "nickname": "예비군_5636",
+  "ageBand": "30대 초반",
+  "loginId": "reservist066",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0067",
+  "role": "RESERVIST",
+  "nickname": "예비군_3465",
+  "ageBand": "30대 초반",
+  "loginId": "reservist067",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0068",
+  "role": "RESERVIST",
+  "nickname": "예비군_4094",
+  "ageBand": "20대 후반",
+  "loginId": "reservist068",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0069",
+  "role": "RESERVIST",
+  "nickname": "예비군_5864",
+  "ageBand": "30대 후반",
+  "loginId": "reservist069",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0070",
+  "role": "RESERVIST",
+  "nickname": "예비군_4372",
+  "ageBand": "30대 후반",
+  "loginId": "reservist070",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0071",
+  "role": "RESERVIST",
+  "nickname": "예비군_9555",
+  "ageBand": "30대 후반",
+  "loginId": "reservist071",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0072",
+  "role": "RESERVIST",
+  "nickname": "예비군_3840",
+  "ageBand": "30대 초반",
+  "loginId": "reservist072",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0073",
+  "role": "RESERVIST",
+  "nickname": "예비군_3832",
+  "ageBand": "30대 후반",
+  "loginId": "reservist073",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0074",
+  "role": "RESERVIST",
+  "nickname": "예비군_3495",
+  "ageBand": "30대 초반",
+  "loginId": "reservist074",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0075",
+  "role": "RESERVIST",
+  "nickname": "예비군_4383",
+  "ageBand": "20대 초반",
+  "loginId": "reservist075",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0076",
+  "role": "RESERVIST",
+  "nickname": "예비군_3221",
+  "ageBand": "20대 초반",
+  "loginId": "reservist076",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0077",
+  "role": "RESERVIST",
+  "nickname": "예비군_9495",
+  "ageBand": "30대 후반",
+  "loginId": "reservist077",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0078",
+  "role": "RESERVIST",
+  "nickname": "예비군_2550",
+  "ageBand": "30대 후반",
+  "loginId": "reservist078",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0079",
+  "role": "RESERVIST",
+  "nickname": "예비군_2679",
+  "ageBand": "20대 후반",
+  "loginId": "reservist079",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0080",
+  "role": "RESERVIST",
+  "nickname": "예비군_8774",
+  "ageBand": "20대 초반",
+  "loginId": "reservist080",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0081",
+  "role": "RESERVIST",
+  "nickname": "예비군_7233",
+  "ageBand": "30대 초반",
+  "loginId": "reservist081",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0082",
+  "role": "RESERVIST",
+  "nickname": "예비군_9230",
+  "ageBand": "30대 초반",
+  "loginId": "reservist082",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0083",
+  "role": "RESERVIST",
+  "nickname": "예비군_7611",
+  "ageBand": "20대 후반",
+  "loginId": "reservist083",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0084",
+  "role": "RESERVIST",
+  "nickname": "예비군_3009",
+  "ageBand": "30대 후반",
+  "loginId": "reservist084",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0085",
+  "role": "RESERVIST",
+  "nickname": "예비군_1118",
+  "ageBand": "30대 후반",
+  "loginId": "reservist085",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0086",
+  "role": "RESERVIST",
+  "nickname": "예비군_6768",
+  "ageBand": "20대 후반",
+  "loginId": "reservist086",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0087",
+  "role": "RESERVIST",
+  "nickname": "예비군_4897",
+  "ageBand": "20대 후반",
+  "loginId": "reservist087",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0088",
+  "role": "RESERVIST",
+  "nickname": "예비군_7458",
+  "ageBand": "20대 후반",
+  "loginId": "reservist088",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0089",
+  "role": "RESERVIST",
+  "nickname": "예비군_9308",
+  "ageBand": "30대 후반",
+  "loginId": "reservist089",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0090",
+  "role": "RESERVIST",
+  "nickname": "예비군_9231",
+  "ageBand": "30대 초반",
+  "loginId": "reservist090",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0091",
+  "role": "RESERVIST",
+  "nickname": "예비군_1502",
+  "ageBand": "30대 초반",
+  "loginId": "reservist091",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0092",
+  "role": "RESERVIST",
+  "nickname": "예비군_9416",
+  "ageBand": "20대 초반",
+  "loginId": "reservist092",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0093",
+  "role": "RESERVIST",
+  "nickname": "예비군_2916",
+  "ageBand": "30대 후반",
+  "loginId": "reservist093",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0094",
+  "role": "RESERVIST",
+  "nickname": "예비군_6595",
+  "ageBand": "30대 초반",
+  "loginId": "reservist094",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0095",
+  "role": "RESERVIST",
+  "nickname": "예비군_8266",
+  "ageBand": "20대 후반",
+  "loginId": "reservist095",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0096",
+  "role": "RESERVIST",
+  "nickname": "예비군_9034",
+  "ageBand": "30대 초반",
+  "loginId": "reservist096",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0097",
+  "role": "RESERVIST",
+  "nickname": "예비군_8732",
+  "ageBand": "20대 초반",
+  "loginId": "reservist097",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0098",
+  "role": "RESERVIST",
+  "nickname": "예비군_7625",
+  "ageBand": "30대 후반",
+  "loginId": "reservist098",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0099",
+  "role": "RESERVIST",
+  "nickname": "예비군_5368",
+  "ageBand": "30대 초반",
+  "loginId": "reservist099",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0100",
+  "role": "RESERVIST",
+  "nickname": "예비군_6301",
+  "ageBand": "30대 후반",
+  "loginId": "reservist100",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0101",
+  "role": "RESERVIST",
+  "nickname": "예비군_1795",
+  "ageBand": "20대 후반",
+  "loginId": "reservist101",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0102",
+  "role": "RESERVIST",
+  "nickname": "예비군_4486",
+  "ageBand": "30대 초반",
+  "loginId": "reservist102",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0103",
+  "role": "RESERVIST",
+  "nickname": "예비군_8212",
+  "ageBand": "20대 초반",
+  "loginId": "reservist103",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0104",
+  "role": "RESERVIST",
+  "nickname": "예비군_3081",
+  "ageBand": "30대 초반",
+  "loginId": "reservist104",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0105",
+  "role": "RESERVIST",
+  "nickname": "예비군_6309",
+  "ageBand": "30대 후반",
+  "loginId": "reservist105",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0106",
+  "role": "RESERVIST",
+  "nickname": "예비군_5278",
+  "ageBand": "20대 후반",
+  "loginId": "reservist106",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0107",
+  "role": "RESERVIST",
+  "nickname": "예비군_4095",
+  "ageBand": "20대 초반",
+  "loginId": "reservist107",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0108",
+  "role": "RESERVIST",
+  "nickname": "예비군_9380",
+  "ageBand": "20대 후반",
+  "loginId": "reservist108",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0109",
+  "role": "RESERVIST",
+  "nickname": "예비군_4871",
+  "ageBand": "30대 후반",
+  "loginId": "reservist109",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0110",
+  "role": "RESERVIST",
+  "nickname": "예비군_4804",
+  "ageBand": "30대 후반",
+  "loginId": "reservist110",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0111",
+  "role": "RESERVIST",
+  "nickname": "예비군_5887",
+  "ageBand": "30대 초반",
+  "loginId": "reservist111",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0112",
+  "role": "RESERVIST",
+  "nickname": "예비군_6680",
+  "ageBand": "20대 후반",
+  "loginId": "reservist112",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0113",
+  "role": "RESERVIST",
+  "nickname": "예비군_1114",
+  "ageBand": "20대 초반",
+  "loginId": "reservist113",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0114",
+  "role": "RESERVIST",
+  "nickname": "예비군_8033",
+  "ageBand": "20대 후반",
+  "loginId": "reservist114",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0115",
+  "role": "RESERVIST",
+  "nickname": "예비군_8049",
+  "ageBand": "20대 초반",
+  "loginId": "reservist115",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0116",
+  "role": "RESERVIST",
+  "nickname": "예비군_9541",
+  "ageBand": "20대 후반",
+  "loginId": "reservist116",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0117",
+  "role": "RESERVIST",
+  "nickname": "예비군_7714",
+  "ageBand": "30대 후반",
+  "loginId": "reservist117",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0118",
+  "role": "RESERVIST",
+  "nickname": "예비군_4000",
+  "ageBand": "30대 초반",
+  "loginId": "reservist118",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0119",
+  "role": "RESERVIST",
+  "nickname": "예비군_8362",
+  "ageBand": "20대 초반",
+  "loginId": "reservist119",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0120",
+  "role": "RESERVIST",
+  "nickname": "예비군_4067",
+  "ageBand": "20대 후반",
+  "loginId": "reservist120",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0121",
+  "role": "RESERVIST",
+  "nickname": "예비군_2626",
+  "ageBand": "30대 후반",
+  "loginId": "reservist121",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0122",
+  "role": "RESERVIST",
+  "nickname": "예비군_3700",
+  "ageBand": "20대 초반",
+  "loginId": "reservist122",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0123",
+  "role": "RESERVIST",
+  "nickname": "예비군_1821",
+  "ageBand": "30대 초반",
+  "loginId": "reservist123",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0124",
+  "role": "RESERVIST",
+  "nickname": "예비군_7578",
+  "ageBand": "30대 후반",
+  "loginId": "reservist124",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0125",
+  "role": "RESERVIST",
+  "nickname": "예비군_1091",
+  "ageBand": "30대 후반",
+  "loginId": "reservist125",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0126",
+  "role": "RESERVIST",
+  "nickname": "예비군_9450",
+  "ageBand": "20대 초반",
+  "loginId": "reservist126",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0127",
+  "role": "RESERVIST",
+  "nickname": "예비군_6098",
+  "ageBand": "30대 후반",
+  "loginId": "reservist127",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0128",
+  "role": "RESERVIST",
+  "nickname": "예비군_6742",
+  "ageBand": "30대 초반",
+  "loginId": "reservist128",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0129",
+  "role": "RESERVIST",
+  "nickname": "예비군_6463",
+  "ageBand": "20대 후반",
+  "loginId": "reservist129",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0130",
+  "role": "RESERVIST",
+  "nickname": "예비군_3335",
+  "ageBand": "30대 초반",
+  "loginId": "reservist130",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0131",
+  "role": "RESERVIST",
+  "nickname": "예비군_6186",
+  "ageBand": "20대 후반",
+  "loginId": "reservist131",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0132",
+  "role": "RESERVIST",
+  "nickname": "예비군_3164",
+  "ageBand": "30대 초반",
+  "loginId": "reservist132",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0133",
+  "role": "RESERVIST",
+  "nickname": "예비군_1683",
+  "ageBand": "30대 초반",
+  "loginId": "reservist133",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0134",
+  "role": "RESERVIST",
+  "nickname": "예비군_8915",
+  "ageBand": "30대 후반",
+  "loginId": "reservist134",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0135",
+  "role": "RESERVIST",
+  "nickname": "예비군_5482",
+  "ageBand": "20대 초반",
+  "loginId": "reservist135",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0136",
+  "role": "RESERVIST",
+  "nickname": "예비군_7323",
+  "ageBand": "20대 초반",
+  "loginId": "reservist136",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0137",
+  "role": "RESERVIST",
+  "nickname": "예비군_7748",
+  "ageBand": "30대 후반",
+  "loginId": "reservist137",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0138",
+  "role": "RESERVIST",
+  "nickname": "예비군_2832",
+  "ageBand": "30대 초반",
+  "loginId": "reservist138",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0139",
+  "role": "RESERVIST",
+  "nickname": "예비군_2796",
+  "ageBand": "20대 초반",
+  "loginId": "reservist139",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0140",
+  "role": "RESERVIST",
+  "nickname": "예비군_9527",
+  "ageBand": "20대 초반",
+  "loginId": "reservist140",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0141",
+  "role": "RESERVIST",
+  "nickname": "예비군_5079",
+  "ageBand": "30대 후반",
+  "loginId": "reservist141",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0142",
+  "role": "RESERVIST",
+  "nickname": "예비군_1246",
+  "ageBand": "30대 초반",
+  "loginId": "reservist142",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0143",
+  "role": "RESERVIST",
+  "nickname": "예비군_2077",
+  "ageBand": "20대 초반",
+  "loginId": "reservist143",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0144",
+  "role": "RESERVIST",
+  "nickname": "예비군_8606",
+  "ageBand": "20대 초반",
+  "loginId": "reservist144",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0145",
+  "role": "RESERVIST",
+  "nickname": "예비군_8990",
+  "ageBand": "30대 후반",
+  "loginId": "reservist145",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0146",
+  "role": "RESERVIST",
+  "nickname": "예비군_9733",
+  "ageBand": "30대 초반",
+  "loginId": "reservist146",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0147",
+  "role": "RESERVIST",
+  "nickname": "예비군_2394",
+  "ageBand": "30대 후반",
+  "loginId": "reservist147",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0148",
+  "role": "RESERVIST",
+  "nickname": "예비군_6919",
+  "ageBand": "30대 후반",
+  "loginId": "reservist148",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0149",
+  "role": "RESERVIST",
+  "nickname": "예비군_7016",
+  "ageBand": "20대 초반",
+  "loginId": "reservist149",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0150",
+  "role": "RESERVIST",
+  "nickname": "예비군_3051",
+  "ageBand": "30대 후반",
+  "loginId": "reservist150",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0151",
+  "role": "RESERVIST",
+  "nickname": "예비군_3810",
+  "ageBand": "30대 후반",
+  "loginId": "reservist151",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0152",
+  "role": "RESERVIST",
+  "nickname": "예비군_2706",
+  "ageBand": "20대 후반",
+  "loginId": "reservist152",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0153",
+  "role": "RESERVIST",
+  "nickname": "예비군_2770",
+  "ageBand": "30대 후반",
+  "loginId": "reservist153",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0154",
+  "role": "RESERVIST",
+  "nickname": "예비군_8635",
+  "ageBand": "30대 후반",
+  "loginId": "reservist154",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0155",
+  "role": "RESERVIST",
+  "nickname": "예비군_4927",
+  "ageBand": "20대 초반",
+  "loginId": "reservist155",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0156",
+  "role": "RESERVIST",
+  "nickname": "예비군_9823",
+  "ageBand": "20대 초반",
+  "loginId": "reservist156",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0157",
+  "role": "RESERVIST",
+  "nickname": "예비군_5782",
+  "ageBand": "30대 후반",
+  "loginId": "reservist157",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0158",
+  "role": "RESERVIST",
+  "nickname": "예비군_6891",
+  "ageBand": "30대 초반",
+  "loginId": "reservist158",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0159",
+  "role": "RESERVIST",
+  "nickname": "예비군_3311",
+  "ageBand": "30대 후반",
+  "loginId": "reservist159",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0160",
+  "role": "RESERVIST",
+  "nickname": "예비군_6185",
+  "ageBand": "20대 후반",
+  "loginId": "reservist160",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0161",
+  "role": "RESERVIST",
+  "nickname": "예비군_1405",
+  "ageBand": "20대 후반",
+  "loginId": "reservist161",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0162",
+  "role": "RESERVIST",
+  "nickname": "예비군_4795",
+  "ageBand": "20대 후반",
+  "loginId": "reservist162",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0163",
+  "role": "RESERVIST",
+  "nickname": "예비군_8776",
+  "ageBand": "30대 초반",
+  "loginId": "reservist163",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0164",
+  "role": "RESERVIST",
+  "nickname": "예비군_2995",
+  "ageBand": "20대 후반",
+  "loginId": "reservist164",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0165",
+  "role": "RESERVIST",
+  "nickname": "예비군_4009",
+  "ageBand": "20대 초반",
+  "loginId": "reservist165",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0166",
+  "role": "RESERVIST",
+  "nickname": "예비군_8866",
+  "ageBand": "30대 초반",
+  "loginId": "reservist166",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0167",
+  "role": "RESERVIST",
+  "nickname": "예비군_9292",
+  "ageBand": "30대 후반",
+  "loginId": "reservist167",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0168",
+  "role": "RESERVIST",
+  "nickname": "예비군_7040",
+  "ageBand": "30대 후반",
+  "loginId": "reservist168",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0169",
+  "role": "RESERVIST",
+  "nickname": "예비군_2265",
+  "ageBand": "20대 초반",
+  "loginId": "reservist169",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0170",
+  "role": "RESERVIST",
+  "nickname": "예비군_1257",
+  "ageBand": "30대 후반",
+  "loginId": "reservist170",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0171",
+  "role": "RESERVIST",
+  "nickname": "예비군_1187",
+  "ageBand": "30대 후반",
+  "loginId": "reservist171",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0172",
+  "role": "RESERVIST",
+  "nickname": "예비군_3511",
+  "ageBand": "30대 초반",
+  "loginId": "reservist172",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0173",
+  "role": "RESERVIST",
+  "nickname": "예비군_6293",
+  "ageBand": "30대 후반",
+  "loginId": "reservist173",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0174",
+  "role": "RESERVIST",
+  "nickname": "예비군_1835",
+  "ageBand": "20대 후반",
+  "loginId": "reservist174",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0175",
+  "role": "RESERVIST",
+  "nickname": "예비군_5732",
+  "ageBand": "30대 후반",
+  "loginId": "reservist175",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0176",
+  "role": "RESERVIST",
+  "nickname": "예비군_6760",
+  "ageBand": "30대 후반",
+  "loginId": "reservist176",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0177",
+  "role": "RESERVIST",
+  "nickname": "예비군_4053",
+  "ageBand": "30대 초반",
+  "loginId": "reservist177",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0178",
+  "role": "RESERVIST",
+  "nickname": "예비군_6550",
+  "ageBand": "20대 초반",
+  "loginId": "reservist178",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0179",
+  "role": "RESERVIST",
+  "nickname": "예비군_7641",
+  "ageBand": "20대 초반",
+  "loginId": "reservist179",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0180",
+  "role": "RESERVIST",
+  "nickname": "예비군_2976",
+  "ageBand": "30대 초반",
+  "loginId": "reservist180",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0181",
+  "role": "RESERVIST",
+  "nickname": "예비군_6189",
+  "ageBand": "30대 후반",
+  "loginId": "reservist181",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0182",
+  "role": "RESERVIST",
+  "nickname": "예비군_6230",
+  "ageBand": "30대 초반",
+  "loginId": "reservist182",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0183",
+  "role": "RESERVIST",
+  "nickname": "예비군_2116",
+  "ageBand": "20대 후반",
+  "loginId": "reservist183",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0184",
+  "role": "RESERVIST",
+  "nickname": "예비군_1688",
+  "ageBand": "20대 후반",
+  "loginId": "reservist184",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0185",
+  "role": "RESERVIST",
+  "nickname": "예비군_5829",
+  "ageBand": "20대 후반",
+  "loginId": "reservist185",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0186",
+  "role": "RESERVIST",
+  "nickname": "예비군_8659",
+  "ageBand": "20대 초반",
+  "loginId": "reservist186",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0187",
+  "role": "RESERVIST",
+  "nickname": "예비군_9873",
+  "ageBand": "20대 후반",
+  "loginId": "reservist187",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0188",
+  "role": "RESERVIST",
+  "nickname": "예비군_7118",
+  "ageBand": "30대 초반",
+  "loginId": "reservist188",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0189",
+  "role": "RESERVIST",
+  "nickname": "예비군_6913",
+  "ageBand": "30대 후반",
+  "loginId": "reservist189",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0190",
+  "role": "RESERVIST",
+  "nickname": "예비군_6923",
+  "ageBand": "20대 후반",
+  "loginId": "reservist190",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0191",
+  "role": "RESERVIST",
+  "nickname": "예비군_9185",
+  "ageBand": "20대 초반",
+  "loginId": "reservist191",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0192",
+  "role": "RESERVIST",
+  "nickname": "예비군_7002",
+  "ageBand": "30대 후반",
+  "loginId": "reservist192",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0193",
+  "role": "RESERVIST",
+  "nickname": "예비군_5228",
+  "ageBand": "20대 초반",
+  "loginId": "reservist193",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0194",
+  "role": "RESERVIST",
+  "nickname": "예비군_7427",
+  "ageBand": "20대 초반",
+  "loginId": "reservist194",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0195",
+  "role": "RESERVIST",
+  "nickname": "예비군_9744",
+  "ageBand": "20대 초반",
+  "loginId": "reservist195",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0196",
+  "role": "RESERVIST",
+  "nickname": "예비군_3971",
+  "ageBand": "30대 후반",
+  "loginId": "reservist196",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0197",
+  "role": "RESERVIST",
+  "nickname": "예비군_5387",
+  "ageBand": "20대 후반",
+  "loginId": "reservist197",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0198",
+  "role": "RESERVIST",
+  "nickname": "예비군_5585",
+  "ageBand": "20대 후반",
+  "loginId": "reservist198",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0199",
+  "role": "RESERVIST",
+  "nickname": "예비군_1100",
+  "ageBand": "20대 후반",
+  "loginId": "reservist199",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_0200",
+  "role": "RESERVIST",
+  "nickname": "예비군_8468",
+  "ageBand": "20대 초반",
+  "loginId": "reservist200",
+  "managedRangeId": null
+ },
+ {
+  "id": "usr_demo",
+  "role": "RESERVIST",
+  "nickname": "예비군_0417",
+  "ageBand": "20대 후반",
+  "loginId": "demo",
+  "managedRangeId": null
+ },
+ {
+  "id": "mgr_R_A01",
+  "role": "RANGE_MANAGER",
+  "nickname": "A훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_ra01",
+  "managedRangeId": "rng_R_A01"
+ },
+ {
+  "id": "mgr_R_B02",
+  "role": "RANGE_MANAGER",
+  "nickname": "B훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rb02",
+  "managedRangeId": "rng_R_B02"
+ },
+ {
+  "id": "mgr_R_C03",
+  "role": "RANGE_MANAGER",
+  "nickname": "C훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rc03",
+  "managedRangeId": "rng_R_C03"
+ },
+ {
+  "id": "mgr_R_D04",
+  "role": "RANGE_MANAGER",
+  "nickname": "D훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rd04",
+  "managedRangeId": "rng_R_D04"
+ },
+ {
+  "id": "mgr_R_E05",
+  "role": "RANGE_MANAGER",
+  "nickname": "E훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_re05",
+  "managedRangeId": "rng_R_E05"
+ },
+ {
+  "id": "mgr_R_F06",
+  "role": "RANGE_MANAGER",
+  "nickname": "F훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rf06",
+  "managedRangeId": "rng_R_F06"
+ },
+ {
+  "id": "mgr_R_G07",
+  "role": "RANGE_MANAGER",
+  "nickname": "G훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rg07",
+  "managedRangeId": "rng_R_G07"
+ },
+ {
+  "id": "mgr_R_H08",
+  "role": "RANGE_MANAGER",
+  "nickname": "H훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rh08",
+  "managedRangeId": "rng_R_H08"
+ },
+ {
+  "id": "mgr_R_I09",
+  "role": "RANGE_MANAGER",
+  "nickname": "I훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_ri09",
+  "managedRangeId": "rng_R_I09"
+ },
+ {
+  "id": "mgr_R_J10",
+  "role": "RANGE_MANAGER",
+  "nickname": "J훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rj10",
+  "managedRangeId": "rng_R_J10"
+ },
+ {
+  "id": "mgr_R_K11",
+  "role": "RANGE_MANAGER",
+  "nickname": "K훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rk11",
+  "managedRangeId": "rng_R_K11"
+ },
+ {
+  "id": "mgr_R_L12",
+  "role": "RANGE_MANAGER",
+  "nickname": "L훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rl12",
+  "managedRangeId": "rng_R_L12"
+ },
+ {
+  "id": "mgr_R_M13",
+  "role": "RANGE_MANAGER",
+  "nickname": "M훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rm13",
+  "managedRangeId": "rng_R_M13"
+ },
+ {
+  "id": "mgr_R_N14",
+  "role": "RANGE_MANAGER",
+  "nickname": "N훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rn14",
+  "managedRangeId": "rng_R_N14"
+ },
+ {
+  "id": "mgr_R_O15",
+  "role": "RANGE_MANAGER",
+  "nickname": "O훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_ro15",
+  "managedRangeId": "rng_R_O15"
+ },
+ {
+  "id": "mgr_R_P16",
+  "role": "RANGE_MANAGER",
+  "nickname": "P훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rp16",
+  "managedRangeId": "rng_R_P16"
+ },
+ {
+  "id": "mgr_R_Q17",
+  "role": "RANGE_MANAGER",
+  "nickname": "Q훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rq17",
+  "managedRangeId": "rng_R_Q17"
+ },
+ {
+  "id": "mgr_R_R18",
+  "role": "RANGE_MANAGER",
+  "nickname": "R훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rr18",
+  "managedRangeId": "rng_R_R18"
+ },
+ {
+  "id": "mgr_R_S19",
+  "role": "RANGE_MANAGER",
+  "nickname": "S훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rs19",
+  "managedRangeId": "rng_R_S19"
+ },
+ {
+  "id": "mgr_R_T20",
+  "role": "RANGE_MANAGER",
+  "nickname": "T훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rt20",
+  "managedRangeId": "rng_R_T20"
+ },
+ {
+  "id": "mgr_R_U21",
+  "role": "RANGE_MANAGER",
+  "nickname": "U훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_ru21",
+  "managedRangeId": "rng_R_U21"
+ },
+ {
+  "id": "mgr_R_V22",
+  "role": "RANGE_MANAGER",
+  "nickname": "V훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rv22",
+  "managedRangeId": "rng_R_V22"
+ },
+ {
+  "id": "mgr_R_W23",
+  "role": "RANGE_MANAGER",
+  "nickname": "W훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rw23",
+  "managedRangeId": "rng_R_W23"
+ },
+ {
+  "id": "mgr_R_X24",
+  "role": "RANGE_MANAGER",
+  "nickname": "X훈련장 담당자",
+  "ageBand": null,
+  "loginId": "manager_rx24",
+  "managedRangeId": "rng_R_X24"
+ },
+ {
+  "id": "adm_0001",
+  "role": "POLICY_ADMIN",
+  "nickname": "정책 담당자",
+  "ageBand": null,
+  "loginId": "policy",
+  "managedRangeId": null
+ }
+]

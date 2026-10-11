@@ -1,0 +1,845 @@
+[
+ {
+  "kind": "normal",
+  "text": "점심 배식 줄이 너무 길어서 30분 넘게 기다렸어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "식당이 좁아서 앉을 자리가 부족합니다",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "셔틀버스가 하루에 두 번밖에 없어서 불편해요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "화장실 휴지가 오후에 다 떨어졌어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "대기시간이 길어서 휴게 공간이 더 있으면 좋겠습니다",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "훈련비 입금이 2주 넘게 늦어졌어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "피복 사이즈가 맞는 게 없어서 바지가 너무 컸어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "사전 안내 문자가 훈련 전날에야 왔어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "주차 공간이 부족해서 갓길에 세웠습니다",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "메뉴가 3일 내내 비슷했어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "냉방이 안 돼서 강의실이 너무 더웠어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "교육 내용이 작년과 똑같아서 지루했습니다",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "현장 안내 표지판이 없어서 입소 장소를 헤맸어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "문의 전화를 했는데 아무도 받지 않았어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "조기 퇴소 기준이 매번 달라서 헷갈립니다",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "식사량이 적어서 오후에 배가 고팠어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "탈의 공간이 없어서 복도에서 갈아입었어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "전투화 끈이 다 해져 있었어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "교통비 지급 기준을 미리 알려주면 좋겠어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "행정 서류를 종이로 또 써야 해서 번거로웠어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "일정이 1시간 넘게 지연됐는데 설명이 없었어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "대중교통으로 가는 방법을 홈페이지에 안내해 주세요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "식당 위생이 개선되어서 만족했어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "휴게실 정수기가 고장 나 있었어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "난방이 너무 세서 오히려 답답했어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "버스 정류장에서 훈련장까지 걸어서 40분 걸려요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "조교님들이 친절하게 안내해 주셨어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "우리 중대장님이 설명을 잘해 주셨어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "소대장님 덕분에 빨리 끝났습니다",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "정말 진지하게 교육해 주셔서 좋았어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "부대찌개가 나와서 맛있었어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "20대 후반 예비군인데 처음 동원훈련 왔어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "향방작계훈련 대기시간이 너무 길었어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "오전 교육 후 점심까지 1시간 대기했어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "매점 카드 결제가 안 돼서 불편했어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "와이파이 비밀번호를 안내판에 적어 주세요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "입소 절차가 간소화되면 좋겠습니다",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "신분증 확인 줄이 너무 길었어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "우천 시 실내 교육으로 바뀌는 기준을 알려주세요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "물이 부족해서 매점에서 사 마셨어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "휴대폰 보관함이 부족했어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "안내 방송이 잘 안 들렸어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "배식구를 늘리면 대기시간이 줄 것 같아요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "교대 배식을 하니까 확실히 빨라졌어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "셔틀 시간표가 바뀌었는데 공지가 없었어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "전역한 지 3년 됐는데 피복 지급 방식이 그대로네요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "동원훈련 2박 3일 동안 샤워 시설이 하나뿐이었어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "화장실 칸이 3개밖에 없어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "휴게 공간에 의자가 부족했어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "훈련 일정 변경 문자를 늦게 받았어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "행정반 문의 응대가 친절했어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "식판이 덜 말라 있었어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "교육장 마이크 소리가 작았어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "사단법인에서 나눠준 기념품이 좋았어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "3단계 입소 절차가 복잡했어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "버스가 만차여서 다음 차를 30분 기다렸어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "분실물 안내가 따로 없었어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "매점 가격이 시중보다 쌌어요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "주차장에서 교육장까지 안내 요원이 있었으면 해요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "작년보다 훨씬 나아졌어요, 감사합니다",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "mask",
+  "text": "○사단 식당 배식 줄이 너무 길어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "UNIT",
+    "text": "○사단"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "3사단 훈련장 화장실이 더러워요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "UNIT",
+    "text": "3사단"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "제3보병사단 식당이 좁아요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "UNIT",
+    "text": "제3보병사단"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "52사단 213연대 2대대에서 훈련받았어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "UNIT",
+    "text": "52사단"
+   },
+   {
+    "type": "UNIT",
+    "text": "213연대"
+   },
+   {
+    "type": "UNIT",
+    "text": "2대대"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "백골부대 출신인데 셔틀이 부족했어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "UNIT",
+    "text": "백골부대"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "김민수 상병이 친절하게 안내했어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "PERSON",
+    "text": "김민수 상병"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "박OO 하사님이 설명을 잘해 주셨어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "PERSON",
+    "text": "박OO 하사님"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "이준호 교관님 교육이 좋았어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "PERSON",
+    "text": "이준호 교관님"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "최 중사님이 배식을 도와주셨어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "PERSON",
+    "text": "최 중사님"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "K2 소총 지급이 너무 늦었어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "WEAPON",
+    "text": "K2"
+   },
+   {
+    "type": "WEAPON",
+    "text": "소총"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "K2C1 총기 상태가 안 좋았어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "WEAPON",
+    "text": "K2C1"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "M16 대신 K1A1을 받았어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "WEAPON",
+    "text": "M16"
+   },
+   {
+    "type": "WEAPON",
+    "text": "K1A1"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "실탄 사격 대기시간이 2시간이었어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "WEAPON",
+    "text": "실탄"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "야간투시경 교육이 인상적이었어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "WEAPON",
+    "text": "야간투시경"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "공포탄 소리 때문에 깜짝 놀랐어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "WEAPON",
+    "text": "공포탄"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "진지 공사 시간이 너무 길었어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "OPS",
+    "text": "진지"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "초소 근처에 화장실이 없어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "OPS",
+    "text": "초소"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "비상소집 연락이 늦게 왔어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "OPS",
+    "text": "비상소집"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "탄약고 앞에서 30분 대기했어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "FACILITY",
+    "text": "탄약고"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "지휘소 옆 휴게실이 좁아요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "FACILITY",
+    "text": "지휘소"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "문의는 010-1234-5678로 했어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "PHONE",
+    "text": "010-1234-5678"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "행정반 031-123-4567 번호가 안 받아요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "PHONE",
+    "text": "031-123-4567"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "군번 21-12345678 확인이 오래 걸렸어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "MIL_ID",
+    "text": "21-12345678"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "주민번호 900101-1234567을 또 적으라고 했어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "RRN",
+    "text": "900101-1234567"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "제 차 12가 3456이 주차 딱지를 받았어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "PLATE",
+    "text": "12가 3456"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "결과는 reservist@example.com 으로 보내 주세요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "EMAIL",
+    "text": "reservist@example.com"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "3 사단 김철수 중대장님이 K2 탄약 배분을 했어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "UNIT",
+    "text": "3 사단"
+   },
+   {
+    "type": "PERSON",
+    "text": "김철수 중대장님"
+   },
+   {
+    "type": "WEAPON",
+    "text": "K2"
+   },
+   {
+    "type": "WEAPON",
+    "text": "탄약"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "○○부대 식당 위생이 개선됐어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "UNIT",
+    "text": "○○부대"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "동원지정 통지서가 늦게 왔어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "OPS",
+    "text": "동원지정"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "가평읍 산 12-3번지 근처 훈련장 길이 험해요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "LOCATION",
+    "text": "가평읍 산 12-3번지"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "연막탄 훈련 후 옷에서 냄새가 났어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "WEAPON",
+    "text": "연막탄"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "1중대 정 하사가 인원 파악을 했어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "UNIT",
+    "text": "1중대"
+   },
+   {
+    "type": "PERSON",
+    "text": "정 하사"
+   }
+  ]
+ },
+ {
+  "kind": "block",
+  "text": "52SCG 12345 67890 지점에 집결했어요",
+  "blocked": true,
+  "entities": null,
+  "reasons": [
+   "좌표 포함"
+  ]
+ },
+ {
+  "kind": "block",
+  "text": "37.5123, 127.0456 근처 훈련장이에요",
+  "blocked": true,
+  "entities": null,
+  "reasons": [
+   "좌표 포함"
+  ]
+ },
+ {
+  "kind": "block",
+  "text": "암구호를 몰라서 정문에서 막혔어요",
+  "blocked": true,
+  "entities": null,
+  "reasons": [
+   "암구호·출입 비밀번호 언급"
+  ]
+ },
+ {
+  "kind": "block",
+  "text": "작전계획 내용을 교육 중에 들었어요",
+  "blocked": true,
+  "entities": null,
+  "reasons": [
+   "작전계획 언급"
+  ]
+ },
+ {
+  "kind": "block",
+  "text": "작계 내용이 너무 자세하게 공개됐어요",
+  "blocked": true,
+  "entities": null,
+  "reasons": [
+   "작전계획 언급"
+  ]
+ },
+ {
+  "kind": "block",
+  "text": "탄약고 위치가 식당 바로 뒤라 위험해요",
+  "blocked": true,
+  "entities": null,
+  "reasons": [
+   "주요 시설 위치 언급"
+  ]
+ },
+ {
+  "kind": "block",
+  "text": "후문 쪽 경계가 취약해 보였어요",
+  "blocked": true,
+  "entities": null,
+  "reasons": [
+   "경계·보안 취약점 언급"
+  ]
+ },
+ {
+  "kind": "block",
+  "text": "출입 비밀번호가 1234라서 놀랐어요",
+  "blocked": true,
+  "entities": null,
+  "reasons": [
+   "암구호·출입 비밀번호 언급"
+  ]
+ },
+ {
+  "kind": "block",
+  "text": "이건 대외비라고 했는데 공유합니다",
+  "blocked": true,
+  "entities": null,
+  "reasons": [
+   "비밀 등급 정보 언급"
+  ]
+ },
+ {
+  "kind": "block",
+  "text": "북위 37도 근처 산속이라 교통이 불편해요",
+  "blocked": true,
+  "entities": null,
+  "reasons": [
+   "좌표 포함"
+  ]
+ },
+ {
+  "kind": "block",
+  "text": "무기고 위치를 지도에 표시해 주세요",
+  "blocked": true,
+  "entities": null,
+  "reasons": [
+   "주요 시설 위치 언급"
+  ]
+ }
+]

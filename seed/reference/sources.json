@@ -1,0 +1,62 @@
+{
+  "retrievedAt": "2026-10-11",
+  "sources": [
+    {
+      "id": "mnd-ranges",
+      "title": "국방부_예비군 훈련장 정보 (공공데이터포털)",
+      "url": "https://www.data.go.kr/dcat/metadata/15050550",
+      "publisher": "국방부 자원동원과",
+      "usedFor": "실제 훈련장 목록·위치 (scripts/convert_mnd_ranges.py 입력). 파일은 사용자가 직접 내려받아야 함",
+      "fields": ["훈련장", "군구", "시도", "주소", "약도", "훈련장 유형명", "훈련장 형태명", "훈련장 종류명", "훈련장 전화번호"],
+      "lastModified": "2026-05-18"
+    },
+    {
+      "id": "acrc-2023-recommendation",
+      "title": "국민권익위원회 예비군 제도 개선 권고 (2023.7.10 의결, 2023.7.27 보도)",
+      "url": "https://www.psnews.co.kr/news/articleView.html?idxno=2029446",
+      "usedFor": "카테고리 분포(config/category_distribution.csv), 개선 사례 근거(best_practices_basis.json)",
+      "facts": {
+        "analyzedComplaints": "최근 3년 4개월간 약 22,000건",
+        "fiveYearComplaints": "최근 5년간 약 42,000건 (연평균 약 8,000건)",
+        "shares": {
+          "관리시스템(소집 통지 방식 등)": 29.2,
+          "원거리 훈련장": 26.3,
+          "급식 품질": 25.4,
+          "입소 지연 처리": 8.8,
+          "한부모 가정 훈련 변경 요청": 7.4,
+          "휴일 훈련 제도 확대 요청": 3.0
+        }
+      }
+    },
+    {
+      "id": "acrc-2023-forecast",
+      "title": "권익위 예비군 훈련 민원 분석 (2023.4.12 보도)",
+      "url": "https://www.ajunews.com/view/20230412134053364",
+      "usedFor": "월별 가중치(config/monthly_weights.csv) 4~5월 값",
+      "facts": {
+        "period": "2020.1 ~ 2022.12",
+        "total": 20284,
+        "aprMayShare": 34.8,
+        "growth2022": "전년 대비 233.4% 증가"
+      }
+    },
+    {
+      "id": "edaily-meal-cases",
+      "title": "이데일리, 예비군 급식 민원 사례 (2023.4.12)",
+      "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02315686635575464",
+      "usedFor": "급식 제안 템플릿 문장의 소재 (문장은 새로 작성, 원문 인용 아님)"
+    },
+    {
+      "id": "kostat-boundary-2013",
+      "title": "통계청 센서스용 행정구역경계 2013 (southkorea-maps 가공본)",
+      "url": "https://github.com/southkorea/southkorea-maps",
+      "usedFor": "geo/*.geo.json, geo/sigungu_centroids.csv",
+      "note": "2013년 기준이라 이후 행정구역 변경(예: 군위군 대구 편입, 강원·전북 특별자치도 명칭)은 변환기에서 보정. 실서비스는 최신 SGIS 경계로 교체 권장"
+    }
+  ],
+  "assumptions": [
+    "FACILITY·EQUIPMENT·ETC 카테고리 비중(합 15%)은 권익위 통계에 없는 현장 환경 항목이라 임의로 정한 가정치",
+    "4~5월 외 월별 가중치는 훈련 시즌을 고려한 가정치",
+    "훈련장별 만족도 점수, 후기, 제안 문장, 사용자는 모두 가상 데이터"
+  ]
+}

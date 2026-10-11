@@ -1,0 +1,116 @@
+@import "tailwindcss";
+/* Pretendard: npm 패키지에서 로컬 번들 (CDN·Google Fonts 사용 금지, 명세 §2) */
+@import "pretendard/dist/web/variable/pretendardvariable.css";
+
+/* 디자인 토큰 (명세 §6.8): 국방 녹색 계열 1개를 주색으로, 상태색 고정, 빨강은 "7일 이상 미처리"·"차단"에만 */
+:root {
+  /* 베이지 바탕 + 딥 그린 헤더를 포인트로. 빨강은 "7일 이상 미처리"·"차단"에만 (명세 §6.8) */
+  --c-bg: #f9f7f2;               /* 옅은 베이지 (채도 낮춤) */
+  --c-surface: #fffefc;          /* 따뜻한 흰색 카드 */
+  --c-surface-2: #f2efe8;
+  --c-border: #e7e3da;
+  --c-text: #161616;
+  --c-text-2: #55534f;
+  --c-text-3: #8f8c86;
+  --c-primary: #161616;          /* 주 버튼은 잉크색 */
+  --c-primary-hover: #000000;
+  --c-primary-soft: #f0ece4;
+  --c-on-primary: #ffffff;
+  --c-accent: #1f4d3a;           /* 브랜드 포인트 (딥 그린) */
+  --c-accent-soft: #e4ebe2;
+  --c-on-accent: #f4efe4;        /* 녹색 위 글자 (베이지 톤) */
+  --c-on-accent-2: #b9c9bd;      /* 녹색 위 보조 글자 */
+
+  --c-status-received: #a3a19b;
+  --c-status-reviewing: #c08a3e;
+  --c-status-planned: #3f6c9e;
+  --c-status-done: #2f6d50;
+  --c-status-longterm: #7b6d9e;
+
+  --c-score-high: #2f6d50;
+  --c-score-mid: #b4914a;
+  --c-score-low: #b85c3c;
+  --c-score-none: #c8c5be;
+
+  --c-danger: #b42318;
+  --c-danger-soft: #fbeceb;
+  --c-warn: #b4914a;
+  --c-warn-soft: #faf5ea;
+  --c-ai: #3d4a8a;
+  --c-ai-soft: #eef0f7;
+
+  --c-map-land: #ebe7de;
+  --c-map-land-hover: #e0dbd0;
+  --c-map-stroke: #fffefc;
+  --c-map-sea: #f9f7f2;
+}
+
+@theme inline {
+  --font-sans: "Pretendard Variable", Pretendard, -apple-system, system-ui, sans-serif;
+  --color-bg: var(--c-bg);
+  --color-surface: var(--c-surface);
+  --color-surface-2: var(--c-surface-2);
+  --color-line: var(--c-border);
+  --color-ink: var(--c-text);
+  --color-ink-2: var(--c-text-2);
+  --color-ink-3: var(--c-text-3);
+  --color-primary: var(--c-primary);
+  --color-primary-hover: var(--c-primary-hover);
+  --color-primary-soft: var(--c-primary-soft);
+  --color-accent: var(--c-accent);
+  --color-accent-soft: var(--c-accent-soft);
+  --color-on-accent: var(--c-on-accent);
+  --color-on-accent-2: var(--c-on-accent-2);
+  --color-danger: var(--c-danger);
+  --color-danger-soft: var(--c-danger-soft);
+  --color-warn: var(--c-warn);
+  --color-warn-soft: var(--c-warn-soft);
+  --color-ai: var(--c-ai);
+  --color-ai-soft: var(--c-ai-soft);
+  --color-st-received: var(--c-status-received);
+  --color-st-reviewing: var(--c-status-reviewing);
+  --color-st-planned: var(--c-status-planned);
+  --color-st-done: var(--c-status-done);
+  --color-st-longterm: var(--c-status-longterm);
+  --color-score-high: var(--c-score-high);
+  --color-score-mid: var(--c-score-mid);
+  --color-score-low: var(--c-score-low);
+  --color-score-none: var(--c-score-none);
+}
+
+html { -webkit-text-size-adjust: 100%; }
+body {
+  background: var(--c-bg);
+  color: var(--c-text);
+  font-family: var(--font-sans);
+  font-size: 15px;          /* 모바일 본문 15px 이상 */
+  line-height: 1.6;
+  letter-spacing: -0.01em;
+  -webkit-font-smoothing: antialiased;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+:focus-visible { outline: 2px solid var(--c-accent); outline-offset: 2px; }
+::selection { background: var(--c-accent-soft); }
+h1, h2, h3 { letter-spacing: -0.025em; }
+
+.scrollbar-none { scrollbar-width: none; }
+.scrollbar-none::-webkit-scrollbar { display: none; }
+
+@keyframes shimmer { 0% { background-position: -400px 0 } 100% { background-position: 400px 0 } }
+.skeleton {
+  background: linear-gradient(90deg, var(--c-surface-2) 0, #f7f8f4 50%, var(--c-surface-2) 100%);
+  background-size: 800px 100%;
+  animation: shimmer 1.2s infinite linear;
+  border-radius: 8px;
+}
+@keyframes pulse-dot { 0%, 100% { opacity: .25 } 50% { opacity: 1 } }
+.ai-dot { animation: pulse-dot 1s infinite; }
+.ai-dot:nth-child(2) { animation-delay: .15s }
+.ai-dot:nth-child(3) { animation-delay: .3s }
+
+/* 보안 경고 하이라이트 (textarea 뒤 오버레이) */
+.hl-warn { background: var(--c-warn-soft); border-bottom: 2px solid var(--c-warn); color: transparent; }
+.hl-block { background: var(--c-danger-soft); border-bottom: 2px solid var(--c-danger); color: transparent; }
+
+@media print { header, nav, footer { display: none } }

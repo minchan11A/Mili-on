@@ -1,0 +1,10 @@
+expected_type,position,categories,text,note
+UNIT,prefix,,제987사단 쪽 건물 이야기입니다.,가상의 단대호 (실제 부대 아님)
+UNIT,prefix,,제654연대 교육장 기준입니다.,가상의 단대호
+UNIT,suffix,,제321대대 앞 집결지에서도 같은 문제가 있었습니다.,가상의 단대호
+PERSON,suffix,,김예비 중사님께 말씀드렸는데 해결이 안 됐습니다.,가상 인물 + 계급
+PERSON,suffix,,박훈련 소대장님도 문제를 알고 계셨습니다.,가상 인물 + 직책
+WEAPON,suffix,OPERATION;EQUIPMENT,K2 소총 수령 줄도 마찬가지로 길었습니다.,공개된 일반 장비명
+WEAPON,suffix,OPERATION;EQUIPMENT,공포탄 지급 대기도 오래 걸렸습니다.,공개된 일반 용어
+PHONE,suffix,,연락이 필요하면 010-1234-5678로 주세요.,가상 전화번호 (개인정보 마스킹 시연용)
+FACILITY_MIL,suffix,OPERATION;FACILITY;COMMUNICATION,탄약고 옆 공터에서 대기했습니다.,군 시설 용어

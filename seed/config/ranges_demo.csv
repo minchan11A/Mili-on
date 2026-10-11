@@ -1,0 +1,25 @@
+code,name,type,sido,sigungu,setting,story
+R-A01,A훈련장,MOBILIZATION,경기도,양주시,suburban,"주인공: 식사 점수 낮음, 배식 대기시간 이슈 다수"
+R-B02,B훈련장,MOBILIZATION,경기도,포천시,suburban,
+R-C03,C훈련장,REGIONAL,경기도,화성시,suburban,
+R-D04,D훈련장,MOBILIZATION,충청남도,논산시,suburban,"배식구 증설(2026-06-15) 후 식사 점수 상승"
+R-E05,E훈련장,MOBILIZATION,강원특별자치도,인제군,rural,"산간: 교통 점수 낮음"
+R-F06,F훈련장,REGIONAL,강원특별자치도,홍천군,rural,"산간: 교통 점수 낮음"
+R-G07,G훈련장,MOBILIZATION,충청북도,괴산군,rural,"산간: 교통 점수 낮음"
+R-H08,H훈련장,MOBILIZATION,전북특별자치도,익산시,suburban,"셔틀 연동(2026-05-20) 후 교통 점수 상승"
+R-I09,I훈련장,REGIONAL,충청남도,홍성군,rural,
+R-J10,J훈련장,REGIONAL,전라남도,나주시,suburban,
+R-K11,K훈련장,MOBILIZATION,전라남도,장성군,rural,"화장실·그늘막 추가(2026-07-01) 후 시설 점수 상승"
+R-L12,L훈련장,REGIONAL,경상북도,안동시,suburban,
+R-M13,M훈련장,MOBILIZATION,경상북도,영천시,suburban,
+R-N14,N훈련장,REGIONAL,경상남도,김해시,urban,
+R-O15,O훈련장,REGIONAL,경상남도,함안군,rural,
+R-P16,P훈련장,REGIONAL,제주특별자치도,제주시,suburban,
+R-Q17,Q훈련장,REGIONAL,서울특별시,노원구,urban,
+R-R18,R훈련장,REGIONAL,부산광역시,기장군,suburban,
+R-S19,S훈련장,REGIONAL,대구광역시,달성군,suburban,
+R-T20,T훈련장,REGIONAL,인천광역시,서구,urban,
+R-U21,U훈련장,REGIONAL,광주광역시,북구,urban,
+R-V22,V훈련장,REGIONAL,대전광역시,유성구,urban,
+R-W23,W훈련장,REGIONAL,울산광역시,울주군,rural,
+R-X24,X훈련장,REGIONAL,세종특별자치시,세종시,suburban,
