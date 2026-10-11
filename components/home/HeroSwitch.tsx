@@ -32,22 +32,28 @@ export function HeroSwitch() {
         <button
           type="button" onClick={replay} aria-hidden tabIndex={-1} data-testid="hero-switch" data-on={on}
           className={cx(
-            'relative ml-[0.08em] inline-block h-[0.76em] w-[1.66em] shrink-0 translate-y-[0.06em] cursor-pointer rounded-full transition-colors duration-700 ease-in-out',
+            'relative ml-[0.24em] inline-block h-[0.76em] w-[1.66em] shrink-0 translate-y-[0.06em] cursor-pointer rounded-full transition-colors duration-700 ease-in-out',
             on ? 'bg-accent' : 'bg-danger',
           )}
         >
+          {/* 손잡이 왼쪽 빈 공간의 가운데에 on */}
           <span
             className={cx(
-              'absolute left-[0.17em] top-1/2 -translate-y-[54%] text-[0.52em] font-semibold tracking-[-0.04em] text-on-accent transition-opacity duration-300',
+              'absolute inset-y-0 left-[0.06em] right-[0.68em] flex items-center justify-center transition-opacity duration-300',
               on ? 'opacity-100 delay-300' : 'opacity-0',
             )}
-          >on</span>
+          >
+            <span className="-translate-y-[4%] text-[0.52em] font-semibold leading-none tracking-[-0.04em] text-on-accent">on</span>
+          </span>
+          {/* 손잡이 오른쪽 빈 공간의 가운데에 off */}
           <span
             className={cx(
-              'absolute right-[0.15em] top-1/2 -translate-y-[54%] text-[0.46em] font-semibold tracking-[-0.04em] text-white/90 transition-opacity duration-300',
+              'absolute inset-y-0 left-[0.68em] right-[0.06em] flex items-center justify-center transition-opacity duration-300',
               on ? 'opacity-0' : 'opacity-100 delay-300',
             )}
-          >off</span>
+          >
+            <span className="-translate-y-[4%] text-[0.46em] font-semibold leading-none tracking-[-0.04em] text-white/90">off</span>
+          </span>
           <span
             className={cx(
               'absolute left-[0.08em] top-[0.08em] h-[0.6em] w-[0.6em] rounded-full bg-white shadow-[0_2px_6px_rgba(0,0,0,0.18)] transition-transform duration-700 ease-[cubic-bezier(.45,1.25,.5,1)]',
