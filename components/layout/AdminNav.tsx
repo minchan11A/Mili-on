@@ -10,6 +10,7 @@ export function AdminNav() {
   const items = [
     { href: '/admin', label: '대시보드' },
     { href: '/admin/queue', label: '처리 큐' },
+    { href: '/admin/analysis', label: '제안 분석' },
     ...(viewer?.role === 'POLICY_ADMIN' ? [{ href: '/admin/audit', label: '마스킹 감사 로그' }] : []),
     { href: '/masking-demo', label: '마스킹 체험' },
   ];

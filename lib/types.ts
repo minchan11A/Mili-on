@@ -262,6 +262,27 @@ export interface DashboardData {
   rangeTable?: Array<{ id: string; name: string; sido: string; overall: number | null; delta: number | null; reviewCount: number; open: number }>;
 }
 
+export type AnalysisPeriod = 30 | 90 | 180 | 365;
+export interface AnalysisQuery { rangeId?: string; days?: AnalysisPeriod }
+export interface CategoryAnalysisRow {
+  category: Category; count: number; share: number; prevCount: number; empathies: number;
+  statusCounts: Partial<Record<ProposalStatus, number>>;
+  /** 조치 계획·개선 완료 비율 (0~1) */
+  resolvedRate: number;
+}
+/** 관리자 "제안 분석": 기간·범위 안의 개선 제안을 분야별로 집계 */
+export interface ProposalAnalysis {
+  scope: { rangeId: string | null; label: string; canChange: boolean };
+  ranges: Array<{ id: string; name: string }>;
+  days: AnalysisPeriod; from: string; to: string;
+  kpi: { total: number; prevTotal: number; empathies: number; resolvedRate: number | null; avgDays: number | null; overdue: number };
+  categories: CategoryAnalysisRow[];
+  monthly: TrendData['monthly']; topCategories: Category[];
+  subtopics: Array<{ category: Category; subtopic: string; count: number; empathies: number }>;
+  /** 전체 범위(정책 담당자)일 때만: 훈련장 × 분야 제안 수 */
+  rangeMatrix?: Array<{ id: string; name: string; total: number; counts: Partial<Record<Category, number>> }>;
+}
+
 export interface MaskingAuditView {
   id: string; purpose: string; maskedText: string; entityCounts: Record<string, number>;
   entityTotal: number; blocked: boolean; blockReasons: string[]; provider: string; createdAt: string;
