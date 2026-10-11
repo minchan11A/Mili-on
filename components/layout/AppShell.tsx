@@ -32,8 +32,8 @@ function isActive(path: string, href: string) {
 
 export function Wordmark({ className, onAccent }: { className?: string; onAccent?: boolean }) {
   return (
-    <span className={cx('inline-flex items-baseline text-[21px] font-semibold tracking-[-0.04em]', onAccent ? 'text-on-accent' : 'text-ink', className)}>
-      milind<span className={cx('ml-[1px] inline-block h-[6px] w-[6px] translate-y-[-1px] rounded-full', onAccent ? 'bg-[#d8c48f]' : 'bg-accent')} />
+    <span className={cx('inline-flex items-baseline text-[21px] font-semibold tracking-[-0.04em]', onAccent ? 'text-on-accent' : 'text-ink', className)} aria-label="mili:on">
+      mili<span aria-hidden className={cx('mx-[0.04em]', onAccent ? 'text-[#d8c48f]' : 'text-accent')}>:</span>on
     </span>
   );
 }
@@ -78,7 +78,7 @@ function Header() {
   return (
     <header className="sticky top-0 z-40 bg-accent">
       <div className="mx-auto flex h-16 max-w-6xl items-center gap-3 px-4 sm:px-6">
-        <Link href="/" aria-label="milind 홈" className="shrink-0"><Wordmark onAccent /></Link>
+        <Link href="/" aria-label="mili:on 홈" className="shrink-0"><Wordmark onAccent /></Link>
         {IS_DEMO && (
           <span data-testid="demo-badge" className="hidden items-center gap-1.5 whitespace-nowrap text-[12px] text-on-accent-2 min-[420px]:inline-flex">
             <i className="h-1.5 w-1.5 rounded-full bg-[#d8c48f]" />오프라인 시연<span className="hidden sm:inline"> 모드</span>
