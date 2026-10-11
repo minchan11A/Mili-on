@@ -32,26 +32,26 @@ export function HeroSwitch() {
         <button
           type="button" onClick={replay} aria-hidden tabIndex={-1} data-testid="hero-switch" data-on={on}
           className={cx(
-            'relative ml-[0.08em] inline-block h-[0.72em] w-[1.46em] shrink-0 translate-y-[0.06em] cursor-pointer rounded-full transition-colors duration-700 ease-in-out',
+            'relative ml-[0.08em] inline-block h-[0.76em] w-[1.66em] shrink-0 translate-y-[0.06em] cursor-pointer rounded-full transition-colors duration-700 ease-in-out',
             on ? 'bg-accent' : 'bg-danger',
           )}
         >
           <span
             className={cx(
-              'absolute left-[0.2em] top-1/2 -translate-y-1/2 text-[0.4em] font-semibold tracking-[-0.02em] text-on-accent transition-opacity duration-300',
+              'absolute left-[0.17em] top-1/2 -translate-y-[54%] text-[0.52em] font-semibold tracking-[-0.04em] text-on-accent transition-opacity duration-300',
               on ? 'opacity-100 delay-300' : 'opacity-0',
             )}
           >on</span>
           <span
             className={cx(
-              'absolute right-[0.17em] top-1/2 -translate-y-1/2 text-[0.34em] font-semibold tracking-[-0.02em] text-white/90 transition-opacity duration-300',
+              'absolute right-[0.15em] top-1/2 -translate-y-[54%] text-[0.46em] font-semibold tracking-[-0.04em] text-white/90 transition-opacity duration-300',
               on ? 'opacity-0' : 'opacity-100 delay-300',
             )}
           >off</span>
           <span
             className={cx(
-              'absolute left-[0.08em] top-[0.08em] h-[0.56em] w-[0.56em] rounded-full bg-white shadow-[0_2px_6px_rgba(0,0,0,0.18)] transition-transform duration-700 ease-[cubic-bezier(.45,1.25,.5,1)]',
-              on ? 'translate-x-[0.74em]' : 'translate-x-0',
+              'absolute left-[0.08em] top-[0.08em] h-[0.6em] w-[0.6em] rounded-full bg-white shadow-[0_2px_6px_rgba(0,0,0,0.18)] transition-transform duration-700 ease-[cubic-bezier(.45,1.25,.5,1)]',
+              on ? 'translate-x-[0.9em]' : 'translate-x-0',
             )}
           />
         </button>

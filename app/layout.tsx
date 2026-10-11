@@ -4,7 +4,7 @@ import { AppShell } from '@/components/layout/AppShell';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'mili:on · 예비군 훈련장 개선 플랫폼',
+  title: 'mili:on',
   description: '예비군 훈련장 만족도 지도, 개선 제안, 보안 마스킹을 거친 AI 대책 초안',
 };
 
