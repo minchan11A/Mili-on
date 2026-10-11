@@ -32,7 +32,7 @@ export function HeroSwitch() {
         <button
           type="button" onClick={replay} aria-hidden tabIndex={-1} data-testid="hero-switch" data-on={on}
           className={cx(
-            'relative ml-[0.08em] inline-block h-[0.76em] w-[1.66em] shrink-0 translate-y-[0.06em] cursor-pointer rounded-full transition-colors duration-700 ease-in-out',
+            'relative ml-[0.16em] inline-block h-[0.76em] w-[1.66em] shrink-0 translate-y-[0.06em] cursor-pointer rounded-full transition-colors duration-700 ease-in-out',
             on ? 'bg-accent' : 'bg-danger',
           )}
         >
