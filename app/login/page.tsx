@@ -60,13 +60,17 @@ function SeedLogin({ next }: { next: string }) {
         e.preventDefault(); setErr(null);
         try { await getDataSource().login!(loginId, password); refresh(); router.push(next); } catch (e2) { setErr((e2 as Error).message); }
       }}>
-        <Field label="계정">
-          <select className={inputCls} value={loginId} onChange={(e) => setLoginId(e.target.value)}>
-            <option value="demo">예비군 (demo)</option>
-            <option value="manager_ra01">A훈련장 담당자 (manager_ra01)</option>
-            <option value="policy">정책 담당자 (policy)</option>
-          </select>
+        <Field label="아이디">
+          <input className={inputCls} value={loginId} onChange={(e) => setLoginId(e.target.value.trim())} autoComplete="username" autoCapitalize="off" spellCheck={false} placeholder="demo" required />
         </Field>
+        <div className="-mt-1 flex flex-wrap gap-2" aria-label="시드 계정 선택">
+          {([['demo', '예비군'], ['manager_ra01', 'A훈련장 담당자'], ['policy', '정책 담당자']] as const).map(([id, label]) => (
+            <button key={id} type="button" onClick={() => setLoginId(id)}
+              className={cx('h-8 rounded-full border px-3 text-[12px] transition-colors', loginId === id ? 'border-ink bg-ink text-white' : 'border-line bg-surface text-ink-2 hover:border-ink-3')}>
+              {label} <span className="opacity-60">{id}</span>
+            </button>
+          ))}
+        </div>
         <Field label="비밀번호" hint="시드 계정 비밀번호는 배포 환경변수 SEED_PASSWORD입니다">
           <input type="password" className={inputCls} value={password} onChange={(e) => setPassword(e.target.value)} autoComplete="current-password" />
         </Field>

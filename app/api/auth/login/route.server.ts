@@ -12,8 +12,9 @@ const Input = z.object({ loginId: z.string().min(1).max(64), password: z.string(
 
 export const POST = handle(async (req: Request) => {
   const { loginId, password } = await body(req, Input);
-  const user = await prisma.user.findUnique({ where: { loginId } });
-  if (!user || !verifyPassword(password, user.passwordHash)) throw new ValidationError('아이디 또는 비밀번호가 올바르지 않습니다');
+  // 시드가 SEED_PASSWORD의 앞뒤 공백을 지우므로 입력도 같게 맞춤
+  const user = await prisma.user.findUnique({ where: { loginId: loginId.trim() } });
+  if (!user || !verifyPassword(password.trim(), user.passwordHash)) throw new ValidationError('아이디 또는 비밀번호가 올바르지 않습니다');
   const jar = await cookies();
   jar.set(SESSION_COOKIE, await signSession(user.id, user.role), {
     httpOnly: true, sameSite: 'lax', secure: process.env.NODE_ENV === 'production', path: '/', maxAge: SESSION_MAX_AGE,
