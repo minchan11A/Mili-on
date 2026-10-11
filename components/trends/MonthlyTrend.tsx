@@ -5,7 +5,7 @@ import { fmtMonth } from '@/lib/format';
 import type { TrendData } from '@/lib/types';
 
 /** 카테고리별 월별 추이: 상위 4개는 고정 색, 나머지는 "기타 분야" 회색 하나로 합침 */
-export function MonthlyTrend({ data }: { data: Pick<TrendData, 'monthly' | 'topCategories'> }) {
+export function MonthlyTrend({ data, className = 'h-72' }: { data: Pick<TrendData, 'monthly' | 'topCategories'>; className?: string }) {
   const top = data.topCategories;
   const rows = data.monthly.map((m) => {
     const row: Record<string, number | string> = { label: fmtMonth(m.month) };
@@ -14,7 +14,7 @@ export function MonthlyTrend({ data }: { data: Pick<TrendData, 'monthly' | 'topC
     return row;
   });
   return (
-    <div className="h-72" data-testid="monthly-trend">
+    <div className={className} data-testid="monthly-trend">
       <ResponsiveContainer width="100%" height="100%">
         <LineChart data={rows} margin={{ top: 8, right: 12, bottom: 0, left: -20 }}>
           <CartesianGrid stroke="#e6e9e0" vertical={false} />
