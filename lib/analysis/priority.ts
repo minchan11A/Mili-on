@@ -5,7 +5,7 @@
  */
 import type { PriorityBreakdown } from '../types';
 
-export const SAFETY_KEYWORDS = ['부상', '안전', '미끄럼', '미끄러', '식중독', '화재', '감전', '추락', '낙상', '골절', '응급', '열사병', '저체온', '배탈'];
+export const SAFETY_KEYWORDS = ['부상', '안전', '미끄럼', '미끄러', '식중독', '화재', '감전', '추락', '낙상', '골절', '열사병', '저체온', '배탈'];
 
 export function isSafetyText(...texts: Array<string | null | undefined>): boolean {
   return texts.some((t) => !!t && SAFETY_KEYWORDS.some((k) => t.includes(k)));

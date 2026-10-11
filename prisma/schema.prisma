@@ -1,0 +1,293 @@
+// 밀라인드 서버 모드 스키마 (명세 §4)
+// 명세 대비 추가: Proposal.subtopic(이슈 묶음 기준), Answer.state(신고 숨김), AiSolution.generatedAt/reviewed(캐시 메타)
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Role {
+  RESERVIST       // 예비군
+  RANGE_MANAGER   // 훈련장 담당자
+  POLICY_ADMIN    // 정책 담당자 (상급부대)
+}
+
+enum RangeType {
+  MOBILIZATION    // 동원훈련장
+  REGIONAL        // 지역방위 훈련장 (기본·작계 등)
+}
+
+enum TrainingType {
+  MOBILIZATION        // 동원훈련
+  MOBILIZATION_NOSTAY // 동원미참가자훈련
+  BASIC               // 향방기본훈련
+  FOLLOWUP            // 향방작계훈련
+}
+
+enum Category {
+  TRANSPORT      // 교통·접근성
+  MEAL           // 식사·급식
+  FACILITY       // 시설·위생
+  OPERATION      // 훈련 운영·대기시간
+  EQUIPMENT      // 피복·장구
+  COMMUNICATION  // 안내·소통
+  COMPENSATION   // 보상·훈련비·행정
+  ETC            // 기타
+}
+
+enum ProposalStatus {
+  RECEIVED   // 접수
+  REVIEWING  // 검토 중
+  PLANNED    // 조치 계획 수립
+  DONE       // 개선 완료
+  LONG_TERM  // 장기 검토 (예산 필요)
+}
+
+enum ContentState {
+  VISIBLE
+  HIDDEN_BY_REPORTS   // 신고 누적 자동 숨김
+  HIDDEN_BY_ADMIN
+}
+
+enum AiDecision {
+  PENDING
+  ADOPTED
+  ADOPTED_EDITED
+  REJECTED
+}
+
+enum GuideSection {
+  CHECKLIST   // 준비물
+  TRANSPORT   // 교통편
+  MEAL        // 식사·매점
+  ENTRY       // 입소 절차
+  ETC
+}
+
+model TrainingRange {
+  id          String     @id @default(cuid())
+  code        String     @unique          // "R-A01"
+  name        String                      // 가명: "A훈련장"
+  type        RangeType
+  sido        String                      // "경기도"
+  sigungu     String                      // "가평군"
+  lat         Float                       // 시군구 중심점 (상세 좌표 아님)
+  lng         Float
+  description String?
+  createdAt   DateTime   @default(now())
+
+  reviews        Review[]
+  proposals      Proposal[]
+  guides         GuideEntry[]
+  questions      Question[]
+  bestPractices  BestPractice[]
+  managers       User[]      @relation("ManagedRange")
+  records        TrainingRecord[]
+}
+
+model User {
+  id             String   @id @default(cuid())
+  role           Role
+  nickname       String                     // 표시용 별명 (실명 저장 안 함)
+  ageBand        String?                    // "20대 후반" 등 통계용
+  loginId        String   @unique           // 시드 계정용
+  passwordHash   String?                    // 서버 모드 간이 로그인
+  managedRangeId String?
+  managedRange   TrainingRange? @relation("ManagedRange", fields: [managedRangeId], references: [id])
+  createdAt      DateTime @default(now())
+
+  records    TrainingRecord[]
+  reviews    Review[]
+  proposals  Proposal[]
+  empathies  ProposalEmpathy[]
+}
+
+/// 훈련 이수 기록 (실제 운영 시 예비군 홈페이지 연동, 지금은 시드)
+model TrainingRecord {
+  id           String       @id @default(cuid())
+  userId       String
+  rangeId      String
+  trainingType TrainingType
+  completedAt  DateTime
+  user         User          @relation(fields: [userId], references: [id])
+  range        TrainingRange @relation(fields: [rangeId], references: [id])
+  review       Review?
+}
+
+/// 만족도 평가 (이수 기록 1건당 1개, 이수 후 30일 이내)
+model Review {
+  id              String   @id @default(cuid())
+  userId          String
+  rangeId         String
+  recordId        String   @unique
+  scoreTransport  Int      // 1~5
+  scoreMeal       Int
+  scoreFacility   Int
+  scoreOperation  Int
+  scoreComm       Int
+  comment         String?  // 작성 시점 보안 필터 통과본
+  state           ContentState @default(VISIBLE)
+  createdAt       DateTime @default(now())
+  user            User          @relation(fields: [userId], references: [id])
+  range           TrainingRange @relation(fields: [rangeId], references: [id])
+  record          TrainingRecord @relation(fields: [recordId], references: [id])
+}
+
+model Issue {
+  id              String   @id @default(cuid())
+  category        Category
+  subtopic        String                    // "배식 대기시간"
+  title           String
+  summary         String?                   // AI 요약 (마스킹 복원본)
+  priorityScore   Float    @default(0)
+  isSafety        Boolean  @default(false)
+  updatedAt       DateTime @updatedAt
+  proposals       Proposal[]
+  solutions       AiSolution[]
+
+  @@unique([category, subtopic])
+}
+
+model Proposal {
+  id            String         @id @default(cuid())
+  rangeId       String
+  authorId      String
+  category      Category
+  subtopic      String?
+  title         String
+  body          String                     // 작성 시점 보안 필터 통과본
+  status        ProposalStatus @default(RECEIVED)
+  sentiment     Int?                       // 불만 강도 1~3
+  issueId       String?
+  state         ContentState   @default(VISIBLE)
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+  range         TrainingRange  @relation(fields: [rangeId], references: [id])
+  author        User           @relation(fields: [authorId], references: [id])
+  issue         Issue?         @relation(fields: [issueId], references: [id])
+  empathies     ProposalEmpathy[]
+  history       StatusHistory[]
+
+  @@index([rangeId, status])
+  @@index([issueId])
+}
+
+model ProposalEmpathy {
+  userId     String
+  proposalId String
+  createdAt  DateTime @default(now())
+  user       User     @relation(fields: [userId], references: [id])
+  proposal   Proposal @relation(fields: [proposalId], references: [id])
+  @@id([userId, proposalId])
+}
+
+model StatusHistory {
+  id         String         @id @default(cuid())
+  proposalId String
+  from       ProposalStatus?
+  to         ProposalStatus
+  note       String?
+  actorId    String
+  createdAt  DateTime       @default(now())
+  proposal   Proposal       @relation(fields: [proposalId], references: [id])
+}
+
+/// 훈련장 공식 답변 (평가 또는 제안에 1개)
+model OfficialReply {
+  id         String   @id @default(cuid())
+  targetType String                       // "REVIEW" | "PROPOSAL"
+  targetId   String
+  authorId   String
+  body       String
+  createdAt  DateTime @default(now())
+  @@unique([targetType, targetId])
+}
+
+model AiSolution {
+  id             String     @id @default(cuid())
+  issueId        String
+  provider       String                   // "commercial:claude" | "cache" ...
+  maskedRequest  String                   // 외부로 나간 텍스트 원문 (마스킹 후)
+  responseJson   Json                     // 복원 후 결과 (SolutionSchema)
+  editedJson     Json?                    // 담당자 수정본
+  decision       AiDecision @default(PENDING)
+  decidedById    String?
+  decidedAt      DateTime?
+  generatedAt    DateTime?
+  reviewed       Boolean?
+  createdAt      DateTime   @default(now())
+  issue          Issue      @relation(fields: [issueId], references: [id])
+}
+
+model BestPractice {
+  id               String   @id @default(cuid())
+  rangeId          String
+  category         Category
+  title            String
+  before           String
+  after            String
+  completedAt      DateTime
+  sourceProposalId String?
+  range            TrainingRange @relation(fields: [rangeId], references: [id])
+}
+
+model GuideEntry {
+  id           String       @id @default(cuid())
+  rangeId      String
+  section      GuideSection
+  body         String
+  isOfficial   Boolean      @default(false)  // 담당자 작성
+  authorId     String
+  helpfulCount Int          @default(0)
+  state        ContentState @default(VISIBLE)
+  createdAt    DateTime     @default(now())
+  range        TrainingRange @relation(fields: [rangeId], references: [id])
+}
+
+model Question {
+  id        String   @id @default(cuid())
+  rangeId   String
+  authorId  String
+  body      String
+  createdAt DateTime @default(now())
+  range     TrainingRange @relation(fields: [rangeId], references: [id])
+  answers   Answer[]
+}
+
+model Answer {
+  id             String   @id @default(cuid())
+  questionId     String
+  authorId       String?                  // AI 답변이면 null
+  isAi           Boolean  @default(false)
+  body           String
+  sourceGuideIds String[]                 // 근거 가이드 항목
+  state          ContentState @default(VISIBLE)
+  createdAt      DateTime @default(now())
+  question       Question @relation(fields: [questionId], references: [id])
+}
+
+model Report {
+  id         String   @id @default(cuid())
+  targetType String                       // "REVIEW" | "PROPOSAL" | "GUIDE" | "ANSWER"
+  targetId   String
+  reporterId String
+  reason     String
+  createdAt  DateTime @default(now())
+  @@unique([targetType, targetId, reporterId])
+}
+
+/// 마스킹 감사 로그: 외부로 나간 텍스트만 저장. 원문은 저장하지 않음.
+model MaskingAudit {
+  id           String   @id @default(cuid())
+  purpose      String                     // "AI_SOLUTION" | "AI_SUMMARY" | "AI_QNA"
+  maskedText   String
+  entityCounts Json                       // {"UNIT":2,"PERSON":1}
+  blocked      Boolean
+  blockReasons String[]
+  provider     String
+  createdAt    DateTime @default(now())
+}
