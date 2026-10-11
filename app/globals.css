@@ -4,20 +4,22 @@
 
 /* 디자인 토큰 (명세 §6.8): 국방 녹색 계열 1개를 주색으로, 상태색 고정, 빨강은 "7일 이상 미처리"·"차단"에만 */
 :root {
-  /* 무채색 바탕 + 깊은 녹색 하나를 포인트로. 빨강은 "7일 이상 미처리"·"차단"에만 (명세 §6.8) */
-  --c-bg: #f7f7f5;
-  --c-surface: #ffffff;
-  --c-surface-2: #f2f1ee;
-  --c-border: #e6e4df;
+  /* 베이지 바탕 + 딥 그린 헤더를 포인트로. 빨강은 "7일 이상 미처리"·"차단"에만 (명세 §6.8) */
+  --c-bg: #f4efe4;               /* 베이지 */
+  --c-surface: #fffdf8;          /* 따뜻한 흰색 카드 */
+  --c-surface-2: #efe8da;
+  --c-border: #e2d9c8;
   --c-text: #161616;
   --c-text-2: #55534f;
   --c-text-3: #8f8c86;
   --c-primary: #161616;          /* 주 버튼은 잉크색 */
   --c-primary-hover: #000000;
-  --c-primary-soft: #efefec;
+  --c-primary-soft: #ece5d6;
   --c-on-primary: #ffffff;
   --c-accent: #1f4d3a;           /* 브랜드 포인트 (딥 그린) */
-  --c-accent-soft: #e8efea;
+  --c-accent-soft: #e4ebe2;
+  --c-on-accent: #f4efe4;        /* 녹색 위 글자 (베이지 톤) */
+  --c-on-accent-2: #b9c9bd;      /* 녹색 위 보조 글자 */
 
   --c-status-received: #a3a19b;
   --c-status-reviewing: #c08a3e;
@@ -37,10 +39,10 @@
   --c-ai: #3d4a8a;
   --c-ai-soft: #eef0f7;
 
-  --c-map-land: #ebeae6;
-  --c-map-land-hover: #dfddd8;
-  --c-map-stroke: #ffffff;
-  --c-map-sea: #f7f7f5;
+  --c-map-land: #e9e1d1;
+  --c-map-land-hover: #ddd4c2;
+  --c-map-stroke: #fffdf8;
+  --c-map-sea: #f4efe4;
 }
 
 @theme inline {
@@ -57,6 +59,8 @@
   --color-primary-soft: var(--c-primary-soft);
   --color-accent: var(--c-accent);
   --color-accent-soft: var(--c-accent-soft);
+  --color-on-accent: var(--c-on-accent);
+  --color-on-accent-2: var(--c-on-accent-2);
   --color-danger: var(--c-danger);
   --color-danger-soft: var(--c-danger-soft);
   --color-warn: var(--c-warn);

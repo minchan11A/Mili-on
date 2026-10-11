@@ -30,10 +30,10 @@ function isActive(path: string, href: string) {
   return path === href || path.startsWith(`${href}/`);
 }
 
-export function Wordmark({ className }: { className?: string }) {
+export function Wordmark({ className, onAccent }: { className?: string; onAccent?: boolean }) {
   return (
-    <span className={cx('inline-flex items-baseline text-[21px] font-semibold tracking-[-0.04em] text-ink', className)}>
-      milind<span className="ml-[1px] inline-block h-[6px] w-[6px] translate-y-[-1px] rounded-full bg-accent" />
+    <span className={cx('inline-flex items-baseline text-[21px] font-semibold tracking-[-0.04em]', onAccent ? 'text-on-accent' : 'text-ink', className)}>
+      milind<span className={cx('ml-[1px] inline-block h-[6px] w-[6px] translate-y-[-1px] rounded-full', onAccent ? 'bg-[#d8c48f]' : 'bg-accent')} />
     </span>
   );
 }
@@ -46,7 +46,7 @@ function AccountControl() {
       <select
         aria-label="시연용 역할 전환"
         data-testid="role-switch"
-        className="h-9 max-w-[128px] cursor-pointer rounded-full border border-line bg-surface pl-3 pr-2 text-[13px] font-medium text-ink-2 outline-none hover:border-ink-3 sm:max-w-none"
+        className="h-9 max-w-[128px] cursor-pointer rounded-full border border-white/25 bg-white/10 pl-3 pr-2 text-[13px] font-medium text-on-accent outline-none hover:border-white/50 sm:max-w-none [&>option]:text-ink"
         value={viewer?.role ?? 'RESERVIST'}
         onChange={(e) => switchRole(e.target.value as Role)}
       >
@@ -54,13 +54,13 @@ function AccountControl() {
       </select>
     );
   }
-  if (!viewer) return <Link href="/login" className="inline-flex h-9 items-center rounded-full border border-line px-4 text-[13px] font-medium hover:border-ink-3">로그인</Link>;
+  if (!viewer) return <Link href="/login" className="inline-flex h-9 items-center rounded-full bg-on-accent px-4 text-[13px] font-medium text-accent hover:bg-white">로그인</Link>;
   return (
     <div className="flex items-center gap-1">
-      <Link href={viewer.role === 'RESERVIST' ? '/my' : '/admin'} className="hidden max-w-[140px] truncate px-2 text-[13px] font-medium text-ink-2 hover:text-ink sm:inline">{viewer.nickname}</Link>
+      <Link href={viewer.role === 'RESERVIST' ? '/my' : '/admin'} className="hidden max-w-[140px] truncate px-2 text-[13px] font-medium text-on-accent hover:text-white sm:inline">{viewer.nickname}</Link>
       <button
         type="button"
-        className="h-9 rounded-full px-3 text-[13px] text-ink-3 hover:text-ink"
+        className="h-9 rounded-full px-3 text-[13px] text-on-accent-2 hover:text-white"
         onClick={async () => { await getDataSource().logout?.(); router.push('/'); router.refresh(); }}
       >
         로그아웃
@@ -76,26 +76,26 @@ function Header() {
     ? { href: '/admin', label: '관리' }
     : viewer?.role === 'RESERVIST' ? { href: '/my', label: '내 활동' } : null;
   return (
-    <header className="sticky top-0 z-40 border-b border-line bg-[color-mix(in_srgb,var(--c-bg)_88%,transparent)] backdrop-blur-md">
+    <header className="sticky top-0 z-40 bg-accent">
       <div className="mx-auto flex h-16 max-w-6xl items-center gap-3 px-4 sm:px-6">
-        <Link href="/" aria-label="milind 홈" className="shrink-0"><Wordmark /></Link>
+        <Link href="/" aria-label="milind 홈" className="shrink-0"><Wordmark onAccent /></Link>
         {IS_DEMO && (
-          <span data-testid="demo-badge" className="hidden items-center gap-1.5 whitespace-nowrap text-[12px] text-ink-3 min-[420px]:inline-flex">
-            <i className="h-1.5 w-1.5 rounded-full bg-accent" />오프라인 시연<span className="hidden sm:inline"> 모드</span>
+          <span data-testid="demo-badge" className="hidden items-center gap-1.5 whitespace-nowrap text-[12px] text-on-accent-2 min-[420px]:inline-flex">
+            <i className="h-1.5 w-1.5 rounded-full bg-[#d8c48f]" />오프라인 시연<span className="hidden sm:inline"> 모드</span>
           </span>
         )}
         <nav className="ml-6 hidden items-center gap-6 md:flex" aria-label="주요 메뉴">
           {NAV.map((t) => (
-            <Link key={t.href} href={t.href} className={cx('text-[14px] transition-colors', isActive(path, t.href) ? 'font-medium text-ink' : 'text-ink-3 hover:text-ink')}>
+            <Link key={t.href} href={t.href} className={cx('text-[14px] transition-colors', isActive(path, t.href) ? 'font-medium text-white' : 'text-on-accent-2 hover:text-white')}>
               {t.label}
             </Link>
           ))}
           {extra && (
-            <Link href={extra.href} className={cx('text-[14px] transition-colors', path.startsWith(extra.href) ? 'font-medium text-ink' : 'text-ink-3 hover:text-ink')}>{extra.label}</Link>
+            <Link href={extra.href} className={cx('text-[14px] transition-colors', path.startsWith(extra.href) ? 'font-medium text-white' : 'text-on-accent-2 hover:text-white')}>{extra.label}</Link>
           )}
         </nav>
         <div className="ml-auto flex min-w-0 items-center gap-2">
-          {extra && <Link href={extra.href} className="whitespace-nowrap px-1 text-[13px] font-medium text-ink-2 md:hidden">{extra.label}</Link>}
+          {extra && <Link href={extra.href} className="whitespace-nowrap px-1 text-[13px] font-medium text-on-accent md:hidden">{extra.label}</Link>}
           <AccountControl />
         </div>
       </div>
