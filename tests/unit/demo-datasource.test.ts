@@ -114,3 +114,29 @@ describe('시연 DataSource: 제안·권한', () => {
     expect(d.spikes.map((s) => s.category)).toContain('MEAL');
   });
 });
+
+describe('시연 DataSource: 제안 분석', () => {
+  it('훈련장 담당자는 다른 훈련장을 요청해도 자기 훈련장만', async () => {
+    __resetDemoStoreForTest(shiftDataset(seedDataset()), 'RANGE_MANAGER');
+    const a = await demoDataSource.getProposalAnalysis({ rangeId: 'rng_R_B02', days: 365 });
+    expect(a.scope).toMatchObject({ rangeId: A, canChange: false });
+    expect(a.ranges).toEqual([]);
+    expect(a.rangeMatrix).toBeUndefined();
+    expect(a.categories.reduce((s, r) => s + r.count, 0)).toBe(a.kpi.total);
+  });
+  it('정책 담당자는 전체(훈련장×분야 포함)와 훈련장별 모두', async () => {
+    __resetDemoStoreForTest(shiftDataset(seedDataset()), 'POLICY_ADMIN');
+    const all = await demoDataSource.getProposalAnalysis({ days: 365 });
+    expect(all.scope).toMatchObject({ rangeId: null, canChange: true });
+    expect(all.rangeMatrix!.reduce((s, r) => s + r.total, 0)).toBe(all.kpi.total);
+    expect(all.kpi.total).toBeGreaterThan(0);
+    const one = await demoDataSource.getProposalAnalysis({ rangeId: A, days: 365 });
+    expect(one.scope.rangeId).toBe(A);
+    expect(one.rangeMatrix).toBeUndefined();
+    expect(one.kpi.total).toBe(all.rangeMatrix!.find((r) => r.id === A)!.total);
+  });
+  it('예비군은 볼 수 없음', async () => {
+    __resetDemoStoreForTest(shiftDataset(seedDataset()), 'RESERVIST');
+    await expect(demoDataSource.getProposalAnalysis({})).rejects.toThrow();
+  });
+});

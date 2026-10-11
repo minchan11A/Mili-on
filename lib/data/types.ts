@@ -1,7 +1,7 @@
 import type {
-  AiDecisionInput, AiSolutionView, BestPracticeView, Category, DashboardData, GuideInput, GuideView, HomeStats, IssueDetail,
+  AiDecisionInput, AiSolutionView, AnalysisQuery, BestPracticeView, Category, DashboardData, GuideInput, GuideView, HomeStats, IssueDetail,
   IssueQuery, IssueView, MaskCheckView, MaskingAuditView, Page, ProposalDetail, ProposalInput, ProposalQuery, ProposalStatus,
-  ProposalView, QuestionView, RangeDetail, RangeFilter, RangeSummary, ReplyTarget, ReportTargetType, ReviewInput, ReviewView,
+  ProposalAnalysis, ProposalView, QuestionView, RangeDetail, RangeFilter, RangeSummary, ReplyTarget, ReportTargetType, ReviewInput, ReviewView,
   Role, TrendData, TrendQuery, Viewer,
 } from '../types';
 
@@ -45,6 +45,7 @@ export interface DataSource {
   updateProposalStatus(id: string, to: ProposalStatus, note?: string): Promise<ProposalDetail>;
   postOfficialReply(target: ReplyTarget, body: string): Promise<void>;
   getDashboard(): Promise<DashboardData>;
+  getProposalAnalysis(q: AnalysisQuery): Promise<ProposalAnalysis>;
   listMaskingAudit(page?: number, blockedOnly?: boolean): Promise<Page<MaskingAuditView>>;
 
   // 가이드·Q&A

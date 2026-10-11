@@ -11,9 +11,9 @@ import {
 } from '../constants';
 import { hasCachedSolution } from '../llm/cache';
 import type {
-  AiSolutionRec, AiSolutionView, BestPracticeView, Category, DashboardData, Dataset, GuideView, HomeStats, IssueDetail,
+  AiSolutionRec, AiSolutionView, AnalysisPeriod, AnalysisQuery, BestPracticeView, Category, DashboardData, Dataset, GuideView, HomeStats, IssueDetail,
   IssueQuery, IssueView, MaskingAuditView, Page, ProposalDetail, ProposalQuery, ProposalRec, ProposalStatus, ProposalView,
-  QuestionView, RangeDetail, RangeFilter, RangeSummary, ReviewRec, ReviewView, ScoreSet, TrendData, TrendQuery, Viewer,
+  ProposalAnalysis, QuestionView, RangeDetail, RangeFilter, RangeSummary, ReviewRec, ReviewView, ScoreSet, TrendData, TrendQuery, Viewer,
 } from '../types';
 
 export interface Ctx { ds: Dataset; viewer: Viewer | null; now?: Date }
@@ -413,6 +413,81 @@ export function getDashboard(c: Ctx): DashboardData {
         const s = rangeSummary(c, r.id);
         return { id: r.id, name: r.name, sido: r.sido, overall: s.overall, delta: s.trendDelta, reviewCount: s.reviewCount, open: s.openProposalCount };
       }).sort((a, b) => a.name.localeCompare(b.name))   // 순위 번호 없이 이름순 (명세 §6.7)
+      : undefined,
+  };
+}
+
+/* ───────────────────────── 제안 분석 ───────────────────────── */
+
+const ANALYSIS_PERIODS: AnalysisPeriod[] = [30, 90, 180, 365];
+
+export function getProposalAnalysis(c: Ctx, q: AnalysisQuery = {}): ProposalAnalysis {
+  const v = c.viewer;
+  if (!isManager(v)) throw new ForbiddenError('담당자만 볼 수 있습니다');
+  const ix = indexOf(c.ds);
+  const isPolicy = v!.role === 'POLICY_ADMIN';
+  // 훈련장 담당자는 자기 훈련장만. 정책 담당자는 전체 또는 지정한 훈련장
+  const rangeId = isPolicy ? (q.rangeId && ix.rangeById.has(q.rangeId) ? q.rangeId : null) : v!.managedRangeId ?? null;
+  if (!isPolicy && !rangeId) throw new ForbiddenError('담당 훈련장이 없습니다');
+  const days: AnalysisPeriod = ANALYSIS_PERIODS.includes(q.days as AnalysisPeriod) ? q.days as AnalysisPeriod : 90;
+  const now = nowOf(c);
+  const from = new Date(now.getTime() - days * DAY);
+  const prevFrom = new Date(from.getTime() - days * DAY);
+
+  const scoped = c.ds.proposals.filter((p) => p.state === 'VISIBLE' && (!rangeId || p.rangeId === rangeId));
+  const inWin = scoped.filter((p) => new Date(p.createdAt) >= from && new Date(p.createdAt) <= now);
+  const inPrev = scoped.filter((p) => new Date(p.createdAt) >= prevFrom && new Date(p.createdAt) < from);
+  const emp = (ps: ProposalRec[]) => ps.reduce((s, p) => s + (ix.empathyCount.get(p.id) ?? 0), 0);
+  const resolved = (ps: ProposalRec[]) => ps.filter((p) => p.status === 'PLANNED' || p.status === 'DONE').length;
+
+  const categories = CATEGORIES.map((cat) => {
+    const ps = inWin.filter((p) => p.category === cat);
+    const statusCounts: Partial<Record<ProposalStatus, number>> = {};
+    for (const p of ps) statusCounts[p.status] = (statusCounts[p.status] ?? 0) + 1;
+    return {
+      category: cat, count: ps.length, share: inWin.length ? ps.length / inWin.length : 0,
+      prevCount: inPrev.filter((p) => p.category === cat).length, empathies: emp(ps), statusCounts,
+      resolvedRate: ps.length ? resolved(ps) / ps.length : 0,
+    };
+  }).filter((r) => r.count > 0 || r.prevCount > 0).sort((a, b) => b.count - a.count || b.empathies - a.empathies);
+
+  const subMap = new Map<string, { category: Category; subtopic: string; count: number; empathies: number }>();
+  for (const p of inWin) {
+    if (!p.subtopic) continue;
+    const k = `${p.category}|${p.subtopic}`;
+    const row = subMap.get(k) ?? { category: p.category, subtopic: p.subtopic, count: 0, empathies: 0 };
+    row.count += 1; row.empathies += ix.empathyCount.get(p.id) ?? 0;
+    subMap.set(k, row);
+  }
+
+  const keys = lastMonths(6, now);
+  const monthly = keys.map((m) => {
+    const row: TrendData['monthly'][number] = { month: m };
+    for (const cat of CATEGORIES) row[cat] = scoped.filter((p) => p.category === cat && monthKey(p.createdAt) === m).length;
+    return row;
+  });
+
+  const ranges = [...c.ds.ranges].sort((a, b) => a.name.localeCompare(b.name));
+  return {
+    scope: { rangeId, label: rangeId ? ix.rangeById.get(rangeId)?.name ?? '' : '전체 훈련장', canChange: isPolicy },
+    ranges: isPolicy ? ranges.map((r) => ({ id: r.id, name: r.name })) : [],
+    days, from: from.toISOString(), to: now.toISOString(),
+    kpi: {
+      total: inWin.length, prevTotal: inPrev.length, empathies: emp(inWin),
+      resolvedRate: inWin.length ? resolved(inWin) / inWin.length : null,
+      avgDays: processingDays(c, inWin),
+      overdue: scoped.filter((p) => p.status === 'RECEIVED' && daysBetween(p.createdAt, now) >= OVERDUE_DAYS).length,
+    },
+    categories,
+    monthly, topCategories: categories.slice(0, 4).map((r) => r.category),
+    subtopics: [...subMap.values()].sort((a, b) => b.count - a.count || b.empathies - a.empathies).slice(0, 8),
+    rangeMatrix: isPolicy && !rangeId
+      ? ranges.map((r) => {
+        const ps = inWin.filter((p) => p.rangeId === r.id);
+        const counts: Partial<Record<Category, number>> = {};
+        for (const p of ps) counts[p.category] = (counts[p.category] ?? 0) + 1;
+        return { id: r.id, name: r.name, total: ps.length, counts };
+      })
       : undefined,
   };
 }

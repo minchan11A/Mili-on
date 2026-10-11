@@ -5,7 +5,7 @@ import { fmtMonth } from '@/lib/format';
 import type { TrendData } from '@/lib/types';
 
 /** 카테고리별 월별 추이: 상위 4개는 고정 색, 나머지는 "기타 분야" 회색 하나로 합침 */
-export function MonthlyTrend({ data }: { data: TrendData }) {
+export function MonthlyTrend({ data }: { data: Pick<TrendData, 'monthly' | 'topCategories'> }) {
   const top = data.topCategories;
   const rows = data.monthly.map((m) => {
     const row: Record<string, number | string> = { label: fmtMonth(m.month) };

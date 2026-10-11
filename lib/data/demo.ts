@@ -150,6 +150,7 @@ export const demoDataSource: DataSource = {
   },
   async postOfficialReply(target, body) { commit((c) => postOfficialReply(c, target, body)); },
   getDashboard: () => read((c) => Q.getDashboard(c)),
+  getProposalAnalysis: (q) => read((c) => Q.getProposalAnalysis(c, q)),
   listMaskingAudit: (page, blockedOnly) => read((c) => Q.listMaskingAudit(c, page, blockedOnly)),
 
   listGuide: (id) => read((c) => Q.listGuide(c, id)),

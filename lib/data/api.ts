@@ -68,6 +68,7 @@ export const apiDataSource: DataSource = {
   updateProposalStatus: (id, to, note) => call('PATCH', `/proposals/${encodeURIComponent(id)}/status`, { to, note }),
   postOfficialReply: (target, body) => call('POST', '/replies', { target, body }),
   getDashboard: () => get('/dashboard'),
+  getProposalAnalysis: (q) => get('/analysis', q as Query),
   listMaskingAudit: (page, blockedOnly) => get('/audit', { page, blocked: blockedOnly ? 1 : undefined }),
 
   listGuide: (id) => get(`/ranges/${encodeURIComponent(id)}/guide`),
