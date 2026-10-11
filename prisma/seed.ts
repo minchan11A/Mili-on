@@ -2,6 +2,7 @@
  * data/demo/*.json (seed/ 파이프라인 산출물)을 DB에 넣습니다. 이미 데이터가 있으면 건너뜁니다. (명세 §8.1, §11)
  * 시연 모드와 똑같이: 원문은 보안 필터를 거쳐 저장하고, 날짜는 "오늘 기준"으로 평행 이동합니다.
  * 시드 계정 비밀번호: SEED_PASSWORD 환경변수 (기본 demo1234). Supabase로 가입한 사용자는 비밀번호를 저장하지 않습니다.
+ * 이미 데이터가 있어도 SEED_PASSWORD가 있으면 시드 계정 비밀번호를 그 값으로 다시 맞춥니다(변수를 바꾸고 재배포하면 반영).
  */
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
@@ -16,14 +17,19 @@ const dir = join(process.cwd(), 'data', 'demo');
 const read = (f: string) => JSON.parse(readFileSync(join(dir, `${f}.json`), 'utf8')) as unknown[];
 
 async function main() {
+  const seedPassword = process.env.SEED_PASSWORD?.trim();
   if ((await prisma.trainingRange.count()) > 0) {
     console.log('이미 데이터가 있어 시드를 건너뜁니다.');
+    if (seedPassword) {
+      const { count } = await prisma.user.updateMany({ where: { authId: null, passwordHash: { not: null } }, data: { passwordHash: hashPassword(seedPassword) } });
+      console.log(`시드 계정 ${count}명의 비밀번호를 SEED_PASSWORD로 맞췄습니다.`);
+    }
     return;
   }
   const names: Array<keyof SeedFiles> = ['ranges', 'users', 'training-records', 'reviews', 'proposals', 'proposal-empathies', 'status-history', 'official-replies', 'issues', 'best-practices', 'guides', 'questions', 'answers'];
   const files = Object.fromEntries(names.map((n) => [n, read(n)])) as unknown as SeedFiles;
   const ds = shiftDataset(datasetFromSeed(files));
-  const pw = hashPassword(process.env.SEED_PASSWORD || 'demo1234');
+  const pw = hashPassword(seedPassword || 'demo1234');
   const rows = <T extends object>(t: keyof Dataset, xs: T[]) => xs.map((x) => toDbRow(t, x as Record<string, unknown>));
 
   // 외래키 순서대로
