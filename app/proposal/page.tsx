@@ -39,7 +39,7 @@ function ProposalDetailView() {
             {p.isMine && <Badge tone="yellow">내 제안</Badge>}
             {p.issueTitle && p.issueId && <Link href={`/issue?id=${p.issueId}`}><Badge tone="gray">이슈: {p.issueTitle}</Badge></Link>}
           </div>
-          <h1 className="mt-2 text-2xl font-extrabold" data-testid="proposal-title-view">{p.title}</h1>
+          <h1 className="mt-2 text-2xl font-semibold" data-testid="proposal-title-view">{p.title}</h1>
           <p className="mt-1 text-sm text-ink-3">{p.authorLabel} · {fmtDate(p.createdAt)} · {p.rangeName}</p>
         </div>
 
@@ -52,8 +52,8 @@ function ProposalDetailView() {
               <Button variant={p.empathized ? 'primary' : 'secondary'} disabled={busy} data-testid="empathy-button" onClick={async () => {
                 setBusy(true);
                 try { await ds.toggleEmpathy(p.id); } catch (e) { toast((e as Error).message, 'error'); } finally { setBusy(false); }
-              }}>👍 {p.empathized ? '공감함' : '공감'} {p.empathyCount}</Button>
-            ) : <span className="text-sm text-ink-2">👍 공감 {p.empathyCount}</span>}
+              }}>{p.empathized ? '공감함' : '공감'} {p.empathyCount}</Button>
+            ) : <span className="text-sm text-ink-2">공감 {p.empathyCount}</span>}
             <ReportButton targetType="PROPOSAL" targetId={p.id} />
           </div>
         </Card>
@@ -61,9 +61,9 @@ function ProposalDetailView() {
         {p.reply ? (
           <Card className="border-primary/30 bg-primary-soft/40 p-4" data-testid="official-reply">
             <div className="mb-2 flex items-center gap-2">
-              <span aria-hidden className="grid h-8 w-8 place-items-center rounded-full bg-primary text-sm font-bold text-white">{p.rangeName.slice(0, 1)}</span>
+              <span aria-hidden className="grid h-8 w-8 place-items-center rounded-full bg-primary text-sm font-semibold text-white">{p.rangeName.slice(0, 1)}</span>
               <div>
-                <div className="font-bold">{p.reply.authorLabel}</div>
+                <div className="font-semibold">{p.reply.authorLabel}</div>
                 <div className="text-xs text-ink-3">공식 답변 · {fmtDate(p.reply.createdAt)}</div>
               </div>
             </div>
@@ -72,7 +72,7 @@ function ProposalDetailView() {
         ) : <Card className="p-4 text-sm text-ink-3">아직 공식 답변이 없습니다.</Card>}
 
         <section>
-          <h2 className="mb-2 font-bold">처리 이력</h2>
+          <h2 className="mb-2 font-semibold">처리 이력</h2>
           <ol className="relative space-y-4 border-l-2 border-line pl-5" data-testid="history">
             {p.history.map((h) => (
               <li key={h.id} className="relative">

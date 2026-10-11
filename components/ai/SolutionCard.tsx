@@ -23,13 +23,13 @@ export function SolutionCard({ view, solution }: { view: AiSolutionView; solutio
       {view.fallbackNotice && <p className="mb-3 rounded-lg bg-warn-soft px-3 py-2 text-sm text-yellow-900">{view.fallbackNotice}</p>}
 
       <section className="mb-4">
-        <h3 className="mb-1 text-sm font-bold text-ink-3">문제 요약</h3>
+        <h3 className="mb-1 text-sm font-semibold text-ink-3">문제 요약</h3>
         <p className="text-[16px] leading-relaxed">{solution.problemSummary}</p>
       </section>
 
       <div className="grid gap-4 md:grid-cols-3">
         <section>
-          <h3 className="mb-2 font-bold">⚡ 즉시 조치 <span className="text-xs font-normal text-ink-3">예산 없이</span></h3>
+          <h3 className="mb-2 font-semibold">즉시 조치 <span className="text-xs font-normal text-ink-3">예산 없이</span></h3>
           <ul className="space-y-2 text-sm">
             {solution.immediateActions.map((a, i) => (
               <li key={i} className="rounded-xl bg-surface-2 p-3">
@@ -40,7 +40,7 @@ export function SolutionCard({ view, solution }: { view: AiSolutionView; solutio
           </ul>
         </section>
         <section>
-          <h3 className="mb-2 font-bold">🗓️ 단기 개선 <span className="text-xs font-normal text-ink-3">분기 내</span></h3>
+          <h3 className="mb-2 font-semibold">단기 개선 <span className="text-xs font-normal text-ink-3">분기 내</span></h3>
           <ul className="space-y-2 text-sm">
             {solution.shortTerm.map((a, i) => (
               <li key={i} className="rounded-xl bg-surface-2 p-3">
@@ -51,7 +51,7 @@ export function SolutionCard({ view, solution }: { view: AiSolutionView; solutio
           </ul>
         </section>
         <section>
-          <h3 className="mb-2 font-bold">🏗️ 중장기 과제</h3>
+          <h3 className="mb-2 font-semibold">중장기 과제</h3>
           <ul className="space-y-2 text-sm">
             {solution.longTerm.map((a, i) => (
               <li key={i} className="rounded-xl bg-surface-2 p-3">
@@ -64,7 +64,7 @@ export function SolutionCard({ view, solution }: { view: AiSolutionView; solutio
       </div>
 
       <section className="mt-4">
-        <h3 className="mb-2 font-bold">📚 참고 사례</h3>
+        <h3 className="mb-2 font-semibold">참고 사례</h3>
         {solution.referencedCases.length === 0 ? <Badge tone="gray">근거 사례 없음</Badge> : (
           <ul className="space-y-2">
             {solution.referencedCases.map((c) => {
@@ -72,7 +72,7 @@ export function SolutionCard({ view, solution }: { view: AiSolutionView; solutio
               return (
                 <li key={c.bestPracticeId}>
                   <button type="button" onClick={() => setCaseId(c.bestPracticeId)} className="w-full rounded-xl border border-line p-3 text-left text-sm hover:border-primary">
-                    <b>{bp ? `${bp.rangeName} · ${bp.title}` : c.bestPracticeId}</b>
+                    <b className="font-medium">{bp ? `${bp.sourceLabel} · ${bp.title}` : c.bestPracticeId}</b>
                     <span className="block text-ink-2">{c.why}</span>
                   </button>
                 </li>
@@ -83,7 +83,7 @@ export function SolutionCard({ view, solution }: { view: AiSolutionView; solutio
       </section>
 
       <section className="mt-4">
-        <h3 className="mb-2 font-bold">🔍 담당자 확인 필요</h3>
+        <h3 className="mb-2 font-semibold">담당자 확인 필요</h3>
         <ul className="list-disc space-y-1 pl-5 text-sm">
           {solution.needsVerification.map((v, i) => <li key={i}>{v}</li>)}
         </ul>

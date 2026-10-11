@@ -21,13 +21,13 @@ export default function MyPage() {
       <PageHeader title="내 활동" sub={`${viewer.nickname} · 제안한 내용과 공감한 제안이 어떻게 처리되고 있는지 확인하세요.`} />
       <section>
         <SectionTitle>공감한 제안</SectionTitle>
-        {!liked.data ? <Loading rows={2} /> : liked.data.items.length === 0 ? <EmptyState title="공감한 제안이 없습니다" icon="👍" /> : (
+        {!liked.data ? <Loading rows={2} /> : liked.data.items.length === 0 ? <EmptyState title="공감한 제안이 없습니다" /> : (
           <div className="grid gap-3 md:grid-cols-2" data-testid="my-empathized">{liked.data.items.map((p) => <ProposalCard key={p.id} p={p} showRange />)}</div>
         )}
       </section>
       <section>
         <SectionTitle>내가 쓴 제안</SectionTitle>
-        {!mine.data ? <Loading rows={2} /> : mine.data.items.length === 0 ? <EmptyState title="아직 쓴 제안이 없습니다" icon="✍️" /> : (
+        {!mine.data ? <Loading rows={2} /> : mine.data.items.length === 0 ? <EmptyState title="아직 쓴 제안이 없습니다" /> : (
           <div className="grid gap-3 md:grid-cols-2" data-testid="my-proposals">{mine.data.items.map((p) => <ProposalCard key={p.id} p={p} showRange />)}</div>
         )}
       </section>

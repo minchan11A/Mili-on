@@ -251,6 +251,8 @@ export function getProposal(c: Ctx, id: string): ProposalDetail {
   if (!p || (p.state !== 'VISIBLE' && !isManager(c.viewer) && p.authorId !== c.viewer?.id)) throw new NotFoundError('제안을 찾을 수 없습니다');
   const reply = ix.replyByTarget.get(`PROPOSAL|${p.id}`);
   const hist = (ix.historyByProposal.get(p.id) ?? []).slice().sort((a, b) => a.createdAt.localeCompare(b.createdAt));
+  // 시드 이력은 상태 "변경"만 담고 있어, 첫 접수 단계가 없으면 작성 시각으로 채움
+  if (!hist.some((h) => !h.from && h.to === 'RECEIVED')) hist.unshift({ id: `${p.id}-received`, proposalId: p.id, from: null, to: 'RECEIVED', note: null, actorId: p.authorId, createdAt: p.createdAt });
   return {
     ...proposalView(c, p),
     history: hist.map((h) => ({ id: h.id, from: h.from, to: h.to, note: h.note, actorLabel: h.to === 'RECEIVED' && !h.from ? '접수' : authorLabel(c, h.actorId, p.rangeId), createdAt: h.createdAt })),
@@ -500,7 +502,7 @@ export function buildViewer(ds: Dataset, userId: string): Viewer | null {
     id: u.id, role: u.role, nickname: u.nickname, managedRangeId: u.managedRangeId ?? null,
     managedRangeName: u.managedRangeId ? ix.rangeById.get(u.managedRangeId)?.name ?? null : null,
     records: ds.records.filter((r) => r.userId === u.id).sort((a, b) => b.completedAt.localeCompare(a.completedAt))
-      .map((r) => ({ id: r.id, rangeId: r.rangeId, rangeName: ix.rangeById.get(r.rangeId)?.name ?? '', trainingType: r.trainingType, completedAt: r.completedAt })),
+      .map((r) => ({ id: r.id, rangeId: r.rangeId, rangeName: ix.rangeById.get(r.rangeId)?.name ?? '', trainingType: r.trainingType, completedAt: r.completedAt, reviewed: ds.reviews.some((v) => v.recordId === r.id) })),
   };
 }
 

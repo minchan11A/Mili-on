@@ -12,7 +12,7 @@ export function RangePanel({ range, onClose }: { range: RangeSummary; onClose: (
       <div className="flex items-start justify-between gap-2">
         <div>
           <div className="flex items-center gap-2">
-            <h2 className="text-xl font-extrabold">{range.name}</h2>
+            <h2 className="text-xl font-semibold">{range.name}</h2>
             <Badge tone="olive">{RANGE_TYPE_LABEL[range.type]}</Badge>
           </div>
           <p className="text-sm text-ink-3">{range.sido} {range.sigungu}</p>

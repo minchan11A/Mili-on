@@ -16,7 +16,7 @@ export function ManagerActions({ p, compact }: { p: ProposalDetail; compact?: bo
   const ds = getDataSource();
   return (
     <Card className={compact ? 'border-0 p-0' : 'p-4'} data-testid="manager-actions">
-      {!compact && <h2 className="mb-3 font-bold">담당자 처리</h2>}
+      {!compact && <h2 className="mb-3 font-semibold">담당자 처리</h2>}
       <div className="space-y-2">
         <label className="block text-sm font-semibold">상태 변경</label>
         <select aria-label="변경할 상태" className={inputCls} value={to} onChange={(e) => setTo(e.target.value as ProposalStatus)}>

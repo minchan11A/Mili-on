@@ -108,7 +108,7 @@ export function SecurityWarning({ value, onChange, onLevelChange, multiline = tr
       </div>
       {level === 'block' && (
         <div role="alert" data-testid="security-block" className="mt-2 rounded-xl border border-danger/40 bg-danger-soft px-3 py-2 text-sm text-danger">
-          <b>⛔ 좌표·작전 관련 내용은 등록할 수 없습니다.</b>
+          <b>좌표·작전 관련 내용은 등록할 수 없습니다.</b>
           <ul className="mt-1 list-disc pl-5">
             {[...new Set(blockFindings.map((f) => f.message.split(':')[0]))].map((r) => <li key={r}>{r}</li>)}
           </ul>
@@ -117,7 +117,7 @@ export function SecurityWarning({ value, onChange, onLevelChange, multiline = tr
       )}
       {level === 'warn' && (
         <div data-testid="security-warn" className="mt-2 rounded-xl border border-warn/40 bg-warn-soft px-3 py-2 text-sm text-yellow-900">
-          <b>🛡️ 부대명·장비명은 자동으로 가려져 저장됩니다.</b>
+          <b>부대명·장비명은 자동으로 가려져 저장됩니다.</b>
           <ul className="mt-1 space-y-0.5">
             {warnFindings.map((f, i) => (
               <li key={i}>

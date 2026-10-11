@@ -11,14 +11,14 @@ export function ProposalCard({ p, showRange }: { p: ProposalView; showRange?: bo
         <div className="mb-1.5 flex flex-wrap items-center gap-1.5">
           <CategoryBadge category={p.category} />
           <StatusBadge status={p.status} />
-          {p.hasReply && <Badge tone="olive">💬 공식 답변</Badge>}
+          {p.hasReply && <Badge tone="olive">공식 답변</Badge>}
           {p.isMine && <Badge tone="yellow">내 제안</Badge>}
           {p.hidden && <Badge tone="red">숨김</Badge>}
         </div>
-        <h3 className="font-bold leading-snug">{p.title}</h3>
+        <h3 className="font-semibold leading-snug">{p.title}</h3>
         <p className="mt-1 line-clamp-2 text-sm text-ink-2"><MaskHighlight text={p.body} /></p>
         <div className="mt-2 flex items-center gap-3 text-xs text-ink-3">
-          <span className={p.empathized ? 'font-bold text-primary' : ''}>👍 공감 {p.empathyCount}</span>
+          <span className={p.empathized ? 'font-semibold text-primary' : ''}>공감 {p.empathyCount}</span>
           {showRange && <span>{p.rangeName}</span>}
           <span>{fmtAgo(p.createdAt)}</span>
         </div>

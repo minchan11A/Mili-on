@@ -47,7 +47,7 @@ export default function MaskingDemoPage() {
       <div className="grid gap-4 lg:grid-cols-2">
         <Card className="p-4">
           <div className="mb-2 flex items-center justify-between">
-            <h2 className="font-bold">입력 (예비군이 쓴 원문)</h2>
+            <h2 className="font-semibold">입력 (예비군이 쓴 원문)</h2>
             <span className="text-xs text-ink-3">{text.length}자</span>
           </div>
           <div className="mb-3 flex flex-wrap gap-2">
@@ -75,13 +75,13 @@ export default function MaskingDemoPage() {
         <div className="space-y-4">
           {result?.blocked && (
             <div role="alert" data-testid="mask-blocked" className="rounded-2xl border-2 border-danger bg-danger-soft p-4 text-danger">
-              <div className="text-lg font-extrabold">⛔ 외부 전송 차단 · 사람 검토 대기</div>
+              <div className="text-lg font-semibold">외부 전송 차단 · 사람 검토 대기</div>
               <p className="mt-1 text-sm">이 글은 상용 AI로 보내지 않습니다. 사유: {result.blockReasons.join(', ')}</p>
             </div>
           )}
           <Card className="p-4">
             <div className="mb-2 flex items-center justify-between">
-              <h2 className="font-bold">외부 AI로 나가는 텍스트</h2>
+              <h2 className="font-semibold">외부 AI로 나가는 텍스트</h2>
               {result && !result.blocked && <Badge tone="ai">가려진 표현 {result.entities.length}개</Badge>}
             </div>
             <div data-testid="mask-output" className={`min-h-28 rounded-xl p-3 text-[16px] leading-relaxed ${result?.blocked ? 'bg-surface-2 text-ink-3 line-through decoration-danger/50' : 'bg-surface-2'}`}>
@@ -89,7 +89,7 @@ export default function MaskingDemoPage() {
             </div>
           </Card>
           <Card className="overflow-hidden">
-            <h2 className="px-4 pt-4 font-bold">탐지 항목</h2>
+            <h2 className="px-4 pt-4 font-semibold">탐지 항목</h2>
             {result && result.entities.length > 0 ? (
               <div className="overflow-x-auto">
                 <table data-testid="mask-table" className="mt-2 w-full text-sm">
@@ -117,7 +117,7 @@ export default function MaskingDemoPage() {
 
       {!local.blocked && sampleAiReply && (
         <Card className="mt-4 p-4">
-          <h2 className="font-bold">AI 응답 복원 (예시)</h2>
+          <h2 className="font-semibold">AI 응답 복원 (예시)</h2>
           <p className="mb-3 text-sm text-ink-2">토큰↔원문 대응표(vault)는 이 기기 안에만 있고 외부로 보내지 않습니다. 개인정보(전화번호 등)는 복원하지 않습니다.</p>
           <div className="grid gap-3 md:grid-cols-2">
             <div className="rounded-xl bg-ai-soft p-3 text-sm"><div className="mb-1 text-xs font-semibold text-ai">AI가 돌려준 문장</div><MaskHighlight text={sampleAiReply} /></div>

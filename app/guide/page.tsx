@@ -21,7 +21,7 @@ function RangeRow({ r }: { r: RangeSummary }) {
 export default function GuideEntryPage() {
   const q = useQuery(() => getDataSource().listRanges({}), []);
   const [text, setText] = useState('');
-  const [recent] = useLocalState<string[]>('milaind-recent-ranges', []);
+  const [recent] = useLocalState<string[]>('milind-recent-ranges', []);
   const { viewer } = useViewer();
   const list = useMemo(() => (q.data ?? []).filter((r) => !text || `${r.name}${r.sido}${r.sigungu}`.includes(text.trim())).sort((a, b) => a.name.localeCompare(b.name)), [q.data, text]);
   const recentRanges = recent.map((id) => q.data?.find((r) => r.id === id)).filter((r): r is RangeSummary => !!r);
@@ -36,7 +36,7 @@ export default function GuideEntryPage() {
           {!text && recentRanges.length > 0 && <section><SectionTitle>최근 본 훈련장</SectionTitle><Card className="divide-y divide-line">{recentRanges.map((r) => <RangeRow key={r.id} r={r} />)}</Card></section>}
           <section>
             <SectionTitle>{text ? '검색 결과' : '전체 훈련장'}</SectionTitle>
-            {list.length === 0 ? <EmptyState title="검색 결과가 없습니다" icon="🔎" /> : <Card className="divide-y divide-line">{list.map((r) => <RangeRow key={r.id} r={r} />)}</Card>}
+            {list.length === 0 ? <EmptyState title="검색 결과가 없습니다" /> : <Card className="divide-y divide-line">{list.map((r) => <RangeRow key={r.id} r={r} />)}</Card>}
           </section>
         </>
       )}

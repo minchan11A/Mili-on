@@ -19,7 +19,7 @@ function ResetDemo() {
   if (!IS_DEMO) return null;
   return (
     <>
-      <Button variant="secondary" size="sm" onClick={() => setOpen(true)} data-testid="reset-demo">↺ 시연 데이터 초기화</Button>
+      <Button variant="secondary" size="sm" onClick={() => setOpen(true)} data-testid="reset-demo">시연 데이터 초기화</Button>
       <Modal open={open} onClose={() => setOpen(false)} title="시연 데이터 초기화">
         <p className="text-sm text-ink-2">시연 중 만든 평가·제안·공감·상태 변경·AI 결정을 모두 지우고 원래 예시 데이터로 되돌립니다. 리허설과 본 시연 사이에 반드시 누르세요.</p>
         <div className="mt-4 flex justify-end gap-2">
@@ -64,7 +64,7 @@ function Dashboard() {
                   <tr key={r.id} className="border-t border-line">
                     <td className="px-4 py-2 font-semibold"><Link href={`/ranges/${r.id}`} className="hover:text-primary">{r.name}</Link></td>
                     <td className="px-2 py-2 text-ink-2">{r.sido}</td>
-                    <td className="px-2 py-2 text-right font-bold tabular-nums">{r.overall === null ? '평가 부족' : fmtScore(r.overall)}</td>
+                    <td className="px-2 py-2 text-right font-semibold tabular-nums">{r.overall === null ? '평가 부족' : fmtScore(r.overall)}</td>
                     <td className="px-2 py-2 text-right tabular-nums">{r.delta === null ? '–' : <><TrendMark trend={trendOf(r.delta)} /> {r.delta > 0 ? '+' : ''}{r.delta.toFixed(2)}</>}</td>
                     <td className="px-2 py-2 text-right tabular-nums">{r.reviewCount}</td>
                     <td className="px-4 py-2 text-right tabular-nums">{r.open}</td>

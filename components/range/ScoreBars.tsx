@@ -1,4 +1,3 @@
-import { scoreColor } from '@/components/ui';
 import { SCORE_AXES } from '@/lib/constants';
 import { fmtScore } from '@/lib/format';
 import type { ScoreSet } from '@/lib/types';
@@ -13,11 +12,11 @@ export function ScoreBars({ scores }: { scores: ScoreSet }) {
         const v = scores[a.key];
         return (
           <li key={a.key} className="grid grid-cols-[96px_1fr_36px] items-center gap-2 text-sm">
-            <span className={v !== null && v === min ? 'font-bold text-score-low' : 'text-ink-2'}>{a.label}</span>
+            <span className={v !== null && v === min ? "font-medium text-score-low" : "text-ink-2"}>{a.label}</span>
             <span className="h-2.5 overflow-hidden rounded-full bg-surface-2">
-              <span className="block h-full rounded-full" style={{ width: `${((v ?? 0) / 5) * 100}%`, background: scoreColor(v) }} />
+              <span className="block h-full rounded-full" style={{ width: `${((v ?? 0) / 5) * 100}%`, background: v !== null && v === min ? 'var(--c-score-low)' : v !== null && v < 3 ? 'var(--c-score-low)' : 'var(--c-text)' }} />
             </span>
-            <span className="text-right font-bold tabular-nums">{fmtScore(v)}</span>
+            <span className="text-right font-semibold tabular-nums">{fmtScore(v)}</span>
           </li>
         );
       })}

@@ -15,7 +15,7 @@ import type { FeatureCollection, Geometry } from 'geojson';
 import type { Topology, GeometryCollection } from 'topojson-specification';
 import sidoTopo from '@/data/geo/korea-sido.topo.json';
 import sigunguTopo from '@/data/geo/korea-sigungu.topo.json';
-import { scoreColor } from '@/components/ui';
+import { Icon, scoreColor } from '@/components/ui';
 import { SIDO_SHORT } from '@/lib/constants';
 import type { RangeSummary } from '@/lib/types';
 
@@ -130,7 +130,7 @@ export function KoreaMap({ ranges, value, selectedId, onSelect }: Props) {
   const inv = unit / t.k;
 
   return (
-    <div className="relative h-full w-full overflow-hidden rounded-2xl border border-line bg-[#eef3f6]">
+    <div className="relative h-full w-full overflow-hidden rounded-2xl border border-line bg-surface">
       <svg
         ref={svgRef}
         viewBox={`0 0 ${W} ${H}`}
@@ -144,12 +144,12 @@ export function KoreaMap({ ranges, value, selectedId, onSelect }: Props) {
             <path key={f.properties.code} d={path(f) ?? ''} fill="var(--c-map-land)" stroke="var(--c-map-stroke)" strokeWidth={1.2 / t.k} />
           ))}
           {showSigungu && sigungu.features.map((f) => (
-            <path key={f.properties.code} d={path(f) ?? ''} fill="none" stroke="#c3cbb7" strokeWidth={0.6 / t.k} />
+            <path key={f.properties.code} d={path(f) ?? ''} fill="none" stroke="#d6d4ce" strokeWidth={0.6 / t.k} />
           ))}
           {!showSigungu && sido.features.map((f) => {
             const [cx, cy] = path.centroid(f);
             return (
-              <text key={`l-${f.properties.code}`} x={cx} y={cy} textAnchor="middle" fontSize={11 * inv} fill="#8a947f" pointerEvents="none">
+              <text key={`l-${f.properties.code}`} x={cx} y={cy} textAnchor="middle" fontSize={11 * inv} fill="#a9a6a0" pointerEvents="none">
                 {SIDO_SHORT[f.properties.name] ?? ''}
               </text>
             );
@@ -174,9 +174,9 @@ export function KoreaMap({ ranges, value, selectedId, onSelect }: Props) {
                 >
                   <rect x={-w / 2 - 6} y={-38} width={w + 12} height={56} fill="transparent" />
                   <circle r={3} fill={scoreColor(p.v)} />
-                  <rect x={-w / 2} y={-32} width={w} height={22} rx={11} fill={scoreColor(p.v)} stroke={sel ? '#111' : '#fff'} strokeWidth={sel ? 2.5 : 1.5} />
-                  <text y={-16.5} textAnchor="middle" fontSize={12} fontWeight={800} fill="#fff">{label}</text>
-                  <text y={11} textAnchor="middle" fontSize={10} fontWeight={700} fill="#33402e" stroke="#fff" strokeWidth={3} paintOrder="stroke">{p.r.name.replace('훈련장', '')}</text>
+                  <rect x={-w / 2} y={-32} width={w} height={22} rx={11} fill={scoreColor(p.v)} stroke={sel ? '#161616' : '#fff'} strokeWidth={sel ? 2.5 : 1.5} />
+                  <text y={-16.5} textAnchor="middle" fontSize={12} fontWeight={600} fill="#fff">{label}</text>
+                  <text y={11} textAnchor="middle" fontSize={10} fontWeight={700} fill="#55534f" stroke="#fff" strokeWidth={3} paintOrder="stroke">{p.r.name.replace('훈련장', '')}</text>
                 </g>
               );
             }
@@ -194,23 +194,23 @@ export function KoreaMap({ ranges, value, selectedId, onSelect }: Props) {
                 data-testid="pin-cluster"
                 className="cursor-pointer"
               >
-                <rect x={-w / 2} y={-13} width={w} height={26} rx={13} fill="#33402e" stroke="#fff" strokeWidth={1.5} />
-                <text y={4.5} textAnchor="middle" fontSize={12} fontWeight={700} fill="#fff">{label}</text>
+                <rect x={-w / 2} y={-13} width={w} height={26} rx={13} fill="#161616" stroke="#fff" strokeWidth={1.5} />
+                <text y={4.5} textAnchor="middle" fontSize={12} fontWeight={500} fill="#fff">{label}</text>
               </g>
             );
           })}
         </g>
       </svg>
       <div className="absolute right-3 top-3 flex flex-col gap-1">
-        {[['+', () => zoomBy(1.6), '확대'], ['−', () => zoomBy(1 / 1.6), '축소'], ['⟲', reset, '처음 크기로']].map(([l, fn, a]) => (
-          <button key={a as string} type="button" aria-label={a as string} onClick={fn as () => void} className="grid h-11 w-11 place-items-center rounded-xl border border-line bg-surface text-lg font-bold shadow-sm">
-            {l as string}
+        {([['plus', () => zoomBy(1.6), '확대'], ['minus', () => zoomBy(1 / 1.6), '축소'], ['reset', reset, '처음 크기로']] as const).map(([icon, fn, label]) => (
+          <button key={label} type="button" aria-label={label} onClick={fn} className="grid h-10 w-10 place-items-center rounded-full border border-line bg-surface text-ink-2 hover:text-ink">
+            <Icon name={icon} size={17} />
           </button>
         ))}
       </div>
-      <div className="absolute bottom-3 left-3 flex flex-wrap gap-2 rounded-xl bg-surface/90 px-3 py-2 text-xs">
+      <div className="absolute bottom-3 left-3 flex flex-wrap gap-3 rounded-full bg-surface/90 px-4 py-2 text-[11px] text-ink-2">
         {[['4.0 이상', 4.2], ['3.0~3.9', 3.5], ['3.0 미만', 2.5], ['평가 부족', null]].map(([l, v]) => (
-          <span key={l as string} className="flex items-center gap-1"><i className="inline-block h-3 w-3 rounded-full" style={{ background: scoreColor(v as number | null) }} />{l as string}</span>
+          <span key={l as string} className="flex items-center gap-1"><i className="inline-block h-2 w-2 rounded-full" style={{ background: scoreColor(v as number | null) }} />{l as string}</span>
         ))}
       </div>
     </div>

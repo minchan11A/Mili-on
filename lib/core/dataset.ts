@@ -85,7 +85,8 @@ export interface SeedFiles {
 
 export function datasetFromSeed(f: SeedFiles): Dataset {
   const ds = {
-    ranges: f.ranges, users: f.users, records: f['training-records'], reviews: f.reviews, proposals: f.proposals,
+    // 시드의 description은 시나리오 메모("주인공: …")라 화면에 내보내지 않음
+    ranges: (f.ranges as Array<Record<string, unknown>>).map((r) => ({ ...r, description: null })), users: f.users, records: f['training-records'], reviews: f.reviews, proposals: f.proposals,
     empathies: f['proposal-empathies'], history: f['status-history'], replies: f['official-replies'],
     // 시드 이슈의 표시용 캐시 값(proposalCount 등)은 쓰지 않고 앱이 계산
     issues: (f.issues as Array<Record<string, unknown>>).map(({ proposalCount: _a, empathyCount: _b, rangeCount: _c, ...rest }) => rest),

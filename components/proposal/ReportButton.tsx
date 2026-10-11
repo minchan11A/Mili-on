@@ -17,7 +17,7 @@ export function ReportButton({ targetType, targetId }: { targetType: ReportTarge
   if (!viewer) return null;
   return (
     <>
-      <button type="button" onClick={() => setOpen(true)} className="min-h-9 rounded-lg px-2 text-xs text-ink-3 hover:bg-surface-2">🚩 신고</button>
+      <button type="button" onClick={() => setOpen(true)} className="min-h-9 rounded-lg px-2 text-xs text-ink-3 hover:bg-surface-2">신고</button>
       <Modal open={open} onClose={() => setOpen(false)} title="신고하기">
         <p className="mb-3 text-sm text-ink-2">신고가 3회 쌓이면 자동으로 숨겨지고 담당자가 확인합니다.</p>
         <select className={inputCls} value={reason} onChange={(e) => setReason(e.target.value)} aria-label="신고 사유">

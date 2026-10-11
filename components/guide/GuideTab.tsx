@@ -15,7 +15,7 @@ const SECTIONS = Object.keys(GUIDE_SECTION_LABEL) as GuideSection[];
 
 function Checklist({ rangeId, items }: { rangeId: string; items: GuideView[] }) {
   // 체크 상태는 이 기기 localStorage에만 저장 (개인 편의 기능)
-  const [checked, setChecked] = useLocalState<string[]>(`milaind-checklist-${rangeId}`, []);
+  const [checked, setChecked] = useLocalState<string[]>(`milind-checklist-${rangeId}`, []);
   return (
     <ul className="space-y-2">
       {items.map((g) => {
@@ -49,7 +49,7 @@ function GuideItem({ g }: { g: GuideView }) {
       <p>{g.body}</p>
       <button type="button" className="mt-1 min-h-9 rounded-lg px-2 text-sm text-ink-2 hover:bg-surface-2" onClick={async () => {
         try { await getDataSource().markHelpful(g.id); } catch (e) { toast((e as Error).message, 'error'); }
-      }}>👍 도움돼요 {g.helpfulCount}</button>
+      }}>도움돼요 {g.helpfulCount}</button>
     </li>
   );
 }
@@ -62,7 +62,7 @@ function TipForm({ rangeId, official }: { rangeId: string; official: boolean }) 
   const toast = useToast();
   return (
     <Card className="p-4">
-      <h3 className="mb-2 font-bold">{official ? '공식 안내 작성' : '꿀팁 남기기'}</h3>
+      <h3 className="mb-2 font-semibold">{official ? '공식 안내 작성' : '꿀팁 남기기'}</h3>
       <select aria-label="섹션" className={cx(inputCls, 'mb-2')} value={section} onChange={(e) => setSection(e.target.value as GuideSection)}>
         {SECTIONS.map((s) => <option key={s} value={s}>{GUIDE_SECTION_LABEL[s]}</option>)}
       </select>
@@ -91,7 +91,7 @@ export function GuideTab({ rangeId }: { rangeId: string }) {
         const items = q.data!.filter((g) => g.section === s);
         return (
           <section key={s}>
-            <h3 className="mb-2 text-base font-bold">{GUIDE_SECTION_LABEL[s]}</h3>
+            <h3 className="mb-2 text-base font-semibold">{GUIDE_SECTION_LABEL[s]}</h3>
             {items.length === 0 ? <p className="text-sm text-ink-3">아직 안내가 없습니다.</p>
               : s === 'CHECKLIST' ? <Checklist rangeId={rangeId} items={items} />
                 : <ul className="space-y-2">{items.map((g) => <GuideItem key={g.id} g={g} />)}</ul>}
@@ -118,7 +118,7 @@ export function QnaTab({ rangeId }: { rangeId: string }) {
     <div className="space-y-4" data-testid="qna-tab">
       {viewer?.role === 'RESERVIST' && (
         <Card className="p-4">
-          <h3 className="mb-2 font-bold">질문하기</h3>
+          <h3 className="mb-2 font-semibold">질문하기</h3>
           <SecurityWarning value={body} onChange={setBody} onLevelChange={setLevel} rows={2} maxLength={300} placeholder="예: 셔틀버스는 어디서 타나요?" label="질문" testId="qna-input" />
           {err && <Notice tone="danger" className="mt-2">{err}</Notice>}
           <div className="mt-2 flex items-center justify-between gap-2">
@@ -131,13 +131,13 @@ export function QnaTab({ rangeId }: { rangeId: string }) {
         </Card>
       )}
       {q.error && <ErrorBox error={q.error} onRetry={q.reload} />}
-      {!q.data ? <Loading /> : q.data.length === 0 ? <EmptyState title="아직 질문이 없습니다" icon="❓" /> : (
+      {!q.data ? <Loading /> : q.data.length === 0 ? <EmptyState title="아직 질문이 없습니다" /> : (
         <ul className="space-y-3">
           {q.data.map((qq) => (
             <li key={qq.id}>
               <Card className="p-4">
                 <div className="flex items-start gap-2">
-                  <span className="font-extrabold text-primary">Q.</span>
+                  <span className="font-semibold text-primary">Q.</span>
                   <div className="flex-1">
                     <p className="font-semibold">{qq.body}</p>
                     <p className="text-xs text-ink-3">{qq.authorLabel}</p>

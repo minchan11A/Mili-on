@@ -33,18 +33,18 @@ function SatisfactionTab({ rangeId }: { rangeId: string }) {
           <RadarScore scores={r.data.scores} />
         </Card>
         <Card className="p-4">
-          <h3 className="mb-3 font-bold">지표별 점수</h3>
+          <h3 className="mb-3 font-semibold">지표별 점수</h3>
           <ScoreBars scores={r.data.scores} />
-          <h3 className="mb-1 mt-5 font-bold">월별 종합점수</h3>
+          <h3 className="mb-1 mt-5 font-semibold">월별 종합점수</h3>
           <ScoreTrend monthly={r.data.monthly} />
         </Card>
       </div>
       <div>
         <SectionTitle right={
-          el.data?.eligible
-            ? <LinkButton href={`/ranges/${rangeId}/review`}>⭐ 평가하기</LinkButton>
-            : <div className="text-right"><Button disabled data-testid="review-disabled">⭐ 평가하기</Button>{el.data?.reason && <p className="mt-1 text-xs text-ink-3">{el.data.reason}</p>}</div>
-        }>평가 목록</SectionTitle>
+          el.data?.eligible || el.data?.canSelfReport
+            ? <LinkButton href={`/ranges/${rangeId}/review`}>설문으로 평가하기</LinkButton>
+            : <div className="text-right"><Button disabled data-testid="review-disabled">설문으로 평가하기</Button>{el.data?.reason && <p className="mt-1 text-[12px] text-ink-3">{el.data.reason}</p>}</div>
+        }>예비군 평가</SectionTitle>
         <ReviewList rangeId={rangeId} canReply={canReply} />
       </div>
     </div>
@@ -70,11 +70,11 @@ function ProposalsTab({ rangeId }: { rangeId: string }) {
             <option value="empathy">공감순</option>
             <option value="recent">최신순</option>
           </select>
-          {(!viewer || viewer.role === 'RESERVIST') && <LinkButton href={`/ranges/${rangeId}/propose`}>✍️ 개선 제안</LinkButton>}
+          {(!viewer || viewer.role === 'RESERVIST') && <LinkButton href={`/ranges/${rangeId}/propose`}>개선 제안</LinkButton>}
         </div>
       </div>
       {q.error && <ErrorBox error={q.error} onRetry={q.reload} />}
-      {!q.data ? <Loading /> : q.data.items.length === 0 ? <EmptyState title="해당하는 제안이 없습니다" desc="첫 제안을 남겨 보세요." icon="✍️" /> : (
+      {!q.data ? <Loading /> : q.data.items.length === 0 ? <EmptyState title="해당하는 제안이 없습니다" desc="첫 제안을 남겨 보세요." /> : (
         <>
           <div className="grid gap-3 md:grid-cols-2">{q.data.items.map((p) => <ProposalCard key={p.id} p={p} />)}</div>
           {pages > 1 && (
@@ -100,8 +100,8 @@ export function RangeDetailView({ rangeId }: { rangeId: string }) {
   useEffect(() => {
     if (!r.data) return;
     try {
-      const prev = JSON.parse(window.localStorage.getItem('milaind-recent-ranges') ?? '[]') as string[];
-      window.localStorage.setItem('milaind-recent-ranges', JSON.stringify([rangeId, ...prev.filter((x) => x !== rangeId)].slice(0, 6)));
+      const prev = JSON.parse(window.localStorage.getItem('milind-recent-ranges') ?? '[]') as string[];
+      window.localStorage.setItem('milind-recent-ranges', JSON.stringify([rangeId, ...prev.filter((x) => x !== rangeId)].slice(0, 6)));
     } catch { /* 무시 */ }
   }, [r.data, rangeId]);
   const setTab = (t: Tab) => router.replace(`${pathname}?tab=${t}`, { scroll: false });
@@ -113,7 +113,7 @@ export function RangeDetailView({ rangeId }: { rangeId: string }) {
         <Link href="/map" className="text-sm text-ink-3">← 만족도 지도</Link>
         {r.data ? (
           <div className="mt-1 flex flex-wrap items-center gap-2">
-            <h1 className="text-2xl font-extrabold" data-testid="range-title">{r.data.name}</h1>
+            <h1 className="text-2xl font-semibold" data-testid="range-title">{r.data.name}</h1>
             <Badge tone="olive">{RANGE_TYPE_LABEL[r.data.type]}</Badge>
             <span className="text-sm text-ink-3">{r.data.sido} {r.data.sigungu}</span>
           </div>

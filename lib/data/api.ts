@@ -39,7 +39,12 @@ export const apiDataSource: DataSource = {
 
   getViewer: () => get('/me'),
   login: (loginId, password) => call('POST', '/auth/login', { loginId, password }),
-  logout: () => call('POST', '/auth/logout', {}),
+  loginWithSupabase: (accessToken, profile) => call('POST', '/auth/supabase', { accessToken, ...profile }),
+  async logout() {
+    await call('POST', '/auth/logout', {});
+    const { SUPABASE_ENABLED, getSupabase } = await import('../supabase/client');
+    if (SUPABASE_ENABLED) await (await getSupabase()).auth.signOut().catch(() => {});
+  },
 
   listRanges: (f) => get('/ranges', f as Query),
   getRange: (id) => get(`/ranges/${encodeURIComponent(id)}`),

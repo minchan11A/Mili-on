@@ -88,11 +88,11 @@ export default function MapPage() {
               <li key={r.id}>
                 <Link href={`/ranges/${r.id}`}>
                   <Card className="flex items-center gap-3 p-4 hover:border-primary">
-                    <div className="grid h-14 w-14 shrink-0 place-items-center rounded-xl text-lg font-extrabold text-white" style={{ background: scoreColor(v) }}>
+                    <div className="grid h-14 w-14 shrink-0 place-items-center rounded-xl text-lg font-semibold text-white" style={{ background: scoreColor(v) }}>
                       {v === null ? '–' : fmtScore(v)}
                     </div>
                     <div className="min-w-0 flex-1">
-                      <div className="flex items-center gap-1.5 font-bold">{r.name} <TrendMark trend={r.trend} delta={r.trendDelta} /></div>
+                      <div className="flex items-center gap-1.5 font-semibold">{r.name} <TrendMark trend={r.trend} delta={r.trendDelta} /></div>
                       <div className="text-sm text-ink-3">{SIDO_SHORT[r.sido]} {r.sigungu} · {RANGE_TYPE_LABEL[r.type]}</div>
                       <div className="text-xs text-ink-3">평가 {r.reviewCount}건{v === null ? ' · 평가 부족' : ''}</div>
                     </div>

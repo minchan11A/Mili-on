@@ -26,7 +26,7 @@ function Audit() {
         <Chip active={blockedOnly} onClick={() => { setBlockedOnly(true); setPage(1); }}>차단 건만</Chip>
       </ChipRow>
       <ErrorBox error={q.error} onRetry={q.reload} />
-      {!q.data ? <Loading /> : q.data.items.length === 0 ? <EmptyState title="기록이 없습니다" icon="🛡️" /> : (
+      {!q.data ? <Loading /> : q.data.items.length === 0 ? <EmptyState title="기록이 없습니다" /> : (
         <Card className="overflow-x-auto">
           <table className="w-full text-sm" data-testid="audit-table">
             <thead className="bg-surface-2 text-left text-ink-2">

@@ -11,6 +11,13 @@ const nextConfig: NextConfig = {
   pageExtensions: isDemo ? ['tsx', 'ts'] : ['tsx', 'ts', 'server.ts'],
   ...(isDemo && { output: 'export', images: { unoptimized: true }, trailingSlash: true }),
   poweredByHeader: false,
+  // 오프라인 시연 빌드에는 Supabase SDK를 넣지 않음 (로그인은 시연 계정으로)
+  ...(isDemo && {
+    webpack: (config: { resolve: { alias: Record<string, unknown> } }) => {
+      config.resolve.alias['@supabase/supabase-js'] = false;
+      return config;
+    },
+  }),
   eslint: { ignoreDuringBuilds: true },
 };
 

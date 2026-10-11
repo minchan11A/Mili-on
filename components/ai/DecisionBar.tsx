@@ -52,7 +52,7 @@ export function DecisionBar({ view, openCount, onEditingChange, editing, draft, 
 
   return (
     <>
-      {editing && <Card className="p-4"><h3 className="mb-3 font-bold">✏️ 초안 수정</h3><SolutionEditor value={draft} onChange={setDraft} /></Card>}
+      {editing && <Card className="p-4"><h3 className="mb-3 font-semibold">초안 수정</h3><SolutionEditor value={draft} onChange={setDraft} /></Card>}
       <div className="sticky bottom-16 z-30 flex flex-wrap gap-2 rounded-2xl border border-line bg-surface p-3 shadow-lg md:bottom-3" data-testid="decision-bar">
         <span className="mr-auto self-center text-sm text-ink-2">AI 초안은 담당자가 결정해야 반영됩니다</span>
         {editing ? (

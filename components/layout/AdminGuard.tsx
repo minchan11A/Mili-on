@@ -13,7 +13,7 @@ export function AdminGuard({ children, policyOnly }: { children: ReactNode; poli
   if (!ok) {
     return (
       <EmptyState
-        icon="🔒"
+       
         title={policyOnly ? '정책 담당자만 볼 수 있습니다' : '담당자만 볼 수 있습니다'}
         desc={IS_DEMO ? '상단의 "역할 전환"에서 담당자를 선택해 보세요.' : '담당자 계정으로 로그인해 주세요.'}
         action={!IS_DEMO ? <Link href="/login" className="text-primary">로그인</Link> : undefined}

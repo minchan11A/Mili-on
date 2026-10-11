@@ -134,7 +134,7 @@ export interface Page<T> { items: T[]; page: number; pageSize: number; total: nu
 export interface Viewer {
   id: string; role: Role; nickname: string; managedRangeId?: string | null;
   managedRangeName?: string | null;
-  records: Array<{ id: string; rangeId: string; rangeName: string; trainingType: TrainingType; completedAt: string }>;
+  records: Array<{ id: string; rangeId: string; rangeName: string; trainingType: TrainingType; completedAt: string; reviewed: boolean }>;
 }
 
 export type ScoreSet = {

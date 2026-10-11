@@ -18,8 +18,8 @@ import { seedDataset } from './seed';
 import { notifyDataChanged } from './events';
 import { DataError, type DataSource } from './types';
 
-const LS_CHANGES = 'milaind-demo-changes-v1';
-const LS_ROLE = 'milaind-demo-role';
+const LS_CHANGES = 'milind-demo-changes-v1';
+const LS_ROLE = 'milind-demo-role';
 
 /** 역할 전환 드롭다운 → 시드 계정 (명세 §9: 예비군은 "A훈련장, 7일 전 이수" 고정) */
 export const DEMO_ROLE_USER: Record<Role, string> = {
@@ -179,7 +179,7 @@ export const demoDataSource: DataSource = {
       if (typeof window !== 'undefined') {
         for (let i = window.localStorage.length - 1; i >= 0; i--) {
           const k = window.localStorage.key(i);
-          if (k && k.startsWith('milaind-checklist-')) window.localStorage.removeItem(k);
+          if (k && k.startsWith('milind-checklist-')) window.localStorage.removeItem(k);
         }
       }
     } catch { /* 무시 */ }

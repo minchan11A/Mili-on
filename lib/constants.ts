@@ -6,11 +6,6 @@ export const CATEGORY_LABEL = {
   COMPENSATION: '보상·행정', ETC: '기타',
 } as const;
 
-export const CATEGORY_ICON: Record<Category, string> = {
-  TRANSPORT: '🚌', MEAL: '🍚', FACILITY: '🚻', OPERATION: '⏱️',
-  EQUIPMENT: '🎽', COMMUNICATION: '📢', COMPENSATION: '💳', ETC: '💬',
-};
-
 export const CATEGORIES = Object.keys(CATEGORY_LABEL) as Category[];
 
 export const STATUS_LABEL = {

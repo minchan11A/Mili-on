@@ -14,6 +14,8 @@ export interface DataSource {
   /** 시연: 역할 전환 / 서버: 로그인 */
   switchRole?(role: Role): Promise<Viewer | null>;
   login?(loginId: string, password: string): Promise<Viewer>;
+  /** Supabase 액세스 토큰 → 앱 세션 (처음이면 예비군 계정 생성) */
+  loginWithSupabase?(accessToken: string, profile?: { nickname?: string; ageBand?: string }): Promise<Viewer>;
   logout?(): Promise<void>;
 
   // 훈련장·지도

@@ -63,9 +63,9 @@ function IssueView() {
         <Link href={isManager ? '/admin' : '/trends'} className="text-sm text-ink-3">← {isManager ? '대시보드' : '개선 동향'}</Link>
         <div className="mt-2 flex flex-wrap items-center gap-2">
           <CategoryBadge category={issue.category} subtopic={issue.subtopic} />
-          {issue.isSafety && <Badge tone="orange">⚠️ 안전 관련</Badge>}
+          {issue.isSafety && <Badge tone="orange">안전 관련</Badge>}
         </div>
-        <h1 className="mt-1 text-2xl font-extrabold" data-testid="issue-title">{issue.title}</h1>
+        <h1 className="mt-1 text-[28px] font-semibold" data-testid="issue-title">{issue.subtopic}</h1>
         <div className="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-sm text-ink-2">
           <span>제안 <b className="text-ink">{issue.proposalCount}</b>건</span>
           <span>공감 <b className="text-ink">{issue.empathyCount}</b></span>
@@ -81,7 +81,7 @@ function IssueView() {
       {canAi && (
         <section className="space-y-3" data-testid="ai-section">
           {!sol && !loading && (
-            <Button variant="ai" size="lg" onClick={generate} data-testid="ai-generate">✦ AI 대책 초안 보기</Button>
+            <Button variant="ai" size="lg" onClick={generate} data-testid="ai-generate">AI 대책 초안 보기</Button>
           )}
           {loading && <Generating />}
           {err && <Notice tone="danger">{err}</Notice>}

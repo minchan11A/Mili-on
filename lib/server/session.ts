@@ -1,5 +1,5 @@
 /** 서명 쿠키 세션 (미들웨어·API 공용, Edge 호환: Web Crypto만 사용) */
-export const SESSION_COOKIE = 'milaind_session';
+export const SESSION_COOKIE = 'milind_session';
 export const SESSION_MAX_AGE = 60 * 60 * 12;   // 12시간
 
 function secret(): string {

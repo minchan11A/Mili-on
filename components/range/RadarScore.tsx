@@ -12,10 +12,10 @@ export function RadarScore({ scores, height = 220 }: { scores: ScoreSet; height?
     <div style={{ height }} data-testid="radar-score" role="img" aria-label={SCORE_AXES.map((a) => `${a.label} ${scores[a.key] ?? '-'}점`).join(', ')}>
       <ResponsiveContainer width="100%" height="100%">
         <RadarChart data={data} outerRadius="72%">
-          <PolarGrid stroke="#d7dccd" />
-          <PolarAngleAxis dataKey="axis" tick={{ fontSize: 12, fill: '#545c4e' }} />
+          <PolarGrid stroke="#e6e4df" />
+          <PolarAngleAxis dataKey="axis" tick={{ fontSize: 12, fill: '#55534f' }} />
           <PolarRadiusAxis domain={[0, 5]} tickCount={6} tick={false} axisLine={false} />
-          <Radar dataKey="score" stroke="var(--c-primary)" fill="var(--c-primary)" fillOpacity={0.35} isAnimationActive={false} />
+          <Radar dataKey="score" stroke="var(--c-accent)" strokeWidth={1.5} fill="var(--c-accent)" fillOpacity={0.12} isAnimationActive={false} />
         </RadarChart>
       </ResponsiveContainer>
     </div>

@@ -12,7 +12,7 @@ export function MaskedPayloadView({ view }: { view: AiSolutionView }) {
     <Card className="p-4">
       <div className="flex flex-wrap items-center gap-2">
         <Button variant={open ? 'primary' : 'secondary'} onClick={() => setOpen(!open)} data-testid="toggle-payload" aria-expanded={open}>
-          🛡️ 외부로 나간 텍스트 {open ? '접기' : '보기'}
+          외부로 나간 텍스트 {open ? '접기' : '보기'}
         </Button>
         <Badge tone="ai">가려진 표현 {tokens.size}종</Badge>
         {!!view.blockedCount && <Badge tone="red">차단되어 제외된 제안 {view.blockedCount}건</Badge>}

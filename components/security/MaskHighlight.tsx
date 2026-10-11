@@ -25,7 +25,7 @@ export function MaskHighlight({ text, className }: { text: string; className?: s
           <span
             key={i}
             data-token={p.token}
-            className={cx('mx-0.5 inline-flex items-center rounded-md px-1.5 py-px text-[0.85em] font-bold', p.pii ? 'bg-gray-200 text-gray-800' : 'bg-ai-soft text-ai ring-1 ring-ai/30')}
+            className={cx('mx-0.5 inline-flex items-center rounded-md px-1.5 py-px text-[0.85em] font-semibold', p.pii ? 'bg-gray-200 text-gray-800' : 'bg-ai-soft text-ai ring-1 ring-ai/30')}
           >
             {p.token}
           </span>

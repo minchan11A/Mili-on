@@ -34,7 +34,7 @@ function Queue() {
       <ErrorBox error={q.error} onRetry={q.reload} />
       <div className="grid gap-4 lg:grid-cols-[1fr_380px]">
         <Card className="overflow-x-auto">
-          {!q.data ? <div className="p-4"><Loading /></div> : q.data.items.length === 0 ? <div className="p-4"><EmptyState title="처리할 제안이 없습니다" icon="✅" /></div> : (
+          {!q.data ? <div className="p-4"><Loading /></div> : q.data.items.length === 0 ? <div className="p-4"><EmptyState title="처리할 제안이 없습니다" /></div> : (
             <table className="w-full text-sm" data-testid="queue-table">
               <thead className="bg-surface-2 text-left text-ink-2">
                 <tr><th className="px-3 py-2">제목</th><th className="px-2 py-2">분야</th><th className="px-2 py-2">훈련장</th><th className="px-2 py-2 text-right">공감</th><th className="px-2 py-2 text-right">경과</th><th className="px-3 py-2">상태</th></tr>
@@ -48,7 +48,7 @@ function Queue() {
                       <td className="px-2 py-2"><CategoryBadge category={p.category} /></td>
                       <td className="px-2 py-2 whitespace-nowrap">{p.rangeName}</td>
                       <td className="px-2 py-2 text-right tabular-nums">{p.empathyCount}</td>
-                      <td className={cx('px-2 py-2 text-right tabular-nums whitespace-nowrap', overdue && 'font-bold text-danger')}>{p.ageDays}일{overdue && ' ⚠'}</td>
+                      <td className={cx('px-2 py-2 text-right tabular-nums whitespace-nowrap', overdue && 'font-semibold text-danger')}>{p.ageDays}일{overdue && ' '}</td>
                       <td className="px-3 py-2"><StatusBadge status={p.status} /></td>
                     </tr>
                   );
@@ -62,14 +62,14 @@ function Queue() {
             <>
               <Card className="p-4">
                 <div className="mb-1 flex flex-wrap gap-1.5"><CategoryBadge category={detail.data.category} subtopic={detail.data.subtopic} /><StatusBadge status={detail.data.status} /></div>
-                <h2 className="font-bold">{detail.data.title}</h2>
+                <h2 className="font-semibold">{detail.data.title}</h2>
                 <p className="mt-1 text-sm text-ink-3">{detail.data.authorLabel} · {fmtDate(detail.data.createdAt)}</p>
                 <p className="mt-2 text-sm"><MaskHighlight text={detail.data.body} /></p>
               </Card>
               <ManagerActions key={`${detail.data.id}-${detail.data.status}`} p={detail.data} />
               {sameIssue.length > 1 && (
                 <Card className="p-4">
-                  <h3 className="font-bold">같은 이슈 일괄 처리 <Badge tone="olive">{sameIssue.length}건</Badge></h3>
+                  <h3 className="font-semibold">같은 이슈 일괄 처리 <Badge tone="olive">{sameIssue.length}건</Badge></h3>
                   <p className="mb-2 text-xs text-ink-3">“{detail.data.issueTitle}” 이슈의 처리 중 제안을 한 번에 바꿉니다.</p>
                   <select aria-label="일괄 변경 상태" className={cx(inputCls, 'mb-2')} value={bulkTo} onChange={(e) => setBulkTo(e.target.value as ProposalStatus)}>
                     {STATUSES.map((s) => <option key={s} value={s}>{STATUS_LABEL[s]}</option>)}
