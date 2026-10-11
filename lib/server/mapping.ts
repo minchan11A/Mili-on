@@ -8,7 +8,7 @@ export const MODEL_OF: Record<TableName, string> = {
   answers: 'answer', reports: 'report', audits: 'maskingAudit',
 };
 
-const DATE_KEYS = new Set(['createdAt', 'updatedAt', 'completedAt', 'decidedAt', 'generatedAt']);
+const DATE_KEYS = new Set(['createdAt', 'updatedAt', 'completedAt', 'decidedAt', 'generatedAt', 'recommendedAt']);
 
 /** ISO 문자열 날짜를 Date로, undefined 제거 */
 export function toDbRow(_table: TableName, row: Record<string, unknown>): Record<string, unknown> {

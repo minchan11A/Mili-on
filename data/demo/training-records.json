@@ -1,0 +1,3677 @@
+[
+ {
+  "id": "rec_00001",
+  "userId": "usr_0001",
+  "rangeId": "rng_R_C03",
+  "trainingType": "BASIC",
+  "completedAt": "2026-08-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00002",
+  "userId": "usr_0001",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-08-24T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00003",
+  "userId": "usr_0002",
+  "rangeId": "rng_R_U21",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00004",
+  "userId": "usr_0002",
+  "rangeId": "rng_R_O15",
+  "trainingType": "BASIC",
+  "completedAt": "2026-08-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00005",
+  "userId": "usr_0002",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-08-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00006",
+  "userId": "usr_0003",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2026-03-01T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00007",
+  "userId": "usr_0003",
+  "rangeId": "rng_R_S19",
+  "trainingType": "BASIC",
+  "completedAt": "2026-03-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00008",
+  "userId": "usr_0003",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2025-12-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00009",
+  "userId": "usr_0004",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-08-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00010",
+  "userId": "usr_0004",
+  "rangeId": "rng_R_U21",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-06-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00011",
+  "userId": "usr_0005",
+  "rangeId": "rng_R_N14",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-10T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00012",
+  "userId": "usr_0005",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00013",
+  "userId": "usr_0005",
+  "rangeId": "rng_R_Q17",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00014",
+  "userId": "usr_0005",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-15T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00015",
+  "userId": "usr_0006",
+  "rangeId": "rng_R_U21",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-09-14T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00016",
+  "userId": "usr_0006",
+  "rangeId": "rng_R_V22",
+  "trainingType": "BASIC",
+  "completedAt": "2026-01-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00017",
+  "userId": "usr_0007",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-06-19T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00018",
+  "userId": "usr_0007",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-06-19T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00019",
+  "userId": "usr_0008",
+  "rangeId": "rng_R_W23",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-03-06T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00020",
+  "userId": "usr_0008",
+  "rangeId": "rng_R_V22",
+  "trainingType": "BASIC",
+  "completedAt": "2025-11-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00021",
+  "userId": "usr_0008",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-09-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00022",
+  "userId": "usr_0009",
+  "rangeId": "rng_R_U21",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-09-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00023",
+  "userId": "usr_0009",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00024",
+  "userId": "usr_0010",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-10-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00025",
+  "userId": "usr_0011",
+  "rangeId": "rng_R_U21",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-03-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00026",
+  "userId": "usr_0011",
+  "rangeId": "rng_R_I09",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00027",
+  "userId": "usr_0011",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2025-11-30T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00028",
+  "userId": "usr_0011",
+  "rangeId": "rng_R_U21",
+  "trainingType": "BASIC",
+  "completedAt": "2026-02-01T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00029",
+  "userId": "usr_0012",
+  "rangeId": "rng_R_L12",
+  "trainingType": "BASIC",
+  "completedAt": "2026-07-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00030",
+  "userId": "usr_0012",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2026-08-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00031",
+  "userId": "usr_0012",
+  "rangeId": "rng_R_N14",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-07-16T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00032",
+  "userId": "usr_0012",
+  "rangeId": "rng_R_P16",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-12-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00033",
+  "userId": "usr_0013",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-22T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00034",
+  "userId": "usr_0013",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00035",
+  "userId": "usr_0013",
+  "rangeId": "rng_R_I09",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00036",
+  "userId": "usr_0014",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-07-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00037",
+  "userId": "usr_0014",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-16T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00038",
+  "userId": "usr_0014",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00039",
+  "userId": "usr_0015",
+  "rangeId": "rng_R_R18",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-10-14T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00040",
+  "userId": "usr_0015",
+  "rangeId": "rng_R_O15",
+  "trainingType": "BASIC",
+  "completedAt": "2025-11-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00041",
+  "userId": "usr_0015",
+  "rangeId": "rng_R_S19",
+  "trainingType": "BASIC",
+  "completedAt": "2026-04-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00042",
+  "userId": "usr_0016",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2025-11-15T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00043",
+  "userId": "usr_0016",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00044",
+  "userId": "usr_0016",
+  "rangeId": "rng_R_Q17",
+  "trainingType": "BASIC",
+  "completedAt": "2025-12-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00045",
+  "userId": "usr_0017",
+  "rangeId": "rng_R_X24",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-01-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00046",
+  "userId": "usr_0017",
+  "rangeId": "rng_R_J10",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-11-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00047",
+  "userId": "usr_0017",
+  "rangeId": "rng_R_T20",
+  "trainingType": "BASIC",
+  "completedAt": "2026-04-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00048",
+  "userId": "usr_0017",
+  "rangeId": "rng_R_U21",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-14T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00049",
+  "userId": "usr_0018",
+  "rangeId": "rng_R_S19",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-08-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00050",
+  "userId": "usr_0018",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-30T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00051",
+  "userId": "usr_0019",
+  "rangeId": "rng_R_T20",
+  "trainingType": "BASIC",
+  "completedAt": "2026-06-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00052",
+  "userId": "usr_0019",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-14T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00053",
+  "userId": "usr_0019",
+  "rangeId": "rng_R_V22",
+  "trainingType": "BASIC",
+  "completedAt": "2026-06-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00054",
+  "userId": "usr_0020",
+  "rangeId": "rng_R_L12",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00055",
+  "userId": "usr_0020",
+  "rangeId": "rng_R_J10",
+  "trainingType": "BASIC",
+  "completedAt": "2026-10-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00056",
+  "userId": "usr_0020",
+  "rangeId": "rng_R_P16",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-06-24T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00057",
+  "userId": "usr_0021",
+  "rangeId": "rng_R_R18",
+  "trainingType": "BASIC",
+  "completedAt": "2026-09-10T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00058",
+  "userId": "usr_0022",
+  "rangeId": "rng_R_V22",
+  "trainingType": "BASIC",
+  "completedAt": "2026-04-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00059",
+  "userId": "usr_0022",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-03-10T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00060",
+  "userId": "usr_0022",
+  "rangeId": "rng_R_R18",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-25T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00061",
+  "userId": "usr_0022",
+  "rangeId": "rng_R_T20",
+  "trainingType": "BASIC",
+  "completedAt": "2025-10-24T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00062",
+  "userId": "usr_0023",
+  "rangeId": "rng_R_W23",
+  "trainingType": "BASIC",
+  "completedAt": "2025-11-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00063",
+  "userId": "usr_0023",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-06-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00064",
+  "userId": "usr_0023",
+  "rangeId": "rng_R_R18",
+  "trainingType": "BASIC",
+  "completedAt": "2026-06-14T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00065",
+  "userId": "usr_0024",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-01-12T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00066",
+  "userId": "usr_0024",
+  "rangeId": "rng_R_I09",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-09-24T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00067",
+  "userId": "usr_0024",
+  "rangeId": "rng_R_L12",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-03-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00068",
+  "userId": "usr_0025",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-03-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00069",
+  "userId": "usr_0025",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-07-24T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00070",
+  "userId": "usr_0025",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-16T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00071",
+  "userId": "usr_0026",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-03-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00072",
+  "userId": "usr_0026",
+  "rangeId": "rng_R_T20",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-30T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00073",
+  "userId": "usr_0026",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-22T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00074",
+  "userId": "usr_0027",
+  "rangeId": "rng_R_X24",
+  "trainingType": "BASIC",
+  "completedAt": "2026-08-30T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00075",
+  "userId": "usr_0027",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2026-03-16T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00076",
+  "userId": "usr_0027",
+  "rangeId": "rng_R_C03",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-11-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00077",
+  "userId": "usr_0028",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-11-12T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00078",
+  "userId": "usr_0028",
+  "rangeId": "rng_R_S19",
+  "trainingType": "BASIC",
+  "completedAt": "2026-02-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00079",
+  "userId": "usr_0028",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-10T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00080",
+  "userId": "usr_0028",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00081",
+  "userId": "usr_0029",
+  "rangeId": "rng_R_R18",
+  "trainingType": "BASIC",
+  "completedAt": "2026-07-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00082",
+  "userId": "usr_0029",
+  "rangeId": "rng_R_W23",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-02-22T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00083",
+  "userId": "usr_0030",
+  "rangeId": "rng_R_P16",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-06-15T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00084",
+  "userId": "usr_0031",
+  "rangeId": "rng_R_V22",
+  "trainingType": "BASIC",
+  "completedAt": "2026-06-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00085",
+  "userId": "usr_0031",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-08-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00086",
+  "userId": "usr_0031",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2026-03-16T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00087",
+  "userId": "usr_0032",
+  "rangeId": "rng_R_U21",
+  "trainingType": "BASIC",
+  "completedAt": "2026-02-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00088",
+  "userId": "usr_0032",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00089",
+  "userId": "usr_0033",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-09-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00090",
+  "userId": "usr_0033",
+  "rangeId": "rng_R_P16",
+  "trainingType": "BASIC",
+  "completedAt": "2026-09-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00091",
+  "userId": "usr_0034",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2025-11-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00092",
+  "userId": "usr_0034",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-06-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00093",
+  "userId": "usr_0035",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00094",
+  "userId": "usr_0035",
+  "rangeId": "rng_R_N14",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-10-25T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00095",
+  "userId": "usr_0035",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2025-10-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00096",
+  "userId": "usr_0035",
+  "rangeId": "rng_R_O15",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-08-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00097",
+  "userId": "usr_0036",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-15T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00098",
+  "userId": "usr_0037",
+  "rangeId": "rng_R_N14",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-10-06T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00099",
+  "userId": "usr_0038",
+  "rangeId": "rng_R_V22",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-24T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00100",
+  "userId": "usr_0038",
+  "rangeId": "rng_R_N14",
+  "trainingType": "BASIC",
+  "completedAt": "2026-01-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00101",
+  "userId": "usr_0038",
+  "rangeId": "rng_R_P16",
+  "trainingType": "BASIC",
+  "completedAt": "2026-09-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00102",
+  "userId": "usr_0039",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-09-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00103",
+  "userId": "usr_0040",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00104",
+  "userId": "usr_0040",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-10-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00105",
+  "userId": "usr_0040",
+  "rangeId": "rng_R_C03",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-03-01T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00106",
+  "userId": "usr_0040",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-03-30T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00107",
+  "userId": "usr_0041",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-21T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00108",
+  "userId": "usr_0041",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-07-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00109",
+  "userId": "usr_0042",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-07-30T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00110",
+  "userId": "usr_0042",
+  "rangeId": "rng_R_I09",
+  "trainingType": "BASIC",
+  "completedAt": "2026-08-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00111",
+  "userId": "usr_0042",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-09-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00112",
+  "userId": "usr_0042",
+  "rangeId": "rng_R_S19",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-14T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00113",
+  "userId": "usr_0043",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-03-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00114",
+  "userId": "usr_0044",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-06-19T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00115",
+  "userId": "usr_0044",
+  "rangeId": "rng_R_R18",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00116",
+  "userId": "usr_0045",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2025-10-24T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00117",
+  "userId": "usr_0045",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-06-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00118",
+  "userId": "usr_0046",
+  "rangeId": "rng_R_N14",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-07-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00119",
+  "userId": "usr_0046",
+  "rangeId": "rng_R_J10",
+  "trainingType": "BASIC",
+  "completedAt": "2026-01-10T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00120",
+  "userId": "usr_0047",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00121",
+  "userId": "usr_0047",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2025-10-14T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00122",
+  "userId": "usr_0047",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-11-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00123",
+  "userId": "usr_0048",
+  "rangeId": "rng_R_U21",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-10T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00124",
+  "userId": "usr_0048",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-08-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00125",
+  "userId": "usr_0049",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00126",
+  "userId": "usr_0049",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-06-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00127",
+  "userId": "usr_0049",
+  "rangeId": "rng_R_I09",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-03-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00128",
+  "userId": "usr_0050",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2026-10-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00129",
+  "userId": "usr_0051",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-03-25T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00130",
+  "userId": "usr_0051",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-09-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00131",
+  "userId": "usr_0051",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00132",
+  "userId": "usr_0051",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-25T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00133",
+  "userId": "usr_0052",
+  "rangeId": "rng_R_F06",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00134",
+  "userId": "usr_0052",
+  "rangeId": "rng_R_J10",
+  "trainingType": "BASIC",
+  "completedAt": "2025-10-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00135",
+  "userId": "usr_0052",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2025-11-21T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00136",
+  "userId": "usr_0053",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-10-01T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00137",
+  "userId": "usr_0053",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-11-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00138",
+  "userId": "usr_0053",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00139",
+  "userId": "usr_0054",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-12-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00140",
+  "userId": "usr_0055",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00141",
+  "userId": "usr_0055",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-06-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00142",
+  "userId": "usr_0056",
+  "rangeId": "rng_R_O15",
+  "trainingType": "BASIC",
+  "completedAt": "2025-11-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00143",
+  "userId": "usr_0056",
+  "rangeId": "rng_R_T20",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00144",
+  "userId": "usr_0056",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-07-12T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00145",
+  "userId": "usr_0057",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2026-09-22T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00146",
+  "userId": "usr_0057",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00147",
+  "userId": "usr_0057",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-03-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00148",
+  "userId": "usr_0057",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-02-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00149",
+  "userId": "usr_0058",
+  "rangeId": "rng_R_P16",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-11-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00150",
+  "userId": "usr_0058",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-30T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00151",
+  "userId": "usr_0058",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2025-10-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00152",
+  "userId": "usr_0058",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-11-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00153",
+  "userId": "usr_0059",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-11-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00154",
+  "userId": "usr_0060",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-06-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00155",
+  "userId": "usr_0060",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-01-15T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00156",
+  "userId": "usr_0061",
+  "rangeId": "rng_R_W23",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00157",
+  "userId": "usr_0062",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00158",
+  "userId": "usr_0062",
+  "rangeId": "rng_R_X24",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00159",
+  "userId": "usr_0062",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-12-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00160",
+  "userId": "usr_0062",
+  "rangeId": "rng_R_L12",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00161",
+  "userId": "usr_0063",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-06-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00162",
+  "userId": "usr_0064",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-08-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00163",
+  "userId": "usr_0064",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2025-11-25T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00164",
+  "userId": "usr_0064",
+  "rangeId": "rng_R_S19",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00165",
+  "userId": "usr_0064",
+  "rangeId": "rng_R_J10",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00166",
+  "userId": "usr_0065",
+  "rangeId": "rng_R_V22",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-03-22T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00167",
+  "userId": "usr_0065",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00168",
+  "userId": "usr_0065",
+  "rangeId": "rng_R_T20",
+  "trainingType": "BASIC",
+  "completedAt": "2026-07-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00169",
+  "userId": "usr_0066",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-09-15T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00170",
+  "userId": "usr_0067",
+  "rangeId": "rng_R_P16",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-03-30T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00171",
+  "userId": "usr_0067",
+  "rangeId": "rng_R_O15",
+  "trainingType": "BASIC",
+  "completedAt": "2025-11-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00172",
+  "userId": "usr_0068",
+  "rangeId": "rng_R_J10",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00173",
+  "userId": "usr_0068",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2025-10-24T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00174",
+  "userId": "usr_0068",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00175",
+  "userId": "usr_0068",
+  "rangeId": "rng_R_C03",
+  "trainingType": "BASIC",
+  "completedAt": "2026-04-10T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00176",
+  "userId": "usr_0069",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-06T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00177",
+  "userId": "usr_0069",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-06-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00178",
+  "userId": "usr_0070",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-10-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00179",
+  "userId": "usr_0070",
+  "rangeId": "rng_R_S19",
+  "trainingType": "BASIC",
+  "completedAt": "2026-03-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00180",
+  "userId": "usr_0071",
+  "rangeId": "rng_R_P16",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-03-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00181",
+  "userId": "usr_0072",
+  "rangeId": "rng_R_P16",
+  "trainingType": "BASIC",
+  "completedAt": "2025-12-30T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00182",
+  "userId": "usr_0073",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00183",
+  "userId": "usr_0074",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-12-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00184",
+  "userId": "usr_0074",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-01-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00185",
+  "userId": "usr_0074",
+  "rangeId": "rng_R_J10",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00186",
+  "userId": "usr_0075",
+  "rangeId": "rng_R_F06",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-11-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00187",
+  "userId": "usr_0075",
+  "rangeId": "rng_R_I09",
+  "trainingType": "BASIC",
+  "completedAt": "2026-08-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00188",
+  "userId": "usr_0075",
+  "rangeId": "rng_R_U21",
+  "trainingType": "BASIC",
+  "completedAt": "2026-10-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00189",
+  "userId": "usr_0076",
+  "rangeId": "rng_R_S19",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-08-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00190",
+  "userId": "usr_0076",
+  "rangeId": "rng_R_U21",
+  "trainingType": "BASIC",
+  "completedAt": "2025-10-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00191",
+  "userId": "usr_0077",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00192",
+  "userId": "usr_0077",
+  "rangeId": "rng_R_L12",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-14T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00193",
+  "userId": "usr_0077",
+  "rangeId": "rng_R_S19",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-10-14T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00194",
+  "userId": "usr_0078",
+  "rangeId": "rng_R_T20",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00195",
+  "userId": "usr_0078",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-02-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00196",
+  "userId": "usr_0079",
+  "rangeId": "rng_R_T20",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-09-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00197",
+  "userId": "usr_0079",
+  "rangeId": "rng_R_P16",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-11-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00198",
+  "userId": "usr_0079",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00199",
+  "userId": "usr_0080",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2025-10-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00200",
+  "userId": "usr_0080",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-07-31T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00201",
+  "userId": "usr_0080",
+  "rangeId": "rng_R_F06",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00202",
+  "userId": "usr_0081",
+  "rangeId": "rng_R_N14",
+  "trainingType": "BASIC",
+  "completedAt": "2026-06-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00203",
+  "userId": "usr_0081",
+  "rangeId": "rng_R_L12",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-08-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00204",
+  "userId": "usr_0081",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-21T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00205",
+  "userId": "usr_0081",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-08-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00206",
+  "userId": "usr_0082",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-11-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00207",
+  "userId": "usr_0082",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2025-12-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00208",
+  "userId": "usr_0083",
+  "rangeId": "rng_R_Q17",
+  "trainingType": "BASIC",
+  "completedAt": "2025-12-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00209",
+  "userId": "usr_0083",
+  "rangeId": "rng_R_C03",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00210",
+  "userId": "usr_0083",
+  "rangeId": "rng_R_L12",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00211",
+  "userId": "usr_0084",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00212",
+  "userId": "usr_0084",
+  "rangeId": "rng_R_J10",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-10-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00213",
+  "userId": "usr_0085",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00214",
+  "userId": "usr_0085",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-03-30T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00215",
+  "userId": "usr_0085",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-11-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00216",
+  "userId": "usr_0086",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2025-10-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00217",
+  "userId": "usr_0086",
+  "rangeId": "rng_R_C03",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-06-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00218",
+  "userId": "usr_0086",
+  "rangeId": "rng_R_P16",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-01-01T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00219",
+  "userId": "usr_0087",
+  "rangeId": "rng_R_U21",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-10-22T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00220",
+  "userId": "usr_0088",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00221",
+  "userId": "usr_0088",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00222",
+  "userId": "usr_0089",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-10-30T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00223",
+  "userId": "usr_0089",
+  "rangeId": "rng_R_I09",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00224",
+  "userId": "usr_0090",
+  "rangeId": "rng_R_R18",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00225",
+  "userId": "usr_0090",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-09-01T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00226",
+  "userId": "usr_0091",
+  "rangeId": "rng_R_J10",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00227",
+  "userId": "usr_0091",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-06-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00228",
+  "userId": "usr_0092",
+  "rangeId": "rng_R_T20",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00229",
+  "userId": "usr_0092",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-07-30T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00230",
+  "userId": "usr_0092",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-03-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00231",
+  "userId": "usr_0093",
+  "rangeId": "rng_R_T20",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00232",
+  "userId": "usr_0093",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-06-25T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00233",
+  "userId": "usr_0093",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-31T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00234",
+  "userId": "usr_0094",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-10-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00235",
+  "userId": "usr_0094",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-22T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00236",
+  "userId": "usr_0095",
+  "rangeId": "rng_R_N14",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-07-24T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00237",
+  "userId": "usr_0095",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-03-21T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00238",
+  "userId": "usr_0095",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-11-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00239",
+  "userId": "usr_0096",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-03-16T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00240",
+  "userId": "usr_0096",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00241",
+  "userId": "usr_0096",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-12-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00242",
+  "userId": "usr_0096",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-02-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00243",
+  "userId": "usr_0097",
+  "rangeId": "rng_R_F06",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-09-16T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00244",
+  "userId": "usr_0097",
+  "rangeId": "rng_R_U21",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-11-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00245",
+  "userId": "usr_0098",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-15T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00246",
+  "userId": "usr_0098",
+  "rangeId": "rng_R_C03",
+  "trainingType": "BASIC",
+  "completedAt": "2026-04-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00247",
+  "userId": "usr_0098",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-25T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00248",
+  "userId": "usr_0099",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00249",
+  "userId": "usr_0100",
+  "rangeId": "rng_R_N14",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-03-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00250",
+  "userId": "usr_0100",
+  "rangeId": "rng_R_I09",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-09-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00251",
+  "userId": "usr_0100",
+  "rangeId": "rng_R_Q17",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00252",
+  "userId": "usr_0100",
+  "rangeId": "rng_R_T20",
+  "trainingType": "BASIC",
+  "completedAt": "2026-09-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00253",
+  "userId": "usr_0101",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00254",
+  "userId": "usr_0101",
+  "rangeId": "rng_R_N14",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-14T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00255",
+  "userId": "usr_0101",
+  "rangeId": "rng_R_T20",
+  "trainingType": "BASIC",
+  "completedAt": "2026-08-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00256",
+  "userId": "usr_0102",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00257",
+  "userId": "usr_0102",
+  "rangeId": "rng_R_Q17",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-02-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00258",
+  "userId": "usr_0103",
+  "rangeId": "rng_R_J10",
+  "trainingType": "BASIC",
+  "completedAt": "2026-06-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00259",
+  "userId": "usr_0103",
+  "rangeId": "rng_R_J10",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-09-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00260",
+  "userId": "usr_0104",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-08-12T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00261",
+  "userId": "usr_0104",
+  "rangeId": "rng_R_T20",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-31T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00262",
+  "userId": "usr_0105",
+  "rangeId": "rng_R_P16",
+  "trainingType": "BASIC",
+  "completedAt": "2026-09-12T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00263",
+  "userId": "usr_0105",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-11-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00264",
+  "userId": "usr_0106",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-01-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00265",
+  "userId": "usr_0106",
+  "rangeId": "rng_R_F06",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00266",
+  "userId": "usr_0107",
+  "rangeId": "rng_R_C03",
+  "trainingType": "BASIC",
+  "completedAt": "2026-02-19T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00267",
+  "userId": "usr_0107",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-03-14T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00268",
+  "userId": "usr_0108",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-15T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00269",
+  "userId": "usr_0108",
+  "rangeId": "rng_R_P16",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-10-31T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00270",
+  "userId": "usr_0109",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00271",
+  "userId": "usr_0109",
+  "rangeId": "rng_R_C03",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-11-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00272",
+  "userId": "usr_0109",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00273",
+  "userId": "usr_0110",
+  "rangeId": "rng_R_J10",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-03-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00274",
+  "userId": "usr_0110",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00275",
+  "userId": "usr_0110",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-03-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00276",
+  "userId": "usr_0111",
+  "rangeId": "rng_R_J10",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-11-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00277",
+  "userId": "usr_0111",
+  "rangeId": "rng_R_Q17",
+  "trainingType": "BASIC",
+  "completedAt": "2026-06-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00278",
+  "userId": "usr_0112",
+  "rangeId": "rng_R_R18",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-08-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00279",
+  "userId": "usr_0112",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-16T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00280",
+  "userId": "usr_0112",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-08-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00281",
+  "userId": "usr_0112",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00282",
+  "userId": "usr_0113",
+  "rangeId": "rng_R_Q17",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00283",
+  "userId": "usr_0113",
+  "rangeId": "rng_R_J10",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00284",
+  "userId": "usr_0113",
+  "rangeId": "rng_R_J10",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-14T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00285",
+  "userId": "usr_0114",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-01-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00286",
+  "userId": "usr_0115",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00287",
+  "userId": "usr_0115",
+  "rangeId": "rng_R_O15",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-24T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00288",
+  "userId": "usr_0115",
+  "rangeId": "rng_R_F06",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00289",
+  "userId": "usr_0116",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-06-19T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00290",
+  "userId": "usr_0116",
+  "rangeId": "rng_R_Q17",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00291",
+  "userId": "usr_0117",
+  "rangeId": "rng_R_R18",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00292",
+  "userId": "usr_0117",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-03-22T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00293",
+  "userId": "usr_0117",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00294",
+  "userId": "usr_0118",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-08-22T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00295",
+  "userId": "usr_0118",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-10-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00296",
+  "userId": "usr_0118",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2025-10-16T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00297",
+  "userId": "usr_0119",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-02-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00298",
+  "userId": "usr_0120",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-16T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00299",
+  "userId": "usr_0120",
+  "rangeId": "rng_R_U21",
+  "trainingType": "BASIC",
+  "completedAt": "2026-07-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00300",
+  "userId": "usr_0120",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-01T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00301",
+  "userId": "usr_0121",
+  "rangeId": "rng_R_C03",
+  "trainingType": "BASIC",
+  "completedAt": "2025-10-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00302",
+  "userId": "usr_0121",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00303",
+  "userId": "usr_0121",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00304",
+  "userId": "usr_0121",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-06T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00305",
+  "userId": "usr_0122",
+  "rangeId": "rng_R_Q17",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-09-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00306",
+  "userId": "usr_0123",
+  "rangeId": "rng_R_W23",
+  "trainingType": "BASIC",
+  "completedAt": "2026-04-06T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00307",
+  "userId": "usr_0123",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-01-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00308",
+  "userId": "usr_0124",
+  "rangeId": "rng_R_L12",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00309",
+  "userId": "usr_0124",
+  "rangeId": "rng_R_N14",
+  "trainingType": "BASIC",
+  "completedAt": "2026-03-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00310",
+  "userId": "usr_0124",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-09-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00311",
+  "userId": "usr_0125",
+  "rangeId": "rng_R_V22",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00312",
+  "userId": "usr_0125",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-24T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00313",
+  "userId": "usr_0126",
+  "rangeId": "rng_R_F06",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-15T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00314",
+  "userId": "usr_0126",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-03-16T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00315",
+  "userId": "usr_0126",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00316",
+  "userId": "usr_0126",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-12T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00317",
+  "userId": "usr_0127",
+  "rangeId": "rng_R_W23",
+  "trainingType": "BASIC",
+  "completedAt": "2026-10-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00318",
+  "userId": "usr_0127",
+  "rangeId": "rng_R_I09",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-22T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00319",
+  "userId": "usr_0128",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00320",
+  "userId": "usr_0128",
+  "rangeId": "rng_R_R18",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-12-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00321",
+  "userId": "usr_0129",
+  "rangeId": "rng_R_P16",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-14T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00322",
+  "userId": "usr_0129",
+  "rangeId": "rng_R_F06",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-11-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00323",
+  "userId": "usr_0130",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-09-14T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00324",
+  "userId": "usr_0131",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00325",
+  "userId": "usr_0131",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-01T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00326",
+  "userId": "usr_0131",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00327",
+  "userId": "usr_0132",
+  "rangeId": "rng_R_N14",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-11-06T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00328",
+  "userId": "usr_0133",
+  "rangeId": "rng_R_W23",
+  "trainingType": "BASIC",
+  "completedAt": "2025-11-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00329",
+  "userId": "usr_0134",
+  "rangeId": "rng_R_T20",
+  "trainingType": "BASIC",
+  "completedAt": "2026-03-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00330",
+  "userId": "usr_0134",
+  "rangeId": "rng_R_C03",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-07-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00331",
+  "userId": "usr_0135",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00332",
+  "userId": "usr_0135",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-10-10T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00333",
+  "userId": "usr_0136",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-19T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00334",
+  "userId": "usr_0136",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-03-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00335",
+  "userId": "usr_0136",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-10T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00336",
+  "userId": "usr_0136",
+  "rangeId": "rng_R_T20",
+  "trainingType": "BASIC",
+  "completedAt": "2026-10-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00337",
+  "userId": "usr_0137",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00338",
+  "userId": "usr_0137",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2025-11-12T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00339",
+  "userId": "usr_0137",
+  "rangeId": "rng_R_I09",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-10-16T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00340",
+  "userId": "usr_0138",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00341",
+  "userId": "usr_0138",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-03-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00342",
+  "userId": "usr_0138",
+  "rangeId": "rng_R_V22",
+  "trainingType": "BASIC",
+  "completedAt": "2026-01-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00343",
+  "userId": "usr_0139",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-08-22T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00344",
+  "userId": "usr_0139",
+  "rangeId": "rng_R_I09",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-11-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00345",
+  "userId": "usr_0139",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-08-06T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00346",
+  "userId": "usr_0139",
+  "rangeId": "rng_R_O15",
+  "trainingType": "BASIC",
+  "completedAt": "2026-07-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00347",
+  "userId": "usr_0140",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00348",
+  "userId": "usr_0140",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-02-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00349",
+  "userId": "usr_0140",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00350",
+  "userId": "usr_0141",
+  "rangeId": "rng_R_U21",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00351",
+  "userId": "usr_0142",
+  "rangeId": "rng_R_T20",
+  "trainingType": "BASIC",
+  "completedAt": "2026-08-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00352",
+  "userId": "usr_0142",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-09-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00353",
+  "userId": "usr_0142",
+  "rangeId": "rng_R_U21",
+  "trainingType": "BASIC",
+  "completedAt": "2025-11-19T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00354",
+  "userId": "usr_0143",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2025-11-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00355",
+  "userId": "usr_0143",
+  "rangeId": "rng_R_P16",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-02-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00356",
+  "userId": "usr_0143",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-12T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00357",
+  "userId": "usr_0144",
+  "rangeId": "rng_R_Q17",
+  "trainingType": "BASIC",
+  "completedAt": "2026-10-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00358",
+  "userId": "usr_0145",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-09-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00359",
+  "userId": "usr_0145",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2025-10-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00360",
+  "userId": "usr_0145",
+  "rangeId": "rng_R_R18",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-11-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00361",
+  "userId": "usr_0146",
+  "rangeId": "rng_R_U21",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00362",
+  "userId": "usr_0146",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-09-19T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00363",
+  "userId": "usr_0147",
+  "rangeId": "rng_R_X24",
+  "trainingType": "BASIC",
+  "completedAt": "2026-09-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00364",
+  "userId": "usr_0147",
+  "rangeId": "rng_R_P16",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-07-22T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00365",
+  "userId": "usr_0147",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-10-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00366",
+  "userId": "usr_0148",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-02-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00367",
+  "userId": "usr_0148",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2026-02-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00368",
+  "userId": "usr_0149",
+  "rangeId": "rng_R_P16",
+  "trainingType": "BASIC",
+  "completedAt": "2025-12-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00369",
+  "userId": "usr_0149",
+  "rangeId": "rng_R_I09",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00370",
+  "userId": "usr_0150",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-02-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00371",
+  "userId": "usr_0150",
+  "rangeId": "rng_R_F06",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00372",
+  "userId": "usr_0150",
+  "rangeId": "rng_R_C03",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-06-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00373",
+  "userId": "usr_0151",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-02-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00374",
+  "userId": "usr_0151",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-01-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00375",
+  "userId": "usr_0152",
+  "rangeId": "rng_R_J10",
+  "trainingType": "BASIC",
+  "completedAt": "2026-07-06T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00376",
+  "userId": "usr_0152",
+  "rangeId": "rng_R_R18",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00377",
+  "userId": "usr_0153",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-06-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00378",
+  "userId": "usr_0153",
+  "rangeId": "rng_R_S19",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00379",
+  "userId": "usr_0153",
+  "rangeId": "rng_R_I09",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-11-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00380",
+  "userId": "usr_0153",
+  "rangeId": "rng_R_I09",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00381",
+  "userId": "usr_0154",
+  "rangeId": "rng_R_R18",
+  "trainingType": "BASIC",
+  "completedAt": "2026-01-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00382",
+  "userId": "usr_0154",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-06-22T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00383",
+  "userId": "usr_0154",
+  "rangeId": "rng_R_W23",
+  "trainingType": "BASIC",
+  "completedAt": "2026-07-15T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00384",
+  "userId": "usr_0155",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00385",
+  "userId": "usr_0155",
+  "rangeId": "rng_R_W23",
+  "trainingType": "BASIC",
+  "completedAt": "2026-03-25T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00386",
+  "userId": "usr_0155",
+  "rangeId": "rng_R_F06",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-10-19T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00387",
+  "userId": "usr_0156",
+  "rangeId": "rng_R_Q17",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00388",
+  "userId": "usr_0156",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-01T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00389",
+  "userId": "usr_0156",
+  "rangeId": "rng_R_L12",
+  "trainingType": "BASIC",
+  "completedAt": "2026-08-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00390",
+  "userId": "usr_0157",
+  "rangeId": "rng_R_R18",
+  "trainingType": "BASIC",
+  "completedAt": "2025-10-25T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00391",
+  "userId": "usr_0157",
+  "rangeId": "rng_R_P16",
+  "trainingType": "BASIC",
+  "completedAt": "2026-03-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00392",
+  "userId": "usr_0158",
+  "rangeId": "rng_R_J10",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00393",
+  "userId": "usr_0158",
+  "rangeId": "rng_R_R18",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00394",
+  "userId": "usr_0158",
+  "rangeId": "rng_R_O15",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00395",
+  "userId": "usr_0159",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00396",
+  "userId": "usr_0160",
+  "rangeId": "rng_R_V22",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-02-01T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00397",
+  "userId": "usr_0160",
+  "rangeId": "rng_R_C03",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-03-01T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00398",
+  "userId": "usr_0160",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-08-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00399",
+  "userId": "usr_0161",
+  "rangeId": "rng_R_C03",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00400",
+  "userId": "usr_0161",
+  "rangeId": "rng_R_V22",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00401",
+  "userId": "usr_0161",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-08-06T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00402",
+  "userId": "usr_0162",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-11-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00403",
+  "userId": "usr_0163",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00404",
+  "userId": "usr_0164",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-03-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00405",
+  "userId": "usr_0164",
+  "rangeId": "rng_R_L12",
+  "trainingType": "BASIC",
+  "completedAt": "2025-11-25T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00406",
+  "userId": "usr_0164",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-10-31T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00407",
+  "userId": "usr_0164",
+  "rangeId": "rng_R_U21",
+  "trainingType": "BASIC",
+  "completedAt": "2025-10-31T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00408",
+  "userId": "usr_0165",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-08-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00409",
+  "userId": "usr_0165",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-09-12T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00410",
+  "userId": "usr_0165",
+  "rangeId": "rng_R_W23",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00411",
+  "userId": "usr_0165",
+  "rangeId": "rng_R_U21",
+  "trainingType": "BASIC",
+  "completedAt": "2026-04-21T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00412",
+  "userId": "usr_0166",
+  "rangeId": "rng_R_S19",
+  "trainingType": "BASIC",
+  "completedAt": "2026-03-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00413",
+  "userId": "usr_0166",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-24T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00414",
+  "userId": "usr_0166",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-08-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00415",
+  "userId": "usr_0167",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2025-12-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00416",
+  "userId": "usr_0167",
+  "rangeId": "rng_R_O15",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-12-21T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00417",
+  "userId": "usr_0168",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-11-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00418",
+  "userId": "usr_0168",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-09-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00419",
+  "userId": "usr_0168",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-06-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00420",
+  "userId": "usr_0169",
+  "rangeId": "rng_R_J10",
+  "trainingType": "BASIC",
+  "completedAt": "2026-02-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00421",
+  "userId": "usr_0169",
+  "rangeId": "rng_R_J10",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-06-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00422",
+  "userId": "usr_0169",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-02-12T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00423",
+  "userId": "usr_0169",
+  "rangeId": "rng_R_U21",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00424",
+  "userId": "usr_0170",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-03-10T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00425",
+  "userId": "usr_0170",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-08-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00426",
+  "userId": "usr_0170",
+  "rangeId": "rng_R_J10",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00427",
+  "userId": "usr_0171",
+  "rangeId": "rng_R_O15",
+  "trainingType": "BASIC",
+  "completedAt": "2025-10-24T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00428",
+  "userId": "usr_0171",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-16T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00429",
+  "userId": "usr_0172",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-10-21T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00430",
+  "userId": "usr_0172",
+  "rangeId": "rng_R_U21",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-31T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00431",
+  "userId": "usr_0173",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-01T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00432",
+  "userId": "usr_0173",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-07-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00433",
+  "userId": "usr_0173",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00434",
+  "userId": "usr_0174",
+  "rangeId": "rng_R_P16",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-08-30T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00435",
+  "userId": "usr_0174",
+  "rangeId": "rng_R_F06",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00436",
+  "userId": "usr_0175",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-08-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00437",
+  "userId": "usr_0175",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2025-11-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00438",
+  "userId": "usr_0175",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-07-12T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00439",
+  "userId": "usr_0176",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-01-12T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00440",
+  "userId": "usr_0176",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-06-19T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00441",
+  "userId": "usr_0176",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-07-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00442",
+  "userId": "usr_0176",
+  "rangeId": "rng_R_U21",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-31T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00443",
+  "userId": "usr_0177",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-06-24T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00444",
+  "userId": "usr_0177",
+  "rangeId": "rng_R_S19",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00445",
+  "userId": "usr_0177",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-16T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00446",
+  "userId": "usr_0178",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-06-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00447",
+  "userId": "usr_0179",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-07-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00448",
+  "userId": "usr_0179",
+  "rangeId": "rng_R_I09",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-12-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00449",
+  "userId": "usr_0179",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2026-08-25T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00450",
+  "userId": "usr_0180",
+  "rangeId": "rng_R_F06",
+  "trainingType": "BASIC",
+  "completedAt": "2026-03-31T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00451",
+  "userId": "usr_0180",
+  "rangeId": "rng_R_T20",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00452",
+  "userId": "usr_0181",
+  "rangeId": "rng_R_I09",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-23T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00453",
+  "userId": "usr_0181",
+  "rangeId": "rng_R_L12",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00454",
+  "userId": "usr_0182",
+  "rangeId": "rng_R_T20",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-11-10T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00455",
+  "userId": "usr_0183",
+  "rangeId": "rng_R_O15",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-09-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00456",
+  "userId": "usr_0183",
+  "rangeId": "rng_R_P16",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-02-15T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00457",
+  "userId": "usr_0183",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-06-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00458",
+  "userId": "usr_0184",
+  "rangeId": "rng_R_W23",
+  "trainingType": "BASIC",
+  "completedAt": "2026-06-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00459",
+  "userId": "usr_0185",
+  "rangeId": "rng_R_O15",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-03-15T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00460",
+  "userId": "usr_0185",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00461",
+  "userId": "usr_0186",
+  "rangeId": "rng_R_M13",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-04-01T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00462",
+  "userId": "usr_0186",
+  "rangeId": "rng_R_I09",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-09-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00463",
+  "userId": "usr_0187",
+  "rangeId": "rng_R_X24",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-11T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00464",
+  "userId": "usr_0187",
+  "rangeId": "rng_R_C03",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00465",
+  "userId": "usr_0187",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-01-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00466",
+  "userId": "usr_0187",
+  "rangeId": "rng_R_W23",
+  "trainingType": "BASIC",
+  "completedAt": "2025-10-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00467",
+  "userId": "usr_0188",
+  "rangeId": "rng_R_O15",
+  "trainingType": "BASIC",
+  "completedAt": "2025-11-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00468",
+  "userId": "usr_0188",
+  "rangeId": "rng_R_R18",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-01-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00469",
+  "userId": "usr_0189",
+  "rangeId": "rng_R_L12",
+  "trainingType": "BASIC",
+  "completedAt": "2026-01-28T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00470",
+  "userId": "usr_0189",
+  "rangeId": "rng_R_U21",
+  "trainingType": "BASIC",
+  "completedAt": "2026-01-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00471",
+  "userId": "usr_0189",
+  "rangeId": "rng_R_S19",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-10T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00472",
+  "userId": "usr_0190",
+  "rangeId": "rng_R_Q17",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-06-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00473",
+  "userId": "usr_0190",
+  "rangeId": "rng_R_G07",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-03-06T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00474",
+  "userId": "usr_0190",
+  "rangeId": "rng_R_T20",
+  "trainingType": "BASIC",
+  "completedAt": "2026-07-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00475",
+  "userId": "usr_0191",
+  "rangeId": "rng_R_O15",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-10-12T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00476",
+  "userId": "usr_0192",
+  "rangeId": "rng_R_P16",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-09-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00477",
+  "userId": "usr_0192",
+  "rangeId": "rng_R_V22",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00478",
+  "userId": "usr_0193",
+  "rangeId": "rng_R_E05",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-05-10T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00479",
+  "userId": "usr_0193",
+  "rangeId": "rng_R_O15",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-10-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00480",
+  "userId": "usr_0194",
+  "rangeId": "rng_R_V22",
+  "trainingType": "BASIC",
+  "completedAt": "2026-08-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00481",
+  "userId": "usr_0194",
+  "rangeId": "rng_R_P16",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-12-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00482",
+  "userId": "usr_0195",
+  "rangeId": "rng_R_B02",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-08-12T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00483",
+  "userId": "usr_0195",
+  "rangeId": "rng_R_C03",
+  "trainingType": "BASIC",
+  "completedAt": "2026-03-01T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00484",
+  "userId": "usr_0195",
+  "rangeId": "rng_R_R18",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00485",
+  "userId": "usr_0196",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-04-21T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00486",
+  "userId": "usr_0196",
+  "rangeId": "rng_R_C03",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00487",
+  "userId": "usr_0196",
+  "rangeId": "rng_R_W23",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-05-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00488",
+  "userId": "usr_0196",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-05-24T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00489",
+  "userId": "usr_0197",
+  "rangeId": "rng_R_L12",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2025-11-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00490",
+  "userId": "usr_0198",
+  "rangeId": "rng_R_Q17",
+  "trainingType": "FOLLOWUP",
+  "completedAt": "2026-04-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00491",
+  "userId": "usr_0199",
+  "rangeId": "rng_R_N14",
+  "trainingType": "BASIC",
+  "completedAt": "2026-04-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00492",
+  "userId": "usr_0199",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-10-07T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00493",
+  "userId": "usr_0200",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-10-03T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00494",
+  "userId": "usr_0200",
+  "rangeId": "rng_R_Q17",
+  "trainingType": "BASIC",
+  "completedAt": "2026-05-06T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00495",
+  "userId": "usr_0070",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-07-22T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00496",
+  "userId": "usr_0191",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-06-27T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00497",
+  "userId": "usr_0157",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-09-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00498",
+  "userId": "usr_0007",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-07-06T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00499",
+  "userId": "usr_0062",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-08-17T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00500",
+  "userId": "usr_0132",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-09-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00501",
+  "userId": "usr_0184",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-06-29T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00502",
+  "userId": "usr_0141",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-09-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00503",
+  "userId": "usr_0125",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-10-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00504",
+  "userId": "usr_0035",
+  "rangeId": "rng_R_D04",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-08-06T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00505",
+  "userId": "usr_0161",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-07-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00506",
+  "userId": "usr_0173",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-07-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00507",
+  "userId": "usr_0047",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-09-06T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00508",
+  "userId": "usr_0082",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-08-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00509",
+  "userId": "usr_0018",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-08-26T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00510",
+  "userId": "usr_0061",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-10-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00511",
+  "userId": "usr_0030",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-10-02T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00512",
+  "userId": "usr_0029",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-06-22T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00513",
+  "userId": "usr_0162",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-07-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00514",
+  "userId": "usr_0118",
+  "rangeId": "rng_R_H08",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-10-04T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00515",
+  "userId": "usr_0075",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-08-08T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00516",
+  "userId": "usr_0077",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-08-30T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00517",
+  "userId": "usr_0178",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-08-01T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00518",
+  "userId": "usr_0071",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-09-09T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00519",
+  "userId": "usr_0123",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-08-20T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00520",
+  "userId": "usr_0125",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-09-13T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00521",
+  "userId": "usr_0070",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-07-18T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00522",
+  "userId": "usr_0081",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-09-21T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00523",
+  "userId": "usr_0199",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-09-06T17:00:00+09:00"
+ },
+ {
+  "id": "rec_00524",
+  "userId": "usr_0177",
+  "rangeId": "rng_R_K11",
+  "trainingType": "MOBILIZATION_NOSTAY",
+  "completedAt": "2026-10-05T17:00:00+09:00"
+ },
+ {
+  "id": "rec_demo",
+  "userId": "usr_demo",
+  "rangeId": "rng_R_A01",
+  "trainingType": "MOBILIZATION",
+  "completedAt": "2026-10-04T17:00:00+09:00"
+ }
+]

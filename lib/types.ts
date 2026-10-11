@@ -23,19 +23,27 @@ export type Trend = 'up' | 'flat' | 'down';
 export interface RangeRec {
   id: string; code: string; name: string; type: RangeType;
   sido: string; sigungu: string; lat: number; lng: number;
-  description?: string | null; createdAt: string;
+  description?: string | null; createdAt?: string | null;
+  /** 시드: 가명 훈련장 여부, 출처(fictional | mnd), 입지(urban·suburban·rural), 국방부 데이터 필드 */
+  isFictional?: boolean; source?: string | null; setting?: string | null; address?: string | null; phone?: string | null;
 }
 export interface UserRec {
   id: string; role: Role; nickname: string; ageBand?: string | null;
-  loginId: string; managedRangeId?: string | null; createdAt: string;
+  loginId: string; managedRangeId?: string | null; createdAt?: string | null;
+  /** Supabase Auth 사용자 id (가입 사용자) */
+  authId?: string | null; email?: string | null;
 }
 export interface TrainingRecordRec {
   id: string; userId: string; rangeId: string; trainingType: TrainingType; completedAt: string;
+  /** 설문에서 본인이 입력한 이수 기록 (실제 도입 시 예비군 홈페이지 연동으로 대체) */
+  selfReported?: boolean;
 }
 export interface ReviewRec {
   id: string; userId: string; rangeId: string; recordId: string;
   scoreTransport: number; scoreMeal: number; scoreFacility: number; scoreOperation: number; scoreComm: number;
   comment?: string | null; state: ContentState; createdAt: string;
+  /** 설문 문항별 응답 (문항 id → 1 불만족 ~ 5 만족) */
+  answers?: Record<string, number> | null;
 }
 export interface IssueRec {
   id: string; category: Category; subtopic: string; title: string;
@@ -45,6 +53,8 @@ export interface ProposalRec {
   id: string; rangeId: string; authorId: string; category: Category; subtopic?: string | null;
   title: string; body: string; status: ProposalStatus; sentiment?: number | null;
   issueId?: string | null; state: ContentState; createdAt: string; updatedAt: string;
+  /** 시드 검증용: 이 제안 원문에 들어 있는 마스킹 대상 유형 */
+  maskExpected?: string[];
 }
 export interface EmpathyRec { userId: string; proposalId: string; createdAt: string }
 export interface StatusHistoryRec {
@@ -62,8 +72,10 @@ export interface AiSolutionRec {
   generatedAt?: string | null; reviewed?: boolean;
 }
 export interface BestPracticeRec {
-  id: string; rangeId: string; category: Category; title: string; before: string; after: string;
-  completedAt: string; sourceProposalId?: string | null;
+  /** 권익위 권고처럼 특정 훈련장이 없는 사례는 rangeId·completedAt이 null */
+  id: string; rangeId: string | null; category: Category; title: string; before: string; after: string;
+  completedAt: string | null; sourceProposalId?: string | null;
+  basis?: 'POLICY_RECOMMENDATION' | 'FICTIONAL' | string | null; basisLabel?: string | null; sourceId?: string | null; recommendedAt?: string | null;
 }
 export interface GuideRec {
   id: string; rangeId: string; section: GuideSection; body: string; isOfficial: boolean;
@@ -156,8 +168,13 @@ export interface ReviewView {
 }
 
 export interface ReviewInput {
-  rangeId: string; recordId: string;
-  scoreTransport: number; scoreMeal: number; scoreFacility: number; scoreOperation: number; scoreComm: number;
+  rangeId: string;
+  /** 이수 기록이 있으면 그 id, 없으면 selfReport로 본인 입력 */
+  recordId?: string;
+  selfReport?: { trainingType: TrainingType; completedAt: string };
+  answers?: Record<string, number>;
+  /** answers가 없을 때(이전 API 호환)만 직접 점수 */
+  scoreTransport?: number; scoreMeal?: number; scoreFacility?: number; scoreOperation?: number; scoreComm?: number;
   comment?: string;
 }
 
@@ -263,8 +280,10 @@ export interface QuestionView {
 }
 
 export interface BestPracticeView {
-  id: string; rangeId: string; rangeName: string; category: Category; title: string;
-  before: string; after: string; completedAt: string;
+  id: string; rangeId: string | null; rangeName: string | null; category: Category; title: string;
+  before: string; after: string; completedAt: string | null;
+  /** 표시용 출처: "D훈련장" 또는 "권익위 권고(2023.7)" */
+  sourceLabel: string; date: string | null; isPolicy: boolean;
 }
 
 export interface HomeStats {

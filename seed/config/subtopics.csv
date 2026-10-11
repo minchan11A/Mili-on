@@ -1,0 +1,31 @@
+category,subtopic,weight,is_safety
+TRANSPORT,원거리 배정,35,false
+TRANSPORT,셔틀 시간,20,false
+TRANSPORT,셔틀 부족,15,false
+TRANSPORT,대중교통 안내,15,false
+TRANSPORT,주차 공간,15,false
+MEAL,도시락 품질,35,false
+MEAL,배식 대기시간,30,false
+MEAL,식사량,15,false
+MEAL,메뉴 다양성,12,false
+MEAL,식당 위생,8,true
+FACILITY,화장실 청결,35,false
+FACILITY,냉난방,30,false
+FACILITY,휴게 공간,20,false
+FACILITY,탈의 공간,15,false
+OPERATION,입소 지연 처리,40,false
+OPERATION,대기시간,30,false
+OPERATION,일정 지연,15,false
+OPERATION,교육 내용,15,false
+EQUIPMENT,피복 사이즈,45,false
+EQUIPMENT,피복 위생,30,false
+EQUIPMENT,장구 상태,25,true
+COMMUNICATION,소집 통지 이해,45,false
+COMMUNICATION,사전 안내 부족,25,false
+COMMUNICATION,현장 안내,15,false
+COMMUNICATION,문의 응대,15,false
+COMPENSATION,훈련 연기·변경,40,false
+COMPENSATION,휴일 훈련,30,false
+COMPENSATION,실거주지 훈련,20,false
+COMPENSATION,훈련비·교통비,10,false
+ETC,기타,100,false

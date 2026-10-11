@@ -5,7 +5,8 @@
  *  - 서버 모드: lib/server/persist.ts가 같은 변경 목록을 Prisma로 DB에 반영
  * 권한·자격·보안 검사(차단, 마스킹)는 모두 여기서 합니다. 서버는 클라이언트를 믿지 않고 이 검사를 다시 거칩니다.
  */
-import { AUTO_HIDE_REPORTS, SUBTOPICS } from '../constants';
+import { AUTO_HIDE_REPORTS, RANGE_TRAINING_TYPES, REVIEW_WINDOW_DAYS, SUBTOPICS, type ScoreKey } from '../constants';
+import { isCompleteAnswers, MESSAGE_MAX, scoresFromAnswers, SURVEY_QUESTIONS } from '../survey';
 import { countEntities, maskText, toStorableText } from '../masking';
 import { guessSubtopic, sentimentOf } from '../analysis/classify';
 import { isSafetyText } from '../analysis/priority';
@@ -13,7 +14,7 @@ import { answerFromGuides } from '../llm/qna';
 import type {
   AiDecisionInput, AiSolutionRec, AnswerRec, Category, Dataset, EmpathyRec, GuideInput, GuideRec, IssueRec, MaskingAuditRec,
   OfficialReplyRec, ProposalInput, ProposalRec, ProposalStatus, QuestionRec, ReplyTarget, ReportRec, ReportTargetType,
-  ReviewInput, ReviewRec, Solution, StatusHistoryRec, Viewer,
+  ReviewInput, ReviewRec, Solution, StatusHistoryRec, TrainingRecordRec, Viewer,
 } from '../types';
 import { BlockedError, ForbiddenError, NotFoundError, ValidationError, canHandleIssue, reviewEligibility, type Ctx } from './queries';
 
@@ -82,17 +83,51 @@ function storable(text: string, maxLen: number, field: string): string {
 
 export function createReview(c: MutationCtx, input: ReviewInput): MutationResult<ReviewRec> {
   const v = requireRole(c.viewer, 'RESERVIST');
-  const el = reviewEligibility(c, input.rangeId);
-  if (!el.eligible || el.recordId !== input.recordId) throw new ValidationError(el.reason ?? '평가할 수 없는 이수 기록입니다');
-  const scores = [input.scoreTransport, input.scoreMeal, input.scoreFacility, input.scoreOperation, input.scoreComm];
-  if (scores.some((s) => !Number.isInteger(s) || s < 1 || s > 5)) throw new ValidationError('모든 지표를 1~5점으로 매겨 주세요');
-  const comment = input.comment?.trim() ? storable(input.comment, 300, '한 줄 의견') : null;
+  const range = c.ds.ranges.find((r) => r.id === input.rangeId);
+  if (!range) throw new NotFoundError('훈련장을 찾을 수 없습니다');
+  const changes: Change[] = [];
+  let recordId = input.recordId;
+
+  if (recordId) {
+    const el = reviewEligibility(c, input.rangeId);
+    if (!el.eligible || el.recordId !== recordId) throw new ValidationError(el.reason ?? '평가할 수 없는 이수 기록입니다');
+  } else {
+    // 이수 기록이 없는 사용자(가입 사용자)는 설문에서 훈련 정보를 직접 입력 → 본인 입력 기록으로 저장
+    const sr = input.selfReport;
+    if (!sr) throw new ValidationError('훈련 정보를 입력해 주세요');
+    if (!RANGE_TRAINING_TYPES[range.type].includes(sr.trainingType)) throw new ValidationError('이 훈련장에서 받을 수 없는 훈련 유형입니다');
+    const done = new Date(sr.completedAt);
+    const age = ((c.now ?? new Date()).getTime() - done.getTime()) / 86_400_000;
+    if (Number.isNaN(age) || age < -0.5) throw new ValidationError('훈련 날짜를 확인해 주세요');
+    if (age > REVIEW_WINDOW_DAYS + 1) throw new ValidationError(`평가 기간(${REVIEW_WINDOW_DAYS}일)이 지났습니다`);
+    const day = sr.completedAt.slice(0, 10);
+    const same = c.ds.records.find((r) => r.userId === v.id && r.rangeId === range.id && r.completedAt.slice(0, 10) === day);
+    if (same && c.ds.reviews.some((r) => r.recordId === same.id)) throw new ValidationError('이미 평가했습니다');
+    if (same) recordId = same.id;
+    else {
+      const rec: TrainingRecordRec = { id: c.newId('rec'), userId: v.id, rangeId: range.id, trainingType: sr.trainingType, completedAt: done.toISOString(), selfReported: true };
+      changes.push(up('records', rec));
+      recordId = rec.id;
+    }
+  }
+
+  let scores: Record<ScoreKey, number>;
+  let answers: Record<string, number> | null = null;
+  if (input.answers) {
+    if (!isCompleteAnswers(input.answers)) throw new ValidationError('모든 문항에 답해 주세요');
+    answers = Object.fromEntries(SURVEY_QUESTIONS.map((q) => [q.id, input.answers![q.id]]));
+    scores = scoresFromAnswers(answers);
+  } else {
+    scores = { scoreTransport: input.scoreTransport!, scoreMeal: input.scoreMeal!, scoreFacility: input.scoreFacility!, scoreOperation: input.scoreOperation!, scoreComm: input.scoreComm! };
+    if (Object.values(scores).some((x) => !Number.isInteger(x) || x < 1 || x > 5)) throw new ValidationError('모든 지표를 1~5점으로 매겨 주세요');
+  }
+  const comment = input.comment?.trim() ? storable(input.comment, MESSAGE_MAX, '다른 예비군에게 전하고 싶은 말') : null;
   const row: ReviewRec = {
-    id: c.newId('rv'), userId: v.id, rangeId: input.rangeId, recordId: input.recordId,
-    scoreTransport: input.scoreTransport, scoreMeal: input.scoreMeal, scoreFacility: input.scoreFacility,
-    scoreOperation: input.scoreOperation, scoreComm: input.scoreComm, comment, state: 'VISIBLE', createdAt: nowIso(c),
+    id: c.newId('rev'), userId: v.id, rangeId: input.rangeId, recordId: recordId!, ...scores, answers,
+    comment, state: 'VISIBLE', createdAt: nowIso(c),
   };
-  return { changes: [up('reviews', row)], result: row };
+  changes.push(up('reviews', row));
+  return { changes, result: row };
 }
 
 /* ───────────────────────── 개선 제안 ───────────────────────── */

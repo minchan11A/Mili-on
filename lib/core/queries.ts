@@ -194,19 +194,20 @@ export function listReviews(c: Ctx, rangeId: string, page = 1): Page<ReviewView>
   return paginate(items, page, 10);
 }
 
-export function reviewEligibility(c: Ctx, rangeId: string): { eligible: boolean; recordId?: string; reason?: string } {
+export function reviewEligibility(c: Ctx, rangeId: string): { eligible: boolean; recordId?: string; reason?: string; canSelfReport?: boolean } {
   const v = c.viewer;
   if (!v) return { eligible: false, reason: '로그인이 필요합니다' };
   if (v.role !== 'RESERVIST') return { eligible: false, reason: '예비군만 평가할 수 있습니다' };
   const recs = c.ds.records.filter((r) => r.userId === v.id && r.rangeId === rangeId).sort((a, b) => b.completedAt.localeCompare(a.completedAt));
-  if (!recs.length) return { eligible: false, reason: '이 훈련장 이수 기록이 없습니다' };
+  // 이수 기록이 없으면 설문에서 훈련 정보를 직접 입력해 참여할 수 있음 (실제 도입 시 예비군 홈페이지 연동)
+  if (!recs.length) return { eligible: false, reason: '이 훈련장 이수 기록이 없습니다', canSelfReport: true };
   const now = nowOf(c);
   const reviewed = new Set(c.ds.reviews.map((r) => r.recordId));
   const open = recs.find((r) => !reviewed.has(r.id) && daysBetween(r.completedAt, now) <= REVIEW_WINDOW_DAYS);
   if (open) return { eligible: true, recordId: open.id };
   const latest = recs[0];
   if (reviewed.has(latest.id)) return { eligible: false, reason: '이미 평가했습니다' };
-  return { eligible: false, reason: `평가 기간(${REVIEW_WINDOW_DAYS}일)이 지났습니다` };
+  return { eligible: false, reason: `평가 기간(${REVIEW_WINDOW_DAYS}일)이 지났습니다`, canSelfReport: true };
 }
 
 /* ───────────────────────── 제안 ───────────────────────── */
@@ -462,11 +463,18 @@ export function listQuestions(c: Ctx, rangeId: string): QuestionView[] {
 /* ───────────────────────── 홈·사례 ───────────────────────── */
 
 export function bestPracticeView(c: Ctx, b: Dataset['bestPractices'][number]): BestPracticeView {
-  return { id: b.id, rangeId: b.rangeId, rangeName: indexOf(c.ds).rangeById.get(b.rangeId)?.name ?? '', category: b.category, title: b.title, before: b.before, after: b.after, completedAt: b.completedAt };
+  const rangeName = b.rangeId ? indexOf(c.ds).rangeById.get(b.rangeId)?.name ?? null : null;
+  const isPolicy = b.basis === 'POLICY_RECOMMENDATION';
+  return {
+    id: b.id, rangeId: b.rangeId, rangeName, category: b.category, title: b.title, before: b.before, after: b.after,
+    completedAt: b.completedAt, sourceLabel: rangeName ?? b.basisLabel ?? '정책 권고', date: b.completedAt ?? b.recommendedAt ?? null, isPolicy,
+  };
 }
 
+/** 개선 사례: 훈련장 현장 사례(최근 완료 순) 먼저, 그다음 정책 권고 */
 export function getBestPractices(c: Ctx, limit = 6): BestPracticeView[] {
-  return c.ds.bestPractices.slice().sort((a, b) => b.completedAt.localeCompare(a.completedAt)).slice(0, limit).map((b) => bestPracticeView(c, b));
+  const key = (b: Dataset['bestPractices'][number]) => `${b.rangeId ? 1 : 0}|${b.completedAt ?? b.recommendedAt ?? ''}`;
+  return c.ds.bestPractices.slice().sort((a, b) => key(b).localeCompare(key(a))).slice(0, limit).map((b) => bestPracticeView(c, b));
 }
 
 export function getHomeStats(c: Ctx): HomeStats {

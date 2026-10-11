@@ -23,9 +23,9 @@ const LS_ROLE = 'milaind-demo-role';
 
 /** 역할 전환 드롭다운 → 시드 계정 (명세 §9: 예비군은 "A훈련장, 7일 전 이수" 고정) */
 export const DEMO_ROLE_USER: Record<Role, string> = {
-  RESERVIST: 'u-demo',
-  RANGE_MANAGER: 'mgr-a',
-  POLICY_ADMIN: 'policy-1',
+  RESERVIST: 'usr_demo',
+  RANGE_MANAGER: 'mgr_R_A01',
+  POLICY_ADMIN: 'adm_0001',
 };
 
 function lsGet(key: string): string | null {

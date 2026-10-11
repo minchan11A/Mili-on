@@ -70,3 +70,26 @@ export function evaluate(fixtures: Fixture[]): EvalReport {
     misses, extras, blockMisses, falseBlockTexts,
   };
 }
+
+/** 시드 제안(원문 + maskExpected)으로 측정: 규칙과 별개로 작성된 문장이라 자체 평가 문장보다 공정한 지표 */
+export interface SeedEvalReport { total: number; withTargets: number; typeRecall: number; foundTypes: number; expectedTypes: number; falseBlocks: number; misses: Array<{ id: string; text: string; missing: string[] }> }
+
+const SEED_TYPE: Record<string, string> = { FACILITY_MIL: 'FACILITY' };
+
+export function evaluateSeed(proposals: Array<{ id: string; title: string; body: string; maskExpected?: string[] }>): SeedEvalReport {
+  let expectedTypes = 0, foundTypes = 0, falseBlocks = 0, withTargets = 0;
+  const misses: SeedEvalReport['misses'] = [];
+  for (const p of proposals) {
+    const r = maskText(`${p.title}\n${p.body}`);
+    if (r.blocked) falseBlocks++;
+    const exp = (p.maskExpected ?? []).map((t) => SEED_TYPE[t] ?? t);
+    if (!exp.length) continue;
+    withTargets++;
+    const got = new Set(r.entities.map((e) => e.type as string));
+    const missing = exp.filter((t) => !got.has(t));
+    expectedTypes += exp.length;
+    foundTypes += exp.length - missing.length;
+    if (missing.length) misses.push({ id: p.id, text: p.body, missing });
+  }
+  return { total: proposals.length, withTargets, expectedTypes, foundTypes, typeRecall: expectedTypes ? foundTypes / expectedTypes : 1, falseBlocks, misses };
+}

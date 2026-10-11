@@ -142,3 +142,14 @@ describe('탐지율 (fixtures)', () => {
     expect(r.falseBlocks).toBe(0);
   });
 });
+
+describe('시드 제안 기준 (규칙과 따로 작성된 문장)', () => {
+  it('기대 유형 재현율 95% 이상, 오차단 없음', async () => {
+    const { evaluateSeed } = await import('../evaluate');
+    const ps = (await import('../../../data/demo/proposals.json')).default;
+    const r = evaluateSeed(ps);
+    expect(r.withTargets).toBeGreaterThan(30);
+    expect(r.typeRecall).toBeGreaterThanOrEqual(0.95);
+    expect(r.falseBlocks).toBe(0);
+  });
+});

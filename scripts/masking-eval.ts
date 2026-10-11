@@ -6,7 +6,8 @@
 import { writeFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
 import fixtures from '../lib/masking/__tests__/fixtures.json';
-import { evaluate, type Fixture } from '../lib/masking/evaluate';
+import seedProposals from '../data/demo/proposals.json';
+import { evaluate, evaluateSeed, type Fixture } from '../lib/masking/evaluate';
 
 const r = evaluate(fixtures as Fixture[]);
 const p = (x: number) => `${(x * 100).toFixed(1)}%`;
@@ -36,8 +37,21 @@ if (r.extras.length) {
 }
 if (r.blockMisses.length) lines.push('## 차단 누락', '', ...r.blockMisses.map((t) => `- ${t}`), '');
 if (r.falseBlockTexts.length) lines.push('## 오차단', '', ...r.falseBlockTexts.map((t) => `- ${t}`), '');
+const sr = evaluateSeed(seedProposals);
 lines.push(
-  '> 주의: 평가 문장은 규칙 작성 과정에서 함께 만든 것이므로 실제 후기 문장에서는 수치가 낮게 나올 수 있습니다.',
+  '## 시드 제안 기준 (규칙과 따로 작성된 문장)',
+  '',
+  `- 시드 제안 ${sr.total}건 중 마스킹 대상이 들어 있는 제안 ${sr.withTargets}건 (seed/templates/mask_inserts.csv로 삽입, 기대 유형은 maskExpected)`,
+  '',
+  '| 지표 | 값 |',
+  '| --- | --- |',
+  `| 기대 유형 재현율 | **${p(sr.typeRecall)}** (${sr.foundTypes}/${sr.expectedTypes}) |`,
+  `| 오차단 (차단되면 안 되는 제안을 차단) | ${sr.falseBlocks}건 / ${sr.total}건 |`,
+  '',
+  ...(sr.misses.length ? ['놓친 사례:', '', ...sr.misses.map((m) => `- ${m.id}: ${m.text} → 놓침 ${m.missing.join(', ')}`), ''] : []),
+);
+lines.push(
+  '> 주의: 위쪽 평가 문장(fixtures)은 규칙 작성 과정에서 함께 만든 것이므로 실제 후기 문장에서는 수치가 낮게 나올 수 있습니다.',
   '> 발표 전, 규칙을 보지 않은 사람이 쓴 문장을 fixtures.json에 추가해 다시 측정하세요.',
   '',
 );

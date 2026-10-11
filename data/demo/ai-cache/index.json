@@ -1,14 +1,14 @@
 {
  "issueIds": [
-  "ISS-MEAL-01",
-  "ISS-FAC-01",
-  "ISS-MEAL-04",
-  "ISS-TRN-02",
-  "ISS-OPS-01",
-  "ISS-FAC-03",
-  "ISS-TRN-01",
-  "ISS-COM-01",
-  "ISS-FAC-02",
-  "ISS-TRN-03"
+  "iss_001",
+  "iss_019",
+  "iss_007",
+  "iss_004",
+  "iss_003",
+  "iss_006",
+  "iss_023",
+  "iss_010",
+  "iss_011",
+  "iss_002"
  ]
 }

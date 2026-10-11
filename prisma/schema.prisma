@@ -5,9 +5,12 @@ generator client {
   provider = "prisma-client-js"
 }
 
+// Supabase 사용 시: DATABASE_URL = 풀러(6543, ?pgbouncer=true), DIRECT_URL = 직접 연결(5432, 마이그레이션용)
+// Railway·로컬 Postgres: 두 값을 같게 둡니다.
 datasource db {
-  provider = "postgresql"
-  url      = env("DATABASE_URL")
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
 }
 
 enum Role {
@@ -78,6 +81,11 @@ model TrainingRange {
   lat         Float                       // 시군구 중심점 (상세 좌표 아님)
   lng         Float
   description String?
+  isFictional Boolean    @default(true)   // 가명 훈련장 여부 (국방부 실제 목록 사용 시 false)
+  source      String     @default("fictional")
+  setting     String?                     // urban | suburban | rural
+  address     String?
+  phone       String?
   createdAt   DateTime   @default(now())
 
   reviews        Review[]
@@ -95,7 +103,9 @@ model User {
   nickname       String                     // 표시용 별명 (실명 저장 안 함)
   ageBand        String?                    // "20대 후반" 등 통계용
   loginId        String   @unique           // 시드 계정용
-  passwordHash   String?                    // 서버 모드 간이 로그인
+  passwordHash   String?                    // 서버 모드 간이 로그인 (시드 계정)
+  authId         String?  @unique           // Supabase Auth 사용자 id (가입 사용자)
+  email          String?
   managedRangeId String?
   managedRange   TrainingRange? @relation("ManagedRange", fields: [managedRangeId], references: [id])
   createdAt      DateTime @default(now())
@@ -113,6 +123,7 @@ model TrainingRecord {
   rangeId      String
   trainingType TrainingType
   completedAt  DateTime
+  selfReported Boolean       @default(false)  // 설문에서 본인이 입력한 이수 기록
   user         User          @relation(fields: [userId], references: [id])
   range        TrainingRange @relation(fields: [rangeId], references: [id])
   review       Review?
@@ -129,7 +140,8 @@ model Review {
   scoreFacility   Int
   scoreOperation  Int
   scoreComm       Int
-  comment         String?  // 작성 시점 보안 필터 통과본
+  comment         String?  // 다른 예비군에게 전하는 말 (작성 시점 보안 필터 통과본)
+  answers         Json?    // 설문 문항별 응답 {문항id: 1~5}
   state           ContentState @default(VISIBLE)
   createdAt       DateTime @default(now())
   user            User          @relation(fields: [userId], references: [id])
@@ -161,6 +173,7 @@ model Proposal {
   title         String
   body          String                     // 작성 시점 보안 필터 통과본
   status        ProposalStatus @default(RECEIVED)
+  maskExpected  String[]       @default([]) // 시드 검증용 마스킹 기대 유형
   sentiment     Int?                       // 불만 강도 1~3
   issueId       String?
   state         ContentState   @default(VISIBLE)
@@ -223,16 +236,21 @@ model AiSolution {
   issue          Issue      @relation(fields: [issueId], references: [id])
 }
 
+/// 개선 사례. 권익위 권고처럼 특정 훈련장이 없는 사례는 rangeId·completedAt이 비어 있음
 model BestPractice {
-  id               String   @id @default(cuid())
-  rangeId          String
+  id               String    @id @default(cuid())
+  rangeId          String?
   category         Category
   title            String
   before           String
   after            String
-  completedAt      DateTime
+  completedAt      DateTime?
   sourceProposalId String?
-  range            TrainingRange @relation(fields: [rangeId], references: [id])
+  basis            String?                 // POLICY_RECOMMENDATION | FICTIONAL
+  basisLabel       String?
+  sourceId         String?
+  recommendedAt    DateTime?
+  range            TrainingRange? @relation(fields: [rangeId], references: [id])
 }
 
 model GuideEntry {

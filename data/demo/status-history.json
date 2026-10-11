@@ -1,0 +1,4700 @@
+[
+ {
+  "id": "his_00001",
+  "proposalId": "prp_00001",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2026-09-14T11:45:00+09:00"
+ },
+ {
+  "id": "his_00002",
+  "proposalId": "prp_00001",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2026-09-18T17:54:00+09:00"
+ },
+ {
+  "id": "his_00003",
+  "proposalId": "prp_00002",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_T20",
+  "createdAt": "2025-12-03T15:13:00+09:00"
+ },
+ {
+  "id": "his_00004",
+  "proposalId": "prp_00003",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-03-11T19:34:00+09:00"
+ },
+ {
+  "id": "his_00005",
+  "proposalId": "prp_00003",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-04-11T15:58:00+09:00"
+ },
+ {
+  "id": "his_00006",
+  "proposalId": "prp_00003",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-04-22T18:03:00+09:00"
+ },
+ {
+  "id": "his_00007",
+  "proposalId": "prp_00004",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-03-23T19:49:00+09:00"
+ },
+ {
+  "id": "his_00008",
+  "proposalId": "prp_00005",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-05-11T10:24:00+09:00"
+ },
+ {
+  "id": "his_00009",
+  "proposalId": "prp_00005",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-06-10T08:53:00+09:00"
+ },
+ {
+  "id": "his_00010",
+  "proposalId": "prp_00005",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-06-21T08:22:00+09:00"
+ },
+ {
+  "id": "his_00011",
+  "proposalId": "prp_00006",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-04-24T18:45:00+09:00"
+ },
+ {
+  "id": "his_00012",
+  "proposalId": "prp_00006",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-04-26T08:56:00+09:00"
+ },
+ {
+  "id": "his_00013",
+  "proposalId": "prp_00006",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-04-29T14:00:00+09:00"
+ },
+ {
+  "id": "his_00014",
+  "proposalId": "prp_00007",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2025-11-08T12:10:00+09:00"
+ },
+ {
+  "id": "his_00015",
+  "proposalId": "prp_00007",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2025-11-18T13:25:00+09:00"
+ },
+ {
+  "id": "his_00016",
+  "proposalId": "prp_00008",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-05-24T12:00:00+09:00"
+ },
+ {
+  "id": "his_00017",
+  "proposalId": "prp_00008",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-06-27T09:11:00+09:00"
+ },
+ {
+  "id": "his_00018",
+  "proposalId": "prp_00009",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2025-11-01T12:09:00+09:00"
+ },
+ {
+  "id": "his_00019",
+  "proposalId": "prp_00009",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2025-12-31T11:54:00+09:00"
+ },
+ {
+  "id": "his_00020",
+  "proposalId": "prp_00010",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2026-10-04T08:20:00+09:00"
+ },
+ {
+  "id": "his_00021",
+  "proposalId": "prp_00011",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-06-10T14:08:00+09:00"
+ },
+ {
+  "id": "his_00022",
+  "proposalId": "prp_00011",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-07-04T08:00:00+09:00"
+ },
+ {
+  "id": "his_00023",
+  "proposalId": "prp_00011",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-07-12T11:05:00+09:00"
+ },
+ {
+  "id": "his_00024",
+  "proposalId": "prp_00013",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_X24",
+  "createdAt": "2026-09-25T19:25:00+09:00"
+ },
+ {
+  "id": "his_00025",
+  "proposalId": "prp_00014",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-05-13T18:30:00+09:00"
+ },
+ {
+  "id": "his_00026",
+  "proposalId": "prp_00014",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-05-24T14:22:00+09:00"
+ },
+ {
+  "id": "his_00027",
+  "proposalId": "prp_00015",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-08-18T19:57:00+09:00"
+ },
+ {
+  "id": "his_00028",
+  "proposalId": "prp_00015",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-08-21T10:30:00+09:00"
+ },
+ {
+  "id": "his_00029",
+  "proposalId": "prp_00015",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-08-24T08:56:00+09:00"
+ },
+ {
+  "id": "his_00030",
+  "proposalId": "prp_00017",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-04-30T09:47:00+09:00"
+ },
+ {
+  "id": "his_00031",
+  "proposalId": "prp_00017",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-05-06T14:00:00+09:00"
+ },
+ {
+  "id": "his_00032",
+  "proposalId": "prp_00018",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_N14",
+  "createdAt": "2026-06-07T17:51:00+09:00"
+ },
+ {
+  "id": "his_00033",
+  "proposalId": "prp_00018",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_N14",
+  "createdAt": "2026-06-11T14:21:00+09:00"
+ },
+ {
+  "id": "his_00034",
+  "proposalId": "prp_00019",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-07-30T08:51:00+09:00"
+ },
+ {
+  "id": "his_00035",
+  "proposalId": "prp_00019",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-08-15T13:50:00+09:00"
+ },
+ {
+  "id": "his_00036",
+  "proposalId": "prp_00020",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-07-31T13:39:00+09:00"
+ },
+ {
+  "id": "his_00037",
+  "proposalId": "prp_00021",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-05-14T18:00:00+09:00"
+ },
+ {
+  "id": "his_00038",
+  "proposalId": "prp_00021",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-06-06T17:19:00+09:00"
+ },
+ {
+  "id": "his_00039",
+  "proposalId": "prp_00021",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-06-22T18:20:00+09:00"
+ },
+ {
+  "id": "his_00040",
+  "proposalId": "prp_00022",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-05-27T09:19:00+09:00"
+ },
+ {
+  "id": "his_00041",
+  "proposalId": "prp_00022",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-07-08T11:35:00+09:00"
+ },
+ {
+  "id": "his_00042",
+  "proposalId": "prp_00023",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2025-12-15T11:13:00+09:00"
+ },
+ {
+  "id": "his_00043",
+  "proposalId": "prp_00023",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2025-12-29T17:13:00+09:00"
+ },
+ {
+  "id": "his_00044",
+  "proposalId": "prp_00023",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-01-25T14:50:00+09:00"
+ },
+ {
+  "id": "his_00045",
+  "proposalId": "prp_00024",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2025-11-12T15:37:00+09:00"
+ },
+ {
+  "id": "his_00046",
+  "proposalId": "prp_00025",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-05-22T14:43:00+09:00"
+ },
+ {
+  "id": "his_00047",
+  "proposalId": "prp_00025",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-06-02T15:25:00+09:00"
+ },
+ {
+  "id": "his_00048",
+  "proposalId": "prp_00026",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-07-27T08:07:00+09:00"
+ },
+ {
+  "id": "his_00049",
+  "proposalId": "prp_00026",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-08-07T09:29:00+09:00"
+ },
+ {
+  "id": "his_00050",
+  "proposalId": "prp_00026",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-08-12T15:13:00+09:00"
+ },
+ {
+  "id": "his_00051",
+  "proposalId": "prp_00028",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-05-19T18:27:00+09:00"
+ },
+ {
+  "id": "his_00052",
+  "proposalId": "prp_00028",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-06-08T18:57:00+09:00"
+ },
+ {
+  "id": "his_00053",
+  "proposalId": "prp_00029",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_U21",
+  "createdAt": "2026-08-19T19:09:00+09:00"
+ },
+ {
+  "id": "his_00054",
+  "proposalId": "prp_00029",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_U21",
+  "createdAt": "2026-08-20T08:24:00+09:00"
+ },
+ {
+  "id": "his_00055",
+  "proposalId": "prp_00029",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_U21",
+  "createdAt": "2026-08-27T08:27:00+09:00"
+ },
+ {
+  "id": "his_00056",
+  "proposalId": "prp_00030",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-05-17T19:44:00+09:00"
+ },
+ {
+  "id": "his_00057",
+  "proposalId": "prp_00030",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-06-30T15:47:00+09:00"
+ },
+ {
+  "id": "his_00058",
+  "proposalId": "prp_00031",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_C03",
+  "createdAt": "2026-04-20T15:53:00+09:00"
+ },
+ {
+  "id": "his_00059",
+  "proposalId": "prp_00031",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_C03",
+  "createdAt": "2026-06-01T15:56:00+09:00"
+ },
+ {
+  "id": "his_00060",
+  "proposalId": "prp_00031",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_C03",
+  "createdAt": "2026-06-13T14:23:00+09:00"
+ },
+ {
+  "id": "his_00061",
+  "proposalId": "prp_00032",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-05-10T11:33:00+09:00"
+ },
+ {
+  "id": "his_00062",
+  "proposalId": "prp_00032",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-05-27T19:44:00+09:00"
+ },
+ {
+  "id": "his_00063",
+  "proposalId": "prp_00034",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-06-09T08:28:00+09:00"
+ },
+ {
+  "id": "his_00064",
+  "proposalId": "prp_00034",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-06-22T08:34:00+09:00"
+ },
+ {
+  "id": "his_00065",
+  "proposalId": "prp_00034",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-07-15T10:56:00+09:00"
+ },
+ {
+  "id": "his_00066",
+  "proposalId": "prp_00035",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_T20",
+  "createdAt": "2026-06-02T12:19:00+09:00"
+ },
+ {
+  "id": "his_00067",
+  "proposalId": "prp_00035",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_T20",
+  "createdAt": "2026-07-05T19:38:00+09:00"
+ },
+ {
+  "id": "his_00068",
+  "proposalId": "prp_00036",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-04-12T17:22:00+09:00"
+ },
+ {
+  "id": "his_00069",
+  "proposalId": "prp_00036",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-05-11T16:07:00+09:00"
+ },
+ {
+  "id": "his_00070",
+  "proposalId": "prp_00038",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-07-18T18:41:00+09:00"
+ },
+ {
+  "id": "his_00071",
+  "proposalId": "prp_00038",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-07-19T16:36:00+09:00"
+ },
+ {
+  "id": "his_00072",
+  "proposalId": "prp_00039",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_T20",
+  "createdAt": "2026-09-27T18:53:00+09:00"
+ },
+ {
+  "id": "his_00073",
+  "proposalId": "prp_00040",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_U21",
+  "createdAt": "2026-07-12T13:56:00+09:00"
+ },
+ {
+  "id": "his_00074",
+  "proposalId": "prp_00041",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-10-03T19:46:00+09:00"
+ },
+ {
+  "id": "his_00075",
+  "proposalId": "prp_00042",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-08-26T10:05:00+09:00"
+ },
+ {
+  "id": "his_00076",
+  "proposalId": "prp_00042",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-08-30T13:04:00+09:00"
+ },
+ {
+  "id": "his_00077",
+  "proposalId": "prp_00043",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2025-12-15T18:10:00+09:00"
+ },
+ {
+  "id": "his_00078",
+  "proposalId": "prp_00043",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-02-02T10:58:00+09:00"
+ },
+ {
+  "id": "his_00079",
+  "proposalId": "prp_00044",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-06-23T12:57:00+09:00"
+ },
+ {
+  "id": "his_00080",
+  "proposalId": "prp_00045",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-04-06T08:14:00+09:00"
+ },
+ {
+  "id": "his_00081",
+  "proposalId": "prp_00045",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-05-17T12:17:00+09:00"
+ },
+ {
+  "id": "his_00082",
+  "proposalId": "prp_00046",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-06-04T08:30:00+09:00"
+ },
+ {
+  "id": "his_00083",
+  "proposalId": "prp_00046",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-06-18T14:00:00+09:00"
+ },
+ {
+  "id": "his_00084",
+  "proposalId": "prp_00048",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-05-18T18:51:00+09:00"
+ },
+ {
+  "id": "his_00085",
+  "proposalId": "prp_00048",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-06-27T19:10:00+09:00"
+ },
+ {
+  "id": "his_00086",
+  "proposalId": "prp_00049",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-08-31T16:09:00+09:00"
+ },
+ {
+  "id": "his_00087",
+  "proposalId": "prp_00051",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2026-07-09T11:15:00+09:00"
+ },
+ {
+  "id": "his_00088",
+  "proposalId": "prp_00051",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2026-07-16T18:04:00+09:00"
+ },
+ {
+  "id": "his_00089",
+  "proposalId": "prp_00051",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2026-07-23T08:11:00+09:00"
+ },
+ {
+  "id": "his_00090",
+  "proposalId": "prp_00052",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-09-19T13:50:00+09:00"
+ },
+ {
+  "id": "his_00091",
+  "proposalId": "prp_00053",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-05-25T11:46:00+09:00"
+ },
+ {
+  "id": "his_00092",
+  "proposalId": "prp_00053",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-06-19T08:57:00+09:00"
+ },
+ {
+  "id": "his_00093",
+  "proposalId": "prp_00054",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-06-17T18:53:00+09:00"
+ },
+ {
+  "id": "his_00094",
+  "proposalId": "prp_00054",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-07-01T12:59:00+09:00"
+ },
+ {
+  "id": "his_00095",
+  "proposalId": "prp_00054",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-07-04T14:05:00+09:00"
+ },
+ {
+  "id": "his_00096",
+  "proposalId": "prp_00055",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-03-21T13:29:00+09:00"
+ },
+ {
+  "id": "his_00097",
+  "proposalId": "prp_00056",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2026-05-20T10:09:00+09:00"
+ },
+ {
+  "id": "his_00098",
+  "proposalId": "prp_00057",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_X24",
+  "createdAt": "2026-05-13T10:33:00+09:00"
+ },
+ {
+  "id": "his_00099",
+  "proposalId": "prp_00057",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_X24",
+  "createdAt": "2026-05-26T09:11:00+09:00"
+ },
+ {
+  "id": "his_00100",
+  "proposalId": "prp_00057",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_X24",
+  "createdAt": "2026-06-15T11:41:00+09:00"
+ },
+ {
+  "id": "his_00101",
+  "proposalId": "prp_00058",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_C03",
+  "createdAt": "2026-02-01T16:48:00+09:00"
+ },
+ {
+  "id": "his_00102",
+  "proposalId": "prp_00058",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_C03",
+  "createdAt": "2026-02-22T09:27:00+09:00"
+ },
+ {
+  "id": "his_00103",
+  "proposalId": "prp_00060",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-02-04T19:21:00+09:00"
+ },
+ {
+  "id": "his_00104",
+  "proposalId": "prp_00060",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-03-29T13:08:00+09:00"
+ },
+ {
+  "id": "his_00105",
+  "proposalId": "prp_00060",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-05-10T19:11:00+09:00"
+ },
+ {
+  "id": "his_00106",
+  "proposalId": "prp_00062",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-09-30T12:37:00+09:00"
+ },
+ {
+  "id": "his_00107",
+  "proposalId": "prp_00063",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-08-22T10:09:00+09:00"
+ },
+ {
+  "id": "his_00108",
+  "proposalId": "prp_00063",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-09-03T19:58:00+09:00"
+ },
+ {
+  "id": "his_00109",
+  "proposalId": "prp_00063",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-09-06T16:19:00+09:00"
+ },
+ {
+  "id": "his_00110",
+  "proposalId": "prp_00064",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-06-20T09:57:00+09:00"
+ },
+ {
+  "id": "his_00111",
+  "proposalId": "prp_00065",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2025-12-27T16:50:00+09:00"
+ },
+ {
+  "id": "his_00112",
+  "proposalId": "prp_00065",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-02-22T17:44:00+09:00"
+ },
+ {
+  "id": "his_00113",
+  "proposalId": "prp_00066",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_N14",
+  "createdAt": "2025-12-15T08:59:00+09:00"
+ },
+ {
+  "id": "his_00114",
+  "proposalId": "prp_00066",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_N14",
+  "createdAt": "2026-01-05T19:11:00+09:00"
+ },
+ {
+  "id": "his_00115",
+  "proposalId": "prp_00067",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_X24",
+  "createdAt": "2026-03-23T09:02:00+09:00"
+ },
+ {
+  "id": "his_00116",
+  "proposalId": "prp_00067",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_X24",
+  "createdAt": "2026-05-13T16:38:00+09:00"
+ },
+ {
+  "id": "his_00117",
+  "proposalId": "prp_00068",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-09-22T09:27:00+09:00"
+ },
+ {
+  "id": "his_00118",
+  "proposalId": "prp_00069",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-05-26T16:42:00+09:00"
+ },
+ {
+  "id": "his_00119",
+  "proposalId": "prp_00069",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-06-27T17:01:00+09:00"
+ },
+ {
+  "id": "his_00120",
+  "proposalId": "prp_00069",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-06-29T14:51:00+09:00"
+ },
+ {
+  "id": "his_00121",
+  "proposalId": "prp_00070",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-04-03T16:54:00+09:00"
+ },
+ {
+  "id": "his_00122",
+  "proposalId": "prp_00070",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-05-05T08:16:00+09:00"
+ },
+ {
+  "id": "his_00123",
+  "proposalId": "prp_00071",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2026-06-16T08:50:00+09:00"
+ },
+ {
+  "id": "his_00124",
+  "proposalId": "prp_00071",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2026-07-23T12:52:00+09:00"
+ },
+ {
+  "id": "his_00125",
+  "proposalId": "prp_00073",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-04-29T09:34:00+09:00"
+ },
+ {
+  "id": "his_00126",
+  "proposalId": "prp_00073",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-06-03T15:55:00+09:00"
+ },
+ {
+  "id": "his_00127",
+  "proposalId": "prp_00074",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2026-06-01T16:20:00+09:00"
+ },
+ {
+  "id": "his_00128",
+  "proposalId": "prp_00074",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2026-07-04T09:34:00+09:00"
+ },
+ {
+  "id": "his_00129",
+  "proposalId": "prp_00075",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-05-04T10:46:00+09:00"
+ },
+ {
+  "id": "his_00130",
+  "proposalId": "prp_00075",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-05-12T15:56:00+09:00"
+ },
+ {
+  "id": "his_00131",
+  "proposalId": "prp_00076",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-01-10T12:19:00+09:00"
+ },
+ {
+  "id": "his_00132",
+  "proposalId": "prp_00076",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-01-25T12:33:00+09:00"
+ },
+ {
+  "id": "his_00133",
+  "proposalId": "prp_00077",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-06-11T12:54:00+09:00"
+ },
+ {
+  "id": "his_00134",
+  "proposalId": "prp_00077",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-07-04T16:45:00+09:00"
+ },
+ {
+  "id": "his_00135",
+  "proposalId": "prp_00078",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-06-02T14:44:00+09:00"
+ },
+ {
+  "id": "his_00136",
+  "proposalId": "prp_00079",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-09-14T18:05:00+09:00"
+ },
+ {
+  "id": "his_00137",
+  "proposalId": "prp_00079",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-09-16T15:28:00+09:00"
+ },
+ {
+  "id": "his_00138",
+  "proposalId": "prp_00079",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-09-22T16:31:00+09:00"
+ },
+ {
+  "id": "his_00139",
+  "proposalId": "prp_00081",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-05-26T12:37:00+09:00"
+ },
+ {
+  "id": "his_00140",
+  "proposalId": "prp_00081",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-06-08T13:05:00+09:00"
+ },
+ {
+  "id": "his_00141",
+  "proposalId": "prp_00083",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2026-05-07T10:46:00+09:00"
+ },
+ {
+  "id": "his_00142",
+  "proposalId": "prp_00084",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-09-09T12:35:00+09:00"
+ },
+ {
+  "id": "his_00143",
+  "proposalId": "prp_00084",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-09-15T10:03:00+09:00"
+ },
+ {
+  "id": "his_00144",
+  "proposalId": "prp_00084",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-09-21T18:16:00+09:00"
+ },
+ {
+  "id": "his_00145",
+  "proposalId": "prp_00085",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-04-28T13:26:00+09:00"
+ },
+ {
+  "id": "his_00146",
+  "proposalId": "prp_00085",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-06-02T11:52:00+09:00"
+ },
+ {
+  "id": "his_00147",
+  "proposalId": "prp_00086",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-08-05T15:36:00+09:00"
+ },
+ {
+  "id": "his_00148",
+  "proposalId": "prp_00086",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-08-08T10:36:00+09:00"
+ },
+ {
+  "id": "his_00149",
+  "proposalId": "prp_00088",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-06-05T12:32:00+09:00"
+ },
+ {
+  "id": "his_00150",
+  "proposalId": "prp_00088",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-07-12T16:22:00+09:00"
+ },
+ {
+  "id": "his_00151",
+  "proposalId": "prp_00089",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2025-11-20T14:38:00+09:00"
+ },
+ {
+  "id": "his_00152",
+  "proposalId": "prp_00090",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-06-12T08:09:00+09:00"
+ },
+ {
+  "id": "his_00153",
+  "proposalId": "prp_00090",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-07-01T08:40:00+09:00"
+ },
+ {
+  "id": "his_00154",
+  "proposalId": "prp_00092",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-06-03T10:14:00+09:00"
+ },
+ {
+  "id": "his_00155",
+  "proposalId": "prp_00092",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-06-05T09:25:00+09:00"
+ },
+ {
+  "id": "his_00156",
+  "proposalId": "prp_00093",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-07-29T16:16:00+09:00"
+ },
+ {
+  "id": "his_00157",
+  "proposalId": "prp_00093",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-07-30T15:34:00+09:00"
+ },
+ {
+  "id": "his_00158",
+  "proposalId": "prp_00093",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-08-17T08:04:00+09:00"
+ },
+ {
+  "id": "his_00159",
+  "proposalId": "prp_00094",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-05-05T10:10:00+09:00"
+ },
+ {
+  "id": "his_00160",
+  "proposalId": "prp_00094",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-06-05T10:13:00+09:00"
+ },
+ {
+  "id": "his_00161",
+  "proposalId": "prp_00095",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2025-12-10T16:17:00+09:00"
+ },
+ {
+  "id": "his_00162",
+  "proposalId": "prp_00095",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-01-04T16:49:00+09:00"
+ },
+ {
+  "id": "his_00163",
+  "proposalId": "prp_00097",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-06-03T14:01:00+09:00"
+ },
+ {
+  "id": "his_00164",
+  "proposalId": "prp_00097",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-07-05T08:27:00+09:00"
+ },
+ {
+  "id": "his_00165",
+  "proposalId": "prp_00097",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-07-18T18:09:00+09:00"
+ },
+ {
+  "id": "his_00166",
+  "proposalId": "prp_00098",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-03-17T11:29:00+09:00"
+ },
+ {
+  "id": "his_00167",
+  "proposalId": "prp_00098",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-04-10T13:36:00+09:00"
+ },
+ {
+  "id": "his_00168",
+  "proposalId": "prp_00098",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-05-08T19:41:00+09:00"
+ },
+ {
+  "id": "his_00169",
+  "proposalId": "prp_00099",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2026-06-19T18:26:00+09:00"
+ },
+ {
+  "id": "his_00170",
+  "proposalId": "prp_00099",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2026-07-12T15:58:00+09:00"
+ },
+ {
+  "id": "his_00171",
+  "proposalId": "prp_00099",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2026-08-01T13:30:00+09:00"
+ },
+ {
+  "id": "his_00172",
+  "proposalId": "prp_00100",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2025-11-16T13:57:00+09:00"
+ },
+ {
+  "id": "his_00173",
+  "proposalId": "prp_00100",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2025-12-02T15:42:00+09:00"
+ },
+ {
+  "id": "his_00174",
+  "proposalId": "prp_00101",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-01-23T18:07:00+09:00"
+ },
+ {
+  "id": "his_00175",
+  "proposalId": "prp_00101",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-02-28T16:59:00+09:00"
+ },
+ {
+  "id": "his_00176",
+  "proposalId": "prp_00101",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-04-24T15:04:00+09:00"
+ },
+ {
+  "id": "his_00177",
+  "proposalId": "prp_00102",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2025-11-21T11:19:00+09:00"
+ },
+ {
+  "id": "his_00178",
+  "proposalId": "prp_00102",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2025-12-15T17:04:00+09:00"
+ },
+ {
+  "id": "his_00179",
+  "proposalId": "prp_00102",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-02-01T16:12:00+09:00"
+ },
+ {
+  "id": "his_00180",
+  "proposalId": "prp_00103",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-06-02T11:37:00+09:00"
+ },
+ {
+  "id": "his_00181",
+  "proposalId": "prp_00103",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-06-24T13:58:00+09:00"
+ },
+ {
+  "id": "his_00182",
+  "proposalId": "prp_00104",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-04-03T14:58:00+09:00"
+ },
+ {
+  "id": "his_00183",
+  "proposalId": "prp_00104",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-04-11T08:27:00+09:00"
+ },
+ {
+  "id": "his_00184",
+  "proposalId": "prp_00104",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-05-14T09:48:00+09:00"
+ },
+ {
+  "id": "his_00185",
+  "proposalId": "prp_00105",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-06-11T11:05:00+09:00"
+ },
+ {
+  "id": "his_00186",
+  "proposalId": "prp_00106",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-09-05T09:43:00+09:00"
+ },
+ {
+  "id": "his_00187",
+  "proposalId": "prp_00107",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-03-04T16:14:00+09:00"
+ },
+ {
+  "id": "his_00188",
+  "proposalId": "prp_00108",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2025-12-16T14:37:00+09:00"
+ },
+ {
+  "id": "his_00189",
+  "proposalId": "prp_00108",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-01-04T14:44:00+09:00"
+ },
+ {
+  "id": "his_00190",
+  "proposalId": "prp_00109",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-05-20T14:24:00+09:00"
+ },
+ {
+  "id": "his_00191",
+  "proposalId": "prp_00109",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-06-11T14:53:00+09:00"
+ },
+ {
+  "id": "his_00192",
+  "proposalId": "prp_00110",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-06-12T14:39:00+09:00"
+ },
+ {
+  "id": "his_00193",
+  "proposalId": "prp_00110",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-07-04T10:00:00+09:00"
+ },
+ {
+  "id": "his_00194",
+  "proposalId": "prp_00111",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-04-28T12:09:00+09:00"
+ },
+ {
+  "id": "his_00195",
+  "proposalId": "prp_00112",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-06-26T13:45:00+09:00"
+ },
+ {
+  "id": "his_00196",
+  "proposalId": "prp_00112",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-07-07T15:50:00+09:00"
+ },
+ {
+  "id": "his_00197",
+  "proposalId": "prp_00112",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-07-15T14:57:00+09:00"
+ },
+ {
+  "id": "his_00198",
+  "proposalId": "prp_00113",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2026-05-30T09:16:00+09:00"
+ },
+ {
+  "id": "his_00199",
+  "proposalId": "prp_00114",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-03-06T18:19:00+09:00"
+ },
+ {
+  "id": "his_00200",
+  "proposalId": "prp_00114",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-04-11T12:17:00+09:00"
+ },
+ {
+  "id": "his_00201",
+  "proposalId": "prp_00115",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-09-09T14:44:00+09:00"
+ },
+ {
+  "id": "his_00202",
+  "proposalId": "prp_00115",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-09-17T19:17:00+09:00"
+ },
+ {
+  "id": "his_00203",
+  "proposalId": "prp_00115",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-09-18T08:18:00+09:00"
+ },
+ {
+  "id": "his_00204",
+  "proposalId": "prp_00116",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-05-02T12:13:00+09:00"
+ },
+ {
+  "id": "his_00205",
+  "proposalId": "prp_00116",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-06-06T13:27:00+09:00"
+ },
+ {
+  "id": "his_00206",
+  "proposalId": "prp_00118",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-05-25T12:21:00+09:00"
+ },
+ {
+  "id": "his_00207",
+  "proposalId": "prp_00118",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-06-26T16:23:00+09:00"
+ },
+ {
+  "id": "his_00208",
+  "proposalId": "prp_00118",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-07-16T09:09:00+09:00"
+ },
+ {
+  "id": "his_00209",
+  "proposalId": "prp_00119",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-05-03T16:19:00+09:00"
+ },
+ {
+  "id": "his_00210",
+  "proposalId": "prp_00119",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-05-07T14:35:00+09:00"
+ },
+ {
+  "id": "his_00211",
+  "proposalId": "prp_00119",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-05-21T09:09:00+09:00"
+ },
+ {
+  "id": "his_00212",
+  "proposalId": "prp_00120",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-06-18T18:52:00+09:00"
+ },
+ {
+  "id": "his_00213",
+  "proposalId": "prp_00120",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-07-09T17:11:00+09:00"
+ },
+ {
+  "id": "his_00214",
+  "proposalId": "prp_00120",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-07-18T10:11:00+09:00"
+ },
+ {
+  "id": "his_00215",
+  "proposalId": "prp_00121",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-08-15T18:11:00+09:00"
+ },
+ {
+  "id": "his_00216",
+  "proposalId": "prp_00121",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-08-29T11:33:00+09:00"
+ },
+ {
+  "id": "his_00217",
+  "proposalId": "prp_00122",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-04-20T08:51:00+09:00"
+ },
+ {
+  "id": "his_00218",
+  "proposalId": "prp_00122",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-05-06T16:07:00+09:00"
+ },
+ {
+  "id": "his_00219",
+  "proposalId": "prp_00123",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-06-24T18:36:00+09:00"
+ },
+ {
+  "id": "his_00220",
+  "proposalId": "prp_00123",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-07-19T10:19:00+09:00"
+ },
+ {
+  "id": "his_00221",
+  "proposalId": "prp_00123",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-07-30T11:39:00+09:00"
+ },
+ {
+  "id": "his_00222",
+  "proposalId": "prp_00125",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2025-12-05T13:56:00+09:00"
+ },
+ {
+  "id": "his_00223",
+  "proposalId": "prp_00125",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2025-12-17T09:36:00+09:00"
+ },
+ {
+  "id": "his_00224",
+  "proposalId": "prp_00126",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2025-12-08T16:49:00+09:00"
+ },
+ {
+  "id": "his_00225",
+  "proposalId": "prp_00126",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-01-27T13:04:00+09:00"
+ },
+ {
+  "id": "his_00226",
+  "proposalId": "prp_00126",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-01-29T14:33:00+09:00"
+ },
+ {
+  "id": "his_00227",
+  "proposalId": "prp_00127",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-04-14T12:59:00+09:00"
+ },
+ {
+  "id": "his_00228",
+  "proposalId": "prp_00127",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-06-10T19:04:00+09:00"
+ },
+ {
+  "id": "his_00229",
+  "proposalId": "prp_00128",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-07-23T15:26:00+09:00"
+ },
+ {
+  "id": "his_00230",
+  "proposalId": "prp_00129",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-10-01T14:20:00+09:00"
+ },
+ {
+  "id": "his_00231",
+  "proposalId": "prp_00130",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2025-12-25T08:06:00+09:00"
+ },
+ {
+  "id": "his_00232",
+  "proposalId": "prp_00130",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-01-11T14:06:00+09:00"
+ },
+ {
+  "id": "his_00233",
+  "proposalId": "prp_00130",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-03-08T10:04:00+09:00"
+ },
+ {
+  "id": "his_00234",
+  "proposalId": "prp_00131",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2025-12-11T16:15:00+09:00"
+ },
+ {
+  "id": "his_00235",
+  "proposalId": "prp_00131",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-02-24T17:32:00+09:00"
+ },
+ {
+  "id": "his_00236",
+  "proposalId": "prp_00132",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-06-13T19:28:00+09:00"
+ },
+ {
+  "id": "his_00237",
+  "proposalId": "prp_00132",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-06-24T11:17:00+09:00"
+ },
+ {
+  "id": "his_00238",
+  "proposalId": "prp_00132",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-07-17T13:19:00+09:00"
+ },
+ {
+  "id": "his_00239",
+  "proposalId": "prp_00133",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_T20",
+  "createdAt": "2026-06-29T12:20:00+09:00"
+ },
+ {
+  "id": "his_00240",
+  "proposalId": "prp_00133",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_T20",
+  "createdAt": "2026-07-02T10:14:00+09:00"
+ },
+ {
+  "id": "his_00241",
+  "proposalId": "prp_00135",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-09-24T12:57:00+09:00"
+ },
+ {
+  "id": "his_00242",
+  "proposalId": "prp_00135",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-09-27T12:23:00+09:00"
+ },
+ {
+  "id": "his_00243",
+  "proposalId": "prp_00137",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-01-29T11:35:00+09:00"
+ },
+ {
+  "id": "his_00244",
+  "proposalId": "prp_00137",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-03-19T11:13:00+09:00"
+ },
+ {
+  "id": "his_00245",
+  "proposalId": "prp_00137",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-04-09T13:12:00+09:00"
+ },
+ {
+  "id": "his_00246",
+  "proposalId": "prp_00138",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-04-25T11:03:00+09:00"
+ },
+ {
+  "id": "his_00247",
+  "proposalId": "prp_00138",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-05-18T12:34:00+09:00"
+ },
+ {
+  "id": "his_00248",
+  "proposalId": "prp_00139",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-01-22T19:11:00+09:00"
+ },
+ {
+  "id": "his_00249",
+  "proposalId": "prp_00139",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-03-06T09:59:00+09:00"
+ },
+ {
+  "id": "his_00250",
+  "proposalId": "prp_00140",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-02-21T19:11:00+09:00"
+ },
+ {
+  "id": "his_00251",
+  "proposalId": "prp_00141",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-05-27T18:41:00+09:00"
+ },
+ {
+  "id": "his_00252",
+  "proposalId": "prp_00141",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-06-12T16:08:00+09:00"
+ },
+ {
+  "id": "his_00253",
+  "proposalId": "prp_00142",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_U21",
+  "createdAt": "2026-02-17T09:41:00+09:00"
+ },
+ {
+  "id": "his_00254",
+  "proposalId": "prp_00144",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-09-01T13:13:00+09:00"
+ },
+ {
+  "id": "his_00255",
+  "proposalId": "prp_00144",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-09-02T14:21:00+09:00"
+ },
+ {
+  "id": "his_00256",
+  "proposalId": "prp_00144",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-09-08T18:29:00+09:00"
+ },
+ {
+  "id": "his_00257",
+  "proposalId": "prp_00145",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-01-27T11:10:00+09:00"
+ },
+ {
+  "id": "his_00258",
+  "proposalId": "prp_00145",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-02-12T14:15:00+09:00"
+ },
+ {
+  "id": "his_00259",
+  "proposalId": "prp_00145",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-02-18T13:01:00+09:00"
+ },
+ {
+  "id": "his_00260",
+  "proposalId": "prp_00146",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-07-31T19:26:00+09:00"
+ },
+ {
+  "id": "his_00261",
+  "proposalId": "prp_00146",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-08-17T10:48:00+09:00"
+ },
+ {
+  "id": "his_00262",
+  "proposalId": "prp_00146",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-08-26T10:35:00+09:00"
+ },
+ {
+  "id": "his_00263",
+  "proposalId": "prp_00147",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-07-05T16:35:00+09:00"
+ },
+ {
+  "id": "his_00264",
+  "proposalId": "prp_00148",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-06-06T14:17:00+09:00"
+ },
+ {
+  "id": "his_00265",
+  "proposalId": "prp_00148",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-06-29T18:44:00+09:00"
+ },
+ {
+  "id": "his_00266",
+  "proposalId": "prp_00149",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2026-07-23T11:00:00+09:00"
+ },
+ {
+  "id": "his_00267",
+  "proposalId": "prp_00149",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2026-07-25T18:17:00+09:00"
+ },
+ {
+  "id": "his_00268",
+  "proposalId": "prp_00149",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2026-08-11T13:58:00+09:00"
+ },
+ {
+  "id": "his_00269",
+  "proposalId": "prp_00150",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-08-02T17:17:00+09:00"
+ },
+ {
+  "id": "his_00270",
+  "proposalId": "prp_00150",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-08-23T10:56:00+09:00"
+ },
+ {
+  "id": "his_00271",
+  "proposalId": "prp_00151",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-06-12T09:56:00+09:00"
+ },
+ {
+  "id": "his_00272",
+  "proposalId": "prp_00151",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-07-16T15:49:00+09:00"
+ },
+ {
+  "id": "his_00273",
+  "proposalId": "prp_00152",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2025-12-12T12:48:00+09:00"
+ },
+ {
+  "id": "his_00274",
+  "proposalId": "prp_00152",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-03-15T14:48:00+09:00"
+ },
+ {
+  "id": "his_00275",
+  "proposalId": "prp_00153",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-05-05T18:43:00+09:00"
+ },
+ {
+  "id": "his_00276",
+  "proposalId": "prp_00153",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-05-19T10:45:00+09:00"
+ },
+ {
+  "id": "his_00277",
+  "proposalId": "prp_00153",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-05-31T18:05:00+09:00"
+ },
+ {
+  "id": "his_00278",
+  "proposalId": "prp_00154",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_J10",
+  "createdAt": "2026-05-13T13:42:00+09:00"
+ },
+ {
+  "id": "his_00279",
+  "proposalId": "prp_00154",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_J10",
+  "createdAt": "2026-05-19T19:42:00+09:00"
+ },
+ {
+  "id": "his_00280",
+  "proposalId": "prp_00154",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_J10",
+  "createdAt": "2026-05-26T12:34:00+09:00"
+ },
+ {
+  "id": "his_00281",
+  "proposalId": "prp_00157",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2026-05-21T09:41:00+09:00"
+ },
+ {
+  "id": "his_00282",
+  "proposalId": "prp_00157",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2026-07-04T14:37:00+09:00"
+ },
+ {
+  "id": "his_00283",
+  "proposalId": "prp_00158",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-06-19T15:07:00+09:00"
+ },
+ {
+  "id": "his_00284",
+  "proposalId": "prp_00158",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-07-02T13:55:00+09:00"
+ },
+ {
+  "id": "his_00285",
+  "proposalId": "prp_00158",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-07-22T18:26:00+09:00"
+ },
+ {
+  "id": "his_00286",
+  "proposalId": "prp_00159",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_V22",
+  "createdAt": "2026-07-14T17:10:00+09:00"
+ },
+ {
+  "id": "his_00287",
+  "proposalId": "prp_00160",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-08-25T09:12:00+09:00"
+ },
+ {
+  "id": "his_00288",
+  "proposalId": "prp_00161",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-06-07T19:43:00+09:00"
+ },
+ {
+  "id": "his_00289",
+  "proposalId": "prp_00161",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-06-15T16:24:00+09:00"
+ },
+ {
+  "id": "his_00290",
+  "proposalId": "prp_00161",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-06-24T13:52:00+09:00"
+ },
+ {
+  "id": "his_00291",
+  "proposalId": "prp_00163",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-08-26T19:09:00+09:00"
+ },
+ {
+  "id": "his_00292",
+  "proposalId": "prp_00163",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-09-03T17:46:00+09:00"
+ },
+ {
+  "id": "his_00293",
+  "proposalId": "prp_00163",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-09-08T12:01:00+09:00"
+ },
+ {
+  "id": "his_00294",
+  "proposalId": "prp_00164",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-09-09T17:50:00+09:00"
+ },
+ {
+  "id": "his_00295",
+  "proposalId": "prp_00164",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-09-16T12:05:00+09:00"
+ },
+ {
+  "id": "his_00296",
+  "proposalId": "prp_00164",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-09-20T15:39:00+09:00"
+ },
+ {
+  "id": "his_00297",
+  "proposalId": "prp_00165",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-03-24T11:04:00+09:00"
+ },
+ {
+  "id": "his_00298",
+  "proposalId": "prp_00165",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-05-21T19:08:00+09:00"
+ },
+ {
+  "id": "his_00299",
+  "proposalId": "prp_00166",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-06-28T10:18:00+09:00"
+ },
+ {
+  "id": "his_00300",
+  "proposalId": "prp_00166",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-07-19T17:17:00+09:00"
+ },
+ {
+  "id": "his_00301",
+  "proposalId": "prp_00167",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-06-27T14:39:00+09:00"
+ },
+ {
+  "id": "his_00302",
+  "proposalId": "prp_00167",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-07-30T09:20:00+09:00"
+ },
+ {
+  "id": "his_00303",
+  "proposalId": "prp_00169",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-09-15T18:37:00+09:00"
+ },
+ {
+  "id": "his_00304",
+  "proposalId": "prp_00169",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-09-17T16:10:00+09:00"
+ },
+ {
+  "id": "his_00305",
+  "proposalId": "prp_00170",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-09-18T11:32:00+09:00"
+ },
+ {
+  "id": "his_00306",
+  "proposalId": "prp_00170",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-09-19T14:35:00+09:00"
+ },
+ {
+  "id": "his_00307",
+  "proposalId": "prp_00171",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-03-08T14:43:00+09:00"
+ },
+ {
+  "id": "his_00308",
+  "proposalId": "prp_00171",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-03-19T11:51:00+09:00"
+ },
+ {
+  "id": "his_00309",
+  "proposalId": "prp_00171",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-04-19T17:03:00+09:00"
+ },
+ {
+  "id": "his_00310",
+  "proposalId": "prp_00172",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-06-30T13:30:00+09:00"
+ },
+ {
+  "id": "his_00311",
+  "proposalId": "prp_00173",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2026-05-29T17:25:00+09:00"
+ },
+ {
+  "id": "his_00312",
+  "proposalId": "prp_00173",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2026-06-19T11:26:00+09:00"
+ },
+ {
+  "id": "his_00313",
+  "proposalId": "prp_00174",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_T20",
+  "createdAt": "2026-05-28T08:51:00+09:00"
+ },
+ {
+  "id": "his_00314",
+  "proposalId": "prp_00174",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_T20",
+  "createdAt": "2026-06-12T08:56:00+09:00"
+ },
+ {
+  "id": "his_00315",
+  "proposalId": "prp_00174",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_T20",
+  "createdAt": "2026-06-30T15:23:00+09:00"
+ },
+ {
+  "id": "his_00316",
+  "proposalId": "prp_00175",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-06-12T10:26:00+09:00"
+ },
+ {
+  "id": "his_00317",
+  "proposalId": "prp_00175",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-07-06T14:13:00+09:00"
+ },
+ {
+  "id": "his_00318",
+  "proposalId": "prp_00176",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-05-05T15:51:00+09:00"
+ },
+ {
+  "id": "his_00319",
+  "proposalId": "prp_00177",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_C03",
+  "createdAt": "2026-01-14T11:18:00+09:00"
+ },
+ {
+  "id": "his_00320",
+  "proposalId": "prp_00177",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_C03",
+  "createdAt": "2026-02-10T17:54:00+09:00"
+ },
+ {
+  "id": "his_00321",
+  "proposalId": "prp_00178",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-05-20T10:41:00+09:00"
+ },
+ {
+  "id": "his_00322",
+  "proposalId": "prp_00178",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-05-26T17:00:00+09:00"
+ },
+ {
+  "id": "his_00323",
+  "proposalId": "prp_00178",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-06-22T18:03:00+09:00"
+ },
+ {
+  "id": "his_00324",
+  "proposalId": "prp_00180",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-03-25T12:04:00+09:00"
+ },
+ {
+  "id": "his_00325",
+  "proposalId": "prp_00180",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-04-04T12:28:00+09:00"
+ },
+ {
+  "id": "his_00326",
+  "proposalId": "prp_00181",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_J10",
+  "createdAt": "2026-06-10T15:22:00+09:00"
+ },
+ {
+  "id": "his_00327",
+  "proposalId": "prp_00181",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_J10",
+  "createdAt": "2026-06-30T17:42:00+09:00"
+ },
+ {
+  "id": "his_00328",
+  "proposalId": "prp_00183",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-07-04T19:56:00+09:00"
+ },
+ {
+  "id": "his_00329",
+  "proposalId": "prp_00183",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-07-05T17:44:00+09:00"
+ },
+ {
+  "id": "his_00330",
+  "proposalId": "prp_00183",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-07-16T19:43:00+09:00"
+ },
+ {
+  "id": "his_00331",
+  "proposalId": "prp_00184",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-02-12T19:59:00+09:00"
+ },
+ {
+  "id": "his_00332",
+  "proposalId": "prp_00184",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-04-04T19:53:00+09:00"
+ },
+ {
+  "id": "his_00333",
+  "proposalId": "prp_00184",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-05-02T15:28:00+09:00"
+ },
+ {
+  "id": "his_00334",
+  "proposalId": "prp_00185",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-02-09T11:19:00+09:00"
+ },
+ {
+  "id": "his_00335",
+  "proposalId": "prp_00185",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-02-18T11:47:00+09:00"
+ },
+ {
+  "id": "his_00336",
+  "proposalId": "prp_00186",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-09-11T11:04:00+09:00"
+ },
+ {
+  "id": "his_00337",
+  "proposalId": "prp_00187",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-07-30T16:14:00+09:00"
+ },
+ {
+  "id": "his_00338",
+  "proposalId": "prp_00187",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-08-18T10:46:00+09:00"
+ },
+ {
+  "id": "his_00339",
+  "proposalId": "prp_00188",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2025-12-06T18:27:00+09:00"
+ },
+ {
+  "id": "his_00340",
+  "proposalId": "prp_00188",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-02-07T19:20:00+09:00"
+ },
+ {
+  "id": "his_00341",
+  "proposalId": "prp_00188",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-02-27T18:25:00+09:00"
+ },
+ {
+  "id": "his_00342",
+  "proposalId": "prp_00190",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_T20",
+  "createdAt": "2026-03-04T09:04:00+09:00"
+ },
+ {
+  "id": "his_00343",
+  "proposalId": "prp_00192",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_J10",
+  "createdAt": "2026-05-27T17:09:00+09:00"
+ },
+ {
+  "id": "his_00344",
+  "proposalId": "prp_00192",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_J10",
+  "createdAt": "2026-06-06T14:17:00+09:00"
+ },
+ {
+  "id": "his_00345",
+  "proposalId": "prp_00192",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_J10",
+  "createdAt": "2026-06-28T17:25:00+09:00"
+ },
+ {
+  "id": "his_00346",
+  "proposalId": "prp_00193",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_V22",
+  "createdAt": "2026-05-25T18:13:00+09:00"
+ },
+ {
+  "id": "his_00347",
+  "proposalId": "prp_00193",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_V22",
+  "createdAt": "2026-06-06T08:27:00+09:00"
+ },
+ {
+  "id": "his_00348",
+  "proposalId": "prp_00194",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-05-09T17:28:00+09:00"
+ },
+ {
+  "id": "his_00349",
+  "proposalId": "prp_00194",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-05-15T13:36:00+09:00"
+ },
+ {
+  "id": "his_00350",
+  "proposalId": "prp_00196",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_V22",
+  "createdAt": "2026-05-13T15:10:00+09:00"
+ },
+ {
+  "id": "his_00351",
+  "proposalId": "prp_00196",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_V22",
+  "createdAt": "2026-06-03T17:17:00+09:00"
+ },
+ {
+  "id": "his_00352",
+  "proposalId": "prp_00197",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-05-18T10:01:00+09:00"
+ },
+ {
+  "id": "his_00353",
+  "proposalId": "prp_00197",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-06-21T17:45:00+09:00"
+ },
+ {
+  "id": "his_00354",
+  "proposalId": "prp_00197",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-07-06T12:39:00+09:00"
+ },
+ {
+  "id": "his_00355",
+  "proposalId": "prp_00199",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-07-26T17:59:00+09:00"
+ },
+ {
+  "id": "his_00356",
+  "proposalId": "prp_00200",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-06-10T18:59:00+09:00"
+ },
+ {
+  "id": "his_00357",
+  "proposalId": "prp_00202",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-05-04T08:25:00+09:00"
+ },
+ {
+  "id": "his_00358",
+  "proposalId": "prp_00203",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-02-22T09:06:00+09:00"
+ },
+ {
+  "id": "his_00359",
+  "proposalId": "prp_00203",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-04-12T09:31:00+09:00"
+ },
+ {
+  "id": "his_00360",
+  "proposalId": "prp_00203",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-05-23T18:30:00+09:00"
+ },
+ {
+  "id": "his_00361",
+  "proposalId": "prp_00204",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-06-19T14:28:00+09:00"
+ },
+ {
+  "id": "his_00362",
+  "proposalId": "prp_00204",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-07-13T13:25:00+09:00"
+ },
+ {
+  "id": "his_00363",
+  "proposalId": "prp_00204",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-07-15T14:46:00+09:00"
+ },
+ {
+  "id": "his_00364",
+  "proposalId": "prp_00205",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-07-22T09:37:00+09:00"
+ },
+ {
+  "id": "his_00365",
+  "proposalId": "prp_00206",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_C03",
+  "createdAt": "2026-09-24T12:10:00+09:00"
+ },
+ {
+  "id": "his_00366",
+  "proposalId": "prp_00207",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_X24",
+  "createdAt": "2026-01-31T11:14:00+09:00"
+ },
+ {
+  "id": "his_00367",
+  "proposalId": "prp_00208",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2025-12-24T11:58:00+09:00"
+ },
+ {
+  "id": "his_00368",
+  "proposalId": "prp_00208",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-02-11T16:42:00+09:00"
+ },
+ {
+  "id": "his_00369",
+  "proposalId": "prp_00209",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-09-15T13:26:00+09:00"
+ },
+ {
+  "id": "his_00370",
+  "proposalId": "prp_00209",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-09-19T18:29:00+09:00"
+ },
+ {
+  "id": "his_00371",
+  "proposalId": "prp_00210",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-06-20T19:56:00+09:00"
+ },
+ {
+  "id": "his_00372",
+  "proposalId": "prp_00210",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-07-25T11:29:00+09:00"
+ },
+ {
+  "id": "his_00373",
+  "proposalId": "prp_00211",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-03-12T14:52:00+09:00"
+ },
+ {
+  "id": "his_00374",
+  "proposalId": "prp_00211",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-04-01T16:30:00+09:00"
+ },
+ {
+  "id": "his_00375",
+  "proposalId": "prp_00211",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-04-13T12:56:00+09:00"
+ },
+ {
+  "id": "his_00376",
+  "proposalId": "prp_00212",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-08-09T10:56:00+09:00"
+ },
+ {
+  "id": "his_00377",
+  "proposalId": "prp_00212",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-08-15T11:18:00+09:00"
+ },
+ {
+  "id": "his_00378",
+  "proposalId": "prp_00214",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-08-13T09:12:00+09:00"
+ },
+ {
+  "id": "his_00379",
+  "proposalId": "prp_00215",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-07-01T15:19:00+09:00"
+ },
+ {
+  "id": "his_00380",
+  "proposalId": "prp_00215",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-07-22T09:12:00+09:00"
+ },
+ {
+  "id": "his_00381",
+  "proposalId": "prp_00215",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-08-07T19:59:00+09:00"
+ },
+ {
+  "id": "his_00382",
+  "proposalId": "prp_00216",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_U21",
+  "createdAt": "2026-05-31T13:58:00+09:00"
+ },
+ {
+  "id": "his_00383",
+  "proposalId": "prp_00217",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2025-11-10T11:46:00+09:00"
+ },
+ {
+  "id": "his_00384",
+  "proposalId": "prp_00217",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2025-12-21T17:46:00+09:00"
+ },
+ {
+  "id": "his_00385",
+  "proposalId": "prp_00217",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2026-01-12T14:18:00+09:00"
+ },
+ {
+  "id": "his_00386",
+  "proposalId": "prp_00218",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-05-11T10:57:00+09:00"
+ },
+ {
+  "id": "his_00387",
+  "proposalId": "prp_00218",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-06-25T08:26:00+09:00"
+ },
+ {
+  "id": "his_00388",
+  "proposalId": "prp_00219",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_C03",
+  "createdAt": "2026-09-14T14:30:00+09:00"
+ },
+ {
+  "id": "his_00389",
+  "proposalId": "prp_00219",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_C03",
+  "createdAt": "2026-09-16T12:15:00+09:00"
+ },
+ {
+  "id": "his_00390",
+  "proposalId": "prp_00220",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-06-20T13:39:00+09:00"
+ },
+ {
+  "id": "his_00391",
+  "proposalId": "prp_00220",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-06-29T10:09:00+09:00"
+ },
+ {
+  "id": "his_00392",
+  "proposalId": "prp_00220",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-07-11T14:32:00+09:00"
+ },
+ {
+  "id": "his_00393",
+  "proposalId": "prp_00221",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-06-07T19:01:00+09:00"
+ },
+ {
+  "id": "his_00394",
+  "proposalId": "prp_00221",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-06-25T15:03:00+09:00"
+ },
+ {
+  "id": "his_00395",
+  "proposalId": "prp_00222",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_J10",
+  "createdAt": "2026-05-20T12:09:00+09:00"
+ },
+ {
+  "id": "his_00396",
+  "proposalId": "prp_00223",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-06-04T18:54:00+09:00"
+ },
+ {
+  "id": "his_00397",
+  "proposalId": "prp_00224",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-01-16T12:51:00+09:00"
+ },
+ {
+  "id": "his_00398",
+  "proposalId": "prp_00224",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-03-29T16:32:00+09:00"
+ },
+ {
+  "id": "his_00399",
+  "proposalId": "prp_00225",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-02-24T12:07:00+09:00"
+ },
+ {
+  "id": "his_00400",
+  "proposalId": "prp_00225",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-04-26T14:54:00+09:00"
+ },
+ {
+  "id": "his_00401",
+  "proposalId": "prp_00226",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_T20",
+  "createdAt": "2026-04-20T12:18:00+09:00"
+ },
+ {
+  "id": "his_00402",
+  "proposalId": "prp_00226",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_T20",
+  "createdAt": "2026-05-16T17:40:00+09:00"
+ },
+ {
+  "id": "his_00403",
+  "proposalId": "prp_00227",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-06-15T08:25:00+09:00"
+ },
+ {
+  "id": "his_00404",
+  "proposalId": "prp_00227",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-07-11T08:24:00+09:00"
+ },
+ {
+  "id": "his_00405",
+  "proposalId": "prp_00228",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_V22",
+  "createdAt": "2026-07-06T16:26:00+09:00"
+ },
+ {
+  "id": "his_00406",
+  "proposalId": "prp_00229",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-07-05T15:55:00+09:00"
+ },
+ {
+  "id": "his_00407",
+  "proposalId": "prp_00229",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-07-29T19:02:00+09:00"
+ },
+ {
+  "id": "his_00408",
+  "proposalId": "prp_00229",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-08-14T19:55:00+09:00"
+ },
+ {
+  "id": "his_00409",
+  "proposalId": "prp_00231",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-02-05T19:59:00+09:00"
+ },
+ {
+  "id": "his_00410",
+  "proposalId": "prp_00231",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-02-14T09:08:00+09:00"
+ },
+ {
+  "id": "his_00411",
+  "proposalId": "prp_00231",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-03-22T09:53:00+09:00"
+ },
+ {
+  "id": "his_00412",
+  "proposalId": "prp_00232",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-06-28T10:57:00+09:00"
+ },
+ {
+  "id": "his_00413",
+  "proposalId": "prp_00232",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_F06",
+  "createdAt": "2026-07-16T10:15:00+09:00"
+ },
+ {
+  "id": "his_00414",
+  "proposalId": "prp_00233",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-04-06T18:41:00+09:00"
+ },
+ {
+  "id": "his_00415",
+  "proposalId": "prp_00234",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_P16",
+  "createdAt": "2026-01-09T08:56:00+09:00"
+ },
+ {
+  "id": "his_00416",
+  "proposalId": "prp_00235",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-06-01T16:41:00+09:00"
+ },
+ {
+  "id": "his_00417",
+  "proposalId": "prp_00235",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-06-26T15:51:00+09:00"
+ },
+ {
+  "id": "his_00418",
+  "proposalId": "prp_00235",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-07-09T15:13:00+09:00"
+ },
+ {
+  "id": "his_00419",
+  "proposalId": "prp_00236",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-06-10T08:40:00+09:00"
+ },
+ {
+  "id": "his_00420",
+  "proposalId": "prp_00236",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-06-13T08:43:00+09:00"
+ },
+ {
+  "id": "his_00421",
+  "proposalId": "prp_00237",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-05-29T11:27:00+09:00"
+ },
+ {
+  "id": "his_00422",
+  "proposalId": "prp_00237",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-06-10T13:59:00+09:00"
+ },
+ {
+  "id": "his_00423",
+  "proposalId": "prp_00238",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-05-31T17:59:00+09:00"
+ },
+ {
+  "id": "his_00424",
+  "proposalId": "prp_00238",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-07-14T18:03:00+09:00"
+ },
+ {
+  "id": "his_00425",
+  "proposalId": "prp_00239",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-04-07T14:01:00+09:00"
+ },
+ {
+  "id": "his_00426",
+  "proposalId": "prp_00239",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-05-14T11:35:00+09:00"
+ },
+ {
+  "id": "his_00427",
+  "proposalId": "prp_00239",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-06-09T16:57:00+09:00"
+ },
+ {
+  "id": "his_00428",
+  "proposalId": "prp_00240",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2026-05-03T14:01:00+09:00"
+ },
+ {
+  "id": "his_00429",
+  "proposalId": "prp_00240",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2026-05-20T12:46:00+09:00"
+ },
+ {
+  "id": "his_00430",
+  "proposalId": "prp_00240",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2026-06-19T15:21:00+09:00"
+ },
+ {
+  "id": "his_00431",
+  "proposalId": "prp_00241",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-06-06T12:24:00+09:00"
+ },
+ {
+  "id": "his_00432",
+  "proposalId": "prp_00241",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-06-17T09:33:00+09:00"
+ },
+ {
+  "id": "his_00433",
+  "proposalId": "prp_00241",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-06-24T11:23:00+09:00"
+ },
+ {
+  "id": "his_00434",
+  "proposalId": "prp_00242",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-02-16T15:57:00+09:00"
+ },
+ {
+  "id": "his_00435",
+  "proposalId": "prp_00242",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-02-23T14:57:00+09:00"
+ },
+ {
+  "id": "his_00436",
+  "proposalId": "prp_00242",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-03-29T14:23:00+09:00"
+ },
+ {
+  "id": "his_00437",
+  "proposalId": "prp_00243",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-06-15T10:45:00+09:00"
+ },
+ {
+  "id": "his_00438",
+  "proposalId": "prp_00243",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-07-14T12:23:00+09:00"
+ },
+ {
+  "id": "his_00439",
+  "proposalId": "prp_00243",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-07-18T12:38:00+09:00"
+ },
+ {
+  "id": "his_00440",
+  "proposalId": "prp_00244",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-05-18T13:54:00+09:00"
+ },
+ {
+  "id": "his_00441",
+  "proposalId": "prp_00244",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-05-19T08:21:00+09:00"
+ },
+ {
+  "id": "his_00442",
+  "proposalId": "prp_00244",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-06-08T10:40:00+09:00"
+ },
+ {
+  "id": "his_00443",
+  "proposalId": "prp_00246",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-07-11T18:15:00+09:00"
+ },
+ {
+  "id": "his_00444",
+  "proposalId": "prp_00246",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-07-27T16:49:00+09:00"
+ },
+ {
+  "id": "his_00445",
+  "proposalId": "prp_00246",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-07-29T17:44:00+09:00"
+ },
+ {
+  "id": "his_00446",
+  "proposalId": "prp_00247",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-01-22T18:53:00+09:00"
+ },
+ {
+  "id": "his_00447",
+  "proposalId": "prp_00247",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-02-05T14:17:00+09:00"
+ },
+ {
+  "id": "his_00448",
+  "proposalId": "prp_00248",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2025-12-20T09:25:00+09:00"
+ },
+ {
+  "id": "his_00449",
+  "proposalId": "prp_00249",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-06-26T10:21:00+09:00"
+ },
+ {
+  "id": "his_00450",
+  "proposalId": "prp_00251",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-09-17T11:04:00+09:00"
+ },
+ {
+  "id": "his_00451",
+  "proposalId": "prp_00251",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-09-22T14:31:00+09:00"
+ },
+ {
+  "id": "his_00452",
+  "proposalId": "prp_00252",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2025-12-12T11:54:00+09:00"
+ },
+ {
+  "id": "his_00453",
+  "proposalId": "prp_00252",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2025-12-20T09:47:00+09:00"
+ },
+ {
+  "id": "his_00454",
+  "proposalId": "prp_00252",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-02-19T19:29:00+09:00"
+ },
+ {
+  "id": "his_00455",
+  "proposalId": "prp_00253",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-06-05T16:37:00+09:00"
+ },
+ {
+  "id": "his_00456",
+  "proposalId": "prp_00253",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-06-07T18:17:00+09:00"
+ },
+ {
+  "id": "his_00457",
+  "proposalId": "prp_00254",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-06-11T09:36:00+09:00"
+ },
+ {
+  "id": "his_00458",
+  "proposalId": "prp_00254",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-07-06T09:57:00+09:00"
+ },
+ {
+  "id": "his_00459",
+  "proposalId": "prp_00254",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-07-07T17:40:00+09:00"
+ },
+ {
+  "id": "his_00460",
+  "proposalId": "prp_00255",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-06-03T08:39:00+09:00"
+ },
+ {
+  "id": "his_00461",
+  "proposalId": "prp_00256",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-01-12T15:49:00+09:00"
+ },
+ {
+  "id": "his_00462",
+  "proposalId": "prp_00257",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_X24",
+  "createdAt": "2026-06-17T18:13:00+09:00"
+ },
+ {
+  "id": "his_00463",
+  "proposalId": "prp_00257",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_X24",
+  "createdAt": "2026-07-17T12:01:00+09:00"
+ },
+ {
+  "id": "his_00464",
+  "proposalId": "prp_00258",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-09-07T17:08:00+09:00"
+ },
+ {
+  "id": "his_00465",
+  "proposalId": "prp_00259",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-06-15T15:37:00+09:00"
+ },
+ {
+  "id": "his_00466",
+  "proposalId": "prp_00259",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-06-17T14:28:00+09:00"
+ },
+ {
+  "id": "his_00467",
+  "proposalId": "prp_00261",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-08-01T18:18:00+09:00"
+ },
+ {
+  "id": "his_00468",
+  "proposalId": "prp_00261",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-08-02T14:45:00+09:00"
+ },
+ {
+  "id": "his_00469",
+  "proposalId": "prp_00261",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-08-10T19:47:00+09:00"
+ },
+ {
+  "id": "his_00470",
+  "proposalId": "prp_00262",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-07-27T10:00:00+09:00"
+ },
+ {
+  "id": "his_00471",
+  "proposalId": "prp_00262",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-08-02T17:16:00+09:00"
+ },
+ {
+  "id": "his_00472",
+  "proposalId": "prp_00263",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2025-10-26T15:27:00+09:00"
+ },
+ {
+  "id": "his_00473",
+  "proposalId": "prp_00263",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-01-10T10:54:00+09:00"
+ },
+ {
+  "id": "his_00474",
+  "proposalId": "prp_00263",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-02-13T13:14:00+09:00"
+ },
+ {
+  "id": "his_00475",
+  "proposalId": "prp_00264",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-05-21T16:31:00+09:00"
+ },
+ {
+  "id": "his_00476",
+  "proposalId": "prp_00264",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-06-24T10:17:00+09:00"
+ },
+ {
+  "id": "his_00477",
+  "proposalId": "prp_00264",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_O15",
+  "createdAt": "2026-07-21T09:35:00+09:00"
+ },
+ {
+  "id": "his_00478",
+  "proposalId": "prp_00265",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_V22",
+  "createdAt": "2026-04-25T10:27:00+09:00"
+ },
+ {
+  "id": "his_00479",
+  "proposalId": "prp_00265",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_V22",
+  "createdAt": "2026-05-06T18:30:00+09:00"
+ },
+ {
+  "id": "his_00480",
+  "proposalId": "prp_00265",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_V22",
+  "createdAt": "2026-05-27T17:12:00+09:00"
+ },
+ {
+  "id": "his_00481",
+  "proposalId": "prp_00266",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-02-20T12:56:00+09:00"
+ },
+ {
+  "id": "his_00482",
+  "proposalId": "prp_00266",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_D04",
+  "createdAt": "2026-02-27T18:22:00+09:00"
+ },
+ {
+  "id": "his_00483",
+  "proposalId": "prp_00267",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-06-05T12:10:00+09:00"
+ },
+ {
+  "id": "his_00484",
+  "proposalId": "prp_00267",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-06-22T18:02:00+09:00"
+ },
+ {
+  "id": "his_00485",
+  "proposalId": "prp_00269",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-05-21T11:25:00+09:00"
+ },
+ {
+  "id": "his_00486",
+  "proposalId": "prp_00269",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-06-04T16:02:00+09:00"
+ },
+ {
+  "id": "his_00487",
+  "proposalId": "prp_00270",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2025-12-11T11:38:00+09:00"
+ },
+ {
+  "id": "his_00488",
+  "proposalId": "prp_00270",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_Q17",
+  "createdAt": "2026-02-25T15:24:00+09:00"
+ },
+ {
+  "id": "his_00489",
+  "proposalId": "prp_00271",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-05-12T16:55:00+09:00"
+ },
+ {
+  "id": "his_00490",
+  "proposalId": "prp_00271",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-05-18T17:41:00+09:00"
+ },
+ {
+  "id": "his_00491",
+  "proposalId": "prp_00272",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-01-18T16:21:00+09:00"
+ },
+ {
+  "id": "his_00492",
+  "proposalId": "prp_00272",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-03-13T08:44:00+09:00"
+ },
+ {
+  "id": "his_00493",
+  "proposalId": "prp_00272",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_L12",
+  "createdAt": "2026-04-04T11:00:00+09:00"
+ },
+ {
+  "id": "his_00494",
+  "proposalId": "prp_00273",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_W23",
+  "createdAt": "2026-02-23T15:04:00+09:00"
+ },
+ {
+  "id": "his_00495",
+  "proposalId": "prp_00274",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_I09",
+  "createdAt": "2026-07-06T14:29:00+09:00"
+ },
+ {
+  "id": "his_00496",
+  "proposalId": "prp_00275",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-02-04T10:17:00+09:00"
+ },
+ {
+  "id": "his_00497",
+  "proposalId": "prp_00275",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-02-16T09:51:00+09:00"
+ },
+ {
+  "id": "his_00498",
+  "proposalId": "prp_00275",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "개선 조치를 마쳤습니다. 다음 훈련 때 확인 부탁드립니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-03-21T16:31:00+09:00"
+ },
+ {
+  "id": "his_00499",
+  "proposalId": "prp_00276",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-05-21T16:41:00+09:00"
+ },
+ {
+  "id": "his_00500",
+  "proposalId": "prp_00276",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-05-23T08:10:00+09:00"
+ },
+ {
+  "id": "his_00501",
+  "proposalId": "prp_00276",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_B02",
+  "createdAt": "2026-06-04T17:11:00+09:00"
+ },
+ {
+  "id": "his_00502",
+  "proposalId": "prp_00277",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-04-24T19:26:00+09:00"
+ },
+ {
+  "id": "his_00503",
+  "proposalId": "prp_00277",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-05-26T19:59:00+09:00"
+ },
+ {
+  "id": "his_00504",
+  "proposalId": "prp_00277",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_H08",
+  "createdAt": "2026-06-29T19:50:00+09:00"
+ },
+ {
+  "id": "his_00505",
+  "proposalId": "prp_00278",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_S19",
+  "createdAt": "2026-09-26T17:39:00+09:00"
+ },
+ {
+  "id": "his_00506",
+  "proposalId": "prp_00279",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-09-25T11:46:00+09:00"
+ },
+ {
+  "id": "his_00507",
+  "proposalId": "prp_00280",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-04-12T09:32:00+09:00"
+ },
+ {
+  "id": "his_00508",
+  "proposalId": "prp_00280",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "관련 부서와 협의해 조치 일정을 정했습니다.",
+  "actorId": "mgr_R_K11",
+  "createdAt": "2026-06-05T15:51:00+09:00"
+ },
+ {
+  "id": "his_00509",
+  "proposalId": "prp_00281",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-02-07T17:36:00+09:00"
+ },
+ {
+  "id": "his_00510",
+  "proposalId": "prp_00283",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_J10",
+  "createdAt": "2026-05-08T08:26:00+09:00"
+ },
+ {
+  "id": "his_00511",
+  "proposalId": "prp_00283",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_J10",
+  "createdAt": "2026-05-28T11:00:00+09:00"
+ },
+ {
+  "id": "his_00512",
+  "proposalId": "prp_00283",
+  "from": "PLANNED",
+  "to": "DONE",
+  "note": "요청하신 내용을 반영했습니다.",
+  "actorId": "mgr_R_J10",
+  "createdAt": "2026-06-07T11:30:00+09:00"
+ },
+ {
+  "id": "his_00513",
+  "proposalId": "prp_00286",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-06-12T16:54:00+09:00"
+ },
+ {
+  "id": "his_00514",
+  "proposalId": "prp_00286",
+  "from": "REVIEWING",
+  "to": "PLANNED",
+  "note": "다음 훈련 차수부터 개선할 수 있도록 계획을 세웠습니다.",
+  "actorId": "mgr_R_M13",
+  "createdAt": "2026-06-28T12:36:00+09:00"
+ },
+ {
+  "id": "his_00515",
+  "proposalId": "prp_00287",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-09-21T11:30:00+09:00"
+ },
+ {
+  "id": "his_00516",
+  "proposalId": "prp_00290",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-09-28T08:48:00+09:00"
+ },
+ {
+  "id": "his_00517",
+  "proposalId": "prp_00292",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-09-24T11:29:00+09:00"
+ },
+ {
+  "id": "his_00518",
+  "proposalId": "prp_00292",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "제도 개선 사항이라 상급 부서에 건의했습니다.",
+  "actorId": "mgr_R_R18",
+  "createdAt": "2026-09-26T13:01:00+09:00"
+ },
+ {
+  "id": "his_00519",
+  "proposalId": "prp_00293",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_A01",
+  "createdAt": "2026-10-07T19:45:00+09:00"
+ },
+ {
+  "id": "his_00520",
+  "proposalId": "prp_00294",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "담당 부서에서 내용을 확인하고 있습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-09-26T12:55:00+09:00"
+ },
+ {
+  "id": "his_00521",
+  "proposalId": "prp_00294",
+  "from": "REVIEWING",
+  "to": "LONG_TERM",
+  "note": "예산 반영이 필요해 내년도 사업으로 검토하고 있습니다.",
+  "actorId": "mgr_R_G07",
+  "createdAt": "2026-09-27T19:50:00+09:00"
+ },
+ {
+  "id": "his_00522",
+  "proposalId": "prp_00296",
+  "from": "RECEIVED",
+  "to": "REVIEWING",
+  "note": "현장 상황을 점검 중입니다.",
+  "actorId": "mgr_R_E05",
+  "createdAt": "2026-10-02T15:25:00+09:00"
+ }
+]

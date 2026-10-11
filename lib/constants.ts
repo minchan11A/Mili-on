@@ -25,12 +25,13 @@ export const STATUS_TONE: Record<ProposalStatus, 'gray' | 'orange' | 'blue' | 'g
   RECEIVED: 'gray', REVIEWING: 'orange', PLANNED: 'blue', DONE: 'green', LONG_TERM: 'purple',
 };
 
+/** 5개 지표. 설문 섹션 순서(일정 고지 → 교통 → 숙식 → 기타)와 같게 둡니다 */
 export const SCORE_AXES = [
-  { key: 'scoreTransport', label: '교통 접근성' },
+  { key: 'scoreComm',      label: '일정 고지' },
+  { key: 'scoreTransport', label: '교통' },
   { key: 'scoreMeal',      label: '식사' },
-  { key: 'scoreFacility',  label: '시설 청결·편의' },
-  { key: 'scoreOperation', label: '훈련 운영' },
-  { key: 'scoreComm',      label: '안내·소통' },
+  { key: 'scoreFacility',  label: '숙소·시설' },
+  { key: 'scoreOperation', label: '운영·기타' },
 ] as const;
 
 export type ScoreKey = (typeof SCORE_AXES)[number]['key'];
@@ -71,7 +72,7 @@ export const SUBTOPICS: Record<Category, string[]> = {
 export const SIDO_SHORT: Record<string, string> = {
   서울특별시: '서울', 부산광역시: '부산', 대구광역시: '대구', 인천광역시: '인천',
   광주광역시: '광주', 대전광역시: '대전', 울산광역시: '울산', 세종특별자치시: '세종',
-  경기도: '경기', 강원도: '강원', 충청북도: '충북', 충청남도: '충남', 전라북도: '전북',
+  경기도: '경기', 강원도: '강원', 강원특별자치도: '강원', 전북특별자치도: '전북', 충청북도: '충북', 충청남도: '충남', 전라북도: '전북',
   전라남도: '전남', 경상북도: '경북', 경상남도: '경남', 제주특별자치도: '제주',
 };
 

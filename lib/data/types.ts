@@ -22,7 +22,7 @@ export interface DataSource {
 
   // 만족도
   listReviews(rangeId: string, page?: number): Promise<Page<ReviewView>>;
-  getReviewEligibility(rangeId: string): Promise<{ eligible: boolean; recordId?: string; reason?: string }>;
+  getReviewEligibility(rangeId: string): Promise<{ eligible: boolean; recordId?: string; reason?: string; canSelfReport?: boolean }>;
   createReview(input: ReviewInput): Promise<ReviewView>;
 
   // 개선 제안

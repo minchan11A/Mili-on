@@ -1,5 +1,5 @@
 {
-  "name": "milaind",
+  "name": "milind",
   "version": "0.1.0",
   "private": true,
   "description": "밀라인드: 예비군 훈련장 만족도·개선 제안·AI 대책 플랫폼 (2026 예비전력분야 혁신 아이디어 공모전)",
@@ -10,14 +10,14 @@
     "start": "next start -p ${PORT:-3000}",
     "build:demo": "cross-env NEXT_PUBLIC_APP_MODE=demo next build && tsx scripts/check-external-urls.ts",
     "serve:demo": "serve out -l 4173",
-    "seed:generate": "tsx scripts/generate-seed.ts",
     "ai-cache": "tsx --conditions react-server scripts/build-ai-cache.ts",
     "masking:eval": "tsx scripts/masking-eval.ts",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "test:e2e": "playwright test",
     "db:migrate": "prisma migrate dev",
-    "db:seed": "prisma db seed"
+    "db:seed": "prisma db seed",
+    "seed:generate": "python3 seed/scripts/generate_seed.py && python3 seed/scripts/validate_seed.py && tsx scripts/build-cache-drafts.ts"
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"

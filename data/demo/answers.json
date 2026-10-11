@@ -1,0 +1,996 @@
+[
+ {
+  "id": "ans_00001",
+  "questionId": "qst_00002",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 가이드에 따르면 신분증과 군복 일체가 필수예요. 보조배터리나 계절별 개인 용품도 함께 추천되고 있어요.",
+  "sourceGuideIds": [
+   "gde_00002",
+   "gde_00004",
+   "gde_00008",
+   "gde_00009",
+   "gde_00016",
+   "gde_00017",
+   "gde_00019"
+  ],
+  "createdAt": "2026-05-11T14:35:00+09:00"
+ },
+ {
+  "id": "ans_00002",
+  "questionId": "qst_00003",
+  "authorId": null,
+  "isAi": true,
+  "body": "가이드에 따르면 입소일과 퇴소일 셔틀 운행 여부는 사전 안내 문자로 확인하도록 되어 있어요. 이용자 꿀팁으로는 일찍 도착하는 것이 추천돼요.",
+  "sourceGuideIds": [
+   "gde_00001",
+   "gde_00010",
+   "gde_00011",
+   "gde_00012"
+  ],
+  "createdAt": "2026-03-28T10:04:00+09:00"
+ },
+ {
+  "id": "ans_00003",
+  "questionId": "qst_00004",
+  "authorId": null,
+  "isAi": true,
+  "body": "입소 확인은 정해진 시간까지 완료해야 하고, 지연이 예상되면 미리 훈련장에 연락하라고 안내되어 있어요.",
+  "sourceGuideIds": [
+   "gde_00021",
+   "gde_00025"
+  ],
+  "createdAt": "2026-03-26T12:43:00+09:00"
+ },
+ {
+  "id": "ans_00004",
+  "questionId": "qst_00006",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 주차 공간이 한정되어 있어 대중교통이나 카풀 이용을 권장하고 있어요.",
+  "sourceGuideIds": [
+   "gde_00020",
+   "gde_00024",
+   "gde_00027",
+   "gde_00034"
+  ],
+  "createdAt": "2026-07-14T19:51:00+09:00"
+ },
+ {
+  "id": "ans_00005",
+  "questionId": "qst_00007",
+  "authorId": null,
+  "isAi": true,
+  "body": "점심은 훈련장에서 제공된다고 안내되어 있어요. 식품 알레르기가 있으면 입소할 때 담당자에게 알려 주세요.",
+  "sourceGuideIds": [
+   "gde_00030",
+   "gde_00032"
+  ],
+  "createdAt": "2026-09-11T10:14:00+09:00"
+ },
+ {
+  "id": "ans_00006",
+  "questionId": "qst_00010",
+  "authorId": null,
+  "isAi": true,
+  "body": "휴대폰 사용 규정은 현장 안내에 따르도록 되어 있어요. 정확한 내용은 담당자 답변을 기다려 주세요.",
+  "sourceGuideIds": [
+   "gde_00039",
+   "gde_00041"
+  ],
+  "createdAt": "2026-04-22T11:03:00+09:00"
+ },
+ {
+  "id": "ans_00007",
+  "questionId": "qst_00012",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 주차 공간이 한정되어 있어 대중교통이나 카풀 이용을 권장하고 있어요.",
+  "sourceGuideIds": [
+   "gde_00036",
+   "gde_00040",
+   "gde_00046"
+  ],
+  "createdAt": "2026-04-02T16:04:00+09:00"
+ },
+ {
+  "id": "ans_00008",
+  "questionId": "qst_00013",
+  "authorId": null,
+  "isAi": true,
+  "body": "점심은 훈련장에서 제공된다고 안내되어 있어요. 식품 알레르기가 있으면 입소할 때 담당자에게 알려 주세요.",
+  "sourceGuideIds": [
+   "gde_00044",
+   "gde_00045"
+  ],
+  "createdAt": "2026-08-03T12:05:00+09:00"
+ },
+ {
+  "id": "ans_00009",
+  "questionId": "qst_00014",
+  "authorId": null,
+  "isAi": true,
+  "body": "휴대폰 사용 규정은 현장 안내에 따르도록 되어 있어요. 정확한 내용은 담당자 답변을 기다려 주세요.",
+  "sourceGuideIds": [
+   "gde_00049",
+   "gde_00057"
+  ],
+  "createdAt": "2026-09-28T16:47:00+09:00"
+ },
+ {
+  "id": "ans_00010",
+  "questionId": "qst_00015",
+  "authorId": null,
+  "isAi": true,
+  "body": "입소 확인은 정해진 시간까지 완료해야 하고, 지연이 예상되면 미리 훈련장에 연락하라고 안내되어 있어요.",
+  "sourceGuideIds": [
+   "gde_00049",
+   "gde_00057"
+  ],
+  "createdAt": "2026-01-25T14:19:00+09:00"
+ },
+ {
+  "id": "ans_00011",
+  "questionId": "qst_00016",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 가이드에 따르면 신분증과 군복 일체가 필수예요. 보조배터리나 계절별 개인 용품도 함께 추천되고 있어요.",
+  "sourceGuideIds": [
+   "gde_00050",
+   "gde_00051",
+   "gde_00052",
+   "gde_00058",
+   "gde_00059",
+   "gde_00063"
+  ],
+  "createdAt": "2025-11-05T12:37:00+09:00"
+ },
+ {
+  "id": "ans_00012",
+  "questionId": "qst_00017",
+  "authorId": null,
+  "isAi": true,
+  "body": "가이드에 따르면 입소일과 퇴소일 셔틀 운행 여부는 사전 안내 문자로 확인하도록 되어 있어요. 이용자 꿀팁으로는 일찍 도착하는 것이 추천돼요.",
+  "sourceGuideIds": [
+   "gde_00047",
+   "gde_00056",
+   "gde_00060",
+   "gde_00062"
+  ],
+  "createdAt": "2026-04-19T15:21:00+09:00"
+ },
+ {
+  "id": "ans_00013",
+  "questionId": "qst_00018",
+  "authorId": null,
+  "isAi": true,
+  "body": "휴대폰 사용 규정은 현장 안내에 따르도록 되어 있어요. 정확한 내용은 담당자 답변을 기다려 주세요.",
+  "sourceGuideIds": [
+   "gde_00067",
+   "gde_00080"
+  ],
+  "createdAt": "2026-09-01T08:30:00+09:00"
+ },
+ {
+  "id": "ans_00014",
+  "questionId": "qst_00019",
+  "authorId": null,
+  "isAi": true,
+  "body": "점심은 훈련장에서 제공된다고 안내되어 있어요. 식품 알레르기가 있으면 입소할 때 담당자에게 알려 주세요.",
+  "sourceGuideIds": [
+   "gde_00066",
+   "gde_00070",
+   "gde_00073"
+  ],
+  "createdAt": "2026-07-21T14:19:00+09:00"
+ },
+ {
+  "id": "ans_00015",
+  "questionId": "qst_00020",
+  "authorId": null,
+  "isAi": true,
+  "body": "가이드에 따르면 입소일과 퇴소일 셔틀 운행 여부는 사전 안내 문자로 확인하도록 되어 있어요. 이용자 꿀팁으로는 일찍 도착하는 것이 추천돼요.",
+  "sourceGuideIds": [
+   "gde_00068",
+   "gde_00069",
+   "gde_00071",
+   "gde_00076",
+   "gde_00079"
+  ],
+  "createdAt": "2026-04-29T16:37:00+09:00"
+ },
+ {
+  "id": "ans_00016",
+  "questionId": "qst_00021",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 주차 공간이 한정되어 있어 대중교통이나 카풀 이용을 권장하고 있어요.",
+  "sourceGuideIds": [
+   "gde_00068",
+   "gde_00069",
+   "gde_00071",
+   "gde_00076",
+   "gde_00079"
+  ],
+  "createdAt": "2026-04-25T12:59:00+09:00"
+ },
+ {
+  "id": "ans_00017",
+  "questionId": "qst_00023",
+  "authorId": null,
+  "isAi": true,
+  "body": "입소 확인은 정해진 시간까지 완료해야 하고, 지연이 예상되면 미리 훈련장에 연락하라고 안내되어 있어요.",
+  "sourceGuideIds": [
+   "gde_00081",
+   "gde_00086"
+  ],
+  "createdAt": "2026-01-17T14:28:00+09:00"
+ },
+ {
+  "id": "ans_00018",
+  "questionId": "qst_00024",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 주차 공간이 한정되어 있어 대중교통이나 카풀 이용을 권장하고 있어요.",
+  "sourceGuideIds": [
+   "gde_00082",
+   "gde_00084",
+   "gde_00090",
+   "gde_00091",
+   "gde_00097"
+  ],
+  "createdAt": "2026-03-02T10:12:00+09:00"
+ },
+ {
+  "id": "ans_00019",
+  "questionId": "qst_00025",
+  "authorId": null,
+  "isAi": true,
+  "body": "점심은 훈련장에서 제공된다고 안내되어 있어요. 식품 알레르기가 있으면 입소할 때 담당자에게 알려 주세요.",
+  "sourceGuideIds": [
+   "gde_00088",
+   "gde_00089",
+   "gde_00092"
+  ],
+  "createdAt": "2026-10-06T18:39:00+09:00"
+ },
+ {
+  "id": "ans_00020",
+  "questionId": "qst_00027",
+  "authorId": null,
+  "isAi": true,
+  "body": "휴대폰 사용 규정은 현장 안내에 따르도록 되어 있어요. 정확한 내용은 담당자 답변을 기다려 주세요.",
+  "sourceGuideIds": [
+   "gde_00081",
+   "gde_00086"
+  ],
+  "createdAt": "2026-04-09T19:43:00+09:00"
+ },
+ {
+  "id": "ans_00021",
+  "questionId": "qst_00028",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 가이드에 따르면 신분증과 군복 일체가 필수예요. 보조배터리나 계절별 개인 용품도 함께 추천되고 있어요.",
+  "sourceGuideIds": [
+   "gde_00083",
+   "gde_00087",
+   "gde_00094",
+   "gde_00095",
+   "gde_00096"
+  ],
+  "createdAt": "2026-05-12T12:28:00+09:00"
+ },
+ {
+  "id": "ans_00022",
+  "questionId": "qst_00029",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 주차 공간이 한정되어 있어 대중교통이나 카풀 이용을 권장하고 있어요.",
+  "sourceGuideIds": [
+   "gde_00103",
+   "gde_00107"
+  ],
+  "createdAt": "2026-05-12T14:35:00+09:00"
+ },
+ {
+  "id": "ans_00023",
+  "questionId": "qst_00030",
+  "authorId": null,
+  "isAi": true,
+  "body": "입소 확인은 정해진 시간까지 완료해야 하고, 지연이 예상되면 미리 훈련장에 연락하라고 안내되어 있어요.",
+  "sourceGuideIds": [
+   "gde_00104"
+  ],
+  "createdAt": "2026-06-15T12:31:00+09:00"
+ },
+ {
+  "id": "ans_00024",
+  "questionId": "qst_00032",
+  "authorId": null,
+  "isAi": true,
+  "body": "가이드에 따르면 입소일과 퇴소일 셔틀 운행 여부는 사전 안내 문자로 확인하도록 되어 있어요. 이용자 꿀팁으로는 일찍 도착하는 것이 추천돼요.",
+  "sourceGuideIds": [
+   "gde_00103",
+   "gde_00107"
+  ],
+  "createdAt": "2026-09-10T13:51:00+09:00"
+ },
+ {
+  "id": "ans_00025",
+  "questionId": "qst_00034",
+  "authorId": null,
+  "isAi": true,
+  "body": "휴대폰 사용 규정은 현장 안내에 따르도록 되어 있어요. 정확한 내용은 담당자 답변을 기다려 주세요.",
+  "sourceGuideIds": [
+   "gde_00104"
+  ],
+  "createdAt": "2026-04-07T13:56:00+09:00"
+ },
+ {
+  "id": "ans_00026",
+  "questionId": "qst_00035",
+  "authorId": null,
+  "isAi": true,
+  "body": "입소 확인은 정해진 시간까지 완료해야 하고, 지연이 예상되면 미리 훈련장에 연락하라고 안내되어 있어요.",
+  "sourceGuideIds": [
+   "gde_00124"
+  ],
+  "createdAt": "2026-03-06T13:18:00+09:00"
+ },
+ {
+  "id": "ans_00027",
+  "questionId": "qst_00037",
+  "authorId": null,
+  "isAi": true,
+  "body": "가이드에 따르면 입소일과 퇴소일 셔틀 운행 여부는 사전 안내 문자로 확인하도록 되어 있어요. 이용자 꿀팁으로는 일찍 도착하는 것이 추천돼요.",
+  "sourceGuideIds": [
+   "gde_00115",
+   "gde_00118",
+   "gde_00121",
+   "gde_00123"
+  ],
+  "createdAt": "2026-04-29T08:52:00+09:00"
+ },
+ {
+  "id": "ans_00028",
+  "questionId": "qst_00038",
+  "authorId": null,
+  "isAi": true,
+  "body": "점심은 훈련장에서 제공된다고 안내되어 있어요. 식품 알레르기가 있으면 입소할 때 담당자에게 알려 주세요.",
+  "sourceGuideIds": [
+   "gde_00112",
+   "gde_00117",
+   "gde_00120"
+  ],
+  "createdAt": "2026-09-13T15:49:00+09:00"
+ },
+ {
+  "id": "ans_00029",
+  "questionId": "qst_00039",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 가이드에 따르면 신분증과 군복 일체가 필수예요. 보조배터리나 계절별 개인 용품도 함께 추천되고 있어요.",
+  "sourceGuideIds": [
+   "gde_00113",
+   "gde_00114",
+   "gde_00116",
+   "gde_00119",
+   "gde_00125"
+  ],
+  "createdAt": "2026-05-29T13:16:00+09:00"
+ },
+ {
+  "id": "ans_00030",
+  "questionId": "qst_00040",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 주차 공간이 한정되어 있어 대중교통이나 카풀 이용을 권장하고 있어요.",
+  "sourceGuideIds": [
+   "gde_00115",
+   "gde_00118",
+   "gde_00121",
+   "gde_00123"
+  ],
+  "createdAt": "2025-11-27T16:02:00+09:00"
+ },
+ {
+  "id": "ans_00031",
+  "questionId": "qst_00041",
+  "authorId": null,
+  "isAi": true,
+  "body": "입소 확인은 정해진 시간까지 완료해야 하고, 지연이 예상되면 미리 훈련장에 연락하라고 안내되어 있어요.",
+  "sourceGuideIds": [
+   "gde_00129",
+   "gde_00131",
+   "gde_00136"
+  ],
+  "createdAt": "2025-10-24T18:34:00+09:00"
+ },
+ {
+  "id": "ans_00032",
+  "questionId": "qst_00042",
+  "authorId": null,
+  "isAi": true,
+  "body": "점심은 훈련장에서 제공된다고 안내되어 있어요. 식품 알레르기가 있으면 입소할 때 담당자에게 알려 주세요.",
+  "sourceGuideIds": [
+   "gde_00132",
+   "gde_00135",
+   "gde_00143"
+  ],
+  "createdAt": "2026-04-16T11:19:00+09:00"
+ },
+ {
+  "id": "ans_00033",
+  "questionId": "qst_00043",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 가이드에 따르면 신분증과 군복 일체가 필수예요. 보조배터리나 계절별 개인 용품도 함께 추천되고 있어요.",
+  "sourceGuideIds": [
+   "gde_00126",
+   "gde_00128",
+   "gde_00133",
+   "gde_00138",
+   "gde_00139",
+   "gde_00140",
+   "gde_00141"
+  ],
+  "createdAt": "2025-11-21T18:53:00+09:00"
+ },
+ {
+  "id": "ans_00034",
+  "questionId": "qst_00044",
+  "authorId": null,
+  "isAi": true,
+  "body": "가이드에 따르면 입소일과 퇴소일 셔틀 운행 여부는 사전 안내 문자로 확인하도록 되어 있어요. 이용자 꿀팁으로는 일찍 도착하는 것이 추천돼요.",
+  "sourceGuideIds": [
+   "gde_00127",
+   "gde_00134",
+   "gde_00137",
+   "gde_00142"
+  ],
+  "createdAt": "2026-04-16T12:26:00+09:00"
+ },
+ {
+  "id": "ans_00035",
+  "questionId": "qst_00046",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 가이드에 따르면 신분증과 군복 일체가 필수예요. 보조배터리나 계절별 개인 용품도 함께 추천되고 있어요.",
+  "sourceGuideIds": [
+   "gde_00146",
+   "gde_00150"
+  ],
+  "createdAt": "2026-07-31T14:04:00+09:00"
+ },
+ {
+  "id": "ans_00036",
+  "questionId": "qst_00047",
+  "authorId": null,
+  "isAi": true,
+  "body": "가이드에 따르면 입소일과 퇴소일 셔틀 운행 여부는 사전 안내 문자로 확인하도록 되어 있어요. 이용자 꿀팁으로는 일찍 도착하는 것이 추천돼요.",
+  "sourceGuideIds": [
+   "gde_00148",
+   "gde_00152",
+   "gde_00153"
+  ],
+  "createdAt": "2026-05-13T12:33:00+09:00"
+ },
+ {
+  "id": "ans_00037",
+  "questionId": "qst_00048",
+  "authorId": null,
+  "isAi": true,
+  "body": "휴대폰 사용 규정은 현장 안내에 따르도록 되어 있어요. 정확한 내용은 담당자 답변을 기다려 주세요.",
+  "sourceGuideIds": [
+   "gde_00145",
+   "gde_00149"
+  ],
+  "createdAt": "2026-05-23T15:57:00+09:00"
+ },
+ {
+  "id": "ans_00038",
+  "questionId": "qst_00053",
+  "authorId": null,
+  "isAi": true,
+  "body": "입소 확인은 정해진 시간까지 완료해야 하고, 지연이 예상되면 미리 훈련장에 연락하라고 안내되어 있어요.",
+  "sourceGuideIds": [
+   "gde_00154",
+   "gde_00166"
+  ],
+  "createdAt": "2026-01-18T13:00:00+09:00"
+ },
+ {
+  "id": "ans_00039",
+  "questionId": "qst_00054",
+  "authorId": null,
+  "isAi": true,
+  "body": "휴대폰 사용 규정은 현장 안내에 따르도록 되어 있어요. 정확한 내용은 담당자 답변을 기다려 주세요.",
+  "sourceGuideIds": [
+   "gde_00154",
+   "gde_00166"
+  ],
+  "createdAt": "2025-12-06T09:08:00+09:00"
+ },
+ {
+  "id": "ans_00040",
+  "questionId": "qst_00055",
+  "authorId": null,
+  "isAi": true,
+  "body": "휴대폰 사용 규정은 현장 안내에 따르도록 되어 있어요. 정확한 내용은 담당자 답변을 기다려 주세요.",
+  "sourceGuideIds": [
+   "gde_00174",
+   "gde_00176",
+   "gde_00178"
+  ],
+  "createdAt": "2026-09-01T12:10:00+09:00"
+ },
+ {
+  "id": "ans_00041",
+  "questionId": "qst_00058",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 주차 공간이 한정되어 있어 대중교통이나 카풀 이용을 권장하고 있어요.",
+  "sourceGuideIds": [
+   "gde_00175",
+   "gde_00179",
+   "gde_00181"
+  ],
+  "createdAt": "2026-03-11T09:15:00+09:00"
+ },
+ {
+  "id": "ans_00042",
+  "questionId": "qst_00059",
+  "authorId": null,
+  "isAi": true,
+  "body": "입소 확인은 정해진 시간까지 완료해야 하고, 지연이 예상되면 미리 훈련장에 연락하라고 안내되어 있어요.",
+  "sourceGuideIds": [
+   "gde_00174",
+   "gde_00176",
+   "gde_00178"
+  ],
+  "createdAt": "2026-01-24T16:24:00+09:00"
+ },
+ {
+  "id": "ans_00043",
+  "questionId": "qst_00061",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 주차 공간이 한정되어 있어 대중교통이나 카풀 이용을 권장하고 있어요.",
+  "sourceGuideIds": [
+   "gde_00190",
+   "gde_00193"
+  ],
+  "createdAt": "2025-12-05T17:16:00+09:00"
+ },
+ {
+  "id": "ans_00044",
+  "questionId": "qst_00062",
+  "authorId": null,
+  "isAi": true,
+  "body": "가이드에 따르면 입소일과 퇴소일 셔틀 운행 여부는 사전 안내 문자로 확인하도록 되어 있어요. 이용자 꿀팁으로는 일찍 도착하는 것이 추천돼요.",
+  "sourceGuideIds": [
+   "gde_00190",
+   "gde_00193"
+  ],
+  "createdAt": "2026-07-04T13:48:00+09:00"
+ },
+ {
+  "id": "ans_00045",
+  "questionId": "qst_00063",
+  "authorId": null,
+  "isAi": true,
+  "body": "입소 확인은 정해진 시간까지 완료해야 하고, 지연이 예상되면 미리 훈련장에 연락하라고 안내되어 있어요.",
+  "sourceGuideIds": [
+   "gde_00183",
+   "gde_00188"
+  ],
+  "createdAt": "2026-04-09T15:27:00+09:00"
+ },
+ {
+  "id": "ans_00046",
+  "questionId": "qst_00066",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 주차 공간이 한정되어 있어 대중교통이나 카풀 이용을 권장하고 있어요.",
+  "sourceGuideIds": [
+   "gde_00197",
+   "gde_00198",
+   "gde_00203"
+  ],
+  "createdAt": "2026-10-07T12:08:00+09:00"
+ },
+ {
+  "id": "ans_00047",
+  "questionId": "qst_00068",
+  "authorId": null,
+  "isAi": true,
+  "body": "점심은 훈련장에서 제공된다고 안내되어 있어요. 식품 알레르기가 있으면 입소할 때 담당자에게 알려 주세요.",
+  "sourceGuideIds": [
+   "gde_00205"
+  ],
+  "createdAt": "2026-01-02T17:56:00+09:00"
+ },
+ {
+  "id": "ans_00048",
+  "questionId": "qst_00070",
+  "authorId": null,
+  "isAi": true,
+  "body": "휴대폰 사용 규정은 현장 안내에 따르도록 되어 있어요. 정확한 내용은 담당자 답변을 기다려 주세요.",
+  "sourceGuideIds": [
+   "gde_00194",
+   "gde_00201"
+  ],
+  "createdAt": "2026-05-30T11:25:00+09:00"
+ },
+ {
+  "id": "ans_00049",
+  "questionId": "qst_00071",
+  "authorId": null,
+  "isAi": true,
+  "body": "입소 확인은 정해진 시간까지 완료해야 하고, 지연이 예상되면 미리 훈련장에 연락하라고 안내되어 있어요.",
+  "sourceGuideIds": [
+   "gde_00194",
+   "gde_00201"
+  ],
+  "createdAt": "2026-04-24T08:29:00+09:00"
+ },
+ {
+  "id": "ans_00050",
+  "questionId": "qst_00072",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 주차 공간이 한정되어 있어 대중교통이나 카풀 이용을 권장하고 있어요.",
+  "sourceGuideIds": [
+   "gde_00214",
+   "gde_00215",
+   "gde_00219"
+  ],
+  "createdAt": "2025-11-29T18:04:00+09:00"
+ },
+ {
+  "id": "ans_00051",
+  "questionId": "qst_00073",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 가이드에 따르면 신분증과 군복 일체가 필수예요. 보조배터리나 계절별 개인 용품도 함께 추천되고 있어요.",
+  "sourceGuideIds": [
+   "gde_00207",
+   "gde_00209",
+   "gde_00212",
+   "gde_00213",
+   "gde_00217"
+  ],
+  "createdAt": "2025-10-26T19:46:00+09:00"
+ },
+ {
+  "id": "ans_00052",
+  "questionId": "qst_00074",
+  "authorId": null,
+  "isAi": true,
+  "body": "점심은 훈련장에서 제공된다고 안내되어 있어요. 식품 알레르기가 있으면 입소할 때 담당자에게 알려 주세요.",
+  "sourceGuideIds": [
+   "gde_00208",
+   "gde_00211",
+   "gde_00218"
+  ],
+  "createdAt": "2025-10-21T09:17:00+09:00"
+ },
+ {
+  "id": "ans_00053",
+  "questionId": "qst_00075",
+  "authorId": null,
+  "isAi": true,
+  "body": "휴대폰 사용 규정은 현장 안내에 따르도록 되어 있어요. 정확한 내용은 담당자 답변을 기다려 주세요.",
+  "sourceGuideIds": [
+   "gde_00220",
+   "gde_00221",
+   "gde_00230"
+  ],
+  "createdAt": "2026-03-22T16:04:00+09:00"
+ },
+ {
+  "id": "ans_00054",
+  "questionId": "qst_00076",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 가이드에 따르면 신분증과 군복 일체가 필수예요. 보조배터리나 계절별 개인 용품도 함께 추천되고 있어요.",
+  "sourceGuideIds": [
+   "gde_00228",
+   "gde_00231",
+   "gde_00232",
+   "gde_00235"
+  ],
+  "createdAt": "2026-09-14T11:43:00+09:00"
+ },
+ {
+  "id": "ans_00055",
+  "questionId": "qst_00077",
+  "authorId": null,
+  "isAi": true,
+  "body": "점심은 훈련장에서 제공된다고 안내되어 있어요. 식품 알레르기가 있으면 입소할 때 담당자에게 알려 주세요.",
+  "sourceGuideIds": [
+   "gde_00222",
+   "gde_00225",
+   "gde_00234"
+  ],
+  "createdAt": "2026-04-22T18:32:00+09:00"
+ },
+ {
+  "id": "ans_00056",
+  "questionId": "qst_00078",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 주차 공간이 한정되어 있어 대중교통이나 카풀 이용을 권장하고 있어요.",
+  "sourceGuideIds": [
+   "gde_00224",
+   "gde_00226",
+   "gde_00227",
+   "gde_00233"
+  ],
+  "createdAt": "2025-11-12T08:51:00+09:00"
+ },
+ {
+  "id": "ans_00057",
+  "questionId": "qst_00079",
+  "authorId": null,
+  "isAi": true,
+  "body": "입소 확인은 정해진 시간까지 완료해야 하고, 지연이 예상되면 미리 훈련장에 연락하라고 안내되어 있어요.",
+  "sourceGuideIds": [
+   "gde_00220",
+   "gde_00221",
+   "gde_00230"
+  ],
+  "createdAt": "2026-09-02T16:39:00+09:00"
+ },
+ {
+  "id": "ans_00058",
+  "questionId": "qst_00081",
+  "authorId": null,
+  "isAi": true,
+  "body": "휴대폰 사용 규정은 현장 안내에 따르도록 되어 있어요. 정확한 내용은 담당자 답변을 기다려 주세요.",
+  "sourceGuideIds": [
+   "gde_00237",
+   "gde_00240"
+  ],
+  "createdAt": "2026-05-11T17:15:00+09:00"
+ },
+ {
+  "id": "ans_00059",
+  "questionId": "qst_00082",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 가이드에 따르면 신분증과 군복 일체가 필수예요. 보조배터리나 계절별 개인 용품도 함께 추천되고 있어요.",
+  "sourceGuideIds": [
+   "gde_00236",
+   "gde_00238",
+   "gde_00243",
+   "gde_00245",
+   "gde_00246",
+   "gde_00247"
+  ],
+  "createdAt": "2026-05-05T08:41:00+09:00"
+ },
+ {
+  "id": "ans_00060",
+  "questionId": "qst_00086",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 가이드에 따르면 신분증과 군복 일체가 필수예요. 보조배터리나 계절별 개인 용품도 함께 추천되고 있어요.",
+  "sourceGuideIds": [
+   "gde_00251",
+   "gde_00252",
+   "gde_00259",
+   "gde_00261",
+   "gde_00264"
+  ],
+  "createdAt": "2026-01-25T12:50:00+09:00"
+ },
+ {
+  "id": "ans_00061",
+  "questionId": "qst_00087",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 주차 공간이 한정되어 있어 대중교통이나 카풀 이용을 권장하고 있어요.",
+  "sourceGuideIds": [
+   "gde_00268",
+   "gde_00273",
+   "gde_00275"
+  ],
+  "createdAt": "2026-04-29T08:56:00+09:00"
+ },
+ {
+  "id": "ans_00062",
+  "questionId": "qst_00088",
+  "authorId": null,
+  "isAi": true,
+  "body": "휴대폰 사용 규정은 현장 안내에 따르도록 되어 있어요. 정확한 내용은 담당자 답변을 기다려 주세요.",
+  "sourceGuideIds": [
+   "gde_00267",
+   "gde_00274"
+  ],
+  "createdAt": "2026-05-21T17:47:00+09:00"
+ },
+ {
+  "id": "ans_00063",
+  "questionId": "qst_00089",
+  "authorId": null,
+  "isAi": true,
+  "body": "점심은 훈련장에서 제공된다고 안내되어 있어요. 식품 알레르기가 있으면 입소할 때 담당자에게 알려 주세요.",
+  "sourceGuideIds": [
+   "gde_00270",
+   "gde_00271",
+   "gde_00276"
+  ],
+  "createdAt": "2026-05-22T10:50:00+09:00"
+ },
+ {
+  "id": "ans_00064",
+  "questionId": "qst_00090",
+  "authorId": null,
+  "isAi": true,
+  "body": "가이드에 따르면 입소일과 퇴소일 셔틀 운행 여부는 사전 안내 문자로 확인하도록 되어 있어요. 이용자 꿀팁으로는 일찍 도착하는 것이 추천돼요.",
+  "sourceGuideIds": [
+   "gde_00268",
+   "gde_00273",
+   "gde_00275"
+  ],
+  "createdAt": "2025-10-15T17:36:00+09:00"
+ },
+ {
+  "id": "ans_00065",
+  "questionId": "qst_00092",
+  "authorId": null,
+  "isAi": true,
+  "body": "점심은 훈련장에서 제공된다고 안내되어 있어요. 식품 알레르기가 있으면 입소할 때 담당자에게 알려 주세요.",
+  "sourceGuideIds": [
+   "gde_00280",
+   "gde_00285"
+  ],
+  "createdAt": "2026-10-09T08:07:00+09:00"
+ },
+ {
+  "id": "ans_00066",
+  "questionId": "qst_00094",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 가이드에 따르면 신분증과 군복 일체가 필수예요. 보조배터리나 계절별 개인 용품도 함께 추천되고 있어요.",
+  "sourceGuideIds": [
+   "gde_00279",
+   "gde_00282",
+   "gde_00284",
+   "gde_00286",
+   "gde_00288",
+   "gde_00289",
+   "gde_00290"
+  ],
+  "createdAt": "2026-05-06T18:28:00+09:00"
+ },
+ {
+  "id": "ans_00067",
+  "questionId": "qst_00095",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 주차 공간이 한정되어 있어 대중교통이나 카풀 이용을 권장하고 있어요.",
+  "sourceGuideIds": [
+   "gde_00283",
+   "gde_00287",
+   "gde_00291",
+   "gde_00292"
+  ],
+  "createdAt": "2026-08-30T14:51:00+09:00"
+ },
+ {
+  "id": "ans_00068",
+  "questionId": "qst_00098",
+  "authorId": null,
+  "isAi": true,
+  "body": "점심은 훈련장에서 제공된다고 안내되어 있어요. 식품 알레르기가 있으면 입소할 때 담당자에게 알려 주세요.",
+  "sourceGuideIds": [
+   "gde_00298"
+  ],
+  "createdAt": "2026-04-27T17:58:00+09:00"
+ },
+ {
+  "id": "ans_00069",
+  "questionId": "qst_00099",
+  "authorId": null,
+  "isAi": true,
+  "body": "훈련장 가이드에 따르면 신분증과 군복 일체가 필수예요. 보조배터리나 계절별 개인 용품도 함께 추천되고 있어요.",
+  "sourceGuideIds": [
+   "gde_00293",
+   "gde_00294",
+   "gde_00297",
+   "gde_00303",
+   "gde_00305"
+  ],
+  "createdAt": "2026-05-31T11:35:00+09:00"
+ },
+ {
+  "id": "ans_00070",
+  "questionId": "qst_00103",
+  "authorId": null,
+  "isAi": true,
+  "body": "점심은 훈련장에서 제공된다고 안내되어 있어요. 식품 알레르기가 있으면 입소할 때 담당자에게 알려 주세요.",
+  "sourceGuideIds": [
+   "gde_00309"
+  ],
+  "createdAt": "2026-05-28T16:07:00+09:00"
+ },
+ {
+  "id": "ans_00071",
+  "questionId": "qst_00105",
+  "authorId": null,
+  "isAi": true,
+  "body": "가이드에 따르면 입소일과 퇴소일 셔틀 운행 여부는 사전 안내 문자로 확인하도록 되어 있어요. 이용자 꿀팁으로는 일찍 도착하는 것이 추천돼요.",
+  "sourceGuideIds": [
+   "gde_00323",
+   "gde_00324",
+   "gde_00328",
+   "gde_00330",
+   "gde_00334"
+  ],
+  "createdAt": "2026-05-02T15:43:00+09:00"
+ },
+ {
+  "id": "ans_00072",
+  "questionId": "qst_00107",
+  "authorId": null,
+  "isAi": true,
+  "body": "휴대폰 사용 규정은 현장 안내에 따르도록 되어 있어요. 정확한 내용은 담당자 답변을 기다려 주세요.",
+  "sourceGuideIds": [
+   "gde_00320",
+   "gde_00322",
+   "gde_00331"
+  ],
+  "createdAt": "2026-03-01T13:00:00+09:00"
+ },
+ {
+  "id": "ans_00073",
+  "questionId": "qst_00108",
+  "authorId": null,
+  "isAi": true,
+  "body": "입소 확인은 정해진 시간까지 완료해야 하고, 지연이 예상되면 미리 훈련장에 연락하라고 안내되어 있어요.",
+  "sourceGuideIds": [
+   "gde_00320",
+   "gde_00322",
+   "gde_00331"
+  ],
+  "createdAt": "2025-11-14T18:07:00+09:00"
+ },
+ {
+  "id": "ans_00074",
+  "questionId": "qst_00109",
+  "authorId": null,
+  "isAi": true,
+  "body": "점심은 훈련장에서 제공된다고 안내되어 있어요. 식품 알레르기가 있으면 입소할 때 담당자에게 알려 주세요.",
+  "sourceGuideIds": [
+   "gde_00332",
+   "gde_00335"
+  ],
+  "createdAt": "2026-05-12T17:57:00+09:00"
+ },
+ {
+  "id": "ans_00075",
+  "questionId": "qst_00111",
+  "authorId": null,
+  "isAi": true,
+  "body": "점심은 훈련장에서 제공된다고 안내되어 있어요. 식품 알레르기가 있으면 입소할 때 담당자에게 알려 주세요.",
+  "sourceGuideIds": [
+   "gde_00339"
+  ],
+  "createdAt": "2026-04-02T11:51:00+09:00"
+ },
+ {
+  "id": "ans_00076",
+  "questionId": "qst_00112",
+  "authorId": null,
+  "isAi": true,
+  "body": "가이드에 따르면 입소일과 퇴소일 셔틀 운행 여부는 사전 안내 문자로 확인하도록 되어 있어요. 이용자 꿀팁으로는 일찍 도착하는 것이 추천돼요.",
+  "sourceGuideIds": [
+   "gde_00337",
+   "gde_00342"
+  ],
+  "createdAt": "2026-03-31T11:40:00+09:00"
+ }
+]

@@ -1,0 +1,7752 @@
+[
+ {
+  "userId": "usr_0193",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-17T15:57:00+09:00"
+ },
+ {
+  "userId": "usr_0009",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-17T16:30:00+09:00"
+ },
+ {
+  "userId": "usr_0151",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-12T16:05:00+09:00"
+ },
+ {
+  "userId": "usr_0189",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-14T18:13:00+09:00"
+ },
+ {
+  "userId": "usr_0091",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-09T11:47:00+09:00"
+ },
+ {
+  "userId": "usr_0111",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-10T13:03:00+09:00"
+ },
+ {
+  "userId": "usr_0174",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-17T18:06:00+09:00"
+ },
+ {
+  "userId": "usr_0176",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-09T10:40:00+09:00"
+ },
+ {
+  "userId": "usr_0150",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-09T10:08:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-12T14:03:00+09:00"
+ },
+ {
+  "userId": "usr_0197",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-12T10:12:00+09:00"
+ },
+ {
+  "userId": "usr_0098",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-11T18:27:00+09:00"
+ },
+ {
+  "userId": "usr_0117",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-09T13:03:00+09:00"
+ },
+ {
+  "userId": "usr_0051",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-17T12:12:00+09:00"
+ },
+ {
+  "userId": "usr_0142",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-18T14:28:00+09:00"
+ },
+ {
+  "userId": "usr_0196",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-09T09:07:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-15T13:57:00+09:00"
+ },
+ {
+  "userId": "usr_0017",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-15T17:03:00+09:00"
+ },
+ {
+  "userId": "usr_0120",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-11T11:04:00+09:00"
+ },
+ {
+  "userId": "usr_0180",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-14T18:22:00+09:00"
+ },
+ {
+  "userId": "usr_0175",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-11T10:53:00+09:00"
+ },
+ {
+  "userId": "usr_0106",
+  "proposalId": "prp_00001",
+  "createdAt": "2026-09-19T16:18:00+09:00"
+ },
+ {
+  "userId": "usr_0194",
+  "proposalId": "prp_00002",
+  "createdAt": "2025-11-17T10:19:00+09:00"
+ },
+ {
+  "userId": "usr_0198",
+  "proposalId": "prp_00002",
+  "createdAt": "2025-11-16T18:30:00+09:00"
+ },
+ {
+  "userId": "usr_0025",
+  "proposalId": "prp_00003",
+  "createdAt": "2026-03-18T15:54:00+09:00"
+ },
+ {
+  "userId": "usr_0117",
+  "proposalId": "prp_00003",
+  "createdAt": "2026-03-18T15:23:00+09:00"
+ },
+ {
+  "userId": "usr_0108",
+  "proposalId": "prp_00003",
+  "createdAt": "2026-03-17T15:44:00+09:00"
+ },
+ {
+  "userId": "usr_0138",
+  "proposalId": "prp_00003",
+  "createdAt": "2026-03-18T17:25:00+09:00"
+ },
+ {
+  "userId": "usr_0192",
+  "proposalId": "prp_00003",
+  "createdAt": "2026-03-08T10:26:00+09:00"
+ },
+ {
+  "userId": "usr_0001",
+  "proposalId": "prp_00003",
+  "createdAt": "2026-03-11T08:36:00+09:00"
+ },
+ {
+  "userId": "usr_0189",
+  "proposalId": "prp_00003",
+  "createdAt": "2026-03-15T13:56:00+09:00"
+ },
+ {
+  "userId": "usr_0053",
+  "proposalId": "prp_00004",
+  "createdAt": "2025-11-29T19:55:00+09:00"
+ },
+ {
+  "userId": "usr_0068",
+  "proposalId": "prp_00004",
+  "createdAt": "2025-12-03T17:07:00+09:00"
+ },
+ {
+  "userId": "usr_0117",
+  "proposalId": "prp_00004",
+  "createdAt": "2025-11-30T09:43:00+09:00"
+ },
+ {
+  "userId": "usr_0100",
+  "proposalId": "prp_00004",
+  "createdAt": "2025-11-30T08:55:00+09:00"
+ },
+ {
+  "userId": "usr_0093",
+  "proposalId": "prp_00004",
+  "createdAt": "2025-12-06T14:30:00+09:00"
+ },
+ {
+  "userId": "usr_0113",
+  "proposalId": "prp_00004",
+  "createdAt": "2025-11-27T10:11:00+09:00"
+ },
+ {
+  "userId": "usr_0032",
+  "proposalId": "prp_00004",
+  "createdAt": "2025-12-03T08:44:00+09:00"
+ },
+ {
+  "userId": "usr_0191",
+  "proposalId": "prp_00004",
+  "createdAt": "2025-12-01T11:03:00+09:00"
+ },
+ {
+  "userId": "usr_0185",
+  "proposalId": "prp_00004",
+  "createdAt": "2025-12-02T19:47:00+09:00"
+ },
+ {
+  "userId": "usr_0044",
+  "proposalId": "prp_00004",
+  "createdAt": "2025-12-07T14:37:00+09:00"
+ },
+ {
+  "userId": "usr_0179",
+  "proposalId": "prp_00004",
+  "createdAt": "2025-12-03T13:49:00+09:00"
+ },
+ {
+  "userId": "usr_0075",
+  "proposalId": "prp_00004",
+  "createdAt": "2025-12-04T16:53:00+09:00"
+ },
+ {
+  "userId": "usr_0097",
+  "proposalId": "prp_00004",
+  "createdAt": "2025-12-02T12:22:00+09:00"
+ },
+ {
+  "userId": "usr_0019",
+  "proposalId": "prp_00004",
+  "createdAt": "2025-11-27T12:22:00+09:00"
+ },
+ {
+  "userId": "usr_0082",
+  "proposalId": "prp_00004",
+  "createdAt": "2025-12-04T12:15:00+09:00"
+ },
+ {
+  "userId": "usr_0034",
+  "proposalId": "prp_00005",
+  "createdAt": "2026-03-29T19:53:00+09:00"
+ },
+ {
+  "userId": "usr_0142",
+  "proposalId": "prp_00005",
+  "createdAt": "2026-03-26T12:30:00+09:00"
+ },
+ {
+  "userId": "usr_0006",
+  "proposalId": "prp_00005",
+  "createdAt": "2026-03-27T13:46:00+09:00"
+ },
+ {
+  "userId": "usr_0080",
+  "proposalId": "prp_00006",
+  "createdAt": "2026-04-30T08:42:00+09:00"
+ },
+ {
+  "userId": "usr_0040",
+  "proposalId": "prp_00006",
+  "createdAt": "2026-04-26T19:17:00+09:00"
+ },
+ {
+  "userId": "usr_0096",
+  "proposalId": "prp_00006",
+  "createdAt": "2026-04-30T18:35:00+09:00"
+ },
+ {
+  "userId": "usr_0048",
+  "proposalId": "prp_00006",
+  "createdAt": "2026-04-26T08:46:00+09:00"
+ },
+ {
+  "userId": "usr_0059",
+  "proposalId": "prp_00006",
+  "createdAt": "2026-04-26T09:16:00+09:00"
+ },
+ {
+  "userId": "usr_0195",
+  "proposalId": "prp_00006",
+  "createdAt": "2026-04-24T11:34:00+09:00"
+ },
+ {
+  "userId": "usr_0163",
+  "proposalId": "prp_00006",
+  "createdAt": "2026-04-25T13:03:00+09:00"
+ },
+ {
+  "userId": "usr_0180",
+  "proposalId": "prp_00006",
+  "createdAt": "2026-04-25T16:49:00+09:00"
+ },
+ {
+  "userId": "usr_0107",
+  "proposalId": "prp_00006",
+  "createdAt": "2026-04-21T10:37:00+09:00"
+ },
+ {
+  "userId": "usr_0094",
+  "proposalId": "prp_00006",
+  "createdAt": "2026-04-20T11:29:00+09:00"
+ },
+ {
+  "userId": "usr_0053",
+  "proposalId": "prp_00007",
+  "createdAt": "2025-10-27T19:46:00+09:00"
+ },
+ {
+  "userId": "usr_0198",
+  "proposalId": "prp_00007",
+  "createdAt": "2025-11-05T11:06:00+09:00"
+ },
+ {
+  "userId": "usr_0111",
+  "proposalId": "prp_00007",
+  "createdAt": "2025-10-31T17:36:00+09:00"
+ },
+ {
+  "userId": "usr_0146",
+  "proposalId": "prp_00007",
+  "createdAt": "2025-10-28T09:11:00+09:00"
+ },
+ {
+  "userId": "usr_0195",
+  "proposalId": "prp_00007",
+  "createdAt": "2025-10-31T17:31:00+09:00"
+ },
+ {
+  "userId": "usr_0009",
+  "proposalId": "prp_00008",
+  "createdAt": "2026-03-24T12:20:00+09:00"
+ },
+ {
+  "userId": "usr_0107",
+  "proposalId": "prp_00008",
+  "createdAt": "2026-03-26T09:22:00+09:00"
+ },
+ {
+  "userId": "usr_0168",
+  "proposalId": "prp_00008",
+  "createdAt": "2026-03-20T12:27:00+09:00"
+ },
+ {
+  "userId": "usr_0062",
+  "proposalId": "prp_00008",
+  "createdAt": "2026-03-27T18:15:00+09:00"
+ },
+ {
+  "userId": "usr_0088",
+  "proposalId": "prp_00008",
+  "createdAt": "2026-03-27T14:31:00+09:00"
+ },
+ {
+  "userId": "usr_0139",
+  "proposalId": "prp_00008",
+  "createdAt": "2026-03-25T18:48:00+09:00"
+ },
+ {
+  "userId": "usr_0174",
+  "proposalId": "prp_00008",
+  "createdAt": "2026-03-27T14:40:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00008",
+  "createdAt": "2026-03-24T10:03:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00008",
+  "createdAt": "2026-03-27T13:41:00+09:00"
+ },
+ {
+  "userId": "usr_0007",
+  "proposalId": "prp_00008",
+  "createdAt": "2026-03-27T14:45:00+09:00"
+ },
+ {
+  "userId": "usr_0095",
+  "proposalId": "prp_00008",
+  "createdAt": "2026-03-19T16:24:00+09:00"
+ },
+ {
+  "userId": "usr_0027",
+  "proposalId": "prp_00008",
+  "createdAt": "2026-03-28T09:39:00+09:00"
+ },
+ {
+  "userId": "usr_0178",
+  "proposalId": "prp_00008",
+  "createdAt": "2026-03-28T14:33:00+09:00"
+ },
+ {
+  "userId": "usr_0025",
+  "proposalId": "prp_00008",
+  "createdAt": "2026-03-21T08:06:00+09:00"
+ },
+ {
+  "userId": "usr_0100",
+  "proposalId": "prp_00009",
+  "createdAt": "2025-10-31T09:21:00+09:00"
+ },
+ {
+  "userId": "usr_0115",
+  "proposalId": "prp_00010",
+  "createdAt": "2026-10-07T11:30:00+09:00"
+ },
+ {
+  "userId": "usr_0185",
+  "proposalId": "prp_00010",
+  "createdAt": "2026-10-06T16:20:00+09:00"
+ },
+ {
+  "userId": "usr_0036",
+  "proposalId": "prp_00011",
+  "createdAt": "2026-05-16T18:48:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00011",
+  "createdAt": "2026-05-19T15:50:00+09:00"
+ },
+ {
+  "userId": "usr_0186",
+  "proposalId": "prp_00011",
+  "createdAt": "2026-05-21T08:57:00+09:00"
+ },
+ {
+  "userId": "usr_0136",
+  "proposalId": "prp_00011",
+  "createdAt": "2026-05-15T13:56:00+09:00"
+ },
+ {
+  "userId": "usr_0096",
+  "proposalId": "prp_00011",
+  "createdAt": "2026-05-16T16:05:00+09:00"
+ },
+ {
+  "userId": "usr_0148",
+  "proposalId": "prp_00011",
+  "createdAt": "2026-05-21T12:36:00+09:00"
+ },
+ {
+  "userId": "usr_0131",
+  "proposalId": "prp_00011",
+  "createdAt": "2026-05-20T18:22:00+09:00"
+ },
+ {
+  "userId": "usr_0016",
+  "proposalId": "prp_00011",
+  "createdAt": "2026-05-18T08:16:00+09:00"
+ },
+ {
+  "userId": "usr_0111",
+  "proposalId": "prp_00011",
+  "createdAt": "2026-05-16T09:44:00+09:00"
+ },
+ {
+  "userId": "usr_0143",
+  "proposalId": "prp_00011",
+  "createdAt": "2026-05-17T18:24:00+09:00"
+ },
+ {
+  "userId": "usr_0035",
+  "proposalId": "prp_00011",
+  "createdAt": "2026-05-21T19:08:00+09:00"
+ },
+ {
+  "userId": "usr_0182",
+  "proposalId": "prp_00011",
+  "createdAt": "2026-05-18T15:34:00+09:00"
+ },
+ {
+  "userId": "usr_0155",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-05-02T08:26:00+09:00"
+ },
+ {
+  "userId": "usr_0071",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-05-05T10:45:00+09:00"
+ },
+ {
+  "userId": "usr_0180",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-04-30T19:34:00+09:00"
+ },
+ {
+  "userId": "usr_0184",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-05-03T15:36:00+09:00"
+ },
+ {
+  "userId": "usr_0056",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-05-05T16:34:00+09:00"
+ },
+ {
+  "userId": "usr_0017",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-04-28T13:27:00+09:00"
+ },
+ {
+  "userId": "usr_0096",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-05-06T15:57:00+09:00"
+ },
+ {
+  "userId": "usr_0014",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-04-27T11:22:00+09:00"
+ },
+ {
+  "userId": "usr_0146",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-04-28T13:41:00+09:00"
+ },
+ {
+  "userId": "usr_0106",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-05-01T15:51:00+09:00"
+ },
+ {
+  "userId": "usr_0110",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-05-01T16:23:00+09:00"
+ },
+ {
+  "userId": "usr_0087",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-05-04T08:30:00+09:00"
+ },
+ {
+  "userId": "usr_0143",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-05-07T17:17:00+09:00"
+ },
+ {
+  "userId": "usr_0066",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-05-07T15:08:00+09:00"
+ },
+ {
+  "userId": "usr_0172",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-05-06T15:23:00+09:00"
+ },
+ {
+  "userId": "usr_0125",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-04-28T19:12:00+09:00"
+ },
+ {
+  "userId": "usr_0094",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-05-02T10:55:00+09:00"
+ },
+ {
+  "userId": "usr_0196",
+  "proposalId": "prp_00012",
+  "createdAt": "2026-05-03T11:31:00+09:00"
+ },
+ {
+  "userId": "usr_0083",
+  "proposalId": "prp_00013",
+  "createdAt": "2026-09-14T12:08:00+09:00"
+ },
+ {
+  "userId": "usr_0166",
+  "proposalId": "prp_00013",
+  "createdAt": "2026-09-17T11:18:00+09:00"
+ },
+ {
+  "userId": "usr_0112",
+  "proposalId": "prp_00013",
+  "createdAt": "2026-09-19T13:48:00+09:00"
+ },
+ {
+  "userId": "usr_0167",
+  "proposalId": "prp_00013",
+  "createdAt": "2026-09-19T10:49:00+09:00"
+ },
+ {
+  "userId": "usr_0108",
+  "proposalId": "prp_00013",
+  "createdAt": "2026-09-14T18:49:00+09:00"
+ },
+ {
+  "userId": "usr_0017",
+  "proposalId": "prp_00013",
+  "createdAt": "2026-09-16T11:26:00+09:00"
+ },
+ {
+  "userId": "usr_0024",
+  "proposalId": "prp_00013",
+  "createdAt": "2026-09-20T16:22:00+09:00"
+ },
+ {
+  "userId": "usr_0120",
+  "proposalId": "prp_00013",
+  "createdAt": "2026-09-17T16:58:00+09:00"
+ },
+ {
+  "userId": "usr_0200",
+  "proposalId": "prp_00013",
+  "createdAt": "2026-09-19T14:23:00+09:00"
+ },
+ {
+  "userId": "usr_0188",
+  "proposalId": "prp_00013",
+  "createdAt": "2026-09-14T09:40:00+09:00"
+ },
+ {
+  "userId": "usr_0141",
+  "proposalId": "prp_00014",
+  "createdAt": "2026-03-29T10:25:00+09:00"
+ },
+ {
+  "userId": "usr_0034",
+  "proposalId": "prp_00014",
+  "createdAt": "2026-03-30T13:48:00+09:00"
+ },
+ {
+  "userId": "usr_0015",
+  "proposalId": "prp_00014",
+  "createdAt": "2026-04-05T10:51:00+09:00"
+ },
+ {
+  "userId": "usr_0004",
+  "proposalId": "prp_00014",
+  "createdAt": "2026-04-07T17:08:00+09:00"
+ },
+ {
+  "userId": "usr_0086",
+  "proposalId": "prp_00014",
+  "createdAt": "2026-03-31T15:57:00+09:00"
+ },
+ {
+  "userId": "usr_0067",
+  "proposalId": "prp_00014",
+  "createdAt": "2026-04-01T15:24:00+09:00"
+ },
+ {
+  "userId": "usr_0092",
+  "proposalId": "prp_00014",
+  "createdAt": "2026-04-03T19:16:00+09:00"
+ },
+ {
+  "userId": "usr_0022",
+  "proposalId": "prp_00014",
+  "createdAt": "2026-03-28T19:57:00+09:00"
+ },
+ {
+  "userId": "usr_0136",
+  "proposalId": "prp_00014",
+  "createdAt": "2026-04-01T10:09:00+09:00"
+ },
+ {
+  "userId": "usr_0162",
+  "proposalId": "prp_00015",
+  "createdAt": "2026-08-23T13:55:00+09:00"
+ },
+ {
+  "userId": "usr_0021",
+  "proposalId": "prp_00015",
+  "createdAt": "2026-08-21T18:20:00+09:00"
+ },
+ {
+  "userId": "usr_0109",
+  "proposalId": "prp_00016",
+  "createdAt": "2025-11-17T19:22:00+09:00"
+ },
+ {
+  "userId": "usr_0101",
+  "proposalId": "prp_00018",
+  "createdAt": "2026-06-05T16:32:00+09:00"
+ },
+ {
+  "userId": "usr_0156",
+  "proposalId": "prp_00018",
+  "createdAt": "2026-06-14T14:32:00+09:00"
+ },
+ {
+  "userId": "usr_0028",
+  "proposalId": "prp_00018",
+  "createdAt": "2026-06-07T16:53:00+09:00"
+ },
+ {
+  "userId": "usr_0171",
+  "proposalId": "prp_00018",
+  "createdAt": "2026-06-09T08:20:00+09:00"
+ },
+ {
+  "userId": "usr_0169",
+  "proposalId": "prp_00018",
+  "createdAt": "2026-06-07T13:30:00+09:00"
+ },
+ {
+  "userId": "usr_0179",
+  "proposalId": "prp_00018",
+  "createdAt": "2026-06-08T16:21:00+09:00"
+ },
+ {
+  "userId": "usr_0142",
+  "proposalId": "prp_00018",
+  "createdAt": "2026-06-12T16:54:00+09:00"
+ },
+ {
+  "userId": "usr_0094",
+  "proposalId": "prp_00018",
+  "createdAt": "2026-06-11T17:08:00+09:00"
+ },
+ {
+  "userId": "usr_0146",
+  "proposalId": "prp_00018",
+  "createdAt": "2026-06-11T08:30:00+09:00"
+ },
+ {
+  "userId": "usr_0022",
+  "proposalId": "prp_00018",
+  "createdAt": "2026-06-13T08:35:00+09:00"
+ },
+ {
+  "userId": "usr_0186",
+  "proposalId": "prp_00019",
+  "createdAt": "2026-06-29T18:55:00+09:00"
+ },
+ {
+  "userId": "usr_0134",
+  "proposalId": "prp_00019",
+  "createdAt": "2026-06-27T10:26:00+09:00"
+ },
+ {
+  "userId": "usr_0131",
+  "proposalId": "prp_00019",
+  "createdAt": "2026-06-29T10:17:00+09:00"
+ },
+ {
+  "userId": "usr_0145",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-16T18:33:00+09:00"
+ },
+ {
+  "userId": "usr_0058",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-11T18:55:00+09:00"
+ },
+ {
+  "userId": "usr_0192",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-09T15:23:00+09:00"
+ },
+ {
+  "userId": "usr_0019",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-12T08:22:00+09:00"
+ },
+ {
+  "userId": "usr_0056",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-13T11:38:00+09:00"
+ },
+ {
+  "userId": "usr_0198",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-06T09:41:00+09:00"
+ },
+ {
+  "userId": "usr_0037",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-15T08:53:00+09:00"
+ },
+ {
+  "userId": "usr_0160",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-09T18:14:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-06T14:13:00+09:00"
+ },
+ {
+  "userId": "usr_0013",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-12T12:11:00+09:00"
+ },
+ {
+  "userId": "usr_0008",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-07T10:43:00+09:00"
+ },
+ {
+  "userId": "usr_0117",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-14T19:23:00+09:00"
+ },
+ {
+  "userId": "usr_0161",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-08T10:48:00+09:00"
+ },
+ {
+  "userId": "usr_0086",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-13T14:45:00+09:00"
+ },
+ {
+  "userId": "usr_0054",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-10T14:47:00+09:00"
+ },
+ {
+  "userId": "usr_0030",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-13T13:41:00+09:00"
+ },
+ {
+  "userId": "usr_0168",
+  "proposalId": "prp_00020",
+  "createdAt": "2026-06-11T11:28:00+09:00"
+ },
+ {
+  "userId": "usr_0137",
+  "proposalId": "prp_00021",
+  "createdAt": "2026-05-06T10:18:00+09:00"
+ },
+ {
+  "userId": "usr_0109",
+  "proposalId": "prp_00021",
+  "createdAt": "2026-05-03T16:29:00+09:00"
+ },
+ {
+  "userId": "usr_0172",
+  "proposalId": "prp_00021",
+  "createdAt": "2026-05-03T09:53:00+09:00"
+ },
+ {
+  "userId": "usr_0088",
+  "proposalId": "prp_00021",
+  "createdAt": "2026-05-06T18:18:00+09:00"
+ },
+ {
+  "userId": "usr_0166",
+  "proposalId": "prp_00021",
+  "createdAt": "2026-04-29T12:24:00+09:00"
+ },
+ {
+  "userId": "usr_0095",
+  "proposalId": "prp_00021",
+  "createdAt": "2026-05-05T13:42:00+09:00"
+ },
+ {
+  "userId": "usr_0048",
+  "proposalId": "prp_00021",
+  "createdAt": "2026-04-30T17:14:00+09:00"
+ },
+ {
+  "userId": "usr_0102",
+  "proposalId": "prp_00021",
+  "createdAt": "2026-04-30T13:04:00+09:00"
+ },
+ {
+  "userId": "usr_0160",
+  "proposalId": "prp_00021",
+  "createdAt": "2026-04-29T16:55:00+09:00"
+ },
+ {
+  "userId": "usr_0096",
+  "proposalId": "prp_00021",
+  "createdAt": "2026-05-07T13:10:00+09:00"
+ },
+ {
+  "userId": "usr_0149",
+  "proposalId": "prp_00021",
+  "createdAt": "2026-05-07T15:36:00+09:00"
+ },
+ {
+  "userId": "usr_0024",
+  "proposalId": "prp_00022",
+  "createdAt": "2026-06-02T17:57:00+09:00"
+ },
+ {
+  "userId": "usr_0187",
+  "proposalId": "prp_00023",
+  "createdAt": "2025-11-29T08:40:00+09:00"
+ },
+ {
+  "userId": "usr_0056",
+  "proposalId": "prp_00023",
+  "createdAt": "2025-12-05T12:59:00+09:00"
+ },
+ {
+  "userId": "usr_0023",
+  "proposalId": "prp_00023",
+  "createdAt": "2025-11-26T08:10:00+09:00"
+ },
+ {
+  "userId": "usr_0035",
+  "proposalId": "prp_00024",
+  "createdAt": "2025-11-09T19:46:00+09:00"
+ },
+ {
+  "userId": "usr_0071",
+  "proposalId": "prp_00024",
+  "createdAt": "2025-11-01T17:34:00+09:00"
+ },
+ {
+  "userId": "usr_0200",
+  "proposalId": "prp_00025",
+  "createdAt": "2026-04-24T12:45:00+09:00"
+ },
+ {
+  "userId": "usr_0169",
+  "proposalId": "prp_00025",
+  "createdAt": "2026-04-19T16:09:00+09:00"
+ },
+ {
+  "userId": "usr_0111",
+  "proposalId": "prp_00026",
+  "createdAt": "2026-07-29T14:43:00+09:00"
+ },
+ {
+  "userId": "usr_0090",
+  "proposalId": "prp_00026",
+  "createdAt": "2026-08-01T08:52:00+09:00"
+ },
+ {
+  "userId": "usr_0013",
+  "proposalId": "prp_00026",
+  "createdAt": "2026-07-28T10:03:00+09:00"
+ },
+ {
+  "userId": "usr_0153",
+  "proposalId": "prp_00026",
+  "createdAt": "2026-07-22T10:24:00+09:00"
+ },
+ {
+  "userId": "usr_0008",
+  "proposalId": "prp_00026",
+  "createdAt": "2026-07-29T08:22:00+09:00"
+ },
+ {
+  "userId": "usr_0192",
+  "proposalId": "prp_00027",
+  "createdAt": "2025-11-01T09:22:00+09:00"
+ },
+ {
+  "userId": "usr_0012",
+  "proposalId": "prp_00027",
+  "createdAt": "2025-11-05T15:23:00+09:00"
+ },
+ {
+  "userId": "usr_0049",
+  "proposalId": "prp_00029",
+  "createdAt": "2026-08-19T18:39:00+09:00"
+ },
+ {
+  "userId": "usr_0143",
+  "proposalId": "prp_00029",
+  "createdAt": "2026-08-15T19:40:00+09:00"
+ },
+ {
+  "userId": "usr_0052",
+  "proposalId": "prp_00029",
+  "createdAt": "2026-08-21T09:40:00+09:00"
+ },
+ {
+  "userId": "usr_0092",
+  "proposalId": "prp_00029",
+  "createdAt": "2026-08-18T11:38:00+09:00"
+ },
+ {
+  "userId": "usr_0110",
+  "proposalId": "prp_00029",
+  "createdAt": "2026-08-14T11:55:00+09:00"
+ },
+ {
+  "userId": "usr_0039",
+  "proposalId": "prp_00029",
+  "createdAt": "2026-08-21T18:23:00+09:00"
+ },
+ {
+  "userId": "usr_0005",
+  "proposalId": "prp_00029",
+  "createdAt": "2026-08-20T10:17:00+09:00"
+ },
+ {
+  "userId": "usr_0077",
+  "proposalId": "prp_00029",
+  "createdAt": "2026-08-14T19:18:00+09:00"
+ },
+ {
+  "userId": "usr_0185",
+  "proposalId": "prp_00032",
+  "createdAt": "2026-03-02T18:57:00+09:00"
+ },
+ {
+  "userId": "usr_0067",
+  "proposalId": "prp_00032",
+  "createdAt": "2026-02-25T15:38:00+09:00"
+ },
+ {
+  "userId": "usr_0112",
+  "proposalId": "prp_00032",
+  "createdAt": "2026-03-04T10:40:00+09:00"
+ },
+ {
+  "userId": "usr_0154",
+  "proposalId": "prp_00032",
+  "createdAt": "2026-03-04T15:27:00+09:00"
+ },
+ {
+  "userId": "usr_0195",
+  "proposalId": "prp_00032",
+  "createdAt": "2026-03-01T11:53:00+09:00"
+ },
+ {
+  "userId": "usr_0082",
+  "proposalId": "prp_00032",
+  "createdAt": "2026-03-06T17:09:00+09:00"
+ },
+ {
+  "userId": "usr_0068",
+  "proposalId": "prp_00032",
+  "createdAt": "2026-03-01T19:01:00+09:00"
+ },
+ {
+  "userId": "usr_0153",
+  "proposalId": "prp_00032",
+  "createdAt": "2026-03-05T19:19:00+09:00"
+ },
+ {
+  "userId": "usr_0106",
+  "proposalId": "prp_00032",
+  "createdAt": "2026-03-05T13:32:00+09:00"
+ },
+ {
+  "userId": "usr_0052",
+  "proposalId": "prp_00032",
+  "createdAt": "2026-03-02T08:19:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00033",
+  "createdAt": "2026-07-04T17:09:00+09:00"
+ },
+ {
+  "userId": "usr_0002",
+  "proposalId": "prp_00033",
+  "createdAt": "2026-07-05T08:23:00+09:00"
+ },
+ {
+  "userId": "usr_0186",
+  "proposalId": "prp_00033",
+  "createdAt": "2026-07-01T13:36:00+09:00"
+ },
+ {
+  "userId": "usr_0083",
+  "proposalId": "prp_00033",
+  "createdAt": "2026-07-07T08:01:00+09:00"
+ },
+ {
+  "userId": "usr_0009",
+  "proposalId": "prp_00033",
+  "createdAt": "2026-07-10T18:48:00+09:00"
+ },
+ {
+  "userId": "usr_0160",
+  "proposalId": "prp_00033",
+  "createdAt": "2026-07-06T16:54:00+09:00"
+ },
+ {
+  "userId": "usr_0152",
+  "proposalId": "prp_00033",
+  "createdAt": "2026-07-08T16:11:00+09:00"
+ },
+ {
+  "userId": "usr_0081",
+  "proposalId": "prp_00033",
+  "createdAt": "2026-07-11T15:02:00+09:00"
+ },
+ {
+  "userId": "usr_0196",
+  "proposalId": "prp_00033",
+  "createdAt": "2026-07-02T12:12:00+09:00"
+ },
+ {
+  "userId": "usr_0119",
+  "proposalId": "prp_00034",
+  "createdAt": "2026-05-28T16:16:00+09:00"
+ },
+ {
+  "userId": "usr_0040",
+  "proposalId": "prp_00034",
+  "createdAt": "2026-05-28T09:34:00+09:00"
+ },
+ {
+  "userId": "usr_0157",
+  "proposalId": "prp_00034",
+  "createdAt": "2026-05-22T14:07:00+09:00"
+ },
+ {
+  "userId": "usr_0172",
+  "proposalId": "prp_00034",
+  "createdAt": "2026-05-31T16:30:00+09:00"
+ },
+ {
+  "userId": "usr_0051",
+  "proposalId": "prp_00034",
+  "createdAt": "2026-05-26T18:26:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00035",
+  "createdAt": "2026-05-19T13:13:00+09:00"
+ },
+ {
+  "userId": "usr_0033",
+  "proposalId": "prp_00035",
+  "createdAt": "2026-05-11T10:39:00+09:00"
+ },
+ {
+  "userId": "usr_0008",
+  "proposalId": "prp_00035",
+  "createdAt": "2026-05-18T17:28:00+09:00"
+ },
+ {
+  "userId": "usr_0017",
+  "proposalId": "prp_00035",
+  "createdAt": "2026-05-12T11:21:00+09:00"
+ },
+ {
+  "userId": "usr_0057",
+  "proposalId": "prp_00035",
+  "createdAt": "2026-05-12T17:50:00+09:00"
+ },
+ {
+  "userId": "usr_0193",
+  "proposalId": "prp_00035",
+  "createdAt": "2026-05-13T14:57:00+09:00"
+ },
+ {
+  "userId": "usr_0055",
+  "proposalId": "prp_00035",
+  "createdAt": "2026-05-14T12:24:00+09:00"
+ },
+ {
+  "userId": "usr_0196",
+  "proposalId": "prp_00035",
+  "createdAt": "2026-05-18T13:16:00+09:00"
+ },
+ {
+  "userId": "usr_0137",
+  "proposalId": "prp_00035",
+  "createdAt": "2026-05-12T15:08:00+09:00"
+ },
+ {
+  "userId": "usr_0081",
+  "proposalId": "prp_00035",
+  "createdAt": "2026-05-13T18:02:00+09:00"
+ },
+ {
+  "userId": "usr_0141",
+  "proposalId": "prp_00035",
+  "createdAt": "2026-05-10T18:01:00+09:00"
+ },
+ {
+  "userId": "usr_0099",
+  "proposalId": "prp_00035",
+  "createdAt": "2026-05-12T12:44:00+09:00"
+ },
+ {
+  "userId": "usr_0100",
+  "proposalId": "prp_00036",
+  "createdAt": "2026-01-21T18:08:00+09:00"
+ },
+ {
+  "userId": "usr_0196",
+  "proposalId": "prp_00036",
+  "createdAt": "2026-01-19T08:46:00+09:00"
+ },
+ {
+  "userId": "usr_0050",
+  "proposalId": "prp_00036",
+  "createdAt": "2026-01-16T11:58:00+09:00"
+ },
+ {
+  "userId": "usr_0053",
+  "proposalId": "prp_00036",
+  "createdAt": "2026-01-23T15:54:00+09:00"
+ },
+ {
+  "userId": "usr_0059",
+  "proposalId": "prp_00037",
+  "createdAt": "2026-05-26T16:42:00+09:00"
+ },
+ {
+  "userId": "usr_0053",
+  "proposalId": "prp_00037",
+  "createdAt": "2026-05-26T16:17:00+09:00"
+ },
+ {
+  "userId": "usr_0120",
+  "proposalId": "prp_00037",
+  "createdAt": "2026-05-23T13:32:00+09:00"
+ },
+ {
+  "userId": "usr_0111",
+  "proposalId": "prp_00037",
+  "createdAt": "2026-05-24T08:44:00+09:00"
+ },
+ {
+  "userId": "usr_0115",
+  "proposalId": "prp_00037",
+  "createdAt": "2026-05-20T12:54:00+09:00"
+ },
+ {
+  "userId": "usr_0147",
+  "proposalId": "prp_00037",
+  "createdAt": "2026-05-18T17:27:00+09:00"
+ },
+ {
+  "userId": "usr_0037",
+  "proposalId": "prp_00038",
+  "createdAt": "2026-07-10T18:32:00+09:00"
+ },
+ {
+  "userId": "usr_0076",
+  "proposalId": "prp_00038",
+  "createdAt": "2026-07-09T18:48:00+09:00"
+ },
+ {
+  "userId": "usr_0054",
+  "proposalId": "prp_00038",
+  "createdAt": "2026-07-17T19:07:00+09:00"
+ },
+ {
+  "userId": "usr_0024",
+  "proposalId": "prp_00039",
+  "createdAt": "2026-09-28T15:22:00+09:00"
+ },
+ {
+  "userId": "usr_0068",
+  "proposalId": "prp_00039",
+  "createdAt": "2026-09-30T10:10:00+09:00"
+ },
+ {
+  "userId": "usr_0184",
+  "proposalId": "prp_00040",
+  "createdAt": "2026-05-21T14:57:00+09:00"
+ },
+ {
+  "userId": "usr_0123",
+  "proposalId": "prp_00040",
+  "createdAt": "2026-05-23T12:04:00+09:00"
+ },
+ {
+  "userId": "usr_0009",
+  "proposalId": "prp_00040",
+  "createdAt": "2026-05-27T19:56:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00041",
+  "createdAt": "2026-09-25T09:22:00+09:00"
+ },
+ {
+  "userId": "usr_0081",
+  "proposalId": "prp_00041",
+  "createdAt": "2026-09-25T14:09:00+09:00"
+ },
+ {
+  "userId": "usr_0045",
+  "proposalId": "prp_00041",
+  "createdAt": "2026-09-25T15:16:00+09:00"
+ },
+ {
+  "userId": "usr_0052",
+  "proposalId": "prp_00041",
+  "createdAt": "2026-09-29T14:30:00+09:00"
+ },
+ {
+  "userId": "usr_0147",
+  "proposalId": "prp_00041",
+  "createdAt": "2026-10-04T13:13:00+09:00"
+ },
+ {
+  "userId": "usr_0083",
+  "proposalId": "prp_00041",
+  "createdAt": "2026-10-05T13:47:00+09:00"
+ },
+ {
+  "userId": "usr_0035",
+  "proposalId": "prp_00043",
+  "createdAt": "2025-11-04T11:46:00+09:00"
+ },
+ {
+  "userId": "usr_0119",
+  "proposalId": "prp_00043",
+  "createdAt": "2025-11-04T19:20:00+09:00"
+ },
+ {
+  "userId": "usr_0047",
+  "proposalId": "prp_00043",
+  "createdAt": "2025-10-30T18:54:00+09:00"
+ },
+ {
+  "userId": "usr_0084",
+  "proposalId": "prp_00043",
+  "createdAt": "2025-10-27T11:39:00+09:00"
+ },
+ {
+  "userId": "usr_0154",
+  "proposalId": "prp_00043",
+  "createdAt": "2025-11-04T08:27:00+09:00"
+ },
+ {
+  "userId": "usr_0081",
+  "proposalId": "prp_00043",
+  "createdAt": "2025-10-31T11:09:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00043",
+  "createdAt": "2025-11-02T10:42:00+09:00"
+ },
+ {
+  "userId": "usr_0163",
+  "proposalId": "prp_00045",
+  "createdAt": "2026-04-12T16:51:00+09:00"
+ },
+ {
+  "userId": "usr_0052",
+  "proposalId": "prp_00045",
+  "createdAt": "2026-04-06T19:12:00+09:00"
+ },
+ {
+  "userId": "usr_0124",
+  "proposalId": "prp_00045",
+  "createdAt": "2026-04-13T16:30:00+09:00"
+ },
+ {
+  "userId": "usr_0033",
+  "proposalId": "prp_00045",
+  "createdAt": "2026-04-05T14:57:00+09:00"
+ },
+ {
+  "userId": "usr_0186",
+  "proposalId": "prp_00045",
+  "createdAt": "2026-04-10T09:00:00+09:00"
+ },
+ {
+  "userId": "usr_0041",
+  "proposalId": "prp_00045",
+  "createdAt": "2026-04-12T13:49:00+09:00"
+ },
+ {
+  "userId": "usr_0084",
+  "proposalId": "prp_00045",
+  "createdAt": "2026-04-11T12:49:00+09:00"
+ },
+ {
+  "userId": "usr_0088",
+  "proposalId": "prp_00045",
+  "createdAt": "2026-04-03T10:54:00+09:00"
+ },
+ {
+  "userId": "usr_0002",
+  "proposalId": "prp_00046",
+  "createdAt": "2026-05-22T15:25:00+09:00"
+ },
+ {
+  "userId": "usr_0165",
+  "proposalId": "prp_00046",
+  "createdAt": "2026-05-19T11:19:00+09:00"
+ },
+ {
+  "userId": "usr_0044",
+  "proposalId": "prp_00046",
+  "createdAt": "2026-05-15T18:09:00+09:00"
+ },
+ {
+  "userId": "usr_0107",
+  "proposalId": "prp_00047",
+  "createdAt": "2026-06-09T13:20:00+09:00"
+ },
+ {
+  "userId": "usr_0007",
+  "proposalId": "prp_00047",
+  "createdAt": "2026-06-07T16:52:00+09:00"
+ },
+ {
+  "userId": "usr_0149",
+  "proposalId": "prp_00047",
+  "createdAt": "2026-06-04T09:37:00+09:00"
+ },
+ {
+  "userId": "usr_0164",
+  "proposalId": "prp_00047",
+  "createdAt": "2026-06-04T09:51:00+09:00"
+ },
+ {
+  "userId": "usr_0139",
+  "proposalId": "prp_00047",
+  "createdAt": "2026-05-31T11:31:00+09:00"
+ },
+ {
+  "userId": "usr_0197",
+  "proposalId": "prp_00047",
+  "createdAt": "2026-06-04T11:54:00+09:00"
+ },
+ {
+  "userId": "usr_0062",
+  "proposalId": "prp_00050",
+  "createdAt": "2026-08-06T12:43:00+09:00"
+ },
+ {
+  "userId": "usr_0161",
+  "proposalId": "prp_00050",
+  "createdAt": "2026-08-04T13:52:00+09:00"
+ },
+ {
+  "userId": "usr_0148",
+  "proposalId": "prp_00050",
+  "createdAt": "2026-07-27T16:39:00+09:00"
+ },
+ {
+  "userId": "usr_0076",
+  "proposalId": "prp_00051",
+  "createdAt": "2026-07-14T14:28:00+09:00"
+ },
+ {
+  "userId": "usr_0040",
+  "proposalId": "prp_00051",
+  "createdAt": "2026-07-09T13:36:00+09:00"
+ },
+ {
+  "userId": "usr_0177",
+  "proposalId": "prp_00052",
+  "createdAt": "2026-09-04T11:29:00+09:00"
+ },
+ {
+  "userId": "usr_0042",
+  "proposalId": "prp_00053",
+  "createdAt": "2026-05-07T08:13:00+09:00"
+ },
+ {
+  "userId": "usr_0060",
+  "proposalId": "prp_00054",
+  "createdAt": "2026-05-28T14:54:00+09:00"
+ },
+ {
+  "userId": "usr_0141",
+  "proposalId": "prp_00054",
+  "createdAt": "2026-05-27T19:04:00+09:00"
+ },
+ {
+  "userId": "usr_0108",
+  "proposalId": "prp_00054",
+  "createdAt": "2026-05-29T08:16:00+09:00"
+ },
+ {
+  "userId": "usr_0175",
+  "proposalId": "prp_00054",
+  "createdAt": "2026-06-04T16:16:00+09:00"
+ },
+ {
+  "userId": "usr_0119",
+  "proposalId": "prp_00054",
+  "createdAt": "2026-06-04T09:32:00+09:00"
+ },
+ {
+  "userId": "usr_0018",
+  "proposalId": "prp_00054",
+  "createdAt": "2026-05-31T18:37:00+09:00"
+ },
+ {
+  "userId": "usr_0105",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-24T13:39:00+09:00"
+ },
+ {
+  "userId": "usr_0094",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-26T11:51:00+09:00"
+ },
+ {
+  "userId": "usr_0153",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-23T11:20:00+09:00"
+ },
+ {
+  "userId": "usr_0139",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-27T19:02:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-26T09:33:00+09:00"
+ },
+ {
+  "userId": "usr_0063",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-21T19:04:00+09:00"
+ },
+ {
+  "userId": "usr_0181",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-20T15:39:00+09:00"
+ },
+ {
+  "userId": "usr_0117",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-26T10:19:00+09:00"
+ },
+ {
+  "userId": "usr_0151",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-22T13:38:00+09:00"
+ },
+ {
+  "userId": "usr_0104",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-20T08:00:00+09:00"
+ },
+ {
+  "userId": "usr_0069",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-22T18:22:00+09:00"
+ },
+ {
+  "userId": "usr_0115",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-25T18:48:00+09:00"
+ },
+ {
+  "userId": "usr_0033",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-23T16:18:00+09:00"
+ },
+ {
+  "userId": "usr_0189",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-17T14:01:00+09:00"
+ },
+ {
+  "userId": "usr_0091",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-25T11:55:00+09:00"
+ },
+ {
+  "userId": "usr_0029",
+  "proposalId": "prp_00055",
+  "createdAt": "2026-03-23T15:44:00+09:00"
+ },
+ {
+  "userId": "usr_0011",
+  "proposalId": "prp_00056",
+  "createdAt": "2026-04-06T18:35:00+09:00"
+ },
+ {
+  "userId": "usr_0129",
+  "proposalId": "prp_00056",
+  "createdAt": "2026-04-11T17:09:00+09:00"
+ },
+ {
+  "userId": "usr_0012",
+  "proposalId": "prp_00056",
+  "createdAt": "2026-04-10T08:03:00+09:00"
+ },
+ {
+  "userId": "usr_0013",
+  "proposalId": "prp_00056",
+  "createdAt": "2026-04-15T10:46:00+09:00"
+ },
+ {
+  "userId": "usr_0077",
+  "proposalId": "prp_00057",
+  "createdAt": "2026-04-26T19:53:00+09:00"
+ },
+ {
+  "userId": "usr_0093",
+  "proposalId": "prp_00058",
+  "createdAt": "2026-01-23T16:38:00+09:00"
+ },
+ {
+  "userId": "usr_0002",
+  "proposalId": "prp_00059",
+  "createdAt": "2026-04-17T11:35:00+09:00"
+ },
+ {
+  "userId": "usr_0066",
+  "proposalId": "prp_00060",
+  "createdAt": "2026-01-26T15:04:00+09:00"
+ },
+ {
+  "userId": "usr_0117",
+  "proposalId": "prp_00060",
+  "createdAt": "2026-01-26T09:41:00+09:00"
+ },
+ {
+  "userId": "usr_0093",
+  "proposalId": "prp_00060",
+  "createdAt": "2026-01-25T11:37:00+09:00"
+ },
+ {
+  "userId": "usr_0125",
+  "proposalId": "prp_00060",
+  "createdAt": "2026-01-23T16:42:00+09:00"
+ },
+ {
+  "userId": "usr_0054",
+  "proposalId": "prp_00060",
+  "createdAt": "2026-01-24T10:55:00+09:00"
+ },
+ {
+  "userId": "usr_0147",
+  "proposalId": "prp_00060",
+  "createdAt": "2026-01-24T18:54:00+09:00"
+ },
+ {
+  "userId": "usr_0052",
+  "proposalId": "prp_00060",
+  "createdAt": "2026-01-26T16:05:00+09:00"
+ },
+ {
+  "userId": "usr_0150",
+  "proposalId": "prp_00060",
+  "createdAt": "2026-01-25T12:25:00+09:00"
+ },
+ {
+  "userId": "usr_0006",
+  "proposalId": "prp_00060",
+  "createdAt": "2026-01-20T09:00:00+09:00"
+ },
+ {
+  "userId": "usr_0059",
+  "proposalId": "prp_00060",
+  "createdAt": "2026-01-24T17:37:00+09:00"
+ },
+ {
+  "userId": "usr_0012",
+  "proposalId": "prp_00060",
+  "createdAt": "2026-01-27T09:04:00+09:00"
+ },
+ {
+  "userId": "usr_0046",
+  "proposalId": "prp_00061",
+  "createdAt": "2026-01-22T14:09:00+09:00"
+ },
+ {
+  "userId": "usr_0136",
+  "proposalId": "prp_00061",
+  "createdAt": "2026-01-28T09:40:00+09:00"
+ },
+ {
+  "userId": "usr_0151",
+  "proposalId": "prp_00062",
+  "createdAt": "2026-10-04T16:31:00+09:00"
+ },
+ {
+  "userId": "usr_0113",
+  "proposalId": "prp_00062",
+  "createdAt": "2026-10-02T17:47:00+09:00"
+ },
+ {
+  "userId": "usr_0022",
+  "proposalId": "prp_00062",
+  "createdAt": "2026-09-30T09:42:00+09:00"
+ },
+ {
+  "userId": "usr_0049",
+  "proposalId": "prp_00062",
+  "createdAt": "2026-09-30T11:30:00+09:00"
+ },
+ {
+  "userId": "usr_0002",
+  "proposalId": "prp_00063",
+  "createdAt": "2026-08-19T19:55:00+09:00"
+ },
+ {
+  "userId": "usr_0083",
+  "proposalId": "prp_00063",
+  "createdAt": "2026-08-13T18:04:00+09:00"
+ },
+ {
+  "userId": "usr_0132",
+  "proposalId": "prp_00063",
+  "createdAt": "2026-08-16T08:28:00+09:00"
+ },
+ {
+  "userId": "usr_0023",
+  "proposalId": "prp_00063",
+  "createdAt": "2026-08-15T11:32:00+09:00"
+ },
+ {
+  "userId": "usr_0096",
+  "proposalId": "prp_00063",
+  "createdAt": "2026-08-14T11:09:00+09:00"
+ },
+ {
+  "userId": "usr_0005",
+  "proposalId": "prp_00063",
+  "createdAt": "2026-08-14T17:40:00+09:00"
+ },
+ {
+  "userId": "usr_0192",
+  "proposalId": "prp_00064",
+  "createdAt": "2026-05-10T15:41:00+09:00"
+ },
+ {
+  "userId": "usr_0021",
+  "proposalId": "prp_00064",
+  "createdAt": "2026-05-13T11:03:00+09:00"
+ },
+ {
+  "userId": "usr_0110",
+  "proposalId": "prp_00064",
+  "createdAt": "2026-05-12T16:48:00+09:00"
+ },
+ {
+  "userId": "usr_0102",
+  "proposalId": "prp_00064",
+  "createdAt": "2026-05-17T09:12:00+09:00"
+ },
+ {
+  "userId": "usr_0166",
+  "proposalId": "prp_00065",
+  "createdAt": "2025-10-25T17:39:00+09:00"
+ },
+ {
+  "userId": "usr_0176",
+  "proposalId": "prp_00066",
+  "createdAt": "2025-10-30T11:38:00+09:00"
+ },
+ {
+  "userId": "usr_0192",
+  "proposalId": "prp_00067",
+  "createdAt": "2026-03-22T15:25:00+09:00"
+ },
+ {
+  "userId": "usr_0168",
+  "proposalId": "prp_00068",
+  "createdAt": "2026-09-18T18:41:00+09:00"
+ },
+ {
+  "userId": "usr_0159",
+  "proposalId": "prp_00068",
+  "createdAt": "2026-09-20T11:19:00+09:00"
+ },
+ {
+  "userId": "usr_0062",
+  "proposalId": "prp_00069",
+  "createdAt": "2026-05-08T10:29:00+09:00"
+ },
+ {
+  "userId": "usr_0162",
+  "proposalId": "prp_00069",
+  "createdAt": "2026-05-10T13:06:00+09:00"
+ },
+ {
+  "userId": "usr_0177",
+  "proposalId": "prp_00069",
+  "createdAt": "2026-05-11T18:17:00+09:00"
+ },
+ {
+  "userId": "usr_0187",
+  "proposalId": "prp_00069",
+  "createdAt": "2026-05-01T18:51:00+09:00"
+ },
+ {
+  "userId": "usr_0024",
+  "proposalId": "prp_00070",
+  "createdAt": "2026-03-09T15:56:00+09:00"
+ },
+ {
+  "userId": "usr_0080",
+  "proposalId": "prp_00070",
+  "createdAt": "2026-03-12T11:04:00+09:00"
+ },
+ {
+  "userId": "usr_0145",
+  "proposalId": "prp_00070",
+  "createdAt": "2026-03-06T17:25:00+09:00"
+ },
+ {
+  "userId": "usr_0059",
+  "proposalId": "prp_00070",
+  "createdAt": "2026-03-08T14:24:00+09:00"
+ },
+ {
+  "userId": "usr_0078",
+  "proposalId": "prp_00070",
+  "createdAt": "2026-03-15T12:40:00+09:00"
+ },
+ {
+  "userId": "usr_0129",
+  "proposalId": "prp_00070",
+  "createdAt": "2026-03-05T19:55:00+09:00"
+ },
+ {
+  "userId": "usr_0024",
+  "proposalId": "prp_00071",
+  "createdAt": "2026-06-01T17:46:00+09:00"
+ },
+ {
+  "userId": "usr_0174",
+  "proposalId": "prp_00071",
+  "createdAt": "2026-05-30T12:25:00+09:00"
+ },
+ {
+  "userId": "usr_0021",
+  "proposalId": "prp_00071",
+  "createdAt": "2026-05-31T11:26:00+09:00"
+ },
+ {
+  "userId": "usr_0004",
+  "proposalId": "prp_00071",
+  "createdAt": "2026-05-29T18:48:00+09:00"
+ },
+ {
+  "userId": "usr_0007",
+  "proposalId": "prp_00071",
+  "createdAt": "2026-05-26T13:32:00+09:00"
+ },
+ {
+  "userId": "usr_0191",
+  "proposalId": "prp_00071",
+  "createdAt": "2026-06-01T16:24:00+09:00"
+ },
+ {
+  "userId": "usr_0081",
+  "proposalId": "prp_00071",
+  "createdAt": "2026-05-30T10:12:00+09:00"
+ },
+ {
+  "userId": "usr_0195",
+  "proposalId": "prp_00071",
+  "createdAt": "2026-05-28T10:16:00+09:00"
+ },
+ {
+  "userId": "usr_0147",
+  "proposalId": "prp_00072",
+  "createdAt": "2026-10-11T14:36:00+09:00"
+ },
+ {
+  "userId": "usr_0167",
+  "proposalId": "prp_00072",
+  "createdAt": "2026-10-07T10:05:00+09:00"
+ },
+ {
+  "userId": "usr_0197",
+  "proposalId": "prp_00072",
+  "createdAt": "2026-10-06T11:44:00+09:00"
+ },
+ {
+  "userId": "usr_0199",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-24T08:49:00+09:00"
+ },
+ {
+  "userId": "usr_0148",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-22T14:17:00+09:00"
+ },
+ {
+  "userId": "usr_0179",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-22T10:33:00+09:00"
+ },
+ {
+  "userId": "usr_0103",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-20T10:00:00+09:00"
+ },
+ {
+  "userId": "usr_0035",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-26T09:38:00+09:00"
+ },
+ {
+  "userId": "usr_0183",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-17T10:46:00+09:00"
+ },
+ {
+  "userId": "usr_0022",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-17T18:33:00+09:00"
+ },
+ {
+  "userId": "usr_0085",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-26T09:31:00+09:00"
+ },
+ {
+  "userId": "usr_0031",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-24T12:18:00+09:00"
+ },
+ {
+  "userId": "usr_0127",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-17T14:56:00+09:00"
+ },
+ {
+  "userId": "usr_0077",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-24T13:59:00+09:00"
+ },
+ {
+  "userId": "usr_0172",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-22T10:34:00+09:00"
+ },
+ {
+  "userId": "usr_0046",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-18T15:26:00+09:00"
+ },
+ {
+  "userId": "usr_0102",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-23T13:50:00+09:00"
+ },
+ {
+  "userId": "usr_0132",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-25T17:52:00+09:00"
+ },
+ {
+  "userId": "usr_0110",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-22T08:30:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-21T16:30:00+09:00"
+ },
+ {
+  "userId": "usr_0108",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-26T09:17:00+09:00"
+ },
+ {
+  "userId": "usr_0101",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-22T11:40:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-17T19:49:00+09:00"
+ },
+ {
+  "userId": "usr_0088",
+  "proposalId": "prp_00073",
+  "createdAt": "2026-04-17T08:17:00+09:00"
+ },
+ {
+  "userId": "usr_0015",
+  "proposalId": "prp_00074",
+  "createdAt": "2026-04-18T16:55:00+09:00"
+ },
+ {
+  "userId": "usr_0121",
+  "proposalId": "prp_00075",
+  "createdAt": "2026-03-30T16:20:00+09:00"
+ },
+ {
+  "userId": "usr_0156",
+  "proposalId": "prp_00075",
+  "createdAt": "2026-03-31T10:04:00+09:00"
+ },
+ {
+  "userId": "usr_0133",
+  "proposalId": "prp_00075",
+  "createdAt": "2026-03-25T13:42:00+09:00"
+ },
+ {
+  "userId": "usr_0181",
+  "proposalId": "prp_00075",
+  "createdAt": "2026-04-02T08:46:00+09:00"
+ },
+ {
+  "userId": "usr_0166",
+  "proposalId": "prp_00075",
+  "createdAt": "2026-03-27T09:09:00+09:00"
+ },
+ {
+  "userId": "usr_0079",
+  "proposalId": "prp_00075",
+  "createdAt": "2026-03-23T09:56:00+09:00"
+ },
+ {
+  "userId": "usr_0097",
+  "proposalId": "prp_00075",
+  "createdAt": "2026-04-02T18:26:00+09:00"
+ },
+ {
+  "userId": "usr_0070",
+  "proposalId": "prp_00075",
+  "createdAt": "2026-03-25T13:41:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00076",
+  "createdAt": "2025-12-07T15:50:00+09:00"
+ },
+ {
+  "userId": "usr_0037",
+  "proposalId": "prp_00076",
+  "createdAt": "2025-12-11T14:29:00+09:00"
+ },
+ {
+  "userId": "usr_0188",
+  "proposalId": "prp_00076",
+  "createdAt": "2025-12-04T16:59:00+09:00"
+ },
+ {
+  "userId": "usr_0099",
+  "proposalId": "prp_00076",
+  "createdAt": "2025-12-06T14:25:00+09:00"
+ },
+ {
+  "userId": "usr_0109",
+  "proposalId": "prp_00076",
+  "createdAt": "2025-12-05T12:57:00+09:00"
+ },
+ {
+  "userId": "usr_0112",
+  "proposalId": "prp_00076",
+  "createdAt": "2025-12-04T11:06:00+09:00"
+ },
+ {
+  "userId": "usr_0006",
+  "proposalId": "prp_00077",
+  "createdAt": "2026-04-29T10:20:00+09:00"
+ },
+ {
+  "userId": "usr_0001",
+  "proposalId": "prp_00077",
+  "createdAt": "2026-04-26T18:05:00+09:00"
+ },
+ {
+  "userId": "usr_0044",
+  "proposalId": "prp_00077",
+  "createdAt": "2026-04-22T10:46:00+09:00"
+ },
+ {
+  "userId": "usr_0146",
+  "proposalId": "prp_00078",
+  "createdAt": "2026-04-17T13:47:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00078",
+  "createdAt": "2026-04-15T18:46:00+09:00"
+ },
+ {
+  "userId": "usr_0060",
+  "proposalId": "prp_00078",
+  "createdAt": "2026-04-18T12:03:00+09:00"
+ },
+ {
+  "userId": "usr_0184",
+  "proposalId": "prp_00078",
+  "createdAt": "2026-04-19T17:27:00+09:00"
+ },
+ {
+  "userId": "usr_0073",
+  "proposalId": "prp_00078",
+  "createdAt": "2026-04-17T14:21:00+09:00"
+ },
+ {
+  "userId": "usr_0188",
+  "proposalId": "prp_00079",
+  "createdAt": "2026-09-14T14:22:00+09:00"
+ },
+ {
+  "userId": "usr_0193",
+  "proposalId": "prp_00079",
+  "createdAt": "2026-09-15T13:18:00+09:00"
+ },
+ {
+  "userId": "usr_0189",
+  "proposalId": "prp_00079",
+  "createdAt": "2026-09-14T13:17:00+09:00"
+ },
+ {
+  "userId": "usr_0031",
+  "proposalId": "prp_00080",
+  "createdAt": "2026-10-06T16:55:00+09:00"
+ },
+ {
+  "userId": "usr_0094",
+  "proposalId": "prp_00080",
+  "createdAt": "2026-10-05T09:06:00+09:00"
+ },
+ {
+  "userId": "usr_0091",
+  "proposalId": "prp_00080",
+  "createdAt": "2026-10-11T11:41:00+09:00"
+ },
+ {
+  "userId": "usr_0189",
+  "proposalId": "prp_00080",
+  "createdAt": "2026-10-07T14:28:00+09:00"
+ },
+ {
+  "userId": "usr_0195",
+  "proposalId": "prp_00080",
+  "createdAt": "2026-10-11T16:42:00+09:00"
+ },
+ {
+  "userId": "usr_0075",
+  "proposalId": "prp_00080",
+  "createdAt": "2026-10-11T11:22:00+09:00"
+ },
+ {
+  "userId": "usr_0082",
+  "proposalId": "prp_00080",
+  "createdAt": "2026-10-11T11:46:00+09:00"
+ },
+ {
+  "userId": "usr_0043",
+  "proposalId": "prp_00081",
+  "createdAt": "2026-06-03T16:41:00+09:00"
+ },
+ {
+  "userId": "usr_0016",
+  "proposalId": "prp_00082",
+  "createdAt": "2025-11-26T12:20:00+09:00"
+ },
+ {
+  "userId": "usr_0199",
+  "proposalId": "prp_00082",
+  "createdAt": "2025-11-29T17:54:00+09:00"
+ },
+ {
+  "userId": "usr_0089",
+  "proposalId": "prp_00082",
+  "createdAt": "2025-11-30T19:17:00+09:00"
+ },
+ {
+  "userId": "usr_0180",
+  "proposalId": "prp_00083",
+  "createdAt": "2026-01-23T17:51:00+09:00"
+ },
+ {
+  "userId": "usr_0152",
+  "proposalId": "prp_00083",
+  "createdAt": "2026-01-19T13:23:00+09:00"
+ },
+ {
+  "userId": "usr_0198",
+  "proposalId": "prp_00083",
+  "createdAt": "2026-01-25T13:08:00+09:00"
+ },
+ {
+  "userId": "usr_0157",
+  "proposalId": "prp_00083",
+  "createdAt": "2026-01-25T14:07:00+09:00"
+ },
+ {
+  "userId": "usr_0178",
+  "proposalId": "prp_00083",
+  "createdAt": "2026-01-25T08:42:00+09:00"
+ },
+ {
+  "userId": "usr_0163",
+  "proposalId": "prp_00083",
+  "createdAt": "2026-01-27T17:14:00+09:00"
+ },
+ {
+  "userId": "usr_0171",
+  "proposalId": "prp_00083",
+  "createdAt": "2026-01-28T10:23:00+09:00"
+ },
+ {
+  "userId": "usr_0058",
+  "proposalId": "prp_00083",
+  "createdAt": "2026-01-19T18:02:00+09:00"
+ },
+ {
+  "userId": "usr_0117",
+  "proposalId": "prp_00083",
+  "createdAt": "2026-01-19T13:36:00+09:00"
+ },
+ {
+  "userId": "usr_0044",
+  "proposalId": "prp_00083",
+  "createdAt": "2026-01-19T08:11:00+09:00"
+ },
+ {
+  "userId": "usr_0022",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-11T14:05:00+09:00"
+ },
+ {
+  "userId": "usr_0123",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-06T10:31:00+09:00"
+ },
+ {
+  "userId": "usr_0096",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-07T11:05:00+09:00"
+ },
+ {
+  "userId": "usr_0073",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-02T11:24:00+09:00"
+ },
+ {
+  "userId": "usr_0111",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-08T17:02:00+09:00"
+ },
+ {
+  "userId": "usr_0195",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-03T12:30:00+09:00"
+ },
+ {
+  "userId": "usr_0143",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-06T11:10:00+09:00"
+ },
+ {
+  "userId": "usr_0014",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-06T16:44:00+09:00"
+ },
+ {
+  "userId": "usr_0160",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-06T15:17:00+09:00"
+ },
+ {
+  "userId": "usr_0013",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-02T13:42:00+09:00"
+ },
+ {
+  "userId": "usr_0035",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-03T12:49:00+09:00"
+ },
+ {
+  "userId": "usr_0005",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-10T16:16:00+09:00"
+ },
+ {
+  "userId": "usr_0055",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-06T12:44:00+09:00"
+ },
+ {
+  "userId": "usr_0062",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-09T12:53:00+09:00"
+ },
+ {
+  "userId": "usr_0120",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-11T17:50:00+09:00"
+ },
+ {
+  "userId": "usr_0141",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-05T18:52:00+09:00"
+ },
+ {
+  "userId": "usr_0094",
+  "proposalId": "prp_00084",
+  "createdAt": "2026-09-07T14:52:00+09:00"
+ },
+ {
+  "userId": "usr_0149",
+  "proposalId": "prp_00085",
+  "createdAt": "2026-04-30T09:55:00+09:00"
+ },
+ {
+  "userId": "usr_0042",
+  "proposalId": "prp_00085",
+  "createdAt": "2026-04-24T09:08:00+09:00"
+ },
+ {
+  "userId": "usr_0001",
+  "proposalId": "prp_00085",
+  "createdAt": "2026-04-30T19:33:00+09:00"
+ },
+ {
+  "userId": "usr_0076",
+  "proposalId": "prp_00085",
+  "createdAt": "2026-04-27T09:46:00+09:00"
+ },
+ {
+  "userId": "usr_0125",
+  "proposalId": "prp_00086",
+  "createdAt": "2026-08-01T13:04:00+09:00"
+ },
+ {
+  "userId": "usr_0193",
+  "proposalId": "prp_00088",
+  "createdAt": "2026-05-08T19:21:00+09:00"
+ },
+ {
+  "userId": "usr_0074",
+  "proposalId": "prp_00088",
+  "createdAt": "2026-05-07T08:02:00+09:00"
+ },
+ {
+  "userId": "usr_0143",
+  "proposalId": "prp_00088",
+  "createdAt": "2026-04-30T10:47:00+09:00"
+ },
+ {
+  "userId": "usr_0076",
+  "proposalId": "prp_00090",
+  "createdAt": "2026-05-02T10:09:00+09:00"
+ },
+ {
+  "userId": "usr_0061",
+  "proposalId": "prp_00092",
+  "createdAt": "2026-06-02T09:23:00+09:00"
+ },
+ {
+  "userId": "usr_0054",
+  "proposalId": "prp_00092",
+  "createdAt": "2026-06-02T16:58:00+09:00"
+ },
+ {
+  "userId": "usr_0006",
+  "proposalId": "prp_00093",
+  "createdAt": "2026-07-13T18:28:00+09:00"
+ },
+ {
+  "userId": "usr_0051",
+  "proposalId": "prp_00093",
+  "createdAt": "2026-07-16T10:45:00+09:00"
+ },
+ {
+  "userId": "usr_0010",
+  "proposalId": "prp_00093",
+  "createdAt": "2026-07-16T11:06:00+09:00"
+ },
+ {
+  "userId": "usr_0059",
+  "proposalId": "prp_00093",
+  "createdAt": "2026-07-15T16:30:00+09:00"
+ },
+ {
+  "userId": "usr_0067",
+  "proposalId": "prp_00093",
+  "createdAt": "2026-07-15T19:50:00+09:00"
+ },
+ {
+  "userId": "usr_0121",
+  "proposalId": "prp_00093",
+  "createdAt": "2026-07-09T13:10:00+09:00"
+ },
+ {
+  "userId": "usr_0032",
+  "proposalId": "prp_00093",
+  "createdAt": "2026-07-12T13:43:00+09:00"
+ },
+ {
+  "userId": "usr_0105",
+  "proposalId": "prp_00093",
+  "createdAt": "2026-07-07T09:25:00+09:00"
+ },
+ {
+  "userId": "usr_0054",
+  "proposalId": "prp_00093",
+  "createdAt": "2026-07-07T18:01:00+09:00"
+ },
+ {
+  "userId": "usr_0100",
+  "proposalId": "prp_00093",
+  "createdAt": "2026-07-11T14:27:00+09:00"
+ },
+ {
+  "userId": "usr_0021",
+  "proposalId": "prp_00093",
+  "createdAt": "2026-07-12T11:24:00+09:00"
+ },
+ {
+  "userId": "usr_0161",
+  "proposalId": "prp_00093",
+  "createdAt": "2026-07-07T13:20:00+09:00"
+ },
+ {
+  "userId": "usr_0092",
+  "proposalId": "prp_00093",
+  "createdAt": "2026-07-14T17:55:00+09:00"
+ },
+ {
+  "userId": "usr_0184",
+  "proposalId": "prp_00093",
+  "createdAt": "2026-07-16T17:14:00+09:00"
+ },
+ {
+  "userId": "usr_0056",
+  "proposalId": "prp_00094",
+  "createdAt": "2026-04-21T08:23:00+09:00"
+ },
+ {
+  "userId": "usr_0003",
+  "proposalId": "prp_00094",
+  "createdAt": "2026-04-28T18:36:00+09:00"
+ },
+ {
+  "userId": "usr_0015",
+  "proposalId": "prp_00095",
+  "createdAt": "2025-11-09T10:47:00+09:00"
+ },
+ {
+  "userId": "usr_0080",
+  "proposalId": "prp_00095",
+  "createdAt": "2025-11-10T17:02:00+09:00"
+ },
+ {
+  "userId": "usr_0127",
+  "proposalId": "prp_00095",
+  "createdAt": "2025-11-13T11:19:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00096",
+  "createdAt": "2026-07-11T12:24:00+09:00"
+ },
+ {
+  "userId": "usr_0105",
+  "proposalId": "prp_00096",
+  "createdAt": "2026-07-15T19:15:00+09:00"
+ },
+ {
+  "userId": "usr_0081",
+  "proposalId": "prp_00096",
+  "createdAt": "2026-07-16T11:16:00+09:00"
+ },
+ {
+  "userId": "usr_0144",
+  "proposalId": "prp_00096",
+  "createdAt": "2026-07-13T10:12:00+09:00"
+ },
+ {
+  "userId": "usr_0171",
+  "proposalId": "prp_00096",
+  "createdAt": "2026-07-10T09:40:00+09:00"
+ },
+ {
+  "userId": "usr_0187",
+  "proposalId": "prp_00096",
+  "createdAt": "2026-07-10T18:58:00+09:00"
+ },
+ {
+  "userId": "usr_0100",
+  "proposalId": "prp_00096",
+  "createdAt": "2026-07-12T13:59:00+09:00"
+ },
+ {
+  "userId": "usr_0189",
+  "proposalId": "prp_00096",
+  "createdAt": "2026-07-10T10:02:00+09:00"
+ },
+ {
+  "userId": "usr_0174",
+  "proposalId": "prp_00096",
+  "createdAt": "2026-07-13T14:21:00+09:00"
+ },
+ {
+  "userId": "usr_0126",
+  "proposalId": "prp_00096",
+  "createdAt": "2026-07-17T15:58:00+09:00"
+ },
+ {
+  "userId": "usr_0111",
+  "proposalId": "prp_00096",
+  "createdAt": "2026-07-10T13:49:00+09:00"
+ },
+ {
+  "userId": "usr_0166",
+  "proposalId": "prp_00096",
+  "createdAt": "2026-07-15T12:28:00+09:00"
+ },
+ {
+  "userId": "usr_0195",
+  "proposalId": "prp_00096",
+  "createdAt": "2026-07-19T18:41:00+09:00"
+ },
+ {
+  "userId": "usr_0186",
+  "proposalId": "prp_00097",
+  "createdAt": "2026-05-19T12:30:00+09:00"
+ },
+ {
+  "userId": "usr_0103",
+  "proposalId": "prp_00097",
+  "createdAt": "2026-05-12T11:18:00+09:00"
+ },
+ {
+  "userId": "usr_0155",
+  "proposalId": "prp_00097",
+  "createdAt": "2026-05-13T19:56:00+09:00"
+ },
+ {
+  "userId": "usr_0183",
+  "proposalId": "prp_00097",
+  "createdAt": "2026-05-15T16:13:00+09:00"
+ },
+ {
+  "userId": "usr_0135",
+  "proposalId": "prp_00097",
+  "createdAt": "2026-05-13T10:39:00+09:00"
+ },
+ {
+  "userId": "usr_0024",
+  "proposalId": "prp_00097",
+  "createdAt": "2026-05-13T11:32:00+09:00"
+ },
+ {
+  "userId": "usr_0119",
+  "proposalId": "prp_00098",
+  "createdAt": "2026-01-15T17:32:00+09:00"
+ },
+ {
+  "userId": "usr_0053",
+  "proposalId": "prp_00098",
+  "createdAt": "2026-01-07T11:04:00+09:00"
+ },
+ {
+  "userId": "usr_0173",
+  "proposalId": "prp_00098",
+  "createdAt": "2026-01-12T16:16:00+09:00"
+ },
+ {
+  "userId": "usr_0022",
+  "proposalId": "prp_00098",
+  "createdAt": "2026-01-07T11:08:00+09:00"
+ },
+ {
+  "userId": "usr_0165",
+  "proposalId": "prp_00098",
+  "createdAt": "2026-01-14T09:35:00+09:00"
+ },
+ {
+  "userId": "usr_0089",
+  "proposalId": "prp_00098",
+  "createdAt": "2026-01-12T11:08:00+09:00"
+ },
+ {
+  "userId": "usr_0071",
+  "proposalId": "prp_00098",
+  "createdAt": "2026-01-10T13:35:00+09:00"
+ },
+ {
+  "userId": "usr_0174",
+  "proposalId": "prp_00098",
+  "createdAt": "2026-01-13T08:37:00+09:00"
+ },
+ {
+  "userId": "usr_0192",
+  "proposalId": "prp_00098",
+  "createdAt": "2026-01-13T09:58:00+09:00"
+ },
+ {
+  "userId": "usr_0126",
+  "proposalId": "prp_00098",
+  "createdAt": "2026-01-17T13:03:00+09:00"
+ },
+ {
+  "userId": "usr_0134",
+  "proposalId": "prp_00098",
+  "createdAt": "2026-01-12T19:50:00+09:00"
+ },
+ {
+  "userId": "usr_0083",
+  "proposalId": "prp_00099",
+  "createdAt": "2026-06-04T14:26:00+09:00"
+ },
+ {
+  "userId": "usr_0026",
+  "proposalId": "prp_00099",
+  "createdAt": "2026-06-06T09:00:00+09:00"
+ },
+ {
+  "userId": "usr_0061",
+  "proposalId": "prp_00099",
+  "createdAt": "2026-06-06T14:52:00+09:00"
+ },
+ {
+  "userId": "usr_0005",
+  "proposalId": "prp_00099",
+  "createdAt": "2026-06-01T19:50:00+09:00"
+ },
+ {
+  "userId": "usr_0112",
+  "proposalId": "prp_00101",
+  "createdAt": "2026-01-02T13:07:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00102",
+  "createdAt": "2025-10-18T13:42:00+09:00"
+ },
+ {
+  "userId": "usr_0057",
+  "proposalId": "prp_00103",
+  "createdAt": "2026-05-30T12:47:00+09:00"
+ },
+ {
+  "userId": "usr_0019",
+  "proposalId": "prp_00103",
+  "createdAt": "2026-05-27T12:40:00+09:00"
+ },
+ {
+  "userId": "usr_0189",
+  "proposalId": "prp_00103",
+  "createdAt": "2026-05-31T08:01:00+09:00"
+ },
+ {
+  "userId": "usr_0069",
+  "proposalId": "prp_00104",
+  "createdAt": "2026-03-12T17:08:00+09:00"
+ },
+ {
+  "userId": "usr_0151",
+  "proposalId": "prp_00104",
+  "createdAt": "2026-03-15T15:32:00+09:00"
+ },
+ {
+  "userId": "usr_0199",
+  "proposalId": "prp_00104",
+  "createdAt": "2026-03-10T16:36:00+09:00"
+ },
+ {
+  "userId": "usr_0051",
+  "proposalId": "prp_00104",
+  "createdAt": "2026-03-11T09:57:00+09:00"
+ },
+ {
+  "userId": "usr_0147",
+  "proposalId": "prp_00104",
+  "createdAt": "2026-03-09T15:03:00+09:00"
+ },
+ {
+  "userId": "usr_0108",
+  "proposalId": "prp_00104",
+  "createdAt": "2026-03-07T08:38:00+09:00"
+ },
+ {
+  "userId": "usr_0185",
+  "proposalId": "prp_00104",
+  "createdAt": "2026-03-13T09:20:00+09:00"
+ },
+ {
+  "userId": "usr_0137",
+  "proposalId": "prp_00104",
+  "createdAt": "2026-03-11T09:10:00+09:00"
+ },
+ {
+  "userId": "usr_0035",
+  "proposalId": "prp_00104",
+  "createdAt": "2026-03-17T15:07:00+09:00"
+ },
+ {
+  "userId": "usr_0111",
+  "proposalId": "prp_00104",
+  "createdAt": "2026-03-14T09:45:00+09:00"
+ },
+ {
+  "userId": "usr_0198",
+  "proposalId": "prp_00104",
+  "createdAt": "2026-03-11T19:33:00+09:00"
+ },
+ {
+  "userId": "usr_0018",
+  "proposalId": "prp_00104",
+  "createdAt": "2026-03-14T17:43:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00105",
+  "createdAt": "2026-06-12T09:24:00+09:00"
+ },
+ {
+  "userId": "usr_0042",
+  "proposalId": "prp_00105",
+  "createdAt": "2026-06-16T12:32:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00105",
+  "createdAt": "2026-06-10T17:20:00+09:00"
+ },
+ {
+  "userId": "usr_0105",
+  "proposalId": "prp_00106",
+  "createdAt": "2026-09-03T10:03:00+09:00"
+ },
+ {
+  "userId": "usr_0180",
+  "proposalId": "prp_00107",
+  "createdAt": "2025-11-07T18:41:00+09:00"
+ },
+ {
+  "userId": "usr_0013",
+  "proposalId": "prp_00108",
+  "createdAt": "2025-11-06T18:18:00+09:00"
+ },
+ {
+  "userId": "usr_0128",
+  "proposalId": "prp_00108",
+  "createdAt": "2025-11-04T14:15:00+09:00"
+ },
+ {
+  "userId": "usr_0003",
+  "proposalId": "prp_00108",
+  "createdAt": "2025-10-30T13:56:00+09:00"
+ },
+ {
+  "userId": "usr_0194",
+  "proposalId": "prp_00109",
+  "createdAt": "2026-05-06T12:19:00+09:00"
+ },
+ {
+  "userId": "usr_0171",
+  "proposalId": "prp_00109",
+  "createdAt": "2026-05-07T14:45:00+09:00"
+ },
+ {
+  "userId": "usr_0173",
+  "proposalId": "prp_00109",
+  "createdAt": "2026-05-08T09:26:00+09:00"
+ },
+ {
+  "userId": "usr_0135",
+  "proposalId": "prp_00109",
+  "createdAt": "2026-05-01T10:43:00+09:00"
+ },
+ {
+  "userId": "usr_0072",
+  "proposalId": "prp_00109",
+  "createdAt": "2026-05-08T19:24:00+09:00"
+ },
+ {
+  "userId": "usr_0005",
+  "proposalId": "prp_00110",
+  "createdAt": "2026-05-09T12:17:00+09:00"
+ },
+ {
+  "userId": "usr_0180",
+  "proposalId": "prp_00110",
+  "createdAt": "2026-04-30T09:25:00+09:00"
+ },
+ {
+  "userId": "usr_0147",
+  "proposalId": "prp_00110",
+  "createdAt": "2026-05-01T19:06:00+09:00"
+ },
+ {
+  "userId": "usr_0102",
+  "proposalId": "prp_00110",
+  "createdAt": "2026-05-09T13:27:00+09:00"
+ },
+ {
+  "userId": "usr_0166",
+  "proposalId": "prp_00110",
+  "createdAt": "2026-04-30T18:02:00+09:00"
+ },
+ {
+  "userId": "usr_0160",
+  "proposalId": "prp_00110",
+  "createdAt": "2026-05-08T19:40:00+09:00"
+ },
+ {
+  "userId": "usr_0174",
+  "proposalId": "prp_00110",
+  "createdAt": "2026-05-03T14:59:00+09:00"
+ },
+ {
+  "userId": "usr_0137",
+  "proposalId": "prp_00110",
+  "createdAt": "2026-05-06T18:43:00+09:00"
+ },
+ {
+  "userId": "usr_0130",
+  "proposalId": "prp_00110",
+  "createdAt": "2026-04-30T14:36:00+09:00"
+ },
+ {
+  "userId": "usr_0153",
+  "proposalId": "prp_00110",
+  "createdAt": "2026-04-29T13:17:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00110",
+  "createdAt": "2026-05-03T16:13:00+09:00"
+ },
+ {
+  "userId": "usr_0047",
+  "proposalId": "prp_00110",
+  "createdAt": "2026-05-06T15:36:00+09:00"
+ },
+ {
+  "userId": "usr_0138",
+  "proposalId": "prp_00110",
+  "createdAt": "2026-04-30T08:38:00+09:00"
+ },
+ {
+  "userId": "usr_0104",
+  "proposalId": "prp_00110",
+  "createdAt": "2026-05-08T10:55:00+09:00"
+ },
+ {
+  "userId": "usr_0059",
+  "proposalId": "prp_00112",
+  "createdAt": "2026-05-27T13:35:00+09:00"
+ },
+ {
+  "userId": "usr_0071",
+  "proposalId": "prp_00112",
+  "createdAt": "2026-05-29T13:08:00+09:00"
+ },
+ {
+  "userId": "usr_0159",
+  "proposalId": "prp_00112",
+  "createdAt": "2026-05-31T15:44:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00112",
+  "createdAt": "2026-05-24T13:44:00+09:00"
+ },
+ {
+  "userId": "usr_0150",
+  "proposalId": "prp_00114",
+  "createdAt": "2026-03-03T17:49:00+09:00"
+ },
+ {
+  "userId": "usr_0082",
+  "proposalId": "prp_00114",
+  "createdAt": "2026-03-08T13:01:00+09:00"
+ },
+ {
+  "userId": "usr_0091",
+  "proposalId": "prp_00114",
+  "createdAt": "2026-03-01T15:41:00+09:00"
+ },
+ {
+  "userId": "usr_0170",
+  "proposalId": "prp_00114",
+  "createdAt": "2026-03-06T09:42:00+09:00"
+ },
+ {
+  "userId": "usr_0148",
+  "proposalId": "prp_00115",
+  "createdAt": "2026-09-09T10:15:00+09:00"
+ },
+ {
+  "userId": "usr_0127",
+  "proposalId": "prp_00115",
+  "createdAt": "2026-09-10T15:17:00+09:00"
+ },
+ {
+  "userId": "usr_0112",
+  "proposalId": "prp_00115",
+  "createdAt": "2026-09-10T14:59:00+09:00"
+ },
+ {
+  "userId": "usr_0033",
+  "proposalId": "prp_00115",
+  "createdAt": "2026-09-15T09:17:00+09:00"
+ },
+ {
+  "userId": "usr_0139",
+  "proposalId": "prp_00115",
+  "createdAt": "2026-09-05T11:07:00+09:00"
+ },
+ {
+  "userId": "usr_0098",
+  "proposalId": "prp_00116",
+  "createdAt": "2026-03-24T09:50:00+09:00"
+ },
+ {
+  "userId": "usr_0167",
+  "proposalId": "prp_00117",
+  "createdAt": "2025-11-23T17:53:00+09:00"
+ },
+ {
+  "userId": "usr_0174",
+  "proposalId": "prp_00117",
+  "createdAt": "2025-11-20T19:34:00+09:00"
+ },
+ {
+  "userId": "usr_0049",
+  "proposalId": "prp_00117",
+  "createdAt": "2025-11-20T16:25:00+09:00"
+ },
+ {
+  "userId": "usr_0200",
+  "proposalId": "prp_00117",
+  "createdAt": "2025-11-20T12:27:00+09:00"
+ },
+ {
+  "userId": "usr_0112",
+  "proposalId": "prp_00117",
+  "createdAt": "2025-11-25T11:15:00+09:00"
+ },
+ {
+  "userId": "usr_0023",
+  "proposalId": "prp_00117",
+  "createdAt": "2025-11-24T08:27:00+09:00"
+ },
+ {
+  "userId": "usr_0004",
+  "proposalId": "prp_00117",
+  "createdAt": "2025-11-24T10:18:00+09:00"
+ },
+ {
+  "userId": "usr_0146",
+  "proposalId": "prp_00117",
+  "createdAt": "2025-11-28T19:31:00+09:00"
+ },
+ {
+  "userId": "usr_0181",
+  "proposalId": "prp_00117",
+  "createdAt": "2025-11-27T19:10:00+09:00"
+ },
+ {
+  "userId": "usr_0117",
+  "proposalId": "prp_00117",
+  "createdAt": "2025-11-22T13:36:00+09:00"
+ },
+ {
+  "userId": "usr_0175",
+  "proposalId": "prp_00117",
+  "createdAt": "2025-11-19T19:35:00+09:00"
+ },
+ {
+  "userId": "usr_0128",
+  "proposalId": "prp_00117",
+  "createdAt": "2025-11-27T09:47:00+09:00"
+ },
+ {
+  "userId": "usr_0073",
+  "proposalId": "prp_00117",
+  "createdAt": "2025-11-28T16:58:00+09:00"
+ },
+ {
+  "userId": "usr_0044",
+  "proposalId": "prp_00118",
+  "createdAt": "2026-05-03T14:03:00+09:00"
+ },
+ {
+  "userId": "usr_0200",
+  "proposalId": "prp_00118",
+  "createdAt": "2026-05-07T08:56:00+09:00"
+ },
+ {
+  "userId": "usr_0020",
+  "proposalId": "prp_00118",
+  "createdAt": "2026-05-03T08:42:00+09:00"
+ },
+ {
+  "userId": "usr_0178",
+  "proposalId": "prp_00118",
+  "createdAt": "2026-05-01T17:19:00+09:00"
+ },
+ {
+  "userId": "usr_0187",
+  "proposalId": "prp_00119",
+  "createdAt": "2026-04-30T10:57:00+09:00"
+ },
+ {
+  "userId": "usr_0072",
+  "proposalId": "prp_00119",
+  "createdAt": "2026-04-29T08:19:00+09:00"
+ },
+ {
+  "userId": "usr_0017",
+  "proposalId": "prp_00119",
+  "createdAt": "2026-04-26T12:21:00+09:00"
+ },
+ {
+  "userId": "usr_0159",
+  "proposalId": "prp_00119",
+  "createdAt": "2026-04-29T12:43:00+09:00"
+ },
+ {
+  "userId": "usr_0132",
+  "proposalId": "prp_00119",
+  "createdAt": "2026-04-22T12:04:00+09:00"
+ },
+ {
+  "userId": "usr_0055",
+  "proposalId": "prp_00119",
+  "createdAt": "2026-04-21T16:36:00+09:00"
+ },
+ {
+  "userId": "usr_0057",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-10T13:11:00+09:00"
+ },
+ {
+  "userId": "usr_0171",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-04T16:39:00+09:00"
+ },
+ {
+  "userId": "usr_0158",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-11T13:17:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-06T12:44:00+09:00"
+ },
+ {
+  "userId": "usr_0116",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-03T19:13:00+09:00"
+ },
+ {
+  "userId": "usr_0110",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-09T08:14:00+09:00"
+ },
+ {
+  "userId": "usr_0156",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-07T19:45:00+09:00"
+ },
+ {
+  "userId": "usr_0059",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-02T15:48:00+09:00"
+ },
+ {
+  "userId": "usr_0050",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-03T13:22:00+09:00"
+ },
+ {
+  "userId": "usr_0108",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-11T18:15:00+09:00"
+ },
+ {
+  "userId": "usr_0004",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-08T16:45:00+09:00"
+ },
+ {
+  "userId": "usr_0163",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-12T09:59:00+09:00"
+ },
+ {
+  "userId": "usr_0084",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-08T08:42:00+09:00"
+ },
+ {
+  "userId": "usr_0055",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-02T11:53:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-07T12:45:00+09:00"
+ },
+ {
+  "userId": "usr_0130",
+  "proposalId": "prp_00120",
+  "createdAt": "2026-06-05T11:24:00+09:00"
+ },
+ {
+  "userId": "usr_0067",
+  "proposalId": "prp_00121",
+  "createdAt": "2026-07-27T08:39:00+09:00"
+ },
+ {
+  "userId": "usr_0019",
+  "proposalId": "prp_00121",
+  "createdAt": "2026-07-28T19:09:00+09:00"
+ },
+ {
+  "userId": "usr_0008",
+  "proposalId": "prp_00123",
+  "createdAt": "2026-06-21T17:49:00+09:00"
+ },
+ {
+  "userId": "usr_0132",
+  "proposalId": "prp_00123",
+  "createdAt": "2026-06-21T10:38:00+09:00"
+ },
+ {
+  "userId": "usr_0099",
+  "proposalId": "prp_00123",
+  "createdAt": "2026-06-18T11:05:00+09:00"
+ },
+ {
+  "userId": "usr_0124",
+  "proposalId": "prp_00123",
+  "createdAt": "2026-06-28T14:04:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00124",
+  "createdAt": "2026-02-25T16:03:00+09:00"
+ },
+ {
+  "userId": "usr_0057",
+  "proposalId": "prp_00125",
+  "createdAt": "2025-10-26T12:33:00+09:00"
+ },
+ {
+  "userId": "usr_0108",
+  "proposalId": "prp_00126",
+  "createdAt": "2025-10-31T13:45:00+09:00"
+ },
+ {
+  "userId": "usr_0180",
+  "proposalId": "prp_00126",
+  "createdAt": "2025-11-03T12:39:00+09:00"
+ },
+ {
+  "userId": "usr_0021",
+  "proposalId": "prp_00126",
+  "createdAt": "2025-11-04T08:31:00+09:00"
+ },
+ {
+  "userId": "usr_0029",
+  "proposalId": "prp_00126",
+  "createdAt": "2025-11-01T11:00:00+09:00"
+ },
+ {
+  "userId": "usr_0189",
+  "proposalId": "prp_00126",
+  "createdAt": "2025-11-03T14:06:00+09:00"
+ },
+ {
+  "userId": "usr_0054",
+  "proposalId": "prp_00128",
+  "createdAt": "2026-07-11T09:41:00+09:00"
+ },
+ {
+  "userId": "usr_0163",
+  "proposalId": "prp_00129",
+  "createdAt": "2026-10-03T09:46:00+09:00"
+ },
+ {
+  "userId": "usr_0104",
+  "proposalId": "prp_00129",
+  "createdAt": "2026-10-02T18:24:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00129",
+  "createdAt": "2026-09-30T18:23:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00130",
+  "createdAt": "2025-10-28T18:02:00+09:00"
+ },
+ {
+  "userId": "usr_0073",
+  "proposalId": "prp_00130",
+  "createdAt": "2025-10-23T10:37:00+09:00"
+ },
+ {
+  "userId": "usr_0154",
+  "proposalId": "prp_00130",
+  "createdAt": "2025-11-02T09:39:00+09:00"
+ },
+ {
+  "userId": "usr_0185",
+  "proposalId": "prp_00131",
+  "createdAt": "2025-10-27T15:16:00+09:00"
+ },
+ {
+  "userId": "usr_0022",
+  "proposalId": "prp_00132",
+  "createdAt": "2026-05-28T08:39:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00132",
+  "createdAt": "2026-05-28T11:57:00+09:00"
+ },
+ {
+  "userId": "usr_0117",
+  "proposalId": "prp_00132",
+  "createdAt": "2026-05-18T19:46:00+09:00"
+ },
+ {
+  "userId": "usr_0083",
+  "proposalId": "prp_00132",
+  "createdAt": "2026-05-26T16:51:00+09:00"
+ },
+ {
+  "userId": "usr_0027",
+  "proposalId": "prp_00132",
+  "createdAt": "2026-05-24T14:11:00+09:00"
+ },
+ {
+  "userId": "usr_0118",
+  "proposalId": "prp_00132",
+  "createdAt": "2026-05-21T19:05:00+09:00"
+ },
+ {
+  "userId": "usr_0160",
+  "proposalId": "prp_00132",
+  "createdAt": "2026-05-26T15:23:00+09:00"
+ },
+ {
+  "userId": "usr_0098",
+  "proposalId": "prp_00132",
+  "createdAt": "2026-05-19T15:00:00+09:00"
+ },
+ {
+  "userId": "usr_0005",
+  "proposalId": "prp_00133",
+  "createdAt": "2026-06-09T09:05:00+09:00"
+ },
+ {
+  "userId": "usr_0118",
+  "proposalId": "prp_00133",
+  "createdAt": "2026-06-07T11:43:00+09:00"
+ },
+ {
+  "userId": "usr_0135",
+  "proposalId": "prp_00133",
+  "createdAt": "2026-06-08T10:12:00+09:00"
+ },
+ {
+  "userId": "usr_0189",
+  "proposalId": "prp_00133",
+  "createdAt": "2026-06-11T09:34:00+09:00"
+ },
+ {
+  "userId": "usr_0106",
+  "proposalId": "prp_00133",
+  "createdAt": "2026-06-12T17:54:00+09:00"
+ },
+ {
+  "userId": "usr_0024",
+  "proposalId": "prp_00133",
+  "createdAt": "2026-06-05T15:27:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00133",
+  "createdAt": "2026-06-12T17:29:00+09:00"
+ },
+ {
+  "userId": "usr_0196",
+  "proposalId": "prp_00133",
+  "createdAt": "2026-06-05T09:13:00+09:00"
+ },
+ {
+  "userId": "usr_0185",
+  "proposalId": "prp_00133",
+  "createdAt": "2026-06-03T10:45:00+09:00"
+ },
+ {
+  "userId": "usr_0123",
+  "proposalId": "prp_00133",
+  "createdAt": "2026-06-06T08:11:00+09:00"
+ },
+ {
+  "userId": "usr_0038",
+  "proposalId": "prp_00133",
+  "createdAt": "2026-06-06T09:33:00+09:00"
+ },
+ {
+  "userId": "usr_0003",
+  "proposalId": "prp_00133",
+  "createdAt": "2026-06-03T16:34:00+09:00"
+ },
+ {
+  "userId": "usr_0072",
+  "proposalId": "prp_00134",
+  "createdAt": "2026-06-11T16:42:00+09:00"
+ },
+ {
+  "userId": "usr_0040",
+  "proposalId": "prp_00135",
+  "createdAt": "2026-09-20T18:06:00+09:00"
+ },
+ {
+  "userId": "usr_0148",
+  "proposalId": "prp_00135",
+  "createdAt": "2026-09-23T14:45:00+09:00"
+ },
+ {
+  "userId": "usr_0062",
+  "proposalId": "prp_00135",
+  "createdAt": "2026-09-29T16:16:00+09:00"
+ },
+ {
+  "userId": "usr_0060",
+  "proposalId": "prp_00135",
+  "createdAt": "2026-09-26T14:32:00+09:00"
+ },
+ {
+  "userId": "usr_0133",
+  "proposalId": "prp_00136",
+  "createdAt": "2026-03-25T12:11:00+09:00"
+ },
+ {
+  "userId": "usr_0122",
+  "proposalId": "prp_00137",
+  "createdAt": "2026-01-13T15:50:00+09:00"
+ },
+ {
+  "userId": "usr_0045",
+  "proposalId": "prp_00137",
+  "createdAt": "2026-01-21T08:58:00+09:00"
+ },
+ {
+  "userId": "usr_0033",
+  "proposalId": "prp_00137",
+  "createdAt": "2026-01-21T16:51:00+09:00"
+ },
+ {
+  "userId": "usr_0021",
+  "proposalId": "prp_00137",
+  "createdAt": "2026-01-17T12:23:00+09:00"
+ },
+ {
+  "userId": "usr_0116",
+  "proposalId": "prp_00137",
+  "createdAt": "2026-01-14T16:32:00+09:00"
+ },
+ {
+  "userId": "usr_0115",
+  "proposalId": "prp_00137",
+  "createdAt": "2026-01-18T17:22:00+09:00"
+ },
+ {
+  "userId": "usr_0038",
+  "proposalId": "prp_00137",
+  "createdAt": "2026-01-18T18:53:00+09:00"
+ },
+ {
+  "userId": "usr_0150",
+  "proposalId": "prp_00137",
+  "createdAt": "2026-01-21T11:45:00+09:00"
+ },
+ {
+  "userId": "usr_0043",
+  "proposalId": "prp_00137",
+  "createdAt": "2026-01-22T09:15:00+09:00"
+ },
+ {
+  "userId": "usr_0012",
+  "proposalId": "prp_00138",
+  "createdAt": "2026-04-25T16:28:00+09:00"
+ },
+ {
+  "userId": "usr_0156",
+  "proposalId": "prp_00138",
+  "createdAt": "2026-04-16T19:03:00+09:00"
+ },
+ {
+  "userId": "usr_0073",
+  "proposalId": "prp_00138",
+  "createdAt": "2026-04-21T14:00:00+09:00"
+ },
+ {
+  "userId": "usr_0096",
+  "proposalId": "prp_00138",
+  "createdAt": "2026-04-22T14:42:00+09:00"
+ },
+ {
+  "userId": "usr_0017",
+  "proposalId": "prp_00138",
+  "createdAt": "2026-04-15T12:24:00+09:00"
+ },
+ {
+  "userId": "usr_0189",
+  "proposalId": "prp_00138",
+  "createdAt": "2026-04-25T17:20:00+09:00"
+ },
+ {
+  "userId": "usr_0118",
+  "proposalId": "prp_00138",
+  "createdAt": "2026-04-23T08:57:00+09:00"
+ },
+ {
+  "userId": "usr_0163",
+  "proposalId": "prp_00138",
+  "createdAt": "2026-04-15T10:10:00+09:00"
+ },
+ {
+  "userId": "usr_0006",
+  "proposalId": "prp_00138",
+  "createdAt": "2026-04-23T15:10:00+09:00"
+ },
+ {
+  "userId": "usr_0198",
+  "proposalId": "prp_00139",
+  "createdAt": "2026-01-23T10:19:00+09:00"
+ },
+ {
+  "userId": "usr_0099",
+  "proposalId": "prp_00139",
+  "createdAt": "2026-01-21T18:51:00+09:00"
+ },
+ {
+  "userId": "usr_0120",
+  "proposalId": "prp_00139",
+  "createdAt": "2026-01-17T12:38:00+09:00"
+ },
+ {
+  "userId": "usr_0190",
+  "proposalId": "prp_00139",
+  "createdAt": "2026-01-17T16:56:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00139",
+  "createdAt": "2026-01-21T10:37:00+09:00"
+ },
+ {
+  "userId": "usr_0057",
+  "proposalId": "prp_00139",
+  "createdAt": "2026-01-20T11:01:00+09:00"
+ },
+ {
+  "userId": "usr_0185",
+  "proposalId": "prp_00140",
+  "createdAt": "2026-02-17T11:36:00+09:00"
+ },
+ {
+  "userId": "usr_0035",
+  "proposalId": "prp_00141",
+  "createdAt": "2026-05-18T10:00:00+09:00"
+ },
+ {
+  "userId": "usr_0059",
+  "proposalId": "prp_00143",
+  "createdAt": "2025-10-27T12:50:00+09:00"
+ },
+ {
+  "userId": "usr_0197",
+  "proposalId": "prp_00143",
+  "createdAt": "2025-11-01T09:29:00+09:00"
+ },
+ {
+  "userId": "usr_0016",
+  "proposalId": "prp_00143",
+  "createdAt": "2025-11-04T14:06:00+09:00"
+ },
+ {
+  "userId": "usr_0003",
+  "proposalId": "prp_00143",
+  "createdAt": "2025-10-28T17:45:00+09:00"
+ },
+ {
+  "userId": "usr_0092",
+  "proposalId": "prp_00143",
+  "createdAt": "2025-11-06T11:51:00+09:00"
+ },
+ {
+  "userId": "usr_0168",
+  "proposalId": "prp_00143",
+  "createdAt": "2025-11-05T19:04:00+09:00"
+ },
+ {
+  "userId": "usr_0169",
+  "proposalId": "prp_00143",
+  "createdAt": "2025-10-29T12:00:00+09:00"
+ },
+ {
+  "userId": "usr_0035",
+  "proposalId": "prp_00143",
+  "createdAt": "2025-11-05T15:10:00+09:00"
+ },
+ {
+  "userId": "usr_0067",
+  "proposalId": "prp_00143",
+  "createdAt": "2025-11-06T11:54:00+09:00"
+ },
+ {
+  "userId": "usr_0187",
+  "proposalId": "prp_00144",
+  "createdAt": "2026-08-25T19:28:00+09:00"
+ },
+ {
+  "userId": "usr_0110",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-31T19:52:00+09:00"
+ },
+ {
+  "userId": "usr_0080",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-30T08:31:00+09:00"
+ },
+ {
+  "userId": "usr_0135",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-30T16:15:00+09:00"
+ },
+ {
+  "userId": "usr_0044",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-23T14:46:00+09:00"
+ },
+ {
+  "userId": "usr_0133",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-30T14:28:00+09:00"
+ },
+ {
+  "userId": "usr_0164",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-25T19:50:00+09:00"
+ },
+ {
+  "userId": "usr_0030",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-22T08:47:00+09:00"
+ },
+ {
+  "userId": "usr_0023",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-31T18:32:00+09:00"
+ },
+ {
+  "userId": "usr_0119",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-24T13:19:00+09:00"
+ },
+ {
+  "userId": "usr_0001",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-26T10:54:00+09:00"
+ },
+ {
+  "userId": "usr_0072",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-22T13:32:00+09:00"
+ },
+ {
+  "userId": "usr_0102",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-31T18:31:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-25T17:25:00+09:00"
+ },
+ {
+  "userId": "usr_0043",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-25T08:23:00+09:00"
+ },
+ {
+  "userId": "usr_0118",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-27T16:56:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-24T15:09:00+09:00"
+ },
+ {
+  "userId": "usr_0078",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-22T14:51:00+09:00"
+ },
+ {
+  "userId": "usr_0067",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-28T13:54:00+09:00"
+ },
+ {
+  "userId": "usr_0071",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-25T16:15:00+09:00"
+ },
+ {
+  "userId": "usr_0192",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-26T08:07:00+09:00"
+ },
+ {
+  "userId": "usr_0187",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-22T09:20:00+09:00"
+ },
+ {
+  "userId": "usr_0031",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-28T10:15:00+09:00"
+ },
+ {
+  "userId": "usr_0176",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-25T12:24:00+09:00"
+ },
+ {
+  "userId": "usr_0079",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-31T08:25:00+09:00"
+ },
+ {
+  "userId": "usr_0025",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-27T16:32:00+09:00"
+ },
+ {
+  "userId": "usr_0047",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-23T13:22:00+09:00"
+ },
+ {
+  "userId": "usr_0037",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-26T14:29:00+09:00"
+ },
+ {
+  "userId": "usr_0126",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-24T11:16:00+09:00"
+ },
+ {
+  "userId": "usr_0004",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-26T08:14:00+09:00"
+ },
+ {
+  "userId": "usr_0112",
+  "proposalId": "prp_00145",
+  "createdAt": "2026-01-25T13:34:00+09:00"
+ },
+ {
+  "userId": "usr_0152",
+  "proposalId": "prp_00146",
+  "createdAt": "2026-07-18T09:50:00+09:00"
+ },
+ {
+  "userId": "usr_0001",
+  "proposalId": "prp_00149",
+  "createdAt": "2026-07-23T16:49:00+09:00"
+ },
+ {
+  "userId": "usr_0022",
+  "proposalId": "prp_00149",
+  "createdAt": "2026-07-14T10:17:00+09:00"
+ },
+ {
+  "userId": "usr_0139",
+  "proposalId": "prp_00149",
+  "createdAt": "2026-07-18T09:47:00+09:00"
+ },
+ {
+  "userId": "usr_0021",
+  "proposalId": "prp_00149",
+  "createdAt": "2026-07-24T12:53:00+09:00"
+ },
+ {
+  "userId": "usr_0039",
+  "proposalId": "prp_00149",
+  "createdAt": "2026-07-15T16:41:00+09:00"
+ },
+ {
+  "userId": "usr_0188",
+  "proposalId": "prp_00149",
+  "createdAt": "2026-07-22T10:35:00+09:00"
+ },
+ {
+  "userId": "usr_0014",
+  "proposalId": "prp_00150",
+  "createdAt": "2026-07-12T19:42:00+09:00"
+ },
+ {
+  "userId": "usr_0054",
+  "proposalId": "prp_00150",
+  "createdAt": "2026-07-12T16:39:00+09:00"
+ },
+ {
+  "userId": "usr_0068",
+  "proposalId": "prp_00150",
+  "createdAt": "2026-07-04T09:48:00+09:00"
+ },
+ {
+  "userId": "usr_0095",
+  "proposalId": "prp_00150",
+  "createdAt": "2026-07-08T13:33:00+09:00"
+ },
+ {
+  "userId": "usr_0178",
+  "proposalId": "prp_00150",
+  "createdAt": "2026-07-04T11:06:00+09:00"
+ },
+ {
+  "userId": "usr_0049",
+  "proposalId": "prp_00150",
+  "createdAt": "2026-07-07T09:26:00+09:00"
+ },
+ {
+  "userId": "usr_0174",
+  "proposalId": "prp_00150",
+  "createdAt": "2026-07-06T16:11:00+09:00"
+ },
+ {
+  "userId": "usr_0086",
+  "proposalId": "prp_00151",
+  "createdAt": "2026-04-15T11:08:00+09:00"
+ },
+ {
+  "userId": "usr_0104",
+  "proposalId": "prp_00152",
+  "createdAt": "2025-10-30T16:00:00+09:00"
+ },
+ {
+  "userId": "usr_0099",
+  "proposalId": "prp_00152",
+  "createdAt": "2025-11-02T10:32:00+09:00"
+ },
+ {
+  "userId": "usr_0081",
+  "proposalId": "prp_00152",
+  "createdAt": "2025-10-29T10:59:00+09:00"
+ },
+ {
+  "userId": "usr_0094",
+  "proposalId": "prp_00152",
+  "createdAt": "2025-11-03T11:22:00+09:00"
+ },
+ {
+  "userId": "usr_0178",
+  "proposalId": "prp_00152",
+  "createdAt": "2025-10-31T11:25:00+09:00"
+ },
+ {
+  "userId": "usr_0029",
+  "proposalId": "prp_00153",
+  "createdAt": "2026-05-02T09:56:00+09:00"
+ },
+ {
+  "userId": "usr_0145",
+  "proposalId": "prp_00153",
+  "createdAt": "2026-05-04T16:24:00+09:00"
+ },
+ {
+  "userId": "usr_0150",
+  "proposalId": "prp_00153",
+  "createdAt": "2026-05-05T14:12:00+09:00"
+ },
+ {
+  "userId": "usr_0057",
+  "proposalId": "prp_00153",
+  "createdAt": "2026-05-03T09:29:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00153",
+  "createdAt": "2026-05-02T18:05:00+09:00"
+ },
+ {
+  "userId": "usr_0143",
+  "proposalId": "prp_00153",
+  "createdAt": "2026-05-03T11:50:00+09:00"
+ },
+ {
+  "userId": "usr_0037",
+  "proposalId": "prp_00154",
+  "createdAt": "2026-04-24T14:11:00+09:00"
+ },
+ {
+  "userId": "usr_0159",
+  "proposalId": "prp_00154",
+  "createdAt": "2026-04-27T17:30:00+09:00"
+ },
+ {
+  "userId": "usr_0163",
+  "proposalId": "prp_00154",
+  "createdAt": "2026-04-26T11:33:00+09:00"
+ },
+ {
+  "userId": "usr_0130",
+  "proposalId": "prp_00154",
+  "createdAt": "2026-04-28T16:57:00+09:00"
+ },
+ {
+  "userId": "usr_0043",
+  "proposalId": "prp_00154",
+  "createdAt": "2026-04-22T08:03:00+09:00"
+ },
+ {
+  "userId": "usr_0063",
+  "proposalId": "prp_00154",
+  "createdAt": "2026-04-30T16:34:00+09:00"
+ },
+ {
+  "userId": "usr_0177",
+  "proposalId": "prp_00154",
+  "createdAt": "2026-04-24T08:29:00+09:00"
+ },
+ {
+  "userId": "usr_0104",
+  "proposalId": "prp_00154",
+  "createdAt": "2026-04-30T15:00:00+09:00"
+ },
+ {
+  "userId": "usr_0135",
+  "proposalId": "prp_00155",
+  "createdAt": "2026-03-12T09:37:00+09:00"
+ },
+ {
+  "userId": "usr_0048",
+  "proposalId": "prp_00155",
+  "createdAt": "2026-03-12T13:16:00+09:00"
+ },
+ {
+  "userId": "usr_0186",
+  "proposalId": "prp_00155",
+  "createdAt": "2026-03-06T16:02:00+09:00"
+ },
+ {
+  "userId": "usr_0133",
+  "proposalId": "prp_00155",
+  "createdAt": "2026-03-05T18:46:00+09:00"
+ },
+ {
+  "userId": "usr_0074",
+  "proposalId": "prp_00155",
+  "createdAt": "2026-03-04T16:20:00+09:00"
+ },
+ {
+  "userId": "usr_0075",
+  "proposalId": "prp_00155",
+  "createdAt": "2026-03-09T15:11:00+09:00"
+ },
+ {
+  "userId": "usr_0115",
+  "proposalId": "prp_00155",
+  "createdAt": "2026-03-07T18:16:00+09:00"
+ },
+ {
+  "userId": "usr_0052",
+  "proposalId": "prp_00155",
+  "createdAt": "2026-03-06T09:46:00+09:00"
+ },
+ {
+  "userId": "usr_0110",
+  "proposalId": "prp_00155",
+  "createdAt": "2026-03-08T18:22:00+09:00"
+ },
+ {
+  "userId": "usr_0034",
+  "proposalId": "prp_00155",
+  "createdAt": "2026-03-08T09:13:00+09:00"
+ },
+ {
+  "userId": "usr_0015",
+  "proposalId": "prp_00155",
+  "createdAt": "2026-03-07T16:03:00+09:00"
+ },
+ {
+  "userId": "usr_0126",
+  "proposalId": "prp_00155",
+  "createdAt": "2026-03-08T09:38:00+09:00"
+ },
+ {
+  "userId": "usr_0188",
+  "proposalId": "prp_00155",
+  "createdAt": "2026-03-12T11:23:00+09:00"
+ },
+ {
+  "userId": "usr_0185",
+  "proposalId": "prp_00155",
+  "createdAt": "2026-03-07T14:17:00+09:00"
+ },
+ {
+  "userId": "usr_0034",
+  "proposalId": "prp_00157",
+  "createdAt": "2026-04-12T12:22:00+09:00"
+ },
+ {
+  "userId": "usr_0021",
+  "proposalId": "prp_00157",
+  "createdAt": "2026-04-04T12:47:00+09:00"
+ },
+ {
+  "userId": "usr_0037",
+  "proposalId": "prp_00157",
+  "createdAt": "2026-04-03T19:59:00+09:00"
+ },
+ {
+  "userId": "usr_0174",
+  "proposalId": "prp_00157",
+  "createdAt": "2026-04-10T16:31:00+09:00"
+ },
+ {
+  "userId": "usr_0025",
+  "proposalId": "prp_00157",
+  "createdAt": "2026-04-07T11:44:00+09:00"
+ },
+ {
+  "userId": "usr_0090",
+  "proposalId": "prp_00157",
+  "createdAt": "2026-04-11T19:33:00+09:00"
+ },
+ {
+  "userId": "usr_0123",
+  "proposalId": "prp_00157",
+  "createdAt": "2026-04-08T16:27:00+09:00"
+ },
+ {
+  "userId": "usr_0038",
+  "proposalId": "prp_00157",
+  "createdAt": "2026-04-05T19:01:00+09:00"
+ },
+ {
+  "userId": "usr_0153",
+  "proposalId": "prp_00157",
+  "createdAt": "2026-04-06T10:33:00+09:00"
+ },
+ {
+  "userId": "usr_0166",
+  "proposalId": "prp_00157",
+  "createdAt": "2026-04-05T13:20:00+09:00"
+ },
+ {
+  "userId": "usr_0111",
+  "proposalId": "prp_00158",
+  "createdAt": "2026-06-03T15:50:00+09:00"
+ },
+ {
+  "userId": "usr_0052",
+  "proposalId": "prp_00158",
+  "createdAt": "2026-06-02T08:28:00+09:00"
+ },
+ {
+  "userId": "usr_0020",
+  "proposalId": "prp_00159",
+  "createdAt": "2026-06-28T11:42:00+09:00"
+ },
+ {
+  "userId": "usr_0078",
+  "proposalId": "prp_00160",
+  "createdAt": "2026-07-17T11:28:00+09:00"
+ },
+ {
+  "userId": "usr_0077",
+  "proposalId": "prp_00160",
+  "createdAt": "2026-07-20T09:20:00+09:00"
+ },
+ {
+  "userId": "usr_0138",
+  "proposalId": "prp_00160",
+  "createdAt": "2026-07-16T11:33:00+09:00"
+ },
+ {
+  "userId": "usr_0015",
+  "proposalId": "prp_00160",
+  "createdAt": "2026-07-23T14:40:00+09:00"
+ },
+ {
+  "userId": "usr_0144",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-23T09:52:00+09:00"
+ },
+ {
+  "userId": "usr_0185",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-26T10:12:00+09:00"
+ },
+ {
+  "userId": "usr_0079",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-21T10:20:00+09:00"
+ },
+ {
+  "userId": "usr_0074",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-18T17:12:00+09:00"
+ },
+ {
+  "userId": "usr_0178",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-28T18:00:00+09:00"
+ },
+ {
+  "userId": "usr_0016",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-27T12:21:00+09:00"
+ },
+ {
+  "userId": "usr_0026",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-23T15:37:00+09:00"
+ },
+ {
+  "userId": "usr_0111",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-27T15:06:00+09:00"
+ },
+ {
+  "userId": "usr_0109",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-22T09:42:00+09:00"
+ },
+ {
+  "userId": "usr_0099",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-20T18:34:00+09:00"
+ },
+ {
+  "userId": "usr_0186",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-23T18:30:00+09:00"
+ },
+ {
+  "userId": "usr_0083",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-23T08:21:00+09:00"
+ },
+ {
+  "userId": "usr_0039",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-28T11:49:00+09:00"
+ },
+ {
+  "userId": "usr_0103",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-22T11:51:00+09:00"
+ },
+ {
+  "userId": "usr_0137",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-23T18:30:00+09:00"
+ },
+ {
+  "userId": "usr_0161",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-28T11:13:00+09:00"
+ },
+ {
+  "userId": "usr_0194",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-20T16:24:00+09:00"
+ },
+ {
+  "userId": "usr_0121",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-22T09:02:00+09:00"
+ },
+ {
+  "userId": "usr_0044",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-18T14:26:00+09:00"
+ },
+ {
+  "userId": "usr_0071",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-22T08:10:00+09:00"
+ },
+ {
+  "userId": "usr_0058",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-24T18:30:00+09:00"
+ },
+ {
+  "userId": "usr_0037",
+  "proposalId": "prp_00161",
+  "createdAt": "2026-05-27T18:59:00+09:00"
+ },
+ {
+  "userId": "usr_0016",
+  "proposalId": "prp_00162",
+  "createdAt": "2026-03-17T09:32:00+09:00"
+ },
+ {
+  "userId": "usr_0086",
+  "proposalId": "prp_00162",
+  "createdAt": "2026-03-12T14:13:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00162",
+  "createdAt": "2026-03-18T11:14:00+09:00"
+ },
+ {
+  "userId": "usr_0168",
+  "proposalId": "prp_00162",
+  "createdAt": "2026-03-11T11:58:00+09:00"
+ },
+ {
+  "userId": "usr_0061",
+  "proposalId": "prp_00163",
+  "createdAt": "2026-08-25T17:47:00+09:00"
+ },
+ {
+  "userId": "usr_0171",
+  "proposalId": "prp_00164",
+  "createdAt": "2026-09-11T18:22:00+09:00"
+ },
+ {
+  "userId": "usr_0034",
+  "proposalId": "prp_00165",
+  "createdAt": "2026-03-11T12:02:00+09:00"
+ },
+ {
+  "userId": "usr_0059",
+  "proposalId": "prp_00165",
+  "createdAt": "2026-03-04T12:34:00+09:00"
+ },
+ {
+  "userId": "usr_0136",
+  "proposalId": "prp_00165",
+  "createdAt": "2026-03-02T15:46:00+09:00"
+ },
+ {
+  "userId": "usr_0187",
+  "proposalId": "prp_00166",
+  "createdAt": "2026-07-04T16:45:00+09:00"
+ },
+ {
+  "userId": "usr_0018",
+  "proposalId": "prp_00166",
+  "createdAt": "2026-07-02T18:52:00+09:00"
+ },
+ {
+  "userId": "usr_0070",
+  "proposalId": "prp_00166",
+  "createdAt": "2026-06-28T18:12:00+09:00"
+ },
+ {
+  "userId": "usr_0115",
+  "proposalId": "prp_00166",
+  "createdAt": "2026-07-07T17:36:00+09:00"
+ },
+ {
+  "userId": "usr_0092",
+  "proposalId": "prp_00166",
+  "createdAt": "2026-06-30T17:57:00+09:00"
+ },
+ {
+  "userId": "usr_0059",
+  "proposalId": "prp_00166",
+  "createdAt": "2026-07-04T18:05:00+09:00"
+ },
+ {
+  "userId": "usr_0019",
+  "proposalId": "prp_00166",
+  "createdAt": "2026-06-29T10:46:00+09:00"
+ },
+ {
+  "userId": "usr_0148",
+  "proposalId": "prp_00166",
+  "createdAt": "2026-07-06T16:43:00+09:00"
+ },
+ {
+  "userId": "usr_0190",
+  "proposalId": "prp_00167",
+  "createdAt": "2026-05-19T09:20:00+09:00"
+ },
+ {
+  "userId": "usr_0052",
+  "proposalId": "prp_00167",
+  "createdAt": "2026-05-14T19:37:00+09:00"
+ },
+ {
+  "userId": "usr_0158",
+  "proposalId": "prp_00167",
+  "createdAt": "2026-05-10T10:08:00+09:00"
+ },
+ {
+  "userId": "usr_0149",
+  "proposalId": "prp_00169",
+  "createdAt": "2026-09-18T18:49:00+09:00"
+ },
+ {
+  "userId": "usr_0036",
+  "proposalId": "prp_00169",
+  "createdAt": "2026-09-20T10:45:00+09:00"
+ },
+ {
+  "userId": "usr_0156",
+  "proposalId": "prp_00169",
+  "createdAt": "2026-09-19T14:13:00+09:00"
+ },
+ {
+  "userId": "usr_0088",
+  "proposalId": "prp_00169",
+  "createdAt": "2026-09-14T12:21:00+09:00"
+ },
+ {
+  "userId": "usr_0027",
+  "proposalId": "prp_00169",
+  "createdAt": "2026-09-21T14:50:00+09:00"
+ },
+ {
+  "userId": "usr_0095",
+  "proposalId": "prp_00169",
+  "createdAt": "2026-09-15T15:05:00+09:00"
+ },
+ {
+  "userId": "usr_0019",
+  "proposalId": "prp_00169",
+  "createdAt": "2026-09-12T15:18:00+09:00"
+ },
+ {
+  "userId": "usr_0166",
+  "proposalId": "prp_00169",
+  "createdAt": "2026-09-13T15:21:00+09:00"
+ },
+ {
+  "userId": "usr_0002",
+  "proposalId": "prp_00169",
+  "createdAt": "2026-09-13T11:09:00+09:00"
+ },
+ {
+  "userId": "usr_0008",
+  "proposalId": "prp_00170",
+  "createdAt": "2026-09-15T17:13:00+09:00"
+ },
+ {
+  "userId": "usr_0123",
+  "proposalId": "prp_00170",
+  "createdAt": "2026-09-19T08:47:00+09:00"
+ },
+ {
+  "userId": "usr_0133",
+  "proposalId": "prp_00171",
+  "createdAt": "2026-02-15T18:47:00+09:00"
+ },
+ {
+  "userId": "usr_0058",
+  "proposalId": "prp_00171",
+  "createdAt": "2026-02-17T10:13:00+09:00"
+ },
+ {
+  "userId": "usr_0036",
+  "proposalId": "prp_00171",
+  "createdAt": "2026-02-21T14:49:00+09:00"
+ },
+ {
+  "userId": "usr_0041",
+  "proposalId": "prp_00171",
+  "createdAt": "2026-02-17T19:44:00+09:00"
+ },
+ {
+  "userId": "usr_0087",
+  "proposalId": "prp_00171",
+  "createdAt": "2026-02-21T12:45:00+09:00"
+ },
+ {
+  "userId": "usr_0120",
+  "proposalId": "prp_00172",
+  "createdAt": "2026-06-01T13:24:00+09:00"
+ },
+ {
+  "userId": "usr_0087",
+  "proposalId": "prp_00172",
+  "createdAt": "2026-05-27T14:32:00+09:00"
+ },
+ {
+  "userId": "usr_0046",
+  "proposalId": "prp_00172",
+  "createdAt": "2026-05-23T18:21:00+09:00"
+ },
+ {
+  "userId": "usr_0083",
+  "proposalId": "prp_00172",
+  "createdAt": "2026-06-02T17:18:00+09:00"
+ },
+ {
+  "userId": "usr_0133",
+  "proposalId": "prp_00174",
+  "createdAt": "2026-04-22T11:38:00+09:00"
+ },
+ {
+  "userId": "usr_0051",
+  "proposalId": "prp_00175",
+  "createdAt": "2026-06-19T19:58:00+09:00"
+ },
+ {
+  "userId": "usr_0098",
+  "proposalId": "prp_00175",
+  "createdAt": "2026-06-13T12:04:00+09:00"
+ },
+ {
+  "userId": "usr_0031",
+  "proposalId": "prp_00175",
+  "createdAt": "2026-06-13T10:10:00+09:00"
+ },
+ {
+  "userId": "usr_0003",
+  "proposalId": "prp_00176",
+  "createdAt": "2026-04-27T18:59:00+09:00"
+ },
+ {
+  "userId": "usr_0023",
+  "proposalId": "prp_00176",
+  "createdAt": "2026-04-29T11:40:00+09:00"
+ },
+ {
+  "userId": "usr_0164",
+  "proposalId": "prp_00177",
+  "createdAt": "2025-12-02T15:35:00+09:00"
+ },
+ {
+  "userId": "usr_0190",
+  "proposalId": "prp_00178",
+  "createdAt": "2026-05-20T10:21:00+09:00"
+ },
+ {
+  "userId": "usr_0051",
+  "proposalId": "prp_00178",
+  "createdAt": "2026-05-21T11:19:00+09:00"
+ },
+ {
+  "userId": "usr_0168",
+  "proposalId": "prp_00179",
+  "createdAt": "2026-08-27T17:32:00+09:00"
+ },
+ {
+  "userId": "usr_0183",
+  "proposalId": "prp_00179",
+  "createdAt": "2026-09-04T19:45:00+09:00"
+ },
+ {
+  "userId": "usr_0163",
+  "proposalId": "prp_00179",
+  "createdAt": "2026-08-27T14:14:00+09:00"
+ },
+ {
+  "userId": "usr_0084",
+  "proposalId": "prp_00179",
+  "createdAt": "2026-09-02T19:31:00+09:00"
+ },
+ {
+  "userId": "usr_0129",
+  "proposalId": "prp_00179",
+  "createdAt": "2026-08-28T12:45:00+09:00"
+ },
+ {
+  "userId": "usr_0013",
+  "proposalId": "prp_00179",
+  "createdAt": "2026-08-26T18:38:00+09:00"
+ },
+ {
+  "userId": "usr_0153",
+  "proposalId": "prp_00180",
+  "createdAt": "2026-03-26T16:07:00+09:00"
+ },
+ {
+  "userId": "usr_0088",
+  "proposalId": "prp_00181",
+  "createdAt": "2026-06-03T15:19:00+09:00"
+ },
+ {
+  "userId": "usr_0063",
+  "proposalId": "prp_00181",
+  "createdAt": "2026-05-30T14:13:00+09:00"
+ },
+ {
+  "userId": "usr_0130",
+  "proposalId": "prp_00182",
+  "createdAt": "2026-09-21T19:43:00+09:00"
+ },
+ {
+  "userId": "usr_0024",
+  "proposalId": "prp_00182",
+  "createdAt": "2026-09-23T12:42:00+09:00"
+ },
+ {
+  "userId": "usr_0122",
+  "proposalId": "prp_00182",
+  "createdAt": "2026-09-21T15:39:00+09:00"
+ },
+ {
+  "userId": "usr_0149",
+  "proposalId": "prp_00182",
+  "createdAt": "2026-09-28T11:48:00+09:00"
+ },
+ {
+  "userId": "usr_0071",
+  "proposalId": "prp_00182",
+  "createdAt": "2026-09-23T18:54:00+09:00"
+ },
+ {
+  "userId": "usr_0170",
+  "proposalId": "prp_00182",
+  "createdAt": "2026-09-26T11:11:00+09:00"
+ },
+ {
+  "userId": "usr_0036",
+  "proposalId": "prp_00183",
+  "createdAt": "2026-07-02T09:16:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00183",
+  "createdAt": "2026-07-09T14:57:00+09:00"
+ },
+ {
+  "userId": "usr_0107",
+  "proposalId": "prp_00183",
+  "createdAt": "2026-07-03T13:06:00+09:00"
+ },
+ {
+  "userId": "usr_0147",
+  "proposalId": "prp_00185",
+  "createdAt": "2026-02-09T15:16:00+09:00"
+ },
+ {
+  "userId": "usr_0108",
+  "proposalId": "prp_00185",
+  "createdAt": "2026-02-07T12:29:00+09:00"
+ },
+ {
+  "userId": "usr_0023",
+  "proposalId": "prp_00185",
+  "createdAt": "2026-02-09T13:09:00+09:00"
+ },
+ {
+  "userId": "usr_0016",
+  "proposalId": "prp_00185",
+  "createdAt": "2026-02-13T10:18:00+09:00"
+ },
+ {
+  "userId": "usr_0053",
+  "proposalId": "prp_00185",
+  "createdAt": "2026-02-12T11:14:00+09:00"
+ },
+ {
+  "userId": "usr_0105",
+  "proposalId": "prp_00185",
+  "createdAt": "2026-02-09T17:50:00+09:00"
+ },
+ {
+  "userId": "usr_0158",
+  "proposalId": "prp_00185",
+  "createdAt": "2026-02-15T15:44:00+09:00"
+ },
+ {
+  "userId": "usr_0037",
+  "proposalId": "prp_00185",
+  "createdAt": "2026-02-15T08:40:00+09:00"
+ },
+ {
+  "userId": "usr_0180",
+  "proposalId": "prp_00187",
+  "createdAt": "2026-07-13T14:11:00+09:00"
+ },
+ {
+  "userId": "usr_0025",
+  "proposalId": "prp_00187",
+  "createdAt": "2026-07-15T13:05:00+09:00"
+ },
+ {
+  "userId": "usr_0129",
+  "proposalId": "prp_00187",
+  "createdAt": "2026-07-18T08:56:00+09:00"
+ },
+ {
+  "userId": "usr_0063",
+  "proposalId": "prp_00188",
+  "createdAt": "2025-11-28T18:47:00+09:00"
+ },
+ {
+  "userId": "usr_0141",
+  "proposalId": "prp_00189",
+  "createdAt": "2026-01-25T08:27:00+09:00"
+ },
+ {
+  "userId": "usr_0004",
+  "proposalId": "prp_00189",
+  "createdAt": "2026-01-20T10:02:00+09:00"
+ },
+ {
+  "userId": "usr_0143",
+  "proposalId": "prp_00189",
+  "createdAt": "2026-01-22T16:47:00+09:00"
+ },
+ {
+  "userId": "usr_0032",
+  "proposalId": "prp_00190",
+  "createdAt": "2025-12-26T10:11:00+09:00"
+ },
+ {
+  "userId": "usr_0003",
+  "proposalId": "prp_00191",
+  "createdAt": "2026-10-10T15:12:00+09:00"
+ },
+ {
+  "userId": "usr_0128",
+  "proposalId": "prp_00191",
+  "createdAt": "2026-10-08T11:23:00+09:00"
+ },
+ {
+  "userId": "usr_0079",
+  "proposalId": "prp_00192",
+  "createdAt": "2026-04-28T15:21:00+09:00"
+ },
+ {
+  "userId": "usr_0134",
+  "proposalId": "prp_00192",
+  "createdAt": "2026-04-22T12:38:00+09:00"
+ },
+ {
+  "userId": "usr_0181",
+  "proposalId": "prp_00192",
+  "createdAt": "2026-04-28T17:20:00+09:00"
+ },
+ {
+  "userId": "usr_0117",
+  "proposalId": "prp_00192",
+  "createdAt": "2026-04-26T10:08:00+09:00"
+ },
+ {
+  "userId": "usr_0161",
+  "proposalId": "prp_00192",
+  "createdAt": "2026-04-26T17:40:00+09:00"
+ },
+ {
+  "userId": "usr_0083",
+  "proposalId": "prp_00192",
+  "createdAt": "2026-04-26T17:04:00+09:00"
+ },
+ {
+  "userId": "usr_0103",
+  "proposalId": "prp_00192",
+  "createdAt": "2026-04-29T19:46:00+09:00"
+ },
+ {
+  "userId": "usr_0170",
+  "proposalId": "prp_00192",
+  "createdAt": "2026-04-26T15:13:00+09:00"
+ },
+ {
+  "userId": "usr_0119",
+  "proposalId": "prp_00192",
+  "createdAt": "2026-04-29T16:59:00+09:00"
+ },
+ {
+  "userId": "usr_0018",
+  "proposalId": "prp_00192",
+  "createdAt": "2026-04-22T10:16:00+09:00"
+ },
+ {
+  "userId": "usr_0087",
+  "proposalId": "prp_00194",
+  "createdAt": "2026-03-01T10:31:00+09:00"
+ },
+ {
+  "userId": "usr_0043",
+  "proposalId": "prp_00194",
+  "createdAt": "2026-03-11T15:00:00+09:00"
+ },
+ {
+  "userId": "usr_0094",
+  "proposalId": "prp_00194",
+  "createdAt": "2026-03-03T18:29:00+09:00"
+ },
+ {
+  "userId": "usr_0044",
+  "proposalId": "prp_00194",
+  "createdAt": "2026-03-08T10:01:00+09:00"
+ },
+ {
+  "userId": "usr_0051",
+  "proposalId": "prp_00194",
+  "createdAt": "2026-03-04T13:38:00+09:00"
+ },
+ {
+  "userId": "usr_0068",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-06T10:36:00+09:00"
+ },
+ {
+  "userId": "usr_0031",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-01T15:31:00+09:00"
+ },
+ {
+  "userId": "usr_0076",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-03T15:33:00+09:00"
+ },
+ {
+  "userId": "usr_0003",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-05T11:19:00+09:00"
+ },
+ {
+  "userId": "usr_0131",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-11T10:56:00+09:00"
+ },
+ {
+  "userId": "usr_0163",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-09T08:15:00+09:00"
+ },
+ {
+  "userId": "usr_0097",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-02T14:13:00+09:00"
+ },
+ {
+  "userId": "usr_0098",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-09T16:06:00+09:00"
+ },
+ {
+  "userId": "usr_0001",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-03T11:04:00+09:00"
+ },
+ {
+  "userId": "usr_0194",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-06T09:20:00+09:00"
+ },
+ {
+  "userId": "usr_0125",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-09T16:55:00+09:00"
+ },
+ {
+  "userId": "usr_0147",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-11T09:16:00+09:00"
+ },
+ {
+  "userId": "usr_0123",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-10T15:47:00+09:00"
+ },
+ {
+  "userId": "usr_0059",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-04T13:32:00+09:00"
+ },
+ {
+  "userId": "usr_0184",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-09T11:27:00+09:00"
+ },
+ {
+  "userId": "usr_0021",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-01T10:42:00+09:00"
+ },
+ {
+  "userId": "usr_0020",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-03T15:15:00+09:00"
+ },
+ {
+  "userId": "usr_0090",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-11T19:46:00+09:00"
+ },
+ {
+  "userId": "usr_0017",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-07T13:27:00+09:00"
+ },
+ {
+  "userId": "usr_0024",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-01T17:42:00+09:00"
+ },
+ {
+  "userId": "usr_0199",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-06T14:24:00+09:00"
+ },
+ {
+  "userId": "usr_0143",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-08T09:42:00+09:00"
+ },
+ {
+  "userId": "usr_0135",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-03T15:36:00+09:00"
+ },
+ {
+  "userId": "usr_0139",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-07T15:15:00+09:00"
+ },
+ {
+  "userId": "usr_0181",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-07T08:18:00+09:00"
+ },
+ {
+  "userId": "usr_0183",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-09T16:27:00+09:00"
+ },
+ {
+  "userId": "usr_0078",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-06T19:23:00+09:00"
+ },
+ {
+  "userId": "usr_0106",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-11T08:09:00+09:00"
+ },
+ {
+  "userId": "usr_0029",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-07T08:49:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-04T17:36:00+09:00"
+ },
+ {
+  "userId": "usr_0053",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-08T16:53:00+09:00"
+ },
+ {
+  "userId": "usr_0108",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-10T08:12:00+09:00"
+ },
+ {
+  "userId": "usr_0009",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-09T15:29:00+09:00"
+ },
+ {
+  "userId": "usr_0083",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-06T12:50:00+09:00"
+ },
+ {
+  "userId": "usr_0049",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-07T10:44:00+09:00"
+ },
+ {
+  "userId": "usr_0122",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-04T12:30:00+09:00"
+ },
+ {
+  "userId": "usr_0026",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-01T10:37:00+09:00"
+ },
+ {
+  "userId": "usr_0117",
+  "proposalId": "prp_00195",
+  "createdAt": "2025-11-08T16:34:00+09:00"
+ },
+ {
+  "userId": "usr_0020",
+  "proposalId": "prp_00196",
+  "createdAt": "2026-05-01T10:05:00+09:00"
+ },
+ {
+  "userId": "usr_0034",
+  "proposalId": "prp_00196",
+  "createdAt": "2026-04-28T11:29:00+09:00"
+ },
+ {
+  "userId": "usr_0057",
+  "proposalId": "prp_00196",
+  "createdAt": "2026-04-29T19:13:00+09:00"
+ },
+ {
+  "userId": "usr_0030",
+  "proposalId": "prp_00196",
+  "createdAt": "2026-05-02T19:36:00+09:00"
+ },
+ {
+  "userId": "usr_0200",
+  "proposalId": "prp_00196",
+  "createdAt": "2026-04-25T19:19:00+09:00"
+ },
+ {
+  "userId": "usr_0048",
+  "proposalId": "prp_00196",
+  "createdAt": "2026-04-26T14:17:00+09:00"
+ },
+ {
+  "userId": "usr_0138",
+  "proposalId": "prp_00197",
+  "createdAt": "2026-04-12T10:08:00+09:00"
+ },
+ {
+  "userId": "usr_0027",
+  "proposalId": "prp_00197",
+  "createdAt": "2026-04-09T08:00:00+09:00"
+ },
+ {
+  "userId": "usr_0040",
+  "proposalId": "prp_00198",
+  "createdAt": "2026-10-11T08:53:00+09:00"
+ },
+ {
+  "userId": "usr_0178",
+  "proposalId": "prp_00198",
+  "createdAt": "2026-10-08T17:10:00+09:00"
+ },
+ {
+  "userId": "usr_0003",
+  "proposalId": "prp_00198",
+  "createdAt": "2026-10-08T18:55:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00198",
+  "createdAt": "2026-10-11T08:26:00+09:00"
+ },
+ {
+  "userId": "usr_0052",
+  "proposalId": "prp_00198",
+  "createdAt": "2026-10-11T14:08:00+09:00"
+ },
+ {
+  "userId": "usr_0039",
+  "proposalId": "prp_00198",
+  "createdAt": "2026-10-08T15:43:00+09:00"
+ },
+ {
+  "userId": "usr_0142",
+  "proposalId": "prp_00198",
+  "createdAt": "2026-10-09T08:51:00+09:00"
+ },
+ {
+  "userId": "usr_0095",
+  "proposalId": "prp_00198",
+  "createdAt": "2026-10-08T10:14:00+09:00"
+ },
+ {
+  "userId": "usr_0183",
+  "proposalId": "prp_00198",
+  "createdAt": "2026-10-11T09:04:00+09:00"
+ },
+ {
+  "userId": "usr_0165",
+  "proposalId": "prp_00198",
+  "createdAt": "2026-10-10T09:01:00+09:00"
+ },
+ {
+  "userId": "usr_0135",
+  "proposalId": "prp_00201",
+  "createdAt": "2026-04-23T10:25:00+09:00"
+ },
+ {
+  "userId": "usr_0126",
+  "proposalId": "prp_00201",
+  "createdAt": "2026-04-21T17:32:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00201",
+  "createdAt": "2026-04-26T10:09:00+09:00"
+ },
+ {
+  "userId": "usr_0054",
+  "proposalId": "prp_00201",
+  "createdAt": "2026-04-18T13:16:00+09:00"
+ },
+ {
+  "userId": "usr_0026",
+  "proposalId": "prp_00201",
+  "createdAt": "2026-04-24T13:25:00+09:00"
+ },
+ {
+  "userId": "usr_0192",
+  "proposalId": "prp_00201",
+  "createdAt": "2026-04-24T17:56:00+09:00"
+ },
+ {
+  "userId": "usr_0093",
+  "proposalId": "prp_00201",
+  "createdAt": "2026-04-20T18:48:00+09:00"
+ },
+ {
+  "userId": "usr_0194",
+  "proposalId": "prp_00201",
+  "createdAt": "2026-04-22T16:02:00+09:00"
+ },
+ {
+  "userId": "usr_0131",
+  "proposalId": "prp_00201",
+  "createdAt": "2026-04-22T12:19:00+09:00"
+ },
+ {
+  "userId": "usr_0044",
+  "proposalId": "prp_00202",
+  "createdAt": "2026-02-24T19:34:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00202",
+  "createdAt": "2026-02-25T14:56:00+09:00"
+ },
+ {
+  "userId": "usr_0045",
+  "proposalId": "prp_00202",
+  "createdAt": "2026-03-02T18:26:00+09:00"
+ },
+ {
+  "userId": "usr_0029",
+  "proposalId": "prp_00202",
+  "createdAt": "2026-03-01T11:22:00+09:00"
+ },
+ {
+  "userId": "usr_0162",
+  "proposalId": "prp_00202",
+  "createdAt": "2026-02-23T13:03:00+09:00"
+ },
+ {
+  "userId": "usr_0026",
+  "proposalId": "prp_00202",
+  "createdAt": "2026-02-22T08:49:00+09:00"
+ },
+ {
+  "userId": "usr_0195",
+  "proposalId": "prp_00202",
+  "createdAt": "2026-02-27T14:26:00+09:00"
+ },
+ {
+  "userId": "usr_0003",
+  "proposalId": "prp_00202",
+  "createdAt": "2026-02-27T08:59:00+09:00"
+ },
+ {
+  "userId": "usr_0022",
+  "proposalId": "prp_00202",
+  "createdAt": "2026-02-27T15:19:00+09:00"
+ },
+ {
+  "userId": "usr_0136",
+  "proposalId": "prp_00202",
+  "createdAt": "2026-02-25T10:52:00+09:00"
+ },
+ {
+  "userId": "usr_0028",
+  "proposalId": "prp_00202",
+  "createdAt": "2026-03-02T19:11:00+09:00"
+ },
+ {
+  "userId": "usr_0016",
+  "proposalId": "prp_00202",
+  "createdAt": "2026-02-24T11:30:00+09:00"
+ },
+ {
+  "userId": "usr_0070",
+  "proposalId": "prp_00202",
+  "createdAt": "2026-02-23T18:00:00+09:00"
+ },
+ {
+  "userId": "usr_0106",
+  "proposalId": "prp_00202",
+  "createdAt": "2026-03-04T08:44:00+09:00"
+ },
+ {
+  "userId": "usr_0163",
+  "proposalId": "prp_00203",
+  "createdAt": "2025-12-31T11:01:00+09:00"
+ },
+ {
+  "userId": "usr_0169",
+  "proposalId": "prp_00204",
+  "createdAt": "2026-05-28T08:35:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00204",
+  "createdAt": "2026-05-29T14:02:00+09:00"
+ },
+ {
+  "userId": "usr_0018",
+  "proposalId": "prp_00204",
+  "createdAt": "2026-06-01T09:56:00+09:00"
+ },
+ {
+  "userId": "usr_0183",
+  "proposalId": "prp_00205",
+  "createdAt": "2026-05-12T09:34:00+09:00"
+ },
+ {
+  "userId": "usr_0129",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-16T13:09:00+09:00"
+ },
+ {
+  "userId": "usr_0066",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-18T17:02:00+09:00"
+ },
+ {
+  "userId": "usr_0007",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-22T10:09:00+09:00"
+ },
+ {
+  "userId": "usr_0121",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-24T19:37:00+09:00"
+ },
+ {
+  "userId": "usr_0022",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-17T17:33:00+09:00"
+ },
+ {
+  "userId": "usr_0102",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-16T16:22:00+09:00"
+ },
+ {
+  "userId": "usr_0090",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-20T11:52:00+09:00"
+ },
+ {
+  "userId": "usr_0082",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-24T17:01:00+09:00"
+ },
+ {
+  "userId": "usr_0118",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-20T12:10:00+09:00"
+ },
+ {
+  "userId": "usr_0072",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-17T10:37:00+09:00"
+ },
+ {
+  "userId": "usr_0052",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-24T11:37:00+09:00"
+ },
+ {
+  "userId": "usr_0196",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-20T19:35:00+09:00"
+ },
+ {
+  "userId": "usr_0195",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-17T12:59:00+09:00"
+ },
+ {
+  "userId": "usr_0044",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-17T15:18:00+09:00"
+ },
+ {
+  "userId": "usr_0059",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-23T18:24:00+09:00"
+ },
+ {
+  "userId": "usr_0068",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-18T10:44:00+09:00"
+ },
+ {
+  "userId": "usr_0015",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-18T09:38:00+09:00"
+ },
+ {
+  "userId": "usr_0123",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-17T09:58:00+09:00"
+ },
+ {
+  "userId": "usr_0088",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-24T12:49:00+09:00"
+ },
+ {
+  "userId": "usr_0069",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-21T16:23:00+09:00"
+ },
+ {
+  "userId": "usr_0001",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-16T17:34:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00206",
+  "createdAt": "2026-09-15T17:43:00+09:00"
+ },
+ {
+  "userId": "usr_0039",
+  "proposalId": "prp_00207",
+  "createdAt": "2026-01-22T12:39:00+09:00"
+ },
+ {
+  "userId": "usr_0146",
+  "proposalId": "prp_00208",
+  "createdAt": "2025-11-05T18:55:00+09:00"
+ },
+ {
+  "userId": "usr_0141",
+  "proposalId": "prp_00210",
+  "createdAt": "2026-05-30T12:40:00+09:00"
+ },
+ {
+  "userId": "usr_0187",
+  "proposalId": "prp_00211",
+  "createdAt": "2026-02-11T09:57:00+09:00"
+ },
+ {
+  "userId": "usr_0200",
+  "proposalId": "prp_00211",
+  "createdAt": "2026-02-05T08:40:00+09:00"
+ },
+ {
+  "userId": "usr_0044",
+  "proposalId": "prp_00214",
+  "createdAt": "2026-08-16T09:19:00+09:00"
+ },
+ {
+  "userId": "usr_0006",
+  "proposalId": "prp_00214",
+  "createdAt": "2026-08-14T14:39:00+09:00"
+ },
+ {
+  "userId": "usr_0176",
+  "proposalId": "prp_00214",
+  "createdAt": "2026-08-18T11:28:00+09:00"
+ },
+ {
+  "userId": "usr_0104",
+  "proposalId": "prp_00214",
+  "createdAt": "2026-08-19T09:14:00+09:00"
+ },
+ {
+  "userId": "usr_0172",
+  "proposalId": "prp_00214",
+  "createdAt": "2026-08-11T09:51:00+09:00"
+ },
+ {
+  "userId": "usr_0034",
+  "proposalId": "prp_00214",
+  "createdAt": "2026-08-13T08:27:00+09:00"
+ },
+ {
+  "userId": "usr_0096",
+  "proposalId": "prp_00214",
+  "createdAt": "2026-08-18T12:33:00+09:00"
+ },
+ {
+  "userId": "usr_0045",
+  "proposalId": "prp_00214",
+  "createdAt": "2026-08-17T19:02:00+09:00"
+ },
+ {
+  "userId": "usr_0030",
+  "proposalId": "prp_00214",
+  "createdAt": "2026-08-09T14:39:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00214",
+  "createdAt": "2026-08-11T18:03:00+09:00"
+ },
+ {
+  "userId": "usr_0117",
+  "proposalId": "prp_00214",
+  "createdAt": "2026-08-12T13:55:00+09:00"
+ },
+ {
+  "userId": "usr_0108",
+  "proposalId": "prp_00214",
+  "createdAt": "2026-08-13T18:18:00+09:00"
+ },
+ {
+  "userId": "usr_0003",
+  "proposalId": "prp_00214",
+  "createdAt": "2026-08-19T12:36:00+09:00"
+ },
+ {
+  "userId": "usr_0090",
+  "proposalId": "prp_00215",
+  "createdAt": "2026-06-26T08:41:00+09:00"
+ },
+ {
+  "userId": "usr_0120",
+  "proposalId": "prp_00215",
+  "createdAt": "2026-07-04T14:31:00+09:00"
+ },
+ {
+  "userId": "usr_0053",
+  "proposalId": "prp_00215",
+  "createdAt": "2026-07-04T12:21:00+09:00"
+ },
+ {
+  "userId": "usr_0031",
+  "proposalId": "prp_00215",
+  "createdAt": "2026-06-29T13:16:00+09:00"
+ },
+ {
+  "userId": "usr_0092",
+  "proposalId": "prp_00215",
+  "createdAt": "2026-07-06T19:34:00+09:00"
+ },
+ {
+  "userId": "usr_0058",
+  "proposalId": "prp_00215",
+  "createdAt": "2026-07-02T18:15:00+09:00"
+ },
+ {
+  "userId": "usr_0101",
+  "proposalId": "prp_00215",
+  "createdAt": "2026-07-03T12:29:00+09:00"
+ },
+ {
+  "userId": "usr_0198",
+  "proposalId": "prp_00215",
+  "createdAt": "2026-07-02T17:40:00+09:00"
+ },
+ {
+  "userId": "usr_0102",
+  "proposalId": "prp_00215",
+  "createdAt": "2026-06-26T14:39:00+09:00"
+ },
+ {
+  "userId": "usr_0183",
+  "proposalId": "prp_00215",
+  "createdAt": "2026-06-30T09:00:00+09:00"
+ },
+ {
+  "userId": "usr_0196",
+  "proposalId": "prp_00215",
+  "createdAt": "2026-06-30T19:12:00+09:00"
+ },
+ {
+  "userId": "usr_0139",
+  "proposalId": "prp_00215",
+  "createdAt": "2026-06-29T10:22:00+09:00"
+ },
+ {
+  "userId": "usr_0062",
+  "proposalId": "prp_00215",
+  "createdAt": "2026-06-26T18:11:00+09:00"
+ },
+ {
+  "userId": "usr_0077",
+  "proposalId": "prp_00216",
+  "createdAt": "2026-04-17T16:53:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00216",
+  "createdAt": "2026-04-21T14:45:00+09:00"
+ },
+ {
+  "userId": "usr_0014",
+  "proposalId": "prp_00216",
+  "createdAt": "2026-04-12T19:18:00+09:00"
+ },
+ {
+  "userId": "usr_0192",
+  "proposalId": "prp_00216",
+  "createdAt": "2026-04-19T15:04:00+09:00"
+ },
+ {
+  "userId": "usr_0113",
+  "proposalId": "prp_00216",
+  "createdAt": "2026-04-19T19:48:00+09:00"
+ },
+ {
+  "userId": "usr_0170",
+  "proposalId": "prp_00216",
+  "createdAt": "2026-04-18T19:16:00+09:00"
+ },
+ {
+  "userId": "usr_0076",
+  "proposalId": "prp_00216",
+  "createdAt": "2026-04-18T11:25:00+09:00"
+ },
+ {
+  "userId": "usr_0179",
+  "proposalId": "prp_00217",
+  "createdAt": "2025-11-02T13:37:00+09:00"
+ },
+ {
+  "userId": "usr_0060",
+  "proposalId": "prp_00217",
+  "createdAt": "2025-11-10T19:41:00+09:00"
+ },
+ {
+  "userId": "usr_0149",
+  "proposalId": "prp_00217",
+  "createdAt": "2025-11-03T09:46:00+09:00"
+ },
+ {
+  "userId": "usr_0196",
+  "proposalId": "prp_00217",
+  "createdAt": "2025-11-01T17:37:00+09:00"
+ },
+ {
+  "userId": "usr_0173",
+  "proposalId": "prp_00217",
+  "createdAt": "2025-11-08T11:16:00+09:00"
+ },
+ {
+  "userId": "usr_0014",
+  "proposalId": "prp_00217",
+  "createdAt": "2025-11-04T16:02:00+09:00"
+ },
+ {
+  "userId": "usr_0172",
+  "proposalId": "prp_00217",
+  "createdAt": "2025-11-10T17:05:00+09:00"
+ },
+ {
+  "userId": "usr_0038",
+  "proposalId": "prp_00217",
+  "createdAt": "2025-11-01T14:30:00+09:00"
+ },
+ {
+  "userId": "usr_0101",
+  "proposalId": "prp_00217",
+  "createdAt": "2025-11-09T17:37:00+09:00"
+ },
+ {
+  "userId": "usr_0190",
+  "proposalId": "prp_00218",
+  "createdAt": "2026-05-10T17:55:00+09:00"
+ },
+ {
+  "userId": "usr_0063",
+  "proposalId": "prp_00219",
+  "createdAt": "2026-09-09T16:33:00+09:00"
+ },
+ {
+  "userId": "usr_0054",
+  "proposalId": "prp_00219",
+  "createdAt": "2026-09-11T11:22:00+09:00"
+ },
+ {
+  "userId": "usr_0134",
+  "proposalId": "prp_00219",
+  "createdAt": "2026-09-14T10:36:00+09:00"
+ },
+ {
+  "userId": "usr_0046",
+  "proposalId": "prp_00219",
+  "createdAt": "2026-09-15T08:53:00+09:00"
+ },
+ {
+  "userId": "usr_0157",
+  "proposalId": "prp_00219",
+  "createdAt": "2026-09-08T08:19:00+09:00"
+ },
+ {
+  "userId": "usr_0126",
+  "proposalId": "prp_00219",
+  "createdAt": "2026-09-12T18:20:00+09:00"
+ },
+ {
+  "userId": "usr_0009",
+  "proposalId": "prp_00219",
+  "createdAt": "2026-09-10T10:35:00+09:00"
+ },
+ {
+  "userId": "usr_0112",
+  "proposalId": "prp_00219",
+  "createdAt": "2026-09-10T09:37:00+09:00"
+ },
+ {
+  "userId": "usr_0130",
+  "proposalId": "prp_00220",
+  "createdAt": "2026-06-14T16:04:00+09:00"
+ },
+ {
+  "userId": "usr_0191",
+  "proposalId": "prp_00220",
+  "createdAt": "2026-06-09T14:08:00+09:00"
+ },
+ {
+  "userId": "usr_0013",
+  "proposalId": "prp_00220",
+  "createdAt": "2026-06-10T11:58:00+09:00"
+ },
+ {
+  "userId": "usr_0117",
+  "proposalId": "prp_00220",
+  "createdAt": "2026-06-12T14:06:00+09:00"
+ },
+ {
+  "userId": "usr_0150",
+  "proposalId": "prp_00220",
+  "createdAt": "2026-06-13T14:44:00+09:00"
+ },
+ {
+  "userId": "usr_0004",
+  "proposalId": "prp_00220",
+  "createdAt": "2026-06-04T16:45:00+09:00"
+ },
+ {
+  "userId": "usr_0139",
+  "proposalId": "prp_00220",
+  "createdAt": "2026-06-14T08:26:00+09:00"
+ },
+ {
+  "userId": "usr_0102",
+  "proposalId": "prp_00220",
+  "createdAt": "2026-06-08T14:23:00+09:00"
+ },
+ {
+  "userId": "usr_0057",
+  "proposalId": "prp_00220",
+  "createdAt": "2026-06-12T16:37:00+09:00"
+ },
+ {
+  "userId": "usr_0170",
+  "proposalId": "prp_00220",
+  "createdAt": "2026-06-04T18:03:00+09:00"
+ },
+ {
+  "userId": "usr_0060",
+  "proposalId": "prp_00220",
+  "createdAt": "2026-06-07T15:56:00+09:00"
+ },
+ {
+  "userId": "usr_0146",
+  "proposalId": "prp_00220",
+  "createdAt": "2026-06-07T11:42:00+09:00"
+ },
+ {
+  "userId": "usr_0106",
+  "proposalId": "prp_00220",
+  "createdAt": "2026-06-14T13:32:00+09:00"
+ },
+ {
+  "userId": "usr_0135",
+  "proposalId": "prp_00221",
+  "createdAt": "2026-06-11T19:20:00+09:00"
+ },
+ {
+  "userId": "usr_0157",
+  "proposalId": "prp_00224",
+  "createdAt": "2025-11-07T15:08:00+09:00"
+ },
+ {
+  "userId": "usr_0061",
+  "proposalId": "prp_00224",
+  "createdAt": "2025-11-08T12:29:00+09:00"
+ },
+ {
+  "userId": "usr_0176",
+  "proposalId": "prp_00226",
+  "createdAt": "2026-04-03T18:24:00+09:00"
+ },
+ {
+  "userId": "usr_0072",
+  "proposalId": "prp_00226",
+  "createdAt": "2026-04-06T19:30:00+09:00"
+ },
+ {
+  "userId": "usr_0139",
+  "proposalId": "prp_00226",
+  "createdAt": "2026-04-05T08:30:00+09:00"
+ },
+ {
+  "userId": "usr_0011",
+  "proposalId": "prp_00227",
+  "createdAt": "2026-05-23T10:23:00+09:00"
+ },
+ {
+  "userId": "usr_0101",
+  "proposalId": "prp_00228",
+  "createdAt": "2026-05-07T19:19:00+09:00"
+ },
+ {
+  "userId": "usr_0026",
+  "proposalId": "prp_00228",
+  "createdAt": "2026-05-04T09:36:00+09:00"
+ },
+ {
+  "userId": "usr_0056",
+  "proposalId": "prp_00228",
+  "createdAt": "2026-05-01T11:28:00+09:00"
+ },
+ {
+  "userId": "usr_0163",
+  "proposalId": "prp_00228",
+  "createdAt": "2026-05-08T11:15:00+09:00"
+ },
+ {
+  "userId": "usr_0018",
+  "proposalId": "prp_00228",
+  "createdAt": "2026-05-04T10:00:00+09:00"
+ },
+ {
+  "userId": "usr_0175",
+  "proposalId": "prp_00228",
+  "createdAt": "2026-05-11T13:33:00+09:00"
+ },
+ {
+  "userId": "usr_0083",
+  "proposalId": "prp_00228",
+  "createdAt": "2026-05-11T15:42:00+09:00"
+ },
+ {
+  "userId": "usr_0179",
+  "proposalId": "prp_00228",
+  "createdAt": "2026-05-06T12:29:00+09:00"
+ },
+ {
+  "userId": "usr_0009",
+  "proposalId": "prp_00228",
+  "createdAt": "2026-05-02T14:33:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00228",
+  "createdAt": "2026-05-11T15:50:00+09:00"
+ },
+ {
+  "userId": "usr_0156",
+  "proposalId": "prp_00229",
+  "createdAt": "2026-06-12T16:56:00+09:00"
+ },
+ {
+  "userId": "usr_0185",
+  "proposalId": "prp_00229",
+  "createdAt": "2026-06-13T16:43:00+09:00"
+ },
+ {
+  "userId": "usr_0060",
+  "proposalId": "prp_00229",
+  "createdAt": "2026-06-21T19:58:00+09:00"
+ },
+ {
+  "userId": "usr_0154",
+  "proposalId": "prp_00229",
+  "createdAt": "2026-06-16T13:20:00+09:00"
+ },
+ {
+  "userId": "usr_0182",
+  "proposalId": "prp_00229",
+  "createdAt": "2026-06-15T16:56:00+09:00"
+ },
+ {
+  "userId": "usr_0177",
+  "proposalId": "prp_00229",
+  "createdAt": "2026-06-14T19:55:00+09:00"
+ },
+ {
+  "userId": "usr_0127",
+  "proposalId": "prp_00229",
+  "createdAt": "2026-06-15T12:44:00+09:00"
+ },
+ {
+  "userId": "usr_0061",
+  "proposalId": "prp_00229",
+  "createdAt": "2026-06-18T14:09:00+09:00"
+ },
+ {
+  "userId": "usr_0190",
+  "proposalId": "prp_00229",
+  "createdAt": "2026-06-15T17:53:00+09:00"
+ },
+ {
+  "userId": "usr_0038",
+  "proposalId": "prp_00230",
+  "createdAt": "2026-04-27T16:43:00+09:00"
+ },
+ {
+  "userId": "usr_0110",
+  "proposalId": "prp_00230",
+  "createdAt": "2026-05-06T18:48:00+09:00"
+ },
+ {
+  "userId": "usr_0049",
+  "proposalId": "prp_00230",
+  "createdAt": "2026-05-03T08:35:00+09:00"
+ },
+ {
+  "userId": "usr_0053",
+  "proposalId": "prp_00230",
+  "createdAt": "2026-05-03T10:36:00+09:00"
+ },
+ {
+  "userId": "usr_0091",
+  "proposalId": "prp_00230",
+  "createdAt": "2026-05-02T18:38:00+09:00"
+ },
+ {
+  "userId": "usr_0055",
+  "proposalId": "prp_00230",
+  "createdAt": "2026-05-04T10:15:00+09:00"
+ },
+ {
+  "userId": "usr_0069",
+  "proposalId": "prp_00230",
+  "createdAt": "2026-05-01T09:07:00+09:00"
+ },
+ {
+  "userId": "usr_0072",
+  "proposalId": "prp_00231",
+  "createdAt": "2025-12-21T09:18:00+09:00"
+ },
+ {
+  "userId": "usr_0098",
+  "proposalId": "prp_00231",
+  "createdAt": "2025-12-21T19:52:00+09:00"
+ },
+ {
+  "userId": "usr_0168",
+  "proposalId": "prp_00231",
+  "createdAt": "2025-12-19T09:39:00+09:00"
+ },
+ {
+  "userId": "usr_0167",
+  "proposalId": "prp_00231",
+  "createdAt": "2025-12-17T13:20:00+09:00"
+ },
+ {
+  "userId": "usr_0136",
+  "proposalId": "prp_00232",
+  "createdAt": "2026-06-20T10:46:00+09:00"
+ },
+ {
+  "userId": "usr_0184",
+  "proposalId": "prp_00232",
+  "createdAt": "2026-06-25T08:34:00+09:00"
+ },
+ {
+  "userId": "usr_0156",
+  "proposalId": "prp_00232",
+  "createdAt": "2026-06-27T16:21:00+09:00"
+ },
+ {
+  "userId": "usr_0164",
+  "proposalId": "prp_00232",
+  "createdAt": "2026-06-23T16:59:00+09:00"
+ },
+ {
+  "userId": "usr_0034",
+  "proposalId": "prp_00232",
+  "createdAt": "2026-06-28T19:09:00+09:00"
+ },
+ {
+  "userId": "usr_0090",
+  "proposalId": "prp_00233",
+  "createdAt": "2025-12-28T10:25:00+09:00"
+ },
+ {
+  "userId": "usr_0127",
+  "proposalId": "prp_00233",
+  "createdAt": "2025-12-31T12:06:00+09:00"
+ },
+ {
+  "userId": "usr_0181",
+  "proposalId": "prp_00233",
+  "createdAt": "2025-12-22T12:07:00+09:00"
+ },
+ {
+  "userId": "usr_0173",
+  "proposalId": "prp_00233",
+  "createdAt": "2025-12-29T18:43:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00233",
+  "createdAt": "2025-12-22T16:59:00+09:00"
+ },
+ {
+  "userId": "usr_0162",
+  "proposalId": "prp_00233",
+  "createdAt": "2025-12-26T08:30:00+09:00"
+ },
+ {
+  "userId": "usr_0141",
+  "proposalId": "prp_00234",
+  "createdAt": "2026-01-06T09:00:00+09:00"
+ },
+ {
+  "userId": "usr_0099",
+  "proposalId": "prp_00235",
+  "createdAt": "2026-05-12T11:46:00+09:00"
+ },
+ {
+  "userId": "usr_0154",
+  "proposalId": "prp_00235",
+  "createdAt": "2026-05-06T12:52:00+09:00"
+ },
+ {
+  "userId": "usr_0188",
+  "proposalId": "prp_00235",
+  "createdAt": "2026-05-08T15:19:00+09:00"
+ },
+ {
+  "userId": "usr_0082",
+  "proposalId": "prp_00235",
+  "createdAt": "2026-05-13T12:00:00+09:00"
+ },
+ {
+  "userId": "usr_0146",
+  "proposalId": "prp_00235",
+  "createdAt": "2026-05-11T19:28:00+09:00"
+ },
+ {
+  "userId": "usr_0117",
+  "proposalId": "prp_00235",
+  "createdAt": "2026-05-15T12:37:00+09:00"
+ },
+ {
+  "userId": "usr_0074",
+  "proposalId": "prp_00235",
+  "createdAt": "2026-05-09T10:53:00+09:00"
+ },
+ {
+  "userId": "usr_0185",
+  "proposalId": "prp_00235",
+  "createdAt": "2026-05-06T09:49:00+09:00"
+ },
+ {
+  "userId": "usr_0040",
+  "proposalId": "prp_00235",
+  "createdAt": "2026-05-07T09:02:00+09:00"
+ },
+ {
+  "userId": "usr_0197",
+  "proposalId": "prp_00235",
+  "createdAt": "2026-05-11T17:56:00+09:00"
+ },
+ {
+  "userId": "usr_0072",
+  "proposalId": "prp_00235",
+  "createdAt": "2026-05-06T17:25:00+09:00"
+ },
+ {
+  "userId": "usr_0014",
+  "proposalId": "prp_00236",
+  "createdAt": "2026-05-17T14:41:00+09:00"
+ },
+ {
+  "userId": "usr_0096",
+  "proposalId": "prp_00236",
+  "createdAt": "2026-05-25T13:21:00+09:00"
+ },
+ {
+  "userId": "usr_0188",
+  "proposalId": "prp_00237",
+  "createdAt": "2026-05-09T15:11:00+09:00"
+ },
+ {
+  "userId": "usr_0099",
+  "proposalId": "prp_00237",
+  "createdAt": "2026-05-06T11:42:00+09:00"
+ },
+ {
+  "userId": "usr_0185",
+  "proposalId": "prp_00238",
+  "createdAt": "2026-03-28T11:54:00+09:00"
+ },
+ {
+  "userId": "usr_0050",
+  "proposalId": "prp_00238",
+  "createdAt": "2026-04-01T12:10:00+09:00"
+ },
+ {
+  "userId": "usr_0094",
+  "proposalId": "prp_00238",
+  "createdAt": "2026-04-01T12:03:00+09:00"
+ },
+ {
+  "userId": "usr_0043",
+  "proposalId": "prp_00239",
+  "createdAt": "2026-03-11T15:55:00+09:00"
+ },
+ {
+  "userId": "usr_0171",
+  "proposalId": "prp_00239",
+  "createdAt": "2026-03-09T17:30:00+09:00"
+ },
+ {
+  "userId": "usr_0099",
+  "proposalId": "prp_00239",
+  "createdAt": "2026-03-12T08:54:00+09:00"
+ },
+ {
+  "userId": "usr_0081",
+  "proposalId": "prp_00239",
+  "createdAt": "2026-03-12T14:22:00+09:00"
+ },
+ {
+  "userId": "usr_0045",
+  "proposalId": "prp_00239",
+  "createdAt": "2026-03-13T08:30:00+09:00"
+ },
+ {
+  "userId": "usr_0121",
+  "proposalId": "prp_00239",
+  "createdAt": "2026-03-12T13:03:00+09:00"
+ },
+ {
+  "userId": "usr_0193",
+  "proposalId": "prp_00239",
+  "createdAt": "2026-03-08T19:05:00+09:00"
+ },
+ {
+  "userId": "usr_0034",
+  "proposalId": "prp_00239",
+  "createdAt": "2026-03-07T18:32:00+09:00"
+ },
+ {
+  "userId": "usr_0050",
+  "proposalId": "prp_00239",
+  "createdAt": "2026-03-15T16:04:00+09:00"
+ },
+ {
+  "userId": "usr_0015",
+  "proposalId": "prp_00239",
+  "createdAt": "2026-03-11T14:38:00+09:00"
+ },
+ {
+  "userId": "usr_0069",
+  "proposalId": "prp_00239",
+  "createdAt": "2026-03-08T15:35:00+09:00"
+ },
+ {
+  "userId": "usr_0109",
+  "proposalId": "prp_00239",
+  "createdAt": "2026-03-15T18:15:00+09:00"
+ },
+ {
+  "userId": "usr_0146",
+  "proposalId": "prp_00240",
+  "createdAt": "2026-04-07T08:42:00+09:00"
+ },
+ {
+  "userId": "usr_0095",
+  "proposalId": "prp_00240",
+  "createdAt": "2026-04-15T10:31:00+09:00"
+ },
+ {
+  "userId": "usr_0070",
+  "proposalId": "prp_00240",
+  "createdAt": "2026-04-09T14:36:00+09:00"
+ },
+ {
+  "userId": "usr_0047",
+  "proposalId": "prp_00240",
+  "createdAt": "2026-04-09T11:29:00+09:00"
+ },
+ {
+  "userId": "usr_0123",
+  "proposalId": "prp_00240",
+  "createdAt": "2026-04-08T08:52:00+09:00"
+ },
+ {
+  "userId": "usr_0022",
+  "proposalId": "prp_00240",
+  "createdAt": "2026-04-09T19:23:00+09:00"
+ },
+ {
+  "userId": "usr_0092",
+  "proposalId": "prp_00240",
+  "createdAt": "2026-04-13T14:02:00+09:00"
+ },
+ {
+  "userId": "usr_0104",
+  "proposalId": "prp_00240",
+  "createdAt": "2026-04-09T19:12:00+09:00"
+ },
+ {
+  "userId": "usr_0007",
+  "proposalId": "prp_00240",
+  "createdAt": "2026-04-09T08:29:00+09:00"
+ },
+ {
+  "userId": "usr_0142",
+  "proposalId": "prp_00241",
+  "createdAt": "2026-05-18T09:27:00+09:00"
+ },
+ {
+  "userId": "usr_0038",
+  "proposalId": "prp_00241",
+  "createdAt": "2026-05-13T18:04:00+09:00"
+ },
+ {
+  "userId": "usr_0041",
+  "proposalId": "prp_00241",
+  "createdAt": "2026-05-23T16:07:00+09:00"
+ },
+ {
+  "userId": "usr_0179",
+  "proposalId": "prp_00241",
+  "createdAt": "2026-05-19T18:40:00+09:00"
+ },
+ {
+  "userId": "usr_0124",
+  "proposalId": "prp_00241",
+  "createdAt": "2026-05-17T12:27:00+09:00"
+ },
+ {
+  "userId": "usr_0180",
+  "proposalId": "prp_00242",
+  "createdAt": "2025-12-15T15:53:00+09:00"
+ },
+ {
+  "userId": "usr_0111",
+  "proposalId": "prp_00242",
+  "createdAt": "2025-12-21T12:34:00+09:00"
+ },
+ {
+  "userId": "usr_0031",
+  "proposalId": "prp_00242",
+  "createdAt": "2025-12-22T09:28:00+09:00"
+ },
+ {
+  "userId": "usr_0094",
+  "proposalId": "prp_00242",
+  "createdAt": "2025-12-18T14:54:00+09:00"
+ },
+ {
+  "userId": "usr_0038",
+  "proposalId": "prp_00242",
+  "createdAt": "2025-12-14T19:48:00+09:00"
+ },
+ {
+  "userId": "usr_0057",
+  "proposalId": "prp_00242",
+  "createdAt": "2025-12-13T16:53:00+09:00"
+ },
+ {
+  "userId": "usr_0084",
+  "proposalId": "prp_00242",
+  "createdAt": "2025-12-15T09:06:00+09:00"
+ },
+ {
+  "userId": "usr_0059",
+  "proposalId": "prp_00242",
+  "createdAt": "2025-12-15T19:08:00+09:00"
+ },
+ {
+  "userId": "usr_0043",
+  "proposalId": "prp_00242",
+  "createdAt": "2025-12-20T10:45:00+09:00"
+ },
+ {
+  "userId": "usr_0144",
+  "proposalId": "prp_00242",
+  "createdAt": "2025-12-19T14:29:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00242",
+  "createdAt": "2025-12-21T10:55:00+09:00"
+ },
+ {
+  "userId": "usr_0103",
+  "proposalId": "prp_00242",
+  "createdAt": "2025-12-23T19:15:00+09:00"
+ },
+ {
+  "userId": "usr_0105",
+  "proposalId": "prp_00243",
+  "createdAt": "2026-06-10T13:40:00+09:00"
+ },
+ {
+  "userId": "usr_0126",
+  "proposalId": "prp_00243",
+  "createdAt": "2026-06-16T15:46:00+09:00"
+ },
+ {
+  "userId": "usr_0197",
+  "proposalId": "prp_00243",
+  "createdAt": "2026-06-17T13:01:00+09:00"
+ },
+ {
+  "userId": "usr_0149",
+  "proposalId": "prp_00243",
+  "createdAt": "2026-06-08T18:05:00+09:00"
+ },
+ {
+  "userId": "usr_0037",
+  "proposalId": "prp_00243",
+  "createdAt": "2026-06-11T10:01:00+09:00"
+ },
+ {
+  "userId": "usr_0057",
+  "proposalId": "prp_00245",
+  "createdAt": "2026-06-17T18:56:00+09:00"
+ },
+ {
+  "userId": "usr_0071",
+  "proposalId": "prp_00245",
+  "createdAt": "2026-06-07T15:10:00+09:00"
+ },
+ {
+  "userId": "usr_0107",
+  "proposalId": "prp_00245",
+  "createdAt": "2026-06-10T13:00:00+09:00"
+ },
+ {
+  "userId": "usr_0199",
+  "proposalId": "prp_00245",
+  "createdAt": "2026-06-07T14:44:00+09:00"
+ },
+ {
+  "userId": "usr_0183",
+  "proposalId": "prp_00245",
+  "createdAt": "2026-06-11T09:41:00+09:00"
+ },
+ {
+  "userId": "usr_0091",
+  "proposalId": "prp_00245",
+  "createdAt": "2026-06-12T16:06:00+09:00"
+ },
+ {
+  "userId": "usr_0161",
+  "proposalId": "prp_00245",
+  "createdAt": "2026-06-13T11:10:00+09:00"
+ },
+ {
+  "userId": "usr_0014",
+  "proposalId": "prp_00245",
+  "createdAt": "2026-06-13T13:59:00+09:00"
+ },
+ {
+  "userId": "usr_0176",
+  "proposalId": "prp_00245",
+  "createdAt": "2026-06-11T13:47:00+09:00"
+ },
+ {
+  "userId": "usr_0033",
+  "proposalId": "prp_00245",
+  "createdAt": "2026-06-09T19:16:00+09:00"
+ },
+ {
+  "userId": "usr_0115",
+  "proposalId": "prp_00245",
+  "createdAt": "2026-06-09T17:54:00+09:00"
+ },
+ {
+  "userId": "usr_0126",
+  "proposalId": "prp_00245",
+  "createdAt": "2026-06-16T16:03:00+09:00"
+ },
+ {
+  "userId": "usr_0065",
+  "proposalId": "prp_00245",
+  "createdAt": "2026-06-17T13:00:00+09:00"
+ },
+ {
+  "userId": "usr_0011",
+  "proposalId": "prp_00247",
+  "createdAt": "2025-10-22T12:11:00+09:00"
+ },
+ {
+  "userId": "usr_0191",
+  "proposalId": "prp_00247",
+  "createdAt": "2025-10-23T12:34:00+09:00"
+ },
+ {
+  "userId": "usr_0158",
+  "proposalId": "prp_00247",
+  "createdAt": "2025-10-25T15:18:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00249",
+  "createdAt": "2026-06-02T15:12:00+09:00"
+ },
+ {
+  "userId": "usr_0149",
+  "proposalId": "prp_00250",
+  "createdAt": "2026-04-14T15:04:00+09:00"
+ },
+ {
+  "userId": "usr_0063",
+  "proposalId": "prp_00250",
+  "createdAt": "2026-04-09T09:31:00+09:00"
+ },
+ {
+  "userId": "usr_0054",
+  "proposalId": "prp_00250",
+  "createdAt": "2026-04-15T09:30:00+09:00"
+ },
+ {
+  "userId": "usr_0168",
+  "proposalId": "prp_00250",
+  "createdAt": "2026-04-18T14:59:00+09:00"
+ },
+ {
+  "userId": "usr_0056",
+  "proposalId": "prp_00250",
+  "createdAt": "2026-04-12T12:49:00+09:00"
+ },
+ {
+  "userId": "usr_0175",
+  "proposalId": "prp_00250",
+  "createdAt": "2026-04-09T08:34:00+09:00"
+ },
+ {
+  "userId": "usr_0045",
+  "proposalId": "prp_00251",
+  "createdAt": "2026-09-11T19:20:00+09:00"
+ },
+ {
+  "userId": "usr_0112",
+  "proposalId": "prp_00251",
+  "createdAt": "2026-09-21T15:38:00+09:00"
+ },
+ {
+  "userId": "usr_0029",
+  "proposalId": "prp_00251",
+  "createdAt": "2026-09-21T15:27:00+09:00"
+ },
+ {
+  "userId": "usr_0120",
+  "proposalId": "prp_00252",
+  "createdAt": "2025-11-27T12:34:00+09:00"
+ },
+ {
+  "userId": "usr_0111",
+  "proposalId": "prp_00252",
+  "createdAt": "2025-12-01T18:08:00+09:00"
+ },
+ {
+  "userId": "usr_0092",
+  "proposalId": "prp_00252",
+  "createdAt": "2025-12-02T14:14:00+09:00"
+ },
+ {
+  "userId": "usr_0044",
+  "proposalId": "prp_00252",
+  "createdAt": "2025-12-02T10:57:00+09:00"
+ },
+ {
+  "userId": "usr_0035",
+  "proposalId": "prp_00253",
+  "createdAt": "2026-05-01T15:45:00+09:00"
+ },
+ {
+  "userId": "usr_0175",
+  "proposalId": "prp_00253",
+  "createdAt": "2026-05-08T14:09:00+09:00"
+ },
+ {
+  "userId": "usr_0169",
+  "proposalId": "prp_00253",
+  "createdAt": "2026-05-01T19:57:00+09:00"
+ },
+ {
+  "userId": "usr_0006",
+  "proposalId": "prp_00253",
+  "createdAt": "2026-04-30T11:33:00+09:00"
+ },
+ {
+  "userId": "usr_0179",
+  "proposalId": "prp_00253",
+  "createdAt": "2026-05-01T10:24:00+09:00"
+ },
+ {
+  "userId": "usr_0102",
+  "proposalId": "prp_00253",
+  "createdAt": "2026-04-29T17:05:00+09:00"
+ },
+ {
+  "userId": "usr_0177",
+  "proposalId": "prp_00254",
+  "createdAt": "2026-05-21T16:58:00+09:00"
+ },
+ {
+  "userId": "usr_0033",
+  "proposalId": "prp_00254",
+  "createdAt": "2026-05-21T15:17:00+09:00"
+ },
+ {
+  "userId": "usr_0182",
+  "proposalId": "prp_00254",
+  "createdAt": "2026-05-21T09:38:00+09:00"
+ },
+ {
+  "userId": "usr_0158",
+  "proposalId": "prp_00254",
+  "createdAt": "2026-05-27T17:42:00+09:00"
+ },
+ {
+  "userId": "usr_0174",
+  "proposalId": "prp_00254",
+  "createdAt": "2026-05-17T10:29:00+09:00"
+ },
+ {
+  "userId": "usr_0186",
+  "proposalId": "prp_00254",
+  "createdAt": "2026-05-24T09:52:00+09:00"
+ },
+ {
+  "userId": "usr_0125",
+  "proposalId": "prp_00254",
+  "createdAt": "2026-05-23T12:12:00+09:00"
+ },
+ {
+  "userId": "usr_0065",
+  "proposalId": "prp_00254",
+  "createdAt": "2026-05-27T11:50:00+09:00"
+ },
+ {
+  "userId": "usr_0052",
+  "proposalId": "prp_00254",
+  "createdAt": "2026-05-24T09:49:00+09:00"
+ },
+ {
+  "userId": "usr_0051",
+  "proposalId": "prp_00254",
+  "createdAt": "2026-05-18T17:17:00+09:00"
+ },
+ {
+  "userId": "usr_0018",
+  "proposalId": "prp_00254",
+  "createdAt": "2026-05-25T11:45:00+09:00"
+ },
+ {
+  "userId": "usr_0016",
+  "proposalId": "prp_00254",
+  "createdAt": "2026-05-26T11:38:00+09:00"
+ },
+ {
+  "userId": "usr_0100",
+  "proposalId": "prp_00254",
+  "createdAt": "2026-05-17T14:42:00+09:00"
+ },
+ {
+  "userId": "usr_0095",
+  "proposalId": "prp_00257",
+  "createdAt": "2026-06-12T09:32:00+09:00"
+ },
+ {
+  "userId": "usr_0119",
+  "proposalId": "prp_00257",
+  "createdAt": "2026-06-15T10:13:00+09:00"
+ },
+ {
+  "userId": "usr_0166",
+  "proposalId": "prp_00258",
+  "createdAt": "2026-09-09T16:30:00+09:00"
+ },
+ {
+  "userId": "usr_0002",
+  "proposalId": "prp_00258",
+  "createdAt": "2026-09-09T12:56:00+09:00"
+ },
+ {
+  "userId": "usr_0160",
+  "proposalId": "prp_00260",
+  "createdAt": "2026-03-01T18:25:00+09:00"
+ },
+ {
+  "userId": "usr_0127",
+  "proposalId": "prp_00260",
+  "createdAt": "2026-03-11T14:57:00+09:00"
+ },
+ {
+  "userId": "usr_0044",
+  "proposalId": "prp_00260",
+  "createdAt": "2026-03-05T11:16:00+09:00"
+ },
+ {
+  "userId": "usr_0012",
+  "proposalId": "prp_00260",
+  "createdAt": "2026-03-09T18:40:00+09:00"
+ },
+ {
+  "userId": "usr_0007",
+  "proposalId": "prp_00260",
+  "createdAt": "2026-03-11T09:26:00+09:00"
+ },
+ {
+  "userId": "usr_0002",
+  "proposalId": "prp_00260",
+  "createdAt": "2026-03-07T13:28:00+09:00"
+ },
+ {
+  "userId": "usr_0075",
+  "proposalId": "prp_00260",
+  "createdAt": "2026-03-09T11:44:00+09:00"
+ },
+ {
+  "userId": "usr_0185",
+  "proposalId": "prp_00261",
+  "createdAt": "2026-07-28T17:21:00+09:00"
+ },
+ {
+  "userId": "usr_0036",
+  "proposalId": "prp_00261",
+  "createdAt": "2026-07-20T14:38:00+09:00"
+ },
+ {
+  "userId": "usr_0106",
+  "proposalId": "prp_00262",
+  "createdAt": "2026-07-08T15:28:00+09:00"
+ },
+ {
+  "userId": "usr_0193",
+  "proposalId": "prp_00264",
+  "createdAt": "2026-04-25T15:11:00+09:00"
+ },
+ {
+  "userId": "usr_0090",
+  "proposalId": "prp_00264",
+  "createdAt": "2026-04-24T13:26:00+09:00"
+ },
+ {
+  "userId": "usr_0114",
+  "proposalId": "prp_00265",
+  "createdAt": "2026-04-27T12:27:00+09:00"
+ },
+ {
+  "userId": "usr_0100",
+  "proposalId": "prp_00265",
+  "createdAt": "2026-05-03T08:12:00+09:00"
+ },
+ {
+  "userId": "usr_0079",
+  "proposalId": "prp_00265",
+  "createdAt": "2026-05-03T16:07:00+09:00"
+ },
+ {
+  "userId": "usr_0176",
+  "proposalId": "prp_00265",
+  "createdAt": "2026-04-28T13:02:00+09:00"
+ },
+ {
+  "userId": "usr_0168",
+  "proposalId": "prp_00265",
+  "createdAt": "2026-04-26T11:43:00+09:00"
+ },
+ {
+  "userId": "usr_0042",
+  "proposalId": "prp_00265",
+  "createdAt": "2026-04-24T15:39:00+09:00"
+ },
+ {
+  "userId": "usr_0022",
+  "proposalId": "prp_00265",
+  "createdAt": "2026-04-28T12:27:00+09:00"
+ },
+ {
+  "userId": "usr_0188",
+  "proposalId": "prp_00265",
+  "createdAt": "2026-04-28T14:40:00+09:00"
+ },
+ {
+  "userId": "usr_0182",
+  "proposalId": "prp_00265",
+  "createdAt": "2026-04-27T11:23:00+09:00"
+ },
+ {
+  "userId": "usr_0130",
+  "proposalId": "prp_00266",
+  "createdAt": "2026-02-09T12:37:00+09:00"
+ },
+ {
+  "userId": "usr_0005",
+  "proposalId": "prp_00268",
+  "createdAt": "2026-09-19T13:06:00+09:00"
+ },
+ {
+  "userId": "usr_0025",
+  "proposalId": "prp_00269",
+  "createdAt": "2026-05-21T18:57:00+09:00"
+ },
+ {
+  "userId": "usr_0101",
+  "proposalId": "prp_00271",
+  "createdAt": "2026-03-31T19:20:00+09:00"
+ },
+ {
+  "userId": "usr_0046",
+  "proposalId": "prp_00271",
+  "createdAt": "2026-04-03T16:43:00+09:00"
+ },
+ {
+  "userId": "usr_0193",
+  "proposalId": "prp_00271",
+  "createdAt": "2026-03-28T19:22:00+09:00"
+ },
+ {
+  "userId": "usr_0037",
+  "proposalId": "prp_00271",
+  "createdAt": "2026-03-31T17:18:00+09:00"
+ },
+ {
+  "userId": "usr_0165",
+  "proposalId": "prp_00271",
+  "createdAt": "2026-03-31T15:34:00+09:00"
+ },
+ {
+  "userId": "usr_0070",
+  "proposalId": "prp_00272",
+  "createdAt": "2025-12-23T17:30:00+09:00"
+ },
+ {
+  "userId": "usr_0142",
+  "proposalId": "prp_00274",
+  "createdAt": "2026-04-22T10:45:00+09:00"
+ },
+ {
+  "userId": "usr_0161",
+  "proposalId": "prp_00274",
+  "createdAt": "2026-04-27T13:35:00+09:00"
+ },
+ {
+  "userId": "usr_0116",
+  "proposalId": "prp_00274",
+  "createdAt": "2026-04-27T18:49:00+09:00"
+ },
+ {
+  "userId": "usr_0155",
+  "proposalId": "prp_00274",
+  "createdAt": "2026-04-25T16:31:00+09:00"
+ },
+ {
+  "userId": "usr_0122",
+  "proposalId": "prp_00275",
+  "createdAt": "2025-12-24T18:56:00+09:00"
+ },
+ {
+  "userId": "usr_0181",
+  "proposalId": "prp_00275",
+  "createdAt": "2025-12-23T11:32:00+09:00"
+ },
+ {
+  "userId": "usr_0173",
+  "proposalId": "prp_00275",
+  "createdAt": "2025-12-19T09:32:00+09:00"
+ },
+ {
+  "userId": "usr_0022",
+  "proposalId": "prp_00275",
+  "createdAt": "2025-12-29T17:49:00+09:00"
+ },
+ {
+  "userId": "usr_0021",
+  "proposalId": "prp_00276",
+  "createdAt": "2026-05-12T08:41:00+09:00"
+ },
+ {
+  "userId": "usr_0153",
+  "proposalId": "prp_00277",
+  "createdAt": "2026-04-04T12:00:00+09:00"
+ },
+ {
+  "userId": "usr_0010",
+  "proposalId": "prp_00277",
+  "createdAt": "2026-04-02T14:12:00+09:00"
+ },
+ {
+  "userId": "usr_0128",
+  "proposalId": "prp_00277",
+  "createdAt": "2026-04-03T09:41:00+09:00"
+ },
+ {
+  "userId": "usr_0181",
+  "proposalId": "prp_00277",
+  "createdAt": "2026-04-09T09:07:00+09:00"
+ },
+ {
+  "userId": "usr_0090",
+  "proposalId": "prp_00277",
+  "createdAt": "2026-04-07T17:54:00+09:00"
+ },
+ {
+  "userId": "usr_0177",
+  "proposalId": "prp_00277",
+  "createdAt": "2026-04-07T15:46:00+09:00"
+ },
+ {
+  "userId": "usr_0166",
+  "proposalId": "prp_00277",
+  "createdAt": "2026-04-10T18:42:00+09:00"
+ },
+ {
+  "userId": "usr_0196",
+  "proposalId": "prp_00277",
+  "createdAt": "2026-04-02T16:06:00+09:00"
+ },
+ {
+  "userId": "usr_0156",
+  "proposalId": "prp_00278",
+  "createdAt": "2026-09-26T17:10:00+09:00"
+ },
+ {
+  "userId": "usr_0157",
+  "proposalId": "prp_00279",
+  "createdAt": "2026-09-30T18:28:00+09:00"
+ },
+ {
+  "userId": "usr_0056",
+  "proposalId": "prp_00279",
+  "createdAt": "2026-09-30T10:42:00+09:00"
+ },
+ {
+  "userId": "usr_0093",
+  "proposalId": "prp_00279",
+  "createdAt": "2026-09-25T16:12:00+09:00"
+ },
+ {
+  "userId": "usr_0091",
+  "proposalId": "prp_00279",
+  "createdAt": "2026-09-23T18:47:00+09:00"
+ },
+ {
+  "userId": "usr_0149",
+  "proposalId": "prp_00280",
+  "createdAt": "2026-04-15T18:34:00+09:00"
+ },
+ {
+  "userId": "usr_0077",
+  "proposalId": "prp_00280",
+  "createdAt": "2026-04-10T17:39:00+09:00"
+ },
+ {
+  "userId": "usr_0019",
+  "proposalId": "prp_00280",
+  "createdAt": "2026-04-16T08:33:00+09:00"
+ },
+ {
+  "userId": "usr_0168",
+  "proposalId": "prp_00280",
+  "createdAt": "2026-04-10T18:52:00+09:00"
+ },
+ {
+  "userId": "usr_0006",
+  "proposalId": "prp_00280",
+  "createdAt": "2026-04-12T17:28:00+09:00"
+ },
+ {
+  "userId": "usr_0061",
+  "proposalId": "prp_00280",
+  "createdAt": "2026-04-14T13:37:00+09:00"
+ },
+ {
+  "userId": "usr_0111",
+  "proposalId": "prp_00280",
+  "createdAt": "2026-04-17T18:05:00+09:00"
+ },
+ {
+  "userId": "usr_0104",
+  "proposalId": "prp_00280",
+  "createdAt": "2026-04-13T09:11:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00280",
+  "createdAt": "2026-04-14T09:53:00+09:00"
+ },
+ {
+  "userId": "usr_0115",
+  "proposalId": "prp_00280",
+  "createdAt": "2026-04-13T14:25:00+09:00"
+ },
+ {
+  "userId": "usr_0157",
+  "proposalId": "prp_00280",
+  "createdAt": "2026-04-15T10:42:00+09:00"
+ },
+ {
+  "userId": "usr_0065",
+  "proposalId": "prp_00280",
+  "createdAt": "2026-04-18T16:51:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00280",
+  "createdAt": "2026-04-13T12:25:00+09:00"
+ },
+ {
+  "userId": "usr_0145",
+  "proposalId": "prp_00280",
+  "createdAt": "2026-04-18T18:43:00+09:00"
+ },
+ {
+  "userId": "usr_0107",
+  "proposalId": "prp_00281",
+  "createdAt": "2025-11-10T13:43:00+09:00"
+ },
+ {
+  "userId": "usr_0128",
+  "proposalId": "prp_00281",
+  "createdAt": "2025-11-12T09:16:00+09:00"
+ },
+ {
+  "userId": "usr_0012",
+  "proposalId": "prp_00282",
+  "createdAt": "2026-03-18T15:03:00+09:00"
+ },
+ {
+  "userId": "usr_0017",
+  "proposalId": "prp_00282",
+  "createdAt": "2026-03-20T17:02:00+09:00"
+ },
+ {
+  "userId": "usr_0199",
+  "proposalId": "prp_00282",
+  "createdAt": "2026-03-16T18:43:00+09:00"
+ },
+ {
+  "userId": "usr_0198",
+  "proposalId": "prp_00282",
+  "createdAt": "2026-03-19T15:23:00+09:00"
+ },
+ {
+  "userId": "usr_0014",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-04-25T18:48:00+09:00"
+ },
+ {
+  "userId": "usr_0067",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-04-28T19:41:00+09:00"
+ },
+ {
+  "userId": "usr_0066",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-05-02T16:10:00+09:00"
+ },
+ {
+  "userId": "usr_0195",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-05-04T12:22:00+09:00"
+ },
+ {
+  "userId": "usr_0098",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-05-02T17:01:00+09:00"
+ },
+ {
+  "userId": "usr_0087",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-05-04T12:10:00+09:00"
+ },
+ {
+  "userId": "usr_0004",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-04-29T17:50:00+09:00"
+ },
+ {
+  "userId": "usr_0192",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-05-01T10:05:00+09:00"
+ },
+ {
+  "userId": "usr_0094",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-04-29T15:01:00+09:00"
+ },
+ {
+  "userId": "usr_0029",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-04-26T08:41:00+09:00"
+ },
+ {
+  "userId": "usr_0172",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-04-27T18:05:00+09:00"
+ },
+ {
+  "userId": "usr_0199",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-05-01T18:30:00+09:00"
+ },
+ {
+  "userId": "usr_0109",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-04-26T08:00:00+09:00"
+ },
+ {
+  "userId": "usr_0072",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-04-24T10:37:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-04-30T09:48:00+09:00"
+ },
+ {
+  "userId": "usr_0082",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-05-04T13:51:00+09:00"
+ },
+ {
+  "userId": "usr_0115",
+  "proposalId": "prp_00283",
+  "createdAt": "2026-05-01T11:49:00+09:00"
+ },
+ {
+  "userId": "usr_0147",
+  "proposalId": "prp_00284",
+  "createdAt": "2026-08-08T12:16:00+09:00"
+ },
+ {
+  "userId": "usr_0062",
+  "proposalId": "prp_00284",
+  "createdAt": "2026-08-08T12:15:00+09:00"
+ },
+ {
+  "userId": "usr_0066",
+  "proposalId": "prp_00285",
+  "createdAt": "2026-09-21T11:47:00+09:00"
+ },
+ {
+  "userId": "usr_0077",
+  "proposalId": "prp_00285",
+  "createdAt": "2026-09-17T11:47:00+09:00"
+ },
+ {
+  "userId": "usr_0137",
+  "proposalId": "prp_00285",
+  "createdAt": "2026-09-18T10:18:00+09:00"
+ },
+ {
+  "userId": "usr_0041",
+  "proposalId": "prp_00285",
+  "createdAt": "2026-09-18T08:07:00+09:00"
+ },
+ {
+  "userId": "usr_0182",
+  "proposalId": "prp_00285",
+  "createdAt": "2026-09-16T11:42:00+09:00"
+ },
+ {
+  "userId": "usr_0185",
+  "proposalId": "prp_00285",
+  "createdAt": "2026-09-16T18:24:00+09:00"
+ },
+ {
+  "userId": "usr_0060",
+  "proposalId": "prp_00285",
+  "createdAt": "2026-09-22T08:11:00+09:00"
+ },
+ {
+  "userId": "usr_0068",
+  "proposalId": "prp_00285",
+  "createdAt": "2026-09-19T11:44:00+09:00"
+ },
+ {
+  "userId": "usr_0078",
+  "proposalId": "prp_00285",
+  "createdAt": "2026-09-17T19:14:00+09:00"
+ },
+ {
+  "userId": "usr_0165",
+  "proposalId": "prp_00285",
+  "createdAt": "2026-09-21T13:52:00+09:00"
+ },
+ {
+  "userId": "usr_0183",
+  "proposalId": "prp_00285",
+  "createdAt": "2026-09-24T19:56:00+09:00"
+ },
+ {
+  "userId": "usr_0061",
+  "proposalId": "prp_00285",
+  "createdAt": "2026-09-18T16:39:00+09:00"
+ },
+ {
+  "userId": "usr_0026",
+  "proposalId": "prp_00285",
+  "createdAt": "2026-09-20T15:16:00+09:00"
+ },
+ {
+  "userId": "usr_0172",
+  "proposalId": "prp_00287",
+  "createdAt": "2026-09-21T15:29:00+09:00"
+ },
+ {
+  "userId": "usr_0023",
+  "proposalId": "prp_00287",
+  "createdAt": "2026-09-19T19:57:00+09:00"
+ },
+ {
+  "userId": "usr_0056",
+  "proposalId": "prp_00287",
+  "createdAt": "2026-09-26T12:55:00+09:00"
+ },
+ {
+  "userId": "usr_0149",
+  "proposalId": "prp_00287",
+  "createdAt": "2026-09-18T10:43:00+09:00"
+ },
+ {
+  "userId": "usr_0176",
+  "proposalId": "prp_00287",
+  "createdAt": "2026-09-26T10:31:00+09:00"
+ },
+ {
+  "userId": "usr_0031",
+  "proposalId": "prp_00287",
+  "createdAt": "2026-09-23T10:35:00+09:00"
+ },
+ {
+  "userId": "usr_0066",
+  "proposalId": "prp_00287",
+  "createdAt": "2026-09-21T15:33:00+09:00"
+ },
+ {
+  "userId": "usr_0101",
+  "proposalId": "prp_00287",
+  "createdAt": "2026-09-25T13:42:00+09:00"
+ },
+ {
+  "userId": "usr_0080",
+  "proposalId": "prp_00287",
+  "createdAt": "2026-09-23T12:19:00+09:00"
+ },
+ {
+  "userId": "usr_0199",
+  "proposalId": "prp_00287",
+  "createdAt": "2026-09-27T19:58:00+09:00"
+ },
+ {
+  "userId": "usr_0082",
+  "proposalId": "prp_00287",
+  "createdAt": "2026-09-22T14:48:00+09:00"
+ },
+ {
+  "userId": "usr_0105",
+  "proposalId": "prp_00287",
+  "createdAt": "2026-09-24T16:15:00+09:00"
+ },
+ {
+  "userId": "usr_0081",
+  "proposalId": "prp_00287",
+  "createdAt": "2026-09-27T10:43:00+09:00"
+ },
+ {
+  "userId": "usr_0200",
+  "proposalId": "prp_00288",
+  "createdAt": "2026-10-05T13:17:00+09:00"
+ },
+ {
+  "userId": "usr_0002",
+  "proposalId": "prp_00288",
+  "createdAt": "2026-09-30T11:21:00+09:00"
+ },
+ {
+  "userId": "usr_0046",
+  "proposalId": "prp_00288",
+  "createdAt": "2026-10-04T13:10:00+09:00"
+ },
+ {
+  "userId": "usr_0166",
+  "proposalId": "prp_00288",
+  "createdAt": "2026-10-01T11:18:00+09:00"
+ },
+ {
+  "userId": "usr_0162",
+  "proposalId": "prp_00288",
+  "createdAt": "2026-10-02T19:24:00+09:00"
+ },
+ {
+  "userId": "usr_0187",
+  "proposalId": "prp_00288",
+  "createdAt": "2026-09-29T09:05:00+09:00"
+ },
+ {
+  "userId": "usr_0031",
+  "proposalId": "prp_00288",
+  "createdAt": "2026-09-30T16:27:00+09:00"
+ },
+ {
+  "userId": "usr_0172",
+  "proposalId": "prp_00288",
+  "createdAt": "2026-10-02T18:48:00+09:00"
+ },
+ {
+  "userId": "usr_0032",
+  "proposalId": "prp_00288",
+  "createdAt": "2026-10-05T15:44:00+09:00"
+ },
+ {
+  "userId": "usr_0054",
+  "proposalId": "prp_00288",
+  "createdAt": "2026-10-05T13:56:00+09:00"
+ },
+ {
+  "userId": "usr_0145",
+  "proposalId": "prp_00288",
+  "createdAt": "2026-10-03T18:59:00+09:00"
+ },
+ {
+  "userId": "usr_0057",
+  "proposalId": "prp_00288",
+  "createdAt": "2026-10-05T14:15:00+09:00"
+ },
+ {
+  "userId": "usr_0139",
+  "proposalId": "prp_00288",
+  "createdAt": "2026-09-29T12:16:00+09:00"
+ },
+ {
+  "userId": "usr_0067",
+  "proposalId": "prp_00289",
+  "createdAt": "2026-09-24T08:21:00+09:00"
+ },
+ {
+  "userId": "usr_0169",
+  "proposalId": "prp_00289",
+  "createdAt": "2026-09-20T08:56:00+09:00"
+ },
+ {
+  "userId": "usr_0142",
+  "proposalId": "prp_00289",
+  "createdAt": "2026-09-21T17:33:00+09:00"
+ },
+ {
+  "userId": "usr_0194",
+  "proposalId": "prp_00289",
+  "createdAt": "2026-09-26T14:20:00+09:00"
+ },
+ {
+  "userId": "usr_0074",
+  "proposalId": "prp_00289",
+  "createdAt": "2026-09-20T16:18:00+09:00"
+ },
+ {
+  "userId": "usr_0192",
+  "proposalId": "prp_00289",
+  "createdAt": "2026-09-25T16:42:00+09:00"
+ },
+ {
+  "userId": "usr_0176",
+  "proposalId": "prp_00289",
+  "createdAt": "2026-09-24T15:59:00+09:00"
+ },
+ {
+  "userId": "usr_0042",
+  "proposalId": "prp_00289",
+  "createdAt": "2026-09-28T14:37:00+09:00"
+ },
+ {
+  "userId": "usr_0052",
+  "proposalId": "prp_00289",
+  "createdAt": "2026-09-23T16:48:00+09:00"
+ },
+ {
+  "userId": "usr_0025",
+  "proposalId": "prp_00289",
+  "createdAt": "2026-09-21T14:29:00+09:00"
+ },
+ {
+  "userId": "usr_0152",
+  "proposalId": "prp_00289",
+  "createdAt": "2026-09-24T08:42:00+09:00"
+ },
+ {
+  "userId": "usr_0120",
+  "proposalId": "prp_00289",
+  "createdAt": "2026-09-27T09:51:00+09:00"
+ },
+ {
+  "userId": "usr_0112",
+  "proposalId": "prp_00290",
+  "createdAt": "2026-10-05T13:50:00+09:00"
+ },
+ {
+  "userId": "usr_0008",
+  "proposalId": "prp_00290",
+  "createdAt": "2026-10-03T11:40:00+09:00"
+ },
+ {
+  "userId": "usr_0022",
+  "proposalId": "prp_00290",
+  "createdAt": "2026-10-04T10:14:00+09:00"
+ },
+ {
+  "userId": "usr_0120",
+  "proposalId": "prp_00290",
+  "createdAt": "2026-09-27T11:20:00+09:00"
+ },
+ {
+  "userId": "usr_0037",
+  "proposalId": "prp_00290",
+  "createdAt": "2026-09-27T16:50:00+09:00"
+ },
+ {
+  "userId": "usr_0010",
+  "proposalId": "prp_00290",
+  "createdAt": "2026-10-07T09:54:00+09:00"
+ },
+ {
+  "userId": "usr_0133",
+  "proposalId": "prp_00290",
+  "createdAt": "2026-09-28T17:03:00+09:00"
+ },
+ {
+  "userId": "usr_0080",
+  "proposalId": "prp_00290",
+  "createdAt": "2026-10-06T09:36:00+09:00"
+ },
+ {
+  "userId": "usr_0115",
+  "proposalId": "prp_00290",
+  "createdAt": "2026-10-03T15:24:00+09:00"
+ },
+ {
+  "userId": "usr_0137",
+  "proposalId": "prp_00290",
+  "createdAt": "2026-10-03T08:47:00+09:00"
+ },
+ {
+  "userId": "usr_0129",
+  "proposalId": "prp_00290",
+  "createdAt": "2026-10-05T16:35:00+09:00"
+ },
+ {
+  "userId": "usr_0131",
+  "proposalId": "prp_00290",
+  "createdAt": "2026-09-29T11:43:00+09:00"
+ },
+ {
+  "userId": "usr_0066",
+  "proposalId": "prp_00291",
+  "createdAt": "2026-10-08T16:25:00+09:00"
+ },
+ {
+  "userId": "usr_0133",
+  "proposalId": "prp_00291",
+  "createdAt": "2026-10-11T08:40:00+09:00"
+ },
+ {
+  "userId": "usr_0052",
+  "proposalId": "prp_00291",
+  "createdAt": "2026-10-11T09:31:00+09:00"
+ },
+ {
+  "userId": "usr_0038",
+  "proposalId": "prp_00291",
+  "createdAt": "2026-10-11T16:55:00+09:00"
+ },
+ {
+  "userId": "usr_0024",
+  "proposalId": "prp_00291",
+  "createdAt": "2026-10-11T12:59:00+09:00"
+ },
+ {
+  "userId": "usr_0184",
+  "proposalId": "prp_00291",
+  "createdAt": "2026-10-11T18:14:00+09:00"
+ },
+ {
+  "userId": "usr_0014",
+  "proposalId": "prp_00291",
+  "createdAt": "2026-10-11T13:35:00+09:00"
+ },
+ {
+  "userId": "usr_0085",
+  "proposalId": "prp_00291",
+  "createdAt": "2026-10-11T08:51:00+09:00"
+ },
+ {
+  "userId": "usr_0124",
+  "proposalId": "prp_00291",
+  "createdAt": "2026-10-11T19:10:00+09:00"
+ },
+ {
+  "userId": "usr_0021",
+  "proposalId": "prp_00291",
+  "createdAt": "2026-10-11T16:40:00+09:00"
+ },
+ {
+  "userId": "usr_0190",
+  "proposalId": "prp_00291",
+  "createdAt": "2026-10-09T19:43:00+09:00"
+ },
+ {
+  "userId": "usr_0123",
+  "proposalId": "prp_00291",
+  "createdAt": "2026-10-11T11:16:00+09:00"
+ },
+ {
+  "userId": "usr_0056",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-22T10:55:00+09:00"
+ },
+ {
+  "userId": "usr_0108",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-24T13:00:00+09:00"
+ },
+ {
+  "userId": "usr_0177",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-27T11:07:00+09:00"
+ },
+ {
+  "userId": "usr_0147",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-20T10:03:00+09:00"
+ },
+ {
+  "userId": "usr_0044",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-19T12:25:00+09:00"
+ },
+ {
+  "userId": "usr_0192",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-27T16:01:00+09:00"
+ },
+ {
+  "userId": "usr_0022",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-29T09:23:00+09:00"
+ },
+ {
+  "userId": "usr_0186",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-21T16:39:00+09:00"
+ },
+ {
+  "userId": "usr_0046",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-28T13:48:00+09:00"
+ },
+ {
+  "userId": "usr_0027",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-26T19:56:00+09:00"
+ },
+ {
+  "userId": "usr_0179",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-19T12:24:00+09:00"
+ },
+ {
+  "userId": "usr_0060",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-28T10:30:00+09:00"
+ },
+ {
+  "userId": "usr_0180",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-27T08:04:00+09:00"
+ },
+ {
+  "userId": "usr_0112",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-22T10:26:00+09:00"
+ },
+ {
+  "userId": "usr_0113",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-28T19:27:00+09:00"
+ },
+ {
+  "userId": "usr_0028",
+  "proposalId": "prp_00292",
+  "createdAt": "2026-09-27T19:58:00+09:00"
+ },
+ {
+  "userId": "usr_0075",
+  "proposalId": "prp_00293",
+  "createdAt": "2026-10-09T13:33:00+09:00"
+ },
+ {
+  "userId": "usr_0150",
+  "proposalId": "prp_00293",
+  "createdAt": "2026-10-04T12:52:00+09:00"
+ },
+ {
+  "userId": "usr_0128",
+  "proposalId": "prp_00293",
+  "createdAt": "2026-10-07T08:24:00+09:00"
+ },
+ {
+  "userId": "usr_0020",
+  "proposalId": "prp_00293",
+  "createdAt": "2026-10-11T18:43:00+09:00"
+ },
+ {
+  "userId": "usr_0163",
+  "proposalId": "prp_00293",
+  "createdAt": "2026-10-07T19:54:00+09:00"
+ },
+ {
+  "userId": "usr_0079",
+  "proposalId": "prp_00293",
+  "createdAt": "2026-10-11T18:12:00+09:00"
+ },
+ {
+  "userId": "usr_0015",
+  "proposalId": "prp_00293",
+  "createdAt": "2026-10-07T19:37:00+09:00"
+ },
+ {
+  "userId": "usr_0106",
+  "proposalId": "prp_00293",
+  "createdAt": "2026-10-11T15:42:00+09:00"
+ },
+ {
+  "userId": "usr_0013",
+  "proposalId": "prp_00293",
+  "createdAt": "2026-10-05T18:43:00+09:00"
+ },
+ {
+  "userId": "usr_0136",
+  "proposalId": "prp_00293",
+  "createdAt": "2026-10-06T08:25:00+09:00"
+ },
+ {
+  "userId": "usr_0050",
+  "proposalId": "prp_00293",
+  "createdAt": "2026-10-11T14:04:00+09:00"
+ },
+ {
+  "userId": "usr_0105",
+  "proposalId": "prp_00293",
+  "createdAt": "2026-10-10T18:38:00+09:00"
+ },
+ {
+  "userId": "usr_0025",
+  "proposalId": "prp_00293",
+  "createdAt": "2026-10-11T09:36:00+09:00"
+ },
+ {
+  "userId": "usr_0041",
+  "proposalId": "prp_00293",
+  "createdAt": "2026-10-11T08:59:00+09:00"
+ },
+ {
+  "userId": "usr_0155",
+  "proposalId": "prp_00293",
+  "createdAt": "2026-10-09T18:46:00+09:00"
+ },
+ {
+  "userId": "usr_0149",
+  "proposalId": "prp_00294",
+  "createdAt": "2026-09-25T15:07:00+09:00"
+ },
+ {
+  "userId": "usr_0131",
+  "proposalId": "prp_00294",
+  "createdAt": "2026-09-23T08:08:00+09:00"
+ },
+ {
+  "userId": "usr_0158",
+  "proposalId": "prp_00294",
+  "createdAt": "2026-10-01T14:37:00+09:00"
+ },
+ {
+  "userId": "usr_0084",
+  "proposalId": "prp_00294",
+  "createdAt": "2026-09-30T16:44:00+09:00"
+ },
+ {
+  "userId": "usr_0135",
+  "proposalId": "prp_00294",
+  "createdAt": "2026-09-23T11:51:00+09:00"
+ },
+ {
+  "userId": "usr_0183",
+  "proposalId": "prp_00294",
+  "createdAt": "2026-09-26T18:35:00+09:00"
+ },
+ {
+  "userId": "usr_0038",
+  "proposalId": "prp_00294",
+  "createdAt": "2026-10-01T15:12:00+09:00"
+ },
+ {
+  "userId": "usr_0200",
+  "proposalId": "prp_00294",
+  "createdAt": "2026-09-24T15:51:00+09:00"
+ },
+ {
+  "userId": "usr_0187",
+  "proposalId": "prp_00294",
+  "createdAt": "2026-09-21T17:48:00+09:00"
+ },
+ {
+  "userId": "usr_0036",
+  "proposalId": "prp_00294",
+  "createdAt": "2026-10-01T09:05:00+09:00"
+ },
+ {
+  "userId": "usr_0128",
+  "proposalId": "prp_00294",
+  "createdAt": "2026-09-21T16:54:00+09:00"
+ },
+ {
+  "userId": "usr_0133",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-09-27T14:12:00+09:00"
+ },
+ {
+  "userId": "usr_0083",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-10-02T16:09:00+09:00"
+ },
+ {
+  "userId": "usr_0005",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-09-26T16:49:00+09:00"
+ },
+ {
+  "userId": "usr_0097",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-09-30T11:20:00+09:00"
+ },
+ {
+  "userId": "usr_0140",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-09-30T19:31:00+09:00"
+ },
+ {
+  "userId": "usr_0151",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-09-28T17:31:00+09:00"
+ },
+ {
+  "userId": "usr_0014",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-09-26T10:12:00+09:00"
+ },
+ {
+  "userId": "usr_0002",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-10-03T09:35:00+09:00"
+ },
+ {
+  "userId": "usr_0188",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-10-01T18:36:00+09:00"
+ },
+ {
+  "userId": "usr_0183",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-10-06T15:57:00+09:00"
+ },
+ {
+  "userId": "usr_0116",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-10-02T15:56:00+09:00"
+ },
+ {
+  "userId": "usr_0191",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-09-26T13:05:00+09:00"
+ },
+ {
+  "userId": "usr_0040",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-10-03T18:50:00+09:00"
+ },
+ {
+  "userId": "usr_0098",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-09-28T08:27:00+09:00"
+ },
+ {
+  "userId": "usr_0124",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-10-04T19:24:00+09:00"
+ },
+ {
+  "userId": "usr_0052",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-10-05T12:28:00+09:00"
+ },
+ {
+  "userId": "usr_0094",
+  "proposalId": "prp_00295",
+  "createdAt": "2026-10-04T10:44:00+09:00"
+ },
+ {
+  "userId": "usr_0167",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-09-28T12:18:00+09:00"
+ },
+ {
+  "userId": "usr_0173",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-09-29T08:00:00+09:00"
+ },
+ {
+  "userId": "usr_0097",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-09-30T09:52:00+09:00"
+ },
+ {
+  "userId": "usr_0177",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-09-28T10:47:00+09:00"
+ },
+ {
+  "userId": "usr_0087",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-09-30T12:19:00+09:00"
+ },
+ {
+  "userId": "usr_0183",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-09-29T16:43:00+09:00"
+ },
+ {
+  "userId": "usr_0018",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-10-03T10:57:00+09:00"
+ },
+ {
+  "userId": "usr_0099",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-10-04T12:17:00+09:00"
+ },
+ {
+  "userId": "usr_0190",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-10-02T12:58:00+09:00"
+ },
+ {
+  "userId": "usr_0121",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-09-29T17:15:00+09:00"
+ },
+ {
+  "userId": "usr_0194",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-10-07T17:17:00+09:00"
+ },
+ {
+  "userId": "usr_0185",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-10-03T15:16:00+09:00"
+ },
+ {
+  "userId": "usr_0139",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-10-05T12:32:00+09:00"
+ },
+ {
+  "userId": "usr_0017",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-10-02T09:29:00+09:00"
+ },
+ {
+  "userId": "usr_0192",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-10-05T17:34:00+09:00"
+ },
+ {
+  "userId": "usr_0174",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-10-03T11:51:00+09:00"
+ },
+ {
+  "userId": "usr_0076",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-10-07T16:11:00+09:00"
+ },
+ {
+  "userId": "usr_0147",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-10-02T17:25:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-10-01T16:32:00+09:00"
+ },
+ {
+  "userId": "usr_0001",
+  "proposalId": "prp_00296",
+  "createdAt": "2026-09-30T15:12:00+09:00"
+ },
+ {
+  "userId": "usr_0098",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-08T19:01:00+09:00"
+ },
+ {
+  "userId": "usr_0005",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-06T17:25:00+09:00"
+ },
+ {
+  "userId": "usr_0123",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-06T12:55:00+09:00"
+ },
+ {
+  "userId": "usr_0020",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-07T16:24:00+09:00"
+ },
+ {
+  "userId": "usr_0001",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-09T17:06:00+09:00"
+ },
+ {
+  "userId": "usr_0075",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-04T13:35:00+09:00"
+ },
+ {
+  "userId": "usr_0191",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-07T09:26:00+09:00"
+ },
+ {
+  "userId": "usr_0101",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-07T18:28:00+09:00"
+ },
+ {
+  "userId": "usr_0047",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-08T17:02:00+09:00"
+ },
+ {
+  "userId": "usr_0148",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-06T08:57:00+09:00"
+ },
+ {
+  "userId": "usr_0118",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-04T15:46:00+09:00"
+ },
+ {
+  "userId": "usr_0186",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-07T18:55:00+09:00"
+ },
+ {
+  "userId": "usr_0112",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-06T17:39:00+09:00"
+ },
+ {
+  "userId": "usr_0189",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-05T16:23:00+09:00"
+ },
+ {
+  "userId": "usr_0030",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-08T18:06:00+09:00"
+ },
+ {
+  "userId": "usr_0002",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-11T19:05:00+09:00"
+ },
+ {
+  "userId": "usr_0035",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-11T15:03:00+09:00"
+ },
+ {
+  "userId": "usr_0109",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-08T17:47:00+09:00"
+ },
+ {
+  "userId": "usr_0193",
+  "proposalId": "prp_00297",
+  "createdAt": "2026-10-07T10:15:00+09:00"
+ },
+ {
+  "userId": "usr_0017",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-11T15:00:00+09:00"
+ },
+ {
+  "userId": "usr_0137",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-11T14:32:00+09:00"
+ },
+ {
+  "userId": "usr_0117",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-11T17:05:00+09:00"
+ },
+ {
+  "userId": "usr_0152",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-11T12:59:00+09:00"
+ },
+ {
+  "userId": "usr_0159",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-11T16:56:00+09:00"
+ },
+ {
+  "userId": "usr_0176",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-09T19:13:00+09:00"
+ },
+ {
+  "userId": "usr_0167",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-11T10:44:00+09:00"
+ },
+ {
+  "userId": "usr_0013",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-10T19:39:00+09:00"
+ },
+ {
+  "userId": "usr_0151",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-08T11:47:00+09:00"
+ },
+ {
+  "userId": "usr_0128",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-08T13:06:00+09:00"
+ },
+ {
+  "userId": "usr_0130",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-11T15:12:00+09:00"
+ },
+ {
+  "userId": "usr_0092",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-11T08:25:00+09:00"
+ },
+ {
+  "userId": "usr_0019",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-06T17:51:00+09:00"
+ },
+ {
+  "userId": "usr_0119",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-11T16:59:00+09:00"
+ },
+ {
+  "userId": "usr_0144",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-11T19:01:00+09:00"
+ },
+ {
+  "userId": "usr_0098",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-11T17:55:00+09:00"
+ },
+ {
+  "userId": "usr_0148",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-10T12:44:00+09:00"
+ },
+ {
+  "userId": "usr_0055",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-11T15:25:00+09:00"
+ },
+ {
+  "userId": "usr_0156",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-11T13:39:00+09:00"
+ },
+ {
+  "userId": "usr_0160",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-11T12:25:00+09:00"
+ },
+ {
+  "userId": "usr_0133",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-06T18:50:00+09:00"
+ },
+ {
+  "userId": "usr_0025",
+  "proposalId": "prp_00298",
+  "createdAt": "2026-10-11T09:15:00+09:00"
+ },
+ {
+  "userId": "usr_0127",
+  "proposalId": "prp_00299",
+  "createdAt": "2026-09-22T14:55:00+09:00"
+ },
+ {
+  "userId": "usr_0134",
+  "proposalId": "prp_00299",
+  "createdAt": "2026-09-26T17:10:00+09:00"
+ },
+ {
+  "userId": "usr_0180",
+  "proposalId": "prp_00299",
+  "createdAt": "2026-09-28T17:35:00+09:00"
+ },
+ {
+  "userId": "usr_0045",
+  "proposalId": "prp_00299",
+  "createdAt": "2026-09-24T19:13:00+09:00"
+ },
+ {
+  "userId": "usr_0077",
+  "proposalId": "prp_00299",
+  "createdAt": "2026-09-25T15:27:00+09:00"
+ },
+ {
+  "userId": "usr_0002",
+  "proposalId": "prp_00299",
+  "createdAt": "2026-09-29T19:52:00+09:00"
+ },
+ {
+  "userId": "usr_0104",
+  "proposalId": "prp_00299",
+  "createdAt": "2026-09-29T15:55:00+09:00"
+ },
+ {
+  "userId": "usr_0064",
+  "proposalId": "prp_00299",
+  "createdAt": "2026-09-24T19:26:00+09:00"
+ },
+ {
+  "userId": "usr_0143",
+  "proposalId": "prp_00299",
+  "createdAt": "2026-09-23T14:15:00+09:00"
+ },
+ {
+  "userId": "usr_0142",
+  "proposalId": "prp_00300",
+  "createdAt": "2026-10-04T15:48:00+09:00"
+ }
+]

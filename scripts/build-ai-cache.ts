@@ -28,11 +28,12 @@ async function main() {
   if (!dry && !key) { console.error('LLM_API_KEY가 필요합니다 (또는 --dry)'); process.exit(1); }
 
   const dir = join(process.cwd(), 'data', 'demo');
-  const meta = JSON.parse(readFileSync(join(dir, 'meta.json'), 'utf8')) as { heroIssueId: string };
   const ds = shiftDataset(seedDataset());
   const ctx = { ds, viewer: null };
-  let targets = listIssues(ctx, { limit: 10 }).map((i) => i.id);
-  if (!targets.includes(meta.heroIssueId)) targets.push(meta.heroIssueId);
+  const ranked = listIssues(ctx);
+  const hero = ranked.find((i) => i.category === 'MEAL' && i.subtopic === '배식 대기시간');
+  let targets = ranked.slice(0, 10).map((i) => i.id);
+  if (hero && !targets.includes(hero.id)) targets.push(hero.id);
   if (only) targets = only;
 
   const provider = dry ? null : createCommercialProvider(name, key!, process.env.LLM_MODEL || undefined);
