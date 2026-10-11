@@ -147,7 +147,7 @@ export function QnaTab({ rangeId }: { rangeId: string }) {
                   {qq.answers.map((a) => (
                     <li key={a.id} className={cx('rounded-xl p-3 text-sm', a.isAi ? 'bg-ai-soft' : 'bg-surface-2')}>
                       <div className="mb-1 flex flex-wrap items-center gap-1.5 text-xs">
-                        {a.isAi ? <AiBadge>AI 답변</AiBadge> : <Badge>{a.authorLabel}</Badge>}
+                        {a.isAi ? <AiBadge>자동 답변</AiBadge> : <Badge>{a.authorLabel}</Badge>}
                         {a.isAi && a.sources.length > 0 && <span className="text-ai">근거: {a.sources.map((s) => `가이드 ${s.label}`).join(', ')}</span>}
                         <span className="ml-auto"><ReportButton targetType="ANSWER" targetId={a.id} /></span>
                       </div>

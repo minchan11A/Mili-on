@@ -524,7 +524,7 @@ export function listQuestions(c: Ctx, rangeId: string): QuestionView[] {
         .sort((a, b) => Number(b.isAi) - Number(a.isAi) || a.createdAt.localeCompare(b.createdAt))
         .map((a) => ({
           id: a.id, isAi: a.isAi, body: a.body, createdAt: a.createdAt,
-          authorLabel: a.isAi ? 'AI 답변' : a.authorId ? authorLabel(c, a.authorId, rangeId) : '알 수 없음',
+          authorLabel: a.isAi ? '자동 답변' : a.authorId ? authorLabel(c, a.authorId, rangeId) : '알 수 없음',
           sources: a.sourceGuideIds.map((gid) => {
             const g = ix.guideById.get(gid);
             return { id: gid, label: g ? `${GUIDE_SECTION_LABEL[g.section]}${g.isOfficial ? '(공식)' : ''}` : '삭제된 항목' };
