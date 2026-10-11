@@ -146,7 +146,7 @@ E2E는 **인터넷을 끊은 브라우저**로 돕니다. Chromium의 `context.s
    | `DIRECT_URL` | `${{Postgres.DATABASE_URL}}` (Railway Postgres면 DATABASE_URL과 같게) |
    | `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Supabase 로그인을 쓸 때 |
 
-3. Settings: Build/Start Command 비워 둠(`npm run build` / `npm run start`), Pre-Deploy Command `npx prisma migrate deploy && npx prisma db seed`, Healthcheck Path `/api/health`, Restart Policy On Failure, Region Singapore
+3. Settings: Build/Start Command 비워 둠(`npm run build` / `npm run start`). `npm run start`가 서버를 켜기 전에 `prisma migrate deploy`와 `prisma db seed`(데이터가 있으면 건너뜀)를 실행하므로 Pre-Deploy Command는 필요 없습니다. Healthcheck Path `/api/health`, Restart Policy On Failure, Region Singapore
 4. Networking → Generate Domain. 11월부터는 배포 브랜치를 `release`로 바꿔 시연 직전 실수 배포를 막습니다.
 
 ## 저장소 구조
