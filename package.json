@@ -11,7 +11,7 @@
     "build:demo": "cross-env NEXT_PUBLIC_APP_MODE=demo next build && tsx scripts/check-external-urls.ts",
     "serve:demo": "serve out -l 4173",
     "seed:generate": "tsx scripts/generate-seed.ts",
-    "ai-cache": "tsx scripts/build-ai-cache.ts",
+    "ai-cache": "tsx --conditions react-server scripts/build-ai-cache.ts",
     "masking:eval": "tsx scripts/masking-eval.ts",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
@@ -61,5 +61,12 @@
     "tsx": "^4.23.15",
     "typescript": "^5.9.0",
     "vitest": "^3.2.7"
+  },
+  "overrides": {
+    "postcss": "$postcss",
+    "deepmerge-ts": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=20.9"
   }
 }

@@ -10,1005 +10,933 @@
  {
   "id": "rp-0002",
   "targetType": "PROPOSAL",
-  "targetId": "p-0011",
-  "authorId": "mgr-o",
+  "targetId": "p-0010",
+  "authorId": "mgr-n",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
-  "createdAt": "2026-11-19T23:00:00.000Z"
+  "createdAt": "2026-04-10T04:40:00.000Z"
  },
  {
   "id": "rp-0003",
   "targetType": "PROPOSAL",
-  "targetId": "p-0014",
-  "authorId": "mgr-a",
-  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
-  "createdAt": "2026-11-17T19:03:00.000Z"
+  "targetId": "p-0011",
+  "authorId": "mgr-k",
+  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
+  "createdAt": "2026-03-08T04:17:00.000Z"
  },
  {
   "id": "rp-0004",
   "targetType": "PROPOSAL",
-  "targetId": "p-0017",
-  "authorId": "mgr-f",
-  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-02-01T06:40:00.000Z"
+  "targetId": "p-0012",
+  "authorId": "mgr-g",
+  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
+  "createdAt": "2026-11-19T23:00:00.000Z"
  },
  {
   "id": "rp-0005",
   "targetType": "PROPOSAL",
-  "targetId": "p-0019",
+  "targetId": "p-0015",
   "authorId": "mgr-f",
-  "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
-  "createdAt": "2026-05-18T01:39:00.000Z"
+  "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
+  "createdAt": "2026-05-11T01:21:00.000Z"
  },
  {
   "id": "rp-0006",
   "targetType": "PROPOSAL",
-  "targetId": "p-0020",
-  "authorId": "mgr-j",
-  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
-  "createdAt": "2026-10-25T23:28:00.000Z"
+  "targetId": "p-0019",
+  "authorId": "mgr-h",
+  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
+  "createdAt": "2026-07-04T01:07:00.000Z"
  },
  {
   "id": "rp-0007",
   "targetType": "PROPOSAL",
-  "targetId": "p-0023",
-  "authorId": "mgr-r",
-  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-10-09T11:42:00.000Z"
+  "targetId": "p-0020",
+  "authorId": "mgr-k",
+  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
+  "createdAt": "2026-05-21T22:41:00.000Z"
  },
  {
   "id": "rp-0008",
   "targetType": "PROPOSAL",
-  "targetId": "p-0024",
-  "authorId": "mgr-x",
-  "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
-  "createdAt": "2026-04-02T19:13:00.000Z"
- },
- {
-  "id": "rp-0009",
-  "targetType": "PROPOSAL",
-  "targetId": "p-0025",
-  "authorId": "mgr-k",
-  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-07-09T10:58:00.000Z"
- },
- {
-  "id": "rp-0010",
-  "targetType": "PROPOSAL",
-  "targetId": "p-0029",
+  "targetId": "p-0028",
   "authorId": "mgr-m",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-02-27T03:15:00.000Z"
  },
  {
-  "id": "rp-0011",
+  "id": "rp-0009",
   "targetType": "PROPOSAL",
-  "targetId": "p-0031",
+  "targetId": "p-0030",
   "authorId": "mgr-c",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-04-26T04:25:00.000Z"
  },
  {
+  "id": "rp-0010",
+  "targetType": "PROPOSAL",
+  "targetId": "p-0034",
+  "authorId": "mgr-t",
+  "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
+  "createdAt": "2026-04-14T04:54:00.000Z"
+ },
+ {
+  "id": "rp-0011",
+  "targetType": "PROPOSAL",
+  "targetId": "p-0035",
+  "authorId": "mgr-l",
+  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
+  "createdAt": "2026-11-05T02:14:00.000Z"
+ },
+ {
   "id": "rp-0012",
   "targetType": "PROPOSAL",
-  "targetId": "p-0036",
+  "targetId": "p-0041",
   "authorId": "mgr-a",
-  "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
-  "createdAt": "2026-08-10T21:52:00.000Z"
+  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
+  "createdAt": "2026-03-25T23:20:00.000Z"
  },
  {
   "id": "rp-0013",
   "targetType": "PROPOSAL",
-  "targetId": "p-0043",
-  "authorId": "mgr-t",
+  "targetId": "p-0051",
+  "authorId": "mgr-a",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
-  "createdAt": "2026-06-21T21:11:00.000Z"
+  "createdAt": "2026-08-30T05:35:00.000Z"
  },
  {
   "id": "rp-0014",
   "targetType": "PROPOSAL",
-  "targetId": "p-0044",
-  "authorId": "mgr-a",
-  "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
-  "createdAt": "2026-01-13T18:45:00.000Z"
+  "targetId": "p-0057",
+  "authorId": "mgr-x",
+  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
+  "createdAt": "2026-10-03T20:09:00.000Z"
  },
  {
   "id": "rp-0015",
   "targetType": "PROPOSAL",
-  "targetId": "p-0046",
-  "authorId": "mgr-l",
-  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
-  "createdAt": "2026-11-07T10:34:00.000Z"
+  "targetId": "p-0059",
+  "authorId": "mgr-d",
+  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
+  "createdAt": "2026-03-27T01:38:00.000Z"
  },
  {
   "id": "rp-0016",
   "targetType": "PROPOSAL",
-  "targetId": "p-0054",
-  "authorId": "mgr-x",
-  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
-  "createdAt": "2026-11-15T21:00:00.000Z"
+  "targetId": "p-0073",
+  "authorId": "mgr-a",
+  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
+  "createdAt": "2025-12-23T05:51:00.000Z"
  },
  {
   "id": "rp-0017",
   "targetType": "PROPOSAL",
-  "targetId": "p-0055",
-  "authorId": "mgr-g",
-  "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
-  "createdAt": "2026-08-26T06:26:00.000Z"
+  "targetId": "p-0079",
+  "authorId": "mgr-u",
+  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
+  "createdAt": "2026-09-24T02:09:00.000Z"
  },
  {
   "id": "rp-0018",
   "targetType": "PROPOSAL",
-  "targetId": "p-0061",
-  "authorId": "mgr-a",
-  "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
-  "createdAt": "2026-09-05T18:51:00.000Z"
+  "targetId": "p-0083",
+  "authorId": "mgr-o",
+  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
+  "createdAt": "2026-11-14T22:54:00.000Z"
  },
  {
   "id": "rp-0019",
   "targetType": "PROPOSAL",
-  "targetId": "p-0062",
-  "authorId": "mgr-m",
-  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
-  "createdAt": "2026-02-27T23:06:00.000Z"
+  "targetId": "p-0084",
+  "authorId": "mgr-g",
+  "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
+  "createdAt": "2026-11-19T23:00:00.000Z"
  },
  {
   "id": "rp-0020",
   "targetType": "PROPOSAL",
-  "targetId": "p-0064",
-  "authorId": "mgr-n",
-  "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
-  "createdAt": "2026-10-08T01:46:00.000Z"
+  "targetId": "p-0086",
+  "authorId": "mgr-k",
+  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
+  "createdAt": "2026-09-16T02:56:00.000Z"
  },
  {
   "id": "rp-0021",
   "targetType": "PROPOSAL",
-  "targetId": "p-0065",
-  "authorId": "mgr-a",
+  "targetId": "p-0089",
+  "authorId": "mgr-n",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-01-28T15:58:00.000Z"
+  "createdAt": "2026-07-21T06:11:00.000Z"
  },
  {
   "id": "rp-0022",
   "targetType": "PROPOSAL",
-  "targetId": "p-0066",
-  "authorId": "mgr-e",
-  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
-  "createdAt": "2026-07-30T06:49:00.000Z"
+  "targetId": "p-0091",
+  "authorId": "mgr-s",
+  "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
+  "createdAt": "2026-06-15T20:16:00.000Z"
  },
  {
   "id": "rp-0023",
   "targetType": "PROPOSAL",
-  "targetId": "p-0083",
-  "authorId": "mgr-m",
-  "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
-  "createdAt": "2026-11-16T05:58:00.000Z"
+  "targetId": "p-0092",
+  "authorId": "mgr-o",
+  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
+  "createdAt": "2026-02-22T17:22:00.000Z"
  },
  {
   "id": "rp-0024",
   "targetType": "PROPOSAL",
-  "targetId": "p-0091",
+  "targetId": "p-0093",
   "authorId": "mgr-v",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
-  "createdAt": "2026-05-05T18:04:00.000Z"
+  "createdAt": "2026-05-06T18:02:00.000Z"
  },
  {
   "id": "rp-0025",
   "targetType": "PROPOSAL",
-  "targetId": "p-0092",
-  "authorId": "mgr-d",
-  "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
-  "createdAt": "2026-11-18T19:44:00.000Z"
+  "targetId": "p-0094",
+  "authorId": "mgr-x",
+  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
+  "createdAt": "2026-04-02T07:09:00.000Z"
  },
  {
   "id": "rp-0026",
   "targetType": "PROPOSAL",
-  "targetId": "p-0096",
-  "authorId": "mgr-u",
+  "targetId": "p-0097",
+  "authorId": "mgr-a",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-01-01T03:24:00.000Z"
+  "createdAt": "2026-07-14T04:48:00.000Z"
  },
  {
   "id": "rp-0027",
   "targetType": "PROPOSAL",
-  "targetId": "p-0097",
-  "authorId": "mgr-l",
-  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
-  "createdAt": "2026-01-09T03:37:00.000Z"
+  "targetId": "p-0098",
+  "authorId": "mgr-e",
+  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
+  "createdAt": "2026-06-03T08:26:00.000Z"
  },
  {
   "id": "rp-0028",
   "targetType": "PROPOSAL",
-  "targetId": "p-0098",
-  "authorId": "mgr-l",
-  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-02-24T04:38:00.000Z"
+  "targetId": "p-0105",
+  "authorId": "mgr-p",
+  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
+  "createdAt": "2026-04-04T05:35:00.000Z"
  },
  {
   "id": "rp-0029",
   "targetType": "PROPOSAL",
-  "targetId": "p-0099",
+  "targetId": "p-0106",
   "authorId": "mgr-j",
-  "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
-  "createdAt": "2026-06-09T00:40:00.000Z"
+  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
+  "createdAt": "2025-12-19T05:02:00.000Z"
  },
  {
   "id": "rp-0030",
   "targetType": "PROPOSAL",
-  "targetId": "p-0100",
-  "authorId": "mgr-t",
-  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
-  "createdAt": "2026-04-30T03:28:00.000Z"
+  "targetId": "p-0107",
+  "authorId": "mgr-b",
+  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
+  "createdAt": "2026-11-09T05:21:00.000Z"
  },
  {
   "id": "rp-0031",
   "targetType": "PROPOSAL",
-  "targetId": "p-0101",
+  "targetId": "p-0108",
   "authorId": "mgr-v",
   "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
-  "createdAt": "2026-08-12T23:46:00.000Z"
+  "createdAt": "2026-11-15T23:38:00.000Z"
  },
  {
   "id": "rp-0032",
   "targetType": "PROPOSAL",
-  "targetId": "p-0108",
-  "authorId": "mgr-p",
-  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-05-01T08:58:00.000Z"
+  "targetId": "p-0109",
+  "authorId": "mgr-b",
+  "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
+  "createdAt": "2025-12-10T19:34:00.000Z"
  },
  {
   "id": "rp-0033",
   "targetType": "PROPOSAL",
-  "targetId": "p-0109",
-  "authorId": "mgr-b",
-  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
-  "createdAt": "2026-07-31T07:56:00.000Z"
+  "targetId": "p-0112",
+  "authorId": "mgr-k",
+  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
+  "createdAt": "2026-08-02T01:43:00.000Z"
  },
  {
   "id": "rp-0034",
   "targetType": "PROPOSAL",
-  "targetId": "p-0110",
-  "authorId": "mgr-x",
-  "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
-  "createdAt": "2026-01-21T15:37:00.000Z"
+  "targetId": "p-0114",
+  "authorId": "mgr-m",
+  "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
+  "createdAt": "2026-03-11T01:03:00.000Z"
  },
  {
   "id": "rp-0035",
   "targetType": "PROPOSAL",
-  "targetId": "p-0111",
-  "authorId": "mgr-p",
-  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-04-09T23:01:00.000Z"
+  "targetId": "p-0115",
+  "authorId": "mgr-s",
+  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
+  "createdAt": "2026-10-21T01:19:00.000Z"
  },
  {
   "id": "rp-0036",
   "targetType": "PROPOSAL",
-  "targetId": "p-0112",
-  "authorId": "mgr-a",
-  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
-  "createdAt": "2026-02-23T04:16:00.000Z"
+  "targetId": "p-0121",
+  "authorId": "mgr-k",
+  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
+  "createdAt": "2026-04-09T06:21:00.000Z"
  },
  {
   "id": "rp-0037",
   "targetType": "PROPOSAL",
-  "targetId": "p-0113",
-  "authorId": "mgr-v",
-  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-03-04T05:21:00.000Z"
- },
- {
-  "id": "rp-0038",
-  "targetType": "PROPOSAL",
-  "targetId": "p-0117",
-  "authorId": "mgr-c",
-  "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
-  "createdAt": "2026-03-24T00:20:00.000Z"
- },
- {
-  "id": "rp-0039",
-  "targetType": "PROPOSAL",
-  "targetId": "p-0122",
-  "authorId": "mgr-r",
-  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
-  "createdAt": "2026-11-19T23:00:00.000Z"
- },
- {
-  "id": "rp-0040",
-  "targetType": "PROPOSAL",
-  "targetId": "p-0125",
+  "targetId": "p-0123",
   "authorId": "mgr-x",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-08-04T03:27:00.000Z"
  },
  {
-  "id": "rp-0041",
+  "id": "rp-0038",
   "targetType": "PROPOSAL",
-  "targetId": "p-0128",
+  "targetId": "p-0126",
   "authorId": "mgr-k",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-02-26T01:26:00.000Z"
  },
  {
-  "id": "rp-0042",
+  "id": "rp-0039",
   "targetType": "PROPOSAL",
-  "targetId": "p-0129",
+  "targetId": "p-0127",
   "authorId": "mgr-f",
   "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
   "createdAt": "2026-09-06T00:21:00.000Z"
  },
  {
-  "id": "rp-0043",
+  "id": "rp-0040",
   "targetType": "PROPOSAL",
-  "targetId": "p-0134",
+  "targetId": "p-0132",
   "authorId": "mgr-v",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-06-27T09:20:00.000Z"
  },
  {
-  "id": "rp-0044",
+  "id": "rp-0041",
   "targetType": "PROPOSAL",
-  "targetId": "p-0138",
+  "targetId": "p-0136",
   "authorId": "mgr-l",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-05-01T02:29:00.000Z"
  },
  {
-  "id": "rp-0045",
+  "id": "rp-0042",
   "targetType": "PROPOSAL",
-  "targetId": "p-0140",
+  "targetId": "p-0138",
   "authorId": "mgr-j",
   "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
   "createdAt": "2026-01-08T16:48:00.000Z"
  },
  {
-  "id": "rp-0046",
+  "id": "rp-0043",
   "targetType": "PROPOSAL",
-  "targetId": "p-0143",
+  "targetId": "p-0141",
   "authorId": "mgr-s",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-05-02T23:48:00.000Z"
  },
  {
-  "id": "rp-0047",
+  "id": "rp-0044",
   "targetType": "PROPOSAL",
-  "targetId": "p-0144",
+  "targetId": "p-0142",
   "authorId": "mgr-t",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-09-19T17:29:00.000Z"
  },
  {
-  "id": "rp-0048",
+  "id": "rp-0045",
   "targetType": "PROPOSAL",
-  "targetId": "p-0145",
+  "targetId": "p-0143",
   "authorId": "mgr-s",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-04-24T19:43:00.000Z"
  },
  {
-  "id": "rp-0049",
+  "id": "rp-0046",
   "targetType": "PROPOSAL",
-  "targetId": "p-0146",
+  "targetId": "p-0144",
   "authorId": "mgr-l",
   "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
   "createdAt": "2026-07-14T17:55:00.000Z"
  },
  {
-  "id": "rp-0050",
+  "id": "rp-0047",
   "targetType": "PROPOSAL",
-  "targetId": "p-0151",
+  "targetId": "p-0149",
   "authorId": "mgr-j",
   "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
   "createdAt": "2026-10-31T19:37:00.000Z"
  },
  {
-  "id": "rp-0051",
+  "id": "rp-0048",
   "targetType": "PROPOSAL",
-  "targetId": "p-0152",
+  "targetId": "p-0150",
   "authorId": "mgr-p",
   "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
   "createdAt": "2026-04-15T08:17:00.000Z"
  },
  {
-  "id": "rp-0052",
+  "id": "rp-0049",
   "targetType": "PROPOSAL",
-  "targetId": "p-0153",
-  "authorId": "mgr-k",
+  "targetId": "p-0151",
+  "authorId": "mgr-l",
   "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
   "createdAt": "2026-07-22T03:07:00.000Z"
  },
  {
-  "id": "rp-0053",
+  "id": "rp-0050",
   "targetType": "PROPOSAL",
-  "targetId": "p-0155",
+  "targetId": "p-0153",
   "authorId": "mgr-a",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-07-07T23:24:00.000Z"
  },
  {
-  "id": "rp-0054",
+  "id": "rp-0051",
   "targetType": "PROPOSAL",
-  "targetId": "p-0158",
+  "targetId": "p-0156",
   "authorId": "mgr-b",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-08-18T14:21:00.000Z"
  },
  {
-  "id": "rp-0055",
+  "id": "rp-0052",
   "targetType": "PROPOSAL",
-  "targetId": "p-0161",
+  "targetId": "p-0159",
   "authorId": "mgr-x",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-09-01T05:31:00.000Z"
  },
  {
-  "id": "rp-0056",
+  "id": "rp-0053",
   "targetType": "PROPOSAL",
-  "targetId": "p-0162",
+  "targetId": "p-0160",
   "authorId": "mgr-x",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-06-04T00:14:00.000Z"
  },
  {
-  "id": "rp-0057",
+  "id": "rp-0054",
   "targetType": "PROPOSAL",
-  "targetId": "p-0167",
+  "targetId": "p-0165",
   "authorId": "mgr-m",
   "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
   "createdAt": "2026-06-23T20:10:00.000Z"
  },
  {
-  "id": "rp-0058",
+  "id": "rp-0055",
   "targetType": "PROPOSAL",
-  "targetId": "p-0168",
+  "targetId": "p-0166",
   "authorId": "mgr-c",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-04-01T18:25:00.000Z"
  },
  {
-  "id": "rp-0059",
+  "id": "rp-0056",
   "targetType": "PROPOSAL",
-  "targetId": "p-0171",
+  "targetId": "p-0169",
   "authorId": "mgr-p",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-07-15T06:33:00.000Z"
  },
  {
-  "id": "rp-0060",
+  "id": "rp-0057",
   "targetType": "PROPOSAL",
-  "targetId": "p-0174",
+  "targetId": "p-0172",
   "authorId": "mgr-r",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-01-02T10:30:00.000Z"
  },
  {
-  "id": "rp-0061",
+  "id": "rp-0058",
   "targetType": "PROPOSAL",
-  "targetId": "p-0175",
+  "targetId": "p-0173",
   "authorId": "mgr-o",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-07-11T07:58:00.000Z"
  },
  {
-  "id": "rp-0062",
+  "id": "rp-0059",
   "targetType": "PROPOSAL",
-  "targetId": "p-0179",
+  "targetId": "p-0177",
   "authorId": "mgr-j",
   "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
   "createdAt": "2026-10-01T22:22:00.000Z"
  },
  {
-  "id": "rp-0063",
+  "id": "rp-0060",
   "targetType": "PROPOSAL",
-  "targetId": "p-0182",
+  "targetId": "p-0180",
   "authorId": "mgr-r",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-01-19T00:47:00.000Z"
  },
  {
-  "id": "rp-0064",
+  "id": "rp-0061",
   "targetType": "PROPOSAL",
-  "targetId": "p-0185",
+  "targetId": "p-0183",
   "authorId": "mgr-o",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-07-08T21:38:00.000Z"
  },
  {
-  "id": "rp-0065",
+  "id": "rp-0062",
   "targetType": "PROPOSAL",
-  "targetId": "p-0186",
+  "targetId": "p-0184",
   "authorId": "mgr-a",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-02-11T21:23:00.000Z"
  },
  {
-  "id": "rp-0066",
+  "id": "rp-0063",
   "targetType": "PROPOSAL",
-  "targetId": "p-0189",
+  "targetId": "p-0187",
   "authorId": "mgr-r",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-10-23T05:08:00.000Z"
  },
  {
-  "id": "rp-0067",
+  "id": "rp-0064",
   "targetType": "PROPOSAL",
-  "targetId": "p-0191",
+  "targetId": "p-0189",
   "authorId": "mgr-u",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-01-31T05:53:00.000Z"
  },
  {
-  "id": "rp-0068",
+  "id": "rp-0065",
   "targetType": "PROPOSAL",
-  "targetId": "p-0192",
+  "targetId": "p-0190",
   "authorId": "mgr-r",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-05-13T03:59:00.000Z"
  },
  {
-  "id": "rp-0069",
+  "id": "rp-0066",
   "targetType": "PROPOSAL",
-  "targetId": "p-0195",
+  "targetId": "p-0193",
   "authorId": "mgr-j",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-03-01T00:58:00.000Z"
  },
  {
-  "id": "rp-0070",
+  "id": "rp-0067",
   "targetType": "PROPOSAL",
-  "targetId": "p-0196",
+  "targetId": "p-0194",
   "authorId": "mgr-f",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-05-29T03:47:00.000Z"
  },
  {
-  "id": "rp-0071",
+  "id": "rp-0068",
   "targetType": "PROPOSAL",
-  "targetId": "p-0197",
+  "targetId": "p-0195",
   "authorId": "mgr-j",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-05-26T08:24:00.000Z"
  },
  {
-  "id": "rp-0072",
+  "id": "rp-0069",
+  "targetType": "PROPOSAL",
+  "targetId": "p-0199",
+  "authorId": "mgr-g",
+  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
+  "createdAt": "2026-01-17T09:48:00.000Z"
+ },
+ {
+  "id": "rp-0070",
   "targetType": "PROPOSAL",
   "targetId": "p-0201",
-  "authorId": "mgr-m",
+  "authorId": "mgr-g",
+  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
+  "createdAt": "2025-12-22T06:16:00.000Z"
+ },
+ {
+  "id": "rp-0071",
+  "targetType": "PROPOSAL",
+  "targetId": "p-0202",
+  "authorId": "mgr-v",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-10-10T09:02:00.000Z"
+  "createdAt": "2026-08-27T00:27:00.000Z"
+ },
+ {
+  "id": "rp-0072",
+  "targetType": "PROPOSAL",
+  "targetId": "p-0207",
+  "authorId": "mgr-k",
+  "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
+  "createdAt": "2025-12-31T10:50:00.000Z"
  },
  {
   "id": "rp-0073",
   "targetType": "PROPOSAL",
-  "targetId": "p-0203",
-  "authorId": "mgr-m",
-  "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
-  "createdAt": "2026-04-12T05:58:00.000Z"
+  "targetId": "p-0208",
+  "authorId": "mgr-g",
+  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
+  "createdAt": "2026-08-13T08:21:00.000Z"
  },
  {
   "id": "rp-0074",
   "targetType": "PROPOSAL",
-  "targetId": "p-0204",
-  "authorId": "mgr-h",
+  "targetId": "p-0209",
+  "authorId": "mgr-k",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-01-24T03:24:00.000Z"
+  "createdAt": "2026-09-06T06:01:00.000Z"
  },
  {
   "id": "rp-0075",
   "targetType": "PROPOSAL",
-  "targetId": "p-0207",
-  "authorId": "mgr-d",
+  "targetId": "p-0210",
+  "authorId": "mgr-g",
   "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
-  "createdAt": "2026-10-01T10:08:00.000Z"
+  "createdAt": "2026-08-13T03:40:00.000Z"
  },
  {
   "id": "rp-0076",
   "targetType": "PROPOSAL",
-  "targetId": "p-0209",
-  "authorId": "mgr-q",
-  "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
-  "createdAt": "2026-03-06T22:33:00.000Z"
+  "targetId": "p-0211",
+  "authorId": "mgr-d",
+  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
+  "createdAt": "2026-02-22T14:25:00.000Z"
  },
  {
   "id": "rp-0077",
   "targetType": "PROPOSAL",
-  "targetId": "p-0212",
-  "authorId": "mgr-o",
-  "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
-  "createdAt": "2026-08-17T21:11:00.000Z"
+  "targetId": "p-0215",
+  "authorId": "mgr-x",
+  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
+  "createdAt": "2026-04-10T05:03:00.000Z"
  },
  {
   "id": "rp-0078",
   "targetType": "PROPOSAL",
-  "targetId": "p-0214",
-  "authorId": "mgr-p",
-  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
-  "createdAt": "2026-07-02T23:50:00.000Z"
+  "targetId": "p-0216",
+  "authorId": "mgr-s",
+  "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
+  "createdAt": "2026-05-12T05:43:00.000Z"
  },
  {
   "id": "rp-0079",
   "targetType": "PROPOSAL",
-  "targetId": "p-0215",
-  "authorId": "mgr-s",
-  "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
-  "createdAt": "2026-02-15T05:56:00.000Z"
- },
- {
-  "id": "rp-0080",
-  "targetType": "PROPOSAL",
-  "targetId": "p-0216",
-  "authorId": "mgr-f",
-  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
-  "createdAt": "2026-03-08T05:54:00.000Z"
- },
- {
-  "id": "rp-0081",
-  "targetType": "PROPOSAL",
-  "targetId": "p-0220",
-  "authorId": "mgr-n",
-  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
-  "createdAt": "2026-01-12T12:46:00.000Z"
- },
- {
-  "id": "rp-0082",
-  "targetType": "PROPOSAL",
-  "targetId": "p-0221",
+  "targetId": "p-0217",
   "authorId": "mgr-f",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-02-26T04:45:00.000Z"
  },
  {
-  "id": "rp-0083",
+  "id": "rp-0080",
   "targetType": "PROPOSAL",
-  "targetId": "p-0223",
+  "targetId": "p-0219",
   "authorId": "mgr-b",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-08-23T08:57:00.000Z"
  },
  {
-  "id": "rp-0084",
+  "id": "rp-0081",
   "targetType": "PROPOSAL",
-  "targetId": "p-0226",
+  "targetId": "p-0222",
   "authorId": "mgr-r",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-06-02T14:04:00.000Z"
  },
  {
-  "id": "rp-0085",
+  "id": "rp-0082",
   "targetType": "PROPOSAL",
-  "targetId": "p-0228",
+  "targetId": "p-0224",
   "authorId": "mgr-a",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-02-03T22:11:00.000Z"
  },
  {
-  "id": "rp-0086",
+  "id": "rp-0083",
   "targetType": "PROPOSAL",
-  "targetId": "p-0231",
+  "targetId": "p-0227",
   "authorId": "mgr-j",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-08-30T03:38:00.000Z"
  },
  {
-  "id": "rp-0087",
+  "id": "rp-0084",
   "targetType": "PROPOSAL",
-  "targetId": "p-0241",
+  "targetId": "p-0237",
   "authorId": "mgr-x",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-01-31T05:49:00.000Z"
  },
  {
-  "id": "rp-0088",
+  "id": "rp-0085",
   "targetType": "PROPOSAL",
-  "targetId": "p-0242",
+  "targetId": "p-0238",
   "authorId": "mgr-q",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-07-06T02:33:00.000Z"
  },
  {
-  "id": "rp-0089",
+  "id": "rp-0086",
   "targetType": "PROPOSAL",
-  "targetId": "p-0244",
+  "targetId": "p-0240",
   "authorId": "mgr-d",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-07-05T23:51:00.000Z"
  },
  {
-  "id": "rp-0090",
+  "id": "rp-0087",
   "targetType": "PROPOSAL",
-  "targetId": "p-0247",
+  "targetId": "p-0243",
   "authorId": "mgr-h",
   "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
   "createdAt": "2026-11-19T23:00:00.000Z"
  },
  {
-  "id": "rp-0091",
+  "id": "rp-0088",
   "targetType": "PROPOSAL",
-  "targetId": "p-0249",
+  "targetId": "p-0245",
   "authorId": "mgr-f",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-09-03T21:28:00.000Z"
  },
  {
-  "id": "rp-0092",
+  "id": "rp-0089",
   "targetType": "PROPOSAL",
-  "targetId": "p-0254",
+  "targetId": "p-0250",
   "authorId": "mgr-u",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-06-11T08:31:00.000Z"
  },
  {
-  "id": "rp-0093",
+  "id": "rp-0090",
   "targetType": "PROPOSAL",
-  "targetId": "p-0255",
-  "authorId": "mgr-k",
+  "targetId": "p-0251",
+  "authorId": "mgr-l",
   "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
   "createdAt": "2026-02-03T20:37:00.000Z"
  },
  {
-  "id": "rp-0094",
+  "id": "rp-0091",
   "targetType": "PROPOSAL",
-  "targetId": "p-0256",
-  "authorId": "mgr-j",
+  "targetId": "p-0252",
+  "authorId": "mgr-k",
   "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
   "createdAt": "2026-10-19T19:11:00.000Z"
  },
  {
-  "id": "rp-0095",
+  "id": "rp-0092",
   "targetType": "PROPOSAL",
-  "targetId": "p-0257",
+  "targetId": "p-0253",
   "authorId": "mgr-x",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-09-20T05:09:00.000Z"
  },
  {
-  "id": "rp-0096",
+  "id": "rp-0093",
   "targetType": "PROPOSAL",
-  "targetId": "p-0259",
+  "targetId": "p-0255",
   "authorId": "mgr-r",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-10-20T00:37:00.000Z"
  },
  {
-  "id": "rp-0097",
+  "id": "rp-0094",
   "targetType": "PROPOSAL",
-  "targetId": "p-0260",
+  "targetId": "p-0256",
   "authorId": "mgr-l",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-01-01T02:11:00.000Z"
  },
  {
-  "id": "rp-0098",
+  "id": "rp-0095",
   "targetType": "PROPOSAL",
-  "targetId": "p-0262",
+  "targetId": "p-0258",
   "authorId": "mgr-w",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-10-14T08:24:00.000Z"
  },
  {
-  "id": "rp-0099",
+  "id": "rp-0096",
   "targetType": "PROPOSAL",
-  "targetId": "p-0263",
+  "targetId": "p-0259",
   "authorId": "mgr-u",
   "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
   "createdAt": "2026-10-04T00:46:00.000Z"
  },
  {
-  "id": "rp-0100",
+  "id": "rp-0097",
   "targetType": "PROPOSAL",
-  "targetId": "p-0265",
+  "targetId": "p-0261",
   "authorId": "mgr-l",
   "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
   "createdAt": "2026-02-04T00:57:00.000Z"
  },
  {
-  "id": "rp-0101",
+  "id": "rp-0098",
   "targetType": "PROPOSAL",
-  "targetId": "p-0266",
+  "targetId": "p-0262",
   "authorId": "mgr-k",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-09-05T01:14:00.000Z"
  },
  {
-  "id": "rp-0102",
+  "id": "rp-0099",
   "targetType": "PROPOSAL",
-  "targetId": "p-0267",
+  "targetId": "p-0263",
   "authorId": "mgr-p",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-02-03T18:06:00.000Z"
  },
  {
-  "id": "rp-0103",
+  "id": "rp-0100",
   "targetType": "PROPOSAL",
-  "targetId": "p-0269",
+  "targetId": "p-0265",
   "authorId": "mgr-j",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-09-12T06:50:00.000Z"
  },
  {
-  "id": "rp-0104",
+  "id": "rp-0101",
   "targetType": "PROPOSAL",
-  "targetId": "p-0270",
+  "targetId": "p-0266",
   "authorId": "mgr-m",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-05-26T06:39:00.000Z"
  },
  {
-  "id": "rp-0105",
+  "id": "rp-0102",
   "targetType": "PROPOSAL",
-  "targetId": "p-0272",
+  "targetId": "p-0268",
   "authorId": "mgr-b",
   "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
   "createdAt": "2025-12-29T07:20:00.000Z"
  },
  {
-  "id": "rp-0106",
+  "id": "rp-0103",
   "targetType": "PROPOSAL",
-  "targetId": "p-0274",
+  "targetId": "p-0270",
   "authorId": "mgr-j",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2026-05-21T21:16:00.000Z"
  },
  {
-  "id": "rp-0107",
+  "id": "rp-0104",
   "targetType": "PROPOSAL",
-  "targetId": "p-0276",
+  "targetId": "p-0272",
   "authorId": "mgr-a",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
   "createdAt": "2026-10-13T11:59:00.000Z"
  },
  {
-  "id": "rp-0108",
+  "id": "rp-0105",
   "targetType": "PROPOSAL",
-  "targetId": "p-0277",
+  "targetId": "p-0273",
   "authorId": "mgr-o",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-03-01T01:32:00.000Z"
  },
  {
-  "id": "rp-0109",
+  "id": "rp-0106",
   "targetType": "PROPOSAL",
-  "targetId": "p-0283",
+  "targetId": "p-0279",
   "authorId": "mgr-a",
   "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
   "createdAt": "2026-11-11T00:01:00.000Z"
  },
  {
-  "id": "rp-0110",
+  "id": "rp-0107",
   "targetType": "PROPOSAL",
-  "targetId": "p-0284",
+  "targetId": "p-0280",
   "authorId": "mgr-h",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
-  "createdAt": "2026-09-10T04:40:00.000Z"
+  "createdAt": "2026-09-26T07:40:00.000Z"
+ },
+ {
+  "id": "rp-0108",
+  "targetType": "PROPOSAL",
+  "targetId": "p-0281",
+  "authorId": "mgr-g",
+  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
+  "createdAt": "2026-05-06T17:15:00.000Z"
+ },
+ {
+  "id": "rp-0109",
+  "targetType": "PROPOSAL",
+  "targetId": "p-0282",
+  "authorId": "mgr-u",
+  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
+  "createdAt": "2026-08-28T03:10:00.000Z"
+ },
+ {
+  "id": "rp-0110",
+  "targetType": "PROPOSAL",
+  "targetId": "p-0287",
+  "authorId": "mgr-e",
+  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
+  "createdAt": "2026-10-17T01:39:00.000Z"
  },
  {
   "id": "rp-0111",
   "targetType": "PROPOSAL",
-  "targetId": "p-0286",
+  "targetId": "p-0290",
   "authorId": "mgr-m",
   "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
-  "createdAt": "2026-02-27T00:03:00.000Z"
+  "createdAt": "2026-03-16T23:51:00.000Z"
  },
  {
   "id": "rp-0112",
   "targetType": "PROPOSAL",
-  "targetId": "p-0287",
-  "authorId": "mgr-t",
-  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-05-22T10:34:00.000Z"
+  "targetId": "p-0294",
+  "authorId": "mgr-n",
+  "body": "소중한 의견 감사합니다. 말씀하신 문제를 확인했고, 다음 훈련 차수부터 개선안을 적용하겠습니다.",
+  "createdAt": "2026-09-16T15:43:00.000Z"
  },
  {
   "id": "rp-0113",
   "targetType": "PROPOSAL",
-  "targetId": "p-0288",
-  "authorId": "mgr-d",
-  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-10-18T02:09:00.000Z"
- },
- {
-  "id": "rp-0114",
-  "targetType": "PROPOSAL",
-  "targetId": "p-0289",
-  "authorId": "mgr-f",
-  "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
-  "createdAt": "2026-09-22T14:23:00.000Z"
- },
- {
-  "id": "rp-0115",
-  "targetType": "PROPOSAL",
-  "targetId": "p-0290",
-  "authorId": "mgr-c",
-  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-08-26T20:44:00.000Z"
- },
- {
-  "id": "rp-0116",
-  "targetType": "PROPOSAL",
-  "targetId": "p-0292",
-  "authorId": "mgr-n",
-  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-09-08T02:51:00.000Z"
- },
- {
-  "id": "rp-0117",
-  "targetType": "PROPOSAL",
-  "targetId": "p-0294",
-  "authorId": "mgr-d",
-  "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
-  "createdAt": "2026-04-04T01:56:00.000Z"
- },
- {
-  "id": "rp-0118",
-  "targetType": "PROPOSAL",
-  "targetId": "p-0295",
-  "authorId": "mgr-d",
-  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
-  "createdAt": "2026-08-07T09:50:00.000Z"
- },
- {
-  "id": "rp-0119",
-  "targetType": "PROPOSAL",
-  "targetId": "p-0296",
-  "authorId": "mgr-d",
-  "body": "불편을 드려 죄송합니다. 조치 계획을 세웠고 진행 상황을 이 화면에서 계속 알려드리겠습니다.",
-  "createdAt": "2026-06-27T23:40:00.000Z"
- },
- {
-  "id": "rp-0120",
-  "targetType": "PROPOSAL",
   "targetId": "p-0297",
-  "authorId": "mgr-a",
-  "body": "의견 덕분에 개선할 수 있었습니다. 추가로 불편한 점이 있으면 다시 알려 주세요.",
-  "createdAt": "2026-09-25T07:57:00.000Z"
- },
- {
-  "id": "rp-0121",
-  "targetType": "PROPOSAL",
-  "targetId": "p-0298",
   "authorId": "mgr-g",
   "body": "말씀해 주신 내용을 반영해 개선을 마쳤습니다. 다음 훈련 때 달라진 점을 확인해 주세요.",
   "createdAt": "2025-12-30T03:49:00.000Z"
  },
  {
-  "id": "rp-0122",
+  "id": "rp-0114",
   "targetType": "PROPOSAL",
-  "targetId": "p-0300",
+  "targetId": "p-0299",
   "authorId": "mgr-m",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-09-20T23:57:00.000Z"
  },
  {
-  "id": "rp-0123",
+  "id": "rp-0115",
   "targetType": "PROPOSAL",
-  "targetId": "p-0304",
+  "targetId": "p-0303",
   "authorId": "mgr-b",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-02-10T22:59:00.000Z"
  },
  {
-  "id": "rp-0124",
+  "id": "rp-0116",
   "targetType": "PROPOSAL",
-  "targetId": "p-0306",
+  "targetId": "p-0305",
   "authorId": "mgr-l",
   "body": "시설 공사가 필요한 사항이라 바로 조치하기 어렵습니다. 예산 반영을 요청했고 결과를 알려드리겠습니다.",
   "createdAt": "2026-04-27T19:24:00.000Z"
  },
  {
-  "id": "rp-0125",
+  "id": "rp-0117",
   "targetType": "REVIEW",
   "targetId": "rv-0005",
   "authorId": "mgr-k",
-  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
+  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
   "createdAt": "2026-05-10T22:09:00.000Z"
  },
  {
-  "id": "rp-0126",
-  "targetType": "REVIEW",
-  "targetId": "rv-0020",
-  "authorId": "mgr-b",
-  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
-  "createdAt": "2026-10-02T18:16:00.000Z"
- },
- {
-  "id": "rp-0127",
+  "id": "rp-0118",
   "targetType": "REVIEW",
   "targetId": "rv-0032",
   "authorId": "mgr-a",
@@ -1016,87 +944,111 @@
   "createdAt": "2026-04-09T23:17:00.000Z"
  },
  {
+  "id": "rp-0119",
+  "targetType": "REVIEW",
+  "targetId": "rv-0043",
+  "authorId": "mgr-x",
+  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
+  "createdAt": "2026-11-16T21:45:00.000Z"
+ },
+ {
+  "id": "rp-0120",
+  "targetType": "REVIEW",
+  "targetId": "rv-0054",
+  "authorId": "mgr-f",
+  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
+  "createdAt": "2026-09-30T21:05:00.000Z"
+ },
+ {
+  "id": "rp-0121",
+  "targetType": "REVIEW",
+  "targetId": "rv-0085",
+  "authorId": "mgr-g",
+  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
+  "createdAt": "2026-02-24T22:03:00.000Z"
+ },
+ {
+  "id": "rp-0122",
+  "targetType": "REVIEW",
+  "targetId": "rv-0086",
+  "authorId": "mgr-c",
+  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
+  "createdAt": "2026-08-17T18:21:00.000Z"
+ },
+ {
+  "id": "rp-0123",
+  "targetType": "REVIEW",
+  "targetId": "rv-0094",
+  "authorId": "mgr-b",
+  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
+  "createdAt": "2026-04-07T23:16:00.000Z"
+ },
+ {
+  "id": "rp-0124",
+  "targetType": "REVIEW",
+  "targetId": "rv-0113",
+  "authorId": "mgr-u",
+  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
+  "createdAt": "2026-07-01T18:58:00.000Z"
+ },
+ {
+  "id": "rp-0125",
+  "targetType": "REVIEW",
+  "targetId": "rv-0121",
+  "authorId": "mgr-k",
+  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
+  "createdAt": "2026-01-28T21:50:00.000Z"
+ },
+ {
+  "id": "rp-0126",
+  "targetType": "REVIEW",
+  "targetId": "rv-0181",
+  "authorId": "mgr-t",
+  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
+  "createdAt": "2026-05-06T18:58:00.000Z"
+ },
+ {
+  "id": "rp-0127",
+  "targetType": "REVIEW",
+  "targetId": "rv-0209",
+  "authorId": "mgr-a",
+  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
+  "createdAt": "2026-09-09T23:43:00.000Z"
+ },
+ {
   "id": "rp-0128",
   "targetType": "REVIEW",
-  "targetId": "rv-0055",
+  "targetId": "rv-0227",
   "authorId": "mgr-e",
   "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
-  "createdAt": "2025-12-01T21:32:00.000Z"
+  "createdAt": "2026-08-04T20:53:00.000Z"
  },
  {
   "id": "rp-0129",
   "targetType": "REVIEW",
-  "targetId": "rv-0070",
-  "authorId": "mgr-a",
+  "targetId": "rv-0239",
+  "authorId": "mgr-m",
   "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
-  "createdAt": "2026-06-20T20:27:00.000Z"
+  "createdAt": "2026-05-07T22:37:00.000Z"
  },
  {
   "id": "rp-0130",
   "targetType": "REVIEW",
-  "targetId": "rv-0083",
-  "authorId": "mgr-d",
-  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
-  "createdAt": "2026-01-28T20:13:00.000Z"
+  "targetId": "rv-0253",
+  "authorId": "mgr-u",
+  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
+  "createdAt": "2026-09-05T22:03:00.000Z"
  },
  {
   "id": "rp-0131",
   "targetType": "REVIEW",
-  "targetId": "rv-0087",
-  "authorId": "mgr-r",
-  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
-  "createdAt": "2025-12-19T19:48:00.000Z"
+  "targetId": "rv-0255",
+  "authorId": "mgr-q",
+  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
+  "createdAt": "2026-10-16T18:20:00.000Z"
  },
  {
   "id": "rp-0132",
-  "targetType": "REVIEW",
-  "targetId": "rv-0132",
-  "authorId": "mgr-j",
-  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
-  "createdAt": "2026-10-02T18:46:00.000Z"
- },
- {
-  "id": "rp-0133",
-  "targetType": "REVIEW",
-  "targetId": "rv-0135",
-  "authorId": "mgr-b",
-  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
-  "createdAt": "2026-06-18T22:26:00.000Z"
- },
- {
-  "id": "rp-0134",
-  "targetType": "REVIEW",
-  "targetId": "rv-0144",
-  "authorId": "mgr-g",
-  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
-  "createdAt": "2026-10-08T19:23:00.000Z"
- },
- {
-  "id": "rp-0135",
-  "targetType": "REVIEW",
-  "targetId": "rv-0159",
-  "authorId": "mgr-x",
-  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
-  "createdAt": "2026-01-05T23:45:00.000Z"
- },
- {
-  "id": "rp-0136",
-  "targetType": "REVIEW",
-  "targetId": "rv-0177",
-  "authorId": "mgr-a",
-  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
-  "createdAt": "2026-08-31T18:44:00.000Z"
- },
- {
-  "id": "rp-0137",
-  "targetType": "REVIEW",
-  "targetId": "rv-0227",
-  "authorId": "mgr-e",
-  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
-  "createdAt": "2026-08-04T20:53:00.000Z"
- },
- {
-  "id": "rp-0138",
   "targetType": "REVIEW",
   "targetId": "rv-0258",
   "authorId": "mgr-g",
@@ -1104,31 +1056,23 @@
   "createdAt": "2026-09-17T23:50:00.000Z"
  },
  {
-  "id": "rp-0139",
+  "id": "rp-0133",
   "targetType": "REVIEW",
-  "targetId": "rv-0265",
-  "authorId": "mgr-d",
+  "targetId": "rv-0260",
+  "authorId": "mgr-e",
   "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
-  "createdAt": "2026-10-24T20:38:00.000Z"
+  "createdAt": "2026-07-03T19:55:00.000Z"
  },
  {
-  "id": "rp-0140",
+  "id": "rp-0134",
   "targetType": "REVIEW",
   "targetId": "rv-0275",
   "authorId": "mgr-b",
-  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
+  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
   "createdAt": "2025-12-14T22:12:00.000Z"
  },
  {
-  "id": "rp-0141",
-  "targetType": "REVIEW",
-  "targetId": "rv-0289",
-  "authorId": "mgr-n",
-  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
-  "createdAt": "2025-12-27T23:17:00.000Z"
- },
- {
-  "id": "rp-0142",
+  "id": "rp-0135",
   "targetType": "REVIEW",
   "targetId": "rv-0291",
   "authorId": "mgr-a",
@@ -1136,39 +1080,31 @@
   "createdAt": "2026-03-09T18:21:00.000Z"
  },
  {
-  "id": "rp-0143",
+  "id": "rp-0136",
   "targetType": "REVIEW",
-  "targetId": "rv-0297",
+  "targetId": "rv-0312",
+  "authorId": "mgr-p",
+  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
+  "createdAt": "2026-05-14T23:52:00.000Z"
+ },
+ {
+  "id": "rp-0137",
+  "targetType": "REVIEW",
+  "targetId": "rv-0319",
+  "authorId": "mgr-c",
+  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
+  "createdAt": "2026-09-08T18:20:00.000Z"
+ },
+ {
+  "id": "rp-0138",
+  "targetType": "REVIEW",
+  "targetId": "rv-0340",
   "authorId": "mgr-e",
   "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
-  "createdAt": "2026-04-22T18:03:00.000Z"
+  "createdAt": "2025-12-23T22:15:00.000Z"
  },
  {
-  "id": "rp-0144",
-  "targetType": "REVIEW",
-  "targetId": "rv-0299",
-  "authorId": "mgr-x",
-  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
-  "createdAt": "2025-12-21T21:21:00.000Z"
- },
- {
-  "id": "rp-0145",
-  "targetType": "REVIEW",
-  "targetId": "rv-0317",
-  "authorId": "mgr-t",
-  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
-  "createdAt": "2026-03-11T22:05:00.000Z"
- },
- {
-  "id": "rp-0146",
-  "targetType": "REVIEW",
-  "targetId": "rv-0329",
-  "authorId": "mgr-g",
-  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
-  "createdAt": "2026-09-19T20:53:00.000Z"
- },
- {
-  "id": "rp-0147",
+  "id": "rp-0139",
   "targetType": "REVIEW",
   "targetId": "rv-0347",
   "authorId": "mgr-m",
@@ -1176,67 +1112,51 @@
   "createdAt": "2026-10-26T21:11:00.000Z"
  },
  {
-  "id": "rp-0148",
+  "id": "rp-0140",
   "targetType": "REVIEW",
-  "targetId": "rv-0359",
-  "authorId": "mgr-r",
+  "targetId": "rv-0349",
+  "authorId": "mgr-b",
   "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
-  "createdAt": "2026-02-05T18:05:00.000Z"
+  "createdAt": "2026-11-07T19:41:00.000Z"
  },
  {
-  "id": "rp-0149",
+  "id": "rp-0141",
+  "targetType": "REVIEW",
+  "targetId": "rv-0361",
+  "authorId": "mgr-u",
+  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
+  "createdAt": "2026-09-30T18:04:00.000Z"
+ },
+ {
+  "id": "rp-0142",
+  "targetType": "REVIEW",
+  "targetId": "rv-0370",
+  "authorId": "mgr-j",
+  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
+  "createdAt": "2026-04-02T23:24:00.000Z"
+ },
+ {
+  "id": "rp-0143",
+  "targetType": "REVIEW",
+  "targetId": "rv-0376",
+  "authorId": "mgr-x",
+  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
+  "createdAt": "2026-01-02T20:29:00.000Z"
+ },
+ {
+  "id": "rp-0144",
   "targetType": "REVIEW",
   "targetId": "rv-0379",
   "authorId": "mgr-m",
-  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
+  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
   "createdAt": "2026-03-12T20:44:00.000Z"
  },
  {
-  "id": "rp-0150",
-  "targetType": "REVIEW",
-  "targetId": "rv-0387",
-  "authorId": "mgr-k",
-  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
-  "createdAt": "2026-03-05T20:55:00.000Z"
- },
- {
-  "id": "rp-0151",
-  "targetType": "REVIEW",
-  "targetId": "rv-0391",
-  "authorId": "mgr-s",
-  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
-  "createdAt": "2026-02-22T19:28:00.000Z"
- },
- {
-  "id": "rp-0152",
-  "targetType": "REVIEW",
-  "targetId": "rv-0403",
-  "authorId": "mgr-r",
-  "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
-  "createdAt": "2026-05-08T22:07:00.000Z"
- },
- {
-  "id": "rp-0153",
-  "targetType": "REVIEW",
-  "targetId": "rv-0417",
-  "authorId": "mgr-t",
-  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
-  "createdAt": "2026-01-16T18:41:00.000Z"
- },
- {
-  "id": "rp-0154",
+  "id": "rp-0145",
   "targetType": "REVIEW",
   "targetId": "rv-0424",
   "authorId": "mgr-v",
-  "body": "평가 감사합니다. 지적해 주신 부분은 개선 과제로 등록했습니다.",
-  "createdAt": "2026-01-28T23:57:00.000Z"
- },
- {
-  "id": "rp-0155",
-  "targetType": "REVIEW",
-  "targetId": "rv-0426",
-  "authorId": "mgr-q",
   "body": "좋게 봐 주셔서 감사합니다. 다음에도 편하게 훈련받으실 수 있도록 하겠습니다.",
-  "createdAt": "2026-07-27T18:50:00.000Z"
+  "createdAt": "2026-01-28T23:57:00.000Z"
  }
 ]

@@ -34,6 +34,7 @@ function IssueView() {
   const [err, setErr] = useState<string | null>(null);
   const [editing, setEditing] = useState(false);
   const [draft, setDraft] = useState<Solution | null>(null);
+  const [showAll, setShowAll] = useState(false);
 
   // 저장된 최신 대책이 있으면 보여줌 (결정 후 갱신 포함)
   useEffect(() => {
@@ -99,7 +100,8 @@ function IssueView() {
       <div className="grid gap-5 lg:grid-cols-[1fr_280px]">
         <section>
           <SectionTitle>관련 제안</SectionTitle>
-          <div className="grid gap-3">{issue.proposals.slice(0, 30).map((p) => <ProposalCard key={p.id} p={p} showRange />)}</div>
+          <div className="grid gap-3">{issue.proposals.slice(0, showAll ? undefined : 8).map((p) => <ProposalCard key={p.id} p={p} showRange />)}</div>
+          {!showAll && issue.proposals.length > 8 && <Button variant="secondary" className="mt-3 w-full" onClick={() => setShowAll(true)}>제안 {issue.proposals.length - 8}건 더 보기</Button>}
         </section>
         <section>
           <SectionTitle>훈련장별 분포</SectionTitle>

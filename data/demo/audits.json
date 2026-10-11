@@ -9,7 +9,7 @@
   "blocked": false,
   "blockReasons": [],
   "provider": "cache",
-  "createdAt": "2026-11-08T14:12:00.000Z"
+  "createdAt": "2026-11-08T14:41:00.000Z"
  },
  {
   "id": "au-0002",
@@ -19,7 +19,7 @@
   "blocked": false,
   "blockReasons": [],
   "provider": "cache",
-  "createdAt": "2026-11-11T11:54:00.000Z"
+  "createdAt": "2026-11-11T11:45:00.000Z"
  },
  {
   "id": "au-0003",
@@ -33,6 +33,6 @@
    "주요 시설 위치 언급"
   ],
   "provider": "cache",
-  "createdAt": "2026-11-14T16:54:00.000Z"
+  "createdAt": "2026-11-14T16:59:00.000Z"
  }
 ]

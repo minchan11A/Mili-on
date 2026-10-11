@@ -172,6 +172,7 @@ export function KoreaMap({ ranges, value, selectedId, onSelect }: Props) {
                   data-testid={`pin-${p.r.id}`}
                   className="cursor-pointer"
                 >
+                  <rect x={-w / 2 - 6} y={-38} width={w + 12} height={56} fill="transparent" />
                   <circle r={3} fill={scoreColor(p.v)} />
                   <rect x={-w / 2} y={-32} width={w} height={22} rx={11} fill={scoreColor(p.v)} stroke={sel ? '#111' : '#fff'} strokeWidth={sel ? 2.5 : 1.5} />
                   <text y={-16.5} textAnchor="middle" fontSize={12} fontWeight={800} fill="#fff">{label}</text>
@@ -189,6 +190,8 @@ export function KoreaMap({ ranges, value, selectedId, onSelect }: Props) {
                 role="button"
                 tabIndex={0}
                 aria-label={`${label}, 눌러서 확대`}
+                data-ids={g.items.map((p) => p.r.id).join(' ')}
+                data-testid="pin-cluster"
                 className="cursor-pointer"
               >
                 <rect x={-w / 2} y={-13} width={w} height={26} rx={13} fill="#33402e" stroke="#fff" strokeWidth={1.5} />

@@ -226,7 +226,8 @@ function statusFor(age: number, hero: boolean): ProposalStatus {
 function makeText(key: string): { title: string; body: string } {
   const t = PROPOSAL_TEXT[key];
   let body = pick(OPENERS) + pick(t.bodies) + pick(CLOSERS);
-  if (chance(0.15)) body = `${pick(SENSITIVE_PREFIXES)} ${body}`;      // 마스킹 시연용 표현 (저장 시 가려짐)
+  // 마스킹 시연용 표현 (저장 시 가려짐). 전체 약 15%, 주인공 이슈는 AI 전송 텍스트에 토큰이 보이도록 더 자주
+  if (chance(key === 'MEAL|배식 대기시간' ? 0.35 : 0.12)) body = `${pick(SENSITIVE_PREFIXES)} ${body}`;
   const stored = toStorableText(body);
   if (!stored.ok) throw new Error(`시드에 차단 대상이 들어갔습니다: ${body}`);
   return { title: pick(t.titles), body: stored.text };

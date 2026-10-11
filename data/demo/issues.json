@@ -5,7 +5,7 @@
   "subtopic": "배식 대기시간",
   "title": "점심 배식 대기시간",
   "summary": null,
-  "priorityScore": 26.59,
+  "priorityScore": 28.77,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:40:00.000Z"
  },
@@ -15,7 +15,7 @@
   "subtopic": "식사량",
   "title": "식사량 부족",
   "summary": null,
-  "priorityScore": 12,
+  "priorityScore": 12.58,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:14:00.000Z"
  },
@@ -25,7 +25,7 @@
   "subtopic": "메뉴 다양성",
   "title": "메뉴 다양성 부족",
   "summary": null,
-  "priorityScore": 12.29,
+  "priorityScore": 11,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:00:00.000Z"
  },
@@ -35,8 +35,8 @@
   "subtopic": "식당 위생",
   "title": "식당·식판 위생",
   "summary": null,
-  "priorityScore": 14.38,
-  "isSafety": false,
+  "priorityScore": 19.16,
+  "isSafety": true,
   "updatedAt": "2026-11-19T09:19:00.000Z"
  },
  {
@@ -45,7 +45,7 @@
   "subtopic": "셔틀 시간",
   "title": "셔틀 운행 시간 불일치",
   "summary": null,
-  "priorityScore": 9.25,
+  "priorityScore": 13.44,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:23:00.000Z"
  },
@@ -55,7 +55,7 @@
   "subtopic": "셔틀 부족",
   "title": "셔틀버스 부족 (산간 훈련장)",
   "summary": null,
-  "priorityScore": 16.8,
+  "priorityScore": 15.3,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:12:00.000Z"
  },
@@ -65,7 +65,7 @@
   "subtopic": "주차 공간",
   "title": "주차 공간 부족",
   "summary": null,
-  "priorityScore": 11.9,
+  "priorityScore": 12.63,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:58:00.000Z"
  },
@@ -75,7 +75,7 @@
   "subtopic": "대중교통 안내",
   "title": "대중교통 이용 안내 부족",
   "summary": null,
-  "priorityScore": 8.2,
+  "priorityScore": 11.7,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:30:00.000Z"
  },
@@ -85,7 +85,7 @@
   "subtopic": "화장실 청결",
   "title": "화장실 청결·칸 부족",
   "summary": null,
-  "priorityScore": 19.74,
+  "priorityScore": 20.62,
   "isSafety": true,
   "updatedAt": "2026-11-19T09:12:00.000Z"
  },
@@ -105,7 +105,7 @@
   "subtopic": "휴게 공간",
   "title": "휴게·대기 공간 부족",
   "summary": null,
-  "priorityScore": 13.57,
+  "priorityScore": 13.65,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:07:00.000Z"
  },
@@ -115,7 +115,7 @@
   "subtopic": "탈의 공간",
   "title": "탈의·짐 보관 공간 부족",
   "summary": null,
-  "priorityScore": 8.81,
+  "priorityScore": 8.4,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:38:00.000Z"
  },
@@ -125,7 +125,7 @@
   "subtopic": "대기시간",
   "title": "훈련 중 대기시간",
   "summary": null,
-  "priorityScore": 15.87,
+  "priorityScore": 13.77,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:32:00.000Z"
  },
@@ -135,7 +135,7 @@
   "subtopic": "일정 지연",
   "title": "일정 지연·퇴소 지연",
   "summary": null,
-  "priorityScore": 6.24,
+  "priorityScore": 10.17,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:39:00.000Z"
  },
@@ -145,7 +145,7 @@
   "subtopic": "조기 퇴소 기준",
   "title": "조기 퇴소 기준 불명확",
   "summary": null,
-  "priorityScore": 10.18,
+  "priorityScore": 10.34,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:43:00.000Z"
  },
@@ -155,7 +155,7 @@
   "subtopic": "교육 내용",
   "title": "교육 내용 반복",
   "summary": null,
-  "priorityScore": 9,
+  "priorityScore": 6,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:13:00.000Z"
  },
@@ -165,7 +165,7 @@
   "subtopic": "피복 사이즈",
   "title": "피복 사이즈 불일치",
   "summary": null,
-  "priorityScore": 7.78,
+  "priorityScore": 9.4,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:43:00.000Z"
  },
@@ -175,7 +175,7 @@
   "subtopic": "피복 위생",
   "title": "대여 피복 위생",
   "summary": null,
-  "priorityScore": 11.63,
+  "priorityScore": 12.14,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:32:00.000Z"
  },
@@ -185,7 +185,7 @@
   "subtopic": "장구 상태",
   "title": "장구 노후",
   "summary": null,
-  "priorityScore": 9.12,
+  "priorityScore": 9.84,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:23:00.000Z"
  },
@@ -195,7 +195,7 @@
   "subtopic": "사전 안내 부족",
   "title": "훈련 사전 안내 지연",
   "summary": null,
-  "priorityScore": 13.31,
+  "priorityScore": 13.18,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:55:00.000Z"
  },
@@ -205,7 +205,7 @@
   "subtopic": "현장 안내",
   "title": "현장 안내 표지 부족",
   "summary": null,
-  "priorityScore": 8.24,
+  "priorityScore": 8.1,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:36:00.000Z"
  },
@@ -215,7 +215,7 @@
   "subtopic": "문의 응대",
   "title": "문의 응대 지연",
   "summary": null,
-  "priorityScore": 11.89,
+  "priorityScore": 12.14,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:06:00.000Z"
  },
@@ -225,7 +225,7 @@
   "subtopic": "훈련비 지급",
   "title": "훈련비 지급 지연",
   "summary": null,
-  "priorityScore": 10.48,
+  "priorityScore": 8.42,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:46:00.000Z"
  },
@@ -235,7 +235,7 @@
   "subtopic": "교통비",
   "title": "교통비 기준",
   "summary": null,
-  "priorityScore": 10.11,
+  "priorityScore": 12.05,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:41:00.000Z"
  },
@@ -245,7 +245,7 @@
   "subtopic": "행정 서류",
   "title": "종이 행정 서류 중복",
   "summary": null,
-  "priorityScore": 9.51,
+  "priorityScore": 10.64,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:50:00.000Z"
  },
@@ -255,7 +255,7 @@
   "subtopic": "기타",
   "title": "기타 편의",
   "summary": null,
-  "priorityScore": 11.93,
+  "priorityScore": 10.09,
   "isSafety": false,
   "updatedAt": "2026-11-19T09:45:00.000Z"
  }
