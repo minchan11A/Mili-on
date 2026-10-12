@@ -15,7 +15,7 @@ interface Props {
   rows?: number;
   maxLength?: number;
   placeholder?: string;
-  /** 가이드 꿀팁: 훈련 일정(날짜+시간) 패턴 경고 */
+  /** 가이드 현장 팁: 훈련 일정(날짜+시간) 패턴 경고 */
   scheduleWarn?: boolean;
   id?: string;
   label?: string;
