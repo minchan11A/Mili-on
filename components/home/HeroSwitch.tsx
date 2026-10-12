@@ -63,7 +63,7 @@ export function HeroSwitch() {
         </button>
       </h1>
       <p className={cx('mt-6 text-[22px] font-medium leading-snug tracking-[-0.02em] transition-colors duration-700 sm:mt-7 sm:text-[30px]', on ? 'text-ink' : 'text-ink-3')}>
-        백만 개의 불편, <br className="sm:hidden" />하나도 꺼지지 않도록.
+        예비군의 백만 가지 이야기, <br className="sm:hidden" />하나도 꺼지지 않도록.
       </p>
     </div>
   );
