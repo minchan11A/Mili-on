@@ -324,7 +324,7 @@ export function Stat({ label, value, sub, tone }: { label: ReactNode; value: Rea
   return (
     <div className="py-1">
       <div className="text-[12px] text-ink-3">{label}</div>
-      <div className={cx('mt-1 text-[26px] font-semibold tabular-nums tracking-tight', tone === 'danger' && 'text-danger')}>{value}</div>
+      <div className={cx('stat-v mt-1 text-[26px] font-semibold tabular-nums tracking-tight', tone === 'danger' && 'text-danger')}>{value}</div>
       {sub && <div className="mt-0.5 text-[12px] text-ink-3">{sub}</div>}
     </div>
   );

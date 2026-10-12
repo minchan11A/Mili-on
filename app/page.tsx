@@ -14,7 +14,7 @@ export default function HomePage() {
   return (
     <div className="space-y-16">
       <section className="pt-4 sm:pt-10">
-        <Eyebrow>예비군 훈련장 개선 플랫폼</Eyebrow>
+        <Eyebrow className="sm:text-[16px] sm:tracking-[0.06em]">예비군 훈련장 개선 플랫폼</Eyebrow>
         <div className="mt-5"><HeroSwitch /></div>
         <div className="mt-9 flex flex-wrap gap-2">
           <LinkButton href="/survey">훈련 설문 참여하기</LinkButton>
@@ -25,7 +25,7 @@ export default function HomePage() {
       <section>
         <ErrorBox error={stats.error} onRetry={stats.reload} />
         {stats.data ? (
-          <StatRow className="sm:grid-cols-3" data-testid="home-stats">
+          <StatRow className="grid-cols-3 gap-x-3 px-4 sm:px-5 [&_.stat-v]:text-[22px] sm:[&_.stat-v]:text-[26px]" data-testid="home-stats">
             <Stat label="이번 달 제안" value={`${stats.data.proposalsThisMonth}건`} />
             <Stat label="개선 완료" value={`${stats.data.doneCount}건`} />
             <Stat label="평균 처리 기간" value={stats.data.avgProcessingDays === null ? '–' : `${stats.data.avgProcessingDays}일`} />
