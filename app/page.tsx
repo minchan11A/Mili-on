@@ -14,7 +14,7 @@ export default function HomePage() {
   return (
     <div className="space-y-16">
       <section className="pt-4 sm:pt-10">
-        <Eyebrow className="sm:text-[16px] sm:tracking-[0.06em]">예비군 훈련장 개선 플랫폼</Eyebrow>
+        <Eyebrow className="sm:text-[18px] sm:tracking-[0.05em]">예비군 훈련장 개선 플랫폼</Eyebrow>
         <div className="mt-5"><HeroSwitch /></div>
         <div className="mt-9 flex flex-wrap gap-2">
           <LinkButton href="/survey">훈련 설문 참여하기</LinkButton>
