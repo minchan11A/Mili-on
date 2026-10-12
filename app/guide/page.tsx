@@ -28,7 +28,7 @@ export default function GuideEntryPage() {
   const mine = viewer?.role === 'RESERVIST' ? [...new Set(viewer.records.map((r) => r.rangeId))].map((id) => q.data?.find((r) => r.id === id)).filter((r): r is RangeSummary => !!r) : [];
   return (
     <div className="space-y-6">
-      <PageHeader title="훈련장 가이드" sub="준비물, 교통편, 식사, 입소 절차를 훈련장별로 확인하세요. 공식 안내와 먼저 다녀온 예비군의 꿀팁이 있습니다." />
+      <PageHeader title="훈련장 가이드" sub="준비물, 교통편, 식사, 입소 절차를 훈련장별로 확인하세요. 공식 안내와 먼저 다녀온 예비군의 현장 팁이 있습니다." />
       <input className={inputCls} placeholder="훈련장 이름이나 지역 검색 (예: A훈련장, 가평)" value={text} onChange={(e) => setText(e.target.value)} aria-label="훈련장 검색" />
       {!q.data ? <Loading /> : (
         <>

@@ -41,7 +41,7 @@ function GuideItem({ g }: { g: GuideView }) {
   return (
     <li className={cx('rounded-xl border p-3', g.isOfficial ? 'border-primary/30 bg-primary-soft/50' : 'border-line bg-surface')}>
       <div className="mb-1 flex items-center gap-2 text-xs text-ink-3">
-        {g.isOfficial ? <Badge tone="olive">공식</Badge> : <Badge>꿀팁</Badge>}
+        {g.isOfficial ? <Badge tone="olive">공식</Badge> : <Badge>현장 팁</Badge>}
         {!g.isOfficial && <span>{g.authorLabel}</span>}
         {g.hidden && <Badge tone="red">숨김</Badge>}
         <span className="ml-auto"><ReportButton targetType="GUIDE" targetId={g.id} /></span>
@@ -62,7 +62,7 @@ function TipForm({ rangeId, official }: { rangeId: string; official: boolean }) 
   const toast = useToast();
   return (
     <Card className="p-4">
-      <h3 className="mb-2 font-semibold">{official ? '공식 안내 작성' : '꿀팁 남기기'}</h3>
+      <h3 className="mb-2 font-semibold">{official ? '공식 안내 작성' : '현장 팁 남기기'}</h3>
       <select aria-label="섹션" className={cx(inputCls, 'mb-2')} value={section} onChange={(e) => setSection(e.target.value as GuideSection)}>
         {SECTIONS.map((s) => <option key={s} value={s}>{GUIDE_SECTION_LABEL[s]}</option>)}
       </select>
