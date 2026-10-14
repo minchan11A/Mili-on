@@ -841,5 +841,61 @@
   "reasons": [
    "주요 시설 위치 언급"
   ]
+ },
+ {
+  "kind": "mask",
+  "text": "11전투비행단 식당 배식이 늦어요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "UNIT",
+    "text": "11전투비행단"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "해군 1함대 앞 셔틀 시간이 안 맞아요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "UNIT",
+    "text": "해군 1함대"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "해병 2사단 훈련장 화장실이 부족해요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "UNIT",
+    "text": "해병 2사단"
+   }
+  ]
+ },
+ {
+  "kind": "mask",
+  "text": "KF-21 소음 때문에 교육이 안 들려요",
+  "blocked": false,
+  "entities": [
+   {
+    "type": "WEAPON",
+    "text": "KF-21"
+   }
+  ]
+ },
+ {
+  "kind": "normal",
+  "text": "공군기지 근처라 비행기 소음이 커요",
+  "blocked": false,
+  "entities": []
+ },
+ {
+  "kind": "normal",
+  "text": "해군 출신인데 처음 육군 훈련장에 왔어요",
+  "blocked": false,
+  "entities": []
  }
 ]
