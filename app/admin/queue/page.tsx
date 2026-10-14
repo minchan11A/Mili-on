@@ -35,21 +35,21 @@ function Queue() {
       <div className="grid gap-4 lg:grid-cols-[1fr_380px]">
         <Card className="overflow-x-auto">
           {!q.data ? <div className="p-4"><Loading /></div> : q.data.items.length === 0 ? <div className="p-4"><EmptyState title="처리할 제안이 없습니다" /></div> : (
-            <table className="w-full text-sm" data-testid="queue-table">
-              <thead className="bg-surface-2 text-left text-ink-2">
-                <tr><th className="px-3 py-2">제목</th><th className="px-2 py-2">분야</th><th className="px-2 py-2">훈련장</th><th className="px-2 py-2 text-right">공감</th><th className="px-2 py-2 text-right">경과</th><th className="px-3 py-2">상태</th></tr>
+            <table className="w-full min-w-[620px] text-sm" data-testid="queue-table">
+              <thead className="bg-surface-2 text-left text-ink-2 [&_th]:whitespace-nowrap">
+                <tr><th className="px-3 py-2">제목</th><th className="px-2 py-2">분야</th><th className="px-2 py-2">훈련장</th><th className="w-14 px-2 py-2 text-right">공감</th><th className="w-16 px-2 py-2 text-right">경과</th><th className="px-3 py-2">상태</th></tr>
               </thead>
               <tbody>
                 {q.data.items.map((p) => {
                   const overdue = p.status === 'RECEIVED' && p.ageDays >= OVERDUE_DAYS;
                   return (
                     <tr key={p.id} onClick={() => setSelected(p.id)} className={cx('cursor-pointer border-t border-line hover:bg-surface-2', selected === p.id && 'bg-primary-soft')}>
-                      <td className="max-w-[260px] truncate px-3 py-2 font-semibold">{p.title}</td>
-                      <td className="px-2 py-2"><CategoryBadge category={p.category} /></td>
+                      <td className="min-w-[160px] max-w-[260px] truncate px-3 py-2 font-semibold">{p.title}</td>
+                      <td className="whitespace-nowrap px-2 py-2"><CategoryBadge category={p.category} /></td>
                       <td className="px-2 py-2 whitespace-nowrap">{p.rangeName}</td>
-                      <td className="px-2 py-2 text-right tabular-nums">{p.empathyCount}</td>
+                      <td className="whitespace-nowrap px-2 py-2 text-right tabular-nums">{p.empathyCount}</td>
                       <td className={cx('px-2 py-2 text-right tabular-nums whitespace-nowrap', overdue && 'font-semibold text-danger')}>{p.ageDays}일{overdue && ' '}</td>
-                      <td className="px-3 py-2"><StatusBadge status={p.status} /></td>
+                      <td className="whitespace-nowrap px-3 py-2"><StatusBadge status={p.status} /></td>
                     </tr>
                   );
                 })}
